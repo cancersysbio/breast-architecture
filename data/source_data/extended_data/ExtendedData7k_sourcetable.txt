@@ -1,0 +1,633 @@
+group	type	distance	logdistance	index
+IC10	median_ecdna_rloops	965252	5.98464116008259	IC10median_ecdna_rloops
+IC10	median_ecdna_rloops	7845791	6.89463679035359	IC10median_ecdna_rloops
+HER2+	median_ecdna_rloops	5143747.5	6.71127972590909	HER2+median_ecdna_rloops
+HER2+	median_ecdna_rloops	4316416	6.63512339431736	HER2+median_ecdna_rloops
+ER+ High	median_ecdna_rloops	10037795.5	7.00163838682094	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	5578245.5	6.74649770161602	ER+ Highmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	4925231.5	6.69242673657652	ER+ Typicalmedian_ecdna_rloops
+IC10	median_ecdna_rloops	87706030.5	7.94302946060773	IC10median_ecdna_rloops
+ER+ High	median_ecdna_rloops	3515897	6.5460362672323	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	4744157	6.67615914439193	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	2866154	6.4572996730901	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	2298124	6.36137364721294	ER+ Highmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	NA	NA	ER+ Typicalmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	6643271	6.82238203441968	ER+ Highmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	1088020	6.03663727780343	ER+ Typicalmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	3012014.5	6.47885720243807	ER+ Highmedian_ecdna_rloops
+IC10	median_ecdna_rloops	921533	5.96451136314705	IC10median_ecdna_rloops
+ER+ High	median_ecdna_rloops	9346079	6.97062949415136	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	NA	NA	ER+ Highmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	1180803	6.07217781566374	ER+ Typicalmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	1558576	6.19272826304471	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	116393009	8.06592689947554	ER+ Highmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	14692000	7.16708094923318	ER+ Typicalmedian_ecdna_rloops
+IC10	median_ecdna_rloops	2768012.5	6.44216820390654	IC10median_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	2512613	6.40012577528338	ER+ Typicalmedian_ecdna_rloops
+HER2+	median_ecdna_rloops	13626387.5	7.13438076688732	HER2+median_ecdna_rloops
+HER2+	median_ecdna_rloops	14781849	7.16972879092704	HER2+median_ecdna_rloops
+IC10	median_ecdna_rloops	24998910	7.39792109039236	IC10median_ecdna_rloops
+ER+ High	median_ecdna_rloops	1615414	6.20828411122265	ER+ Highmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	21595061.5	7.33435446531178	ER+ Typicalmedian_ecdna_rloops
+IC10	median_ecdna_rloops	72016949.5	7.85743472757314	IC10median_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	14621588	7.16499457210422	ER+ Typicalmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	NA	NA	ER+ Typicalmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	185814092	8.26907864980845	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	12818905.5	7.10785097984186	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	NA	NA	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	3665061.5	6.56408138502726	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	5681569	6.75446836178856	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	4387614	6.64222851254189	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	4850252	6.68576439296065	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	878627	5.9438050391885	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	NA	NA	ER+ Highmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	9224673	6.96495102713432	ER+ Typicalmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	22324085.5	7.34877369662548	ER+ Typicalmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	10484383	7.02054291899213	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	NA	NA	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	8330070.5	6.92064872912854	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	1686977	6.22710941896085	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	11424896	7.05785229342169	ER+ Highmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	4654909.5	6.66791133521429	ER+ Typicalmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	888249	5.94853521616137	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	3353813.5	6.52553903803921	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	NA	NA	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	7952205.5	6.9004876491365	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	2078930	6.3178400752783	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	339190	5.53044432028812	ER+ Highmedian_ecdna_rloops
+HER2+	median_ecdna_rloops	14999865	7.17608737934098	HER2+median_ecdna_rloops
+HER2+	median_ecdna_rloops	5162669	6.71287436565164	HER2+median_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	7825559	6.89351542560606	ER+ Typicalmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	2214001.5	6.34517810693818	ER+ Typicalmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	2404743	6.38106884981379	ER+ Typicalmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	13923273	7.14374136982526	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	10748015	7.03132830427272	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	59782067	7.77657093421371	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	4015153	6.60370220716578	ER+ Highmedian_ecdna_rloops
+HER2+	median_ecdna_rloops	2993260	6.4761445871769	HER2+median_ecdna_rloops
+ER+ High	median_ecdna_rloops	845747.5	5.92724123620604	ER+ Highmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	18783900	7.27378579063721	ER+ Typicalmedian_ecdna_rloops
+HER2+	median_ecdna_rloops	1317008	6.11958874279548	HER2+median_ecdna_rloops
+ER+ High	median_ecdna_rloops	20580773.5	7.3134617141945	ER+ Highmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	NA	NA	ER+ Typicalmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	18894850	7.27634347153046	ER+ Typicalmedian_ecdna_rloops
+HER2+	median_ecdna_rloops	26400953	7.4216196204096	HER2+median_ecdna_rloops
+HER2+	median_ecdna_rloops	13352201.5	7.12555291024741	HER2+median_ecdna_rloops
+IC10	median_ecdna_rloops	8970283	6.9528061930642	IC10median_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	1756140	6.24455938233523	ER+ Typicalmedian_ecdna_rloops
+HER2+	median_ecdna_rloops	5012343	6.70004086922057	HER2+median_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	11248015	7.0510759254484	ER+ Typicalmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	NA	NA	ER+ Highmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	24605502	7.39103224756118	ER+ Typicalmedian_ecdna_rloops
+HER2+	median_ecdna_rloops	4909981	6.69107990000179	HER2+median_ecdna_rloops
+HER2+	median_ecdna_rloops	11287050	7.05258048738793	HER2+median_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	3203579	6.50563557369224	ER+ Typicalmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	3393940	6.5307042883066	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	2786845.5	6.4451130483549	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	5035794	6.7020680422895	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	1721414	6.23588558298473	ER+ Highmedian_ecdna_rloops
+IC10	median_ecdna_rloops	13949972	7.14457336703884	IC10median_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	5070713	6.70506911602518	ER+ Typicalmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	4984623	6.69763240419555	ER+ Highmedian_ecdna_rloops
+IC10	median_ecdna_rloops	18646073	7.27058740345706	IC10median_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	16396212.5	7.21474356475963	ER+ Typicalmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	NA	NA	ER+ Typicalmedian_ecdna_rloops
+HER2+	median_ecdna_rloops	10695703	7.02920937546696	HER2+median_ecdna_rloops
+HER2+	median_ecdna_rloops	12460473	7.09553456332387	HER2+median_ecdna_rloops
+ER+ High	median_ecdna_rloops	NA	NA	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	421037	5.62432129404364	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	3014495	6.479214711927	ER+ Highmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	25659990.5	7.40925650817672	ER+ Typicalmedian_ecdna_rloops
+HER2+	median_ecdna_rloops	5652542.5	6.75224391320886	HER2+median_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	NA	NA	ER+ Typicalmedian_ecdna_rloops
+HER2+	median_ecdna_rloops	6738708	6.8285767024879	HER2+median_ecdna_rloops
+HER2+	median_ecdna_rloops	8396859	6.92411691229809	HER2+median_ecdna_rloops
+ER+ High	median_ecdna_rloops	14216930.5	7.15280587090702	ER+ Highmedian_ecdna_rloops
+IC10	median_ecdna_rloops	7993756.5	6.90275096929195	IC10median_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	14381511.5	7.15780456308867	ER+ Typicalmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	4628318	6.66542328441223	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	NA	NA	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	1487570	6.17247770325595	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	4467804	6.65009420981688	ER+ Highmedian_ecdna_rloops
+IC10	median_ecdna_rloops	92970270.5	7.96834409922591	IC10median_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	5699840	6.75586274097324	ER+ Typicalmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	6392413	6.80566489398008	ER+ Typicalmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	181570439	8.25904514600317	ER+ Highmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	26281143	7.41964426583728	ER+ Typicalmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	NA	NA	ER+ Typicalmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	11719784	7.06891964460271	ER+ Highmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	NA	NA	ER+ Typicalmedian_ecdna_rloops
+HER2+	median_ecdna_rloops	NA	NA	HER2+median_ecdna_rloops
+HER2+	median_ecdna_rloops	4683821.5	6.67060042851579	HER2+median_ecdna_rloops
+HER2+	median_ecdna_rloops	6082819	6.78410496521134	HER2+median_ecdna_rloops
+HER2+	median_ecdna_rloops	NA	NA	HER2+median_ecdna_rloops
+HER2+	median_ecdna_rloops	5312606.5	6.72530773104603	HER2+median_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	3513363.5	6.54572320875212	ER+ Typicalmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	2800658	6.44726023362409	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	6185428	6.79136982617558	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	2028585	6.30719342393768	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	13707686.5	7.1369641950741	ER+ Highmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	4071627	6.60976809228369	ER+ Typicalmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	174149177.5	8.24092143013644	ER+ Typicalmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	10156843.5	7.0067588035095	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	NA	NA	ER+ Highmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	7156178	6.85468119519047	ER+ Typicalmedian_ecdna_rloops
+HER2+	median_ecdna_rloops	9632166	6.98372400366352	HER2+median_ecdna_rloops
+HER2+	median_ecdna_rloops	5030077.5	6.70157476275986	HER2+median_ecdna_rloops
+HER2+	median_ecdna_rloops	9009507	6.95470107524996	HER2+median_ecdna_rloops
+HER2+	median_ecdna_rloops	2356587	6.37228366187661	HER2+median_ecdna_rloops
+ER+ High	median_ecdna_rloops	13095174	7.11711130658153	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	NA	NA	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	NA	NA	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	12833343	7.10833983576073	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	NA	NA	ER+ Highmedian_ecdna_rloops
+HER2+	median_ecdna_rloops	4998446.5	6.69883513495983	HER2+median_ecdna_rloops
+ER+ High	median_ecdna_rloops	1187434	6.0746098457378	ER+ Highmedian_ecdna_rloops
+HER2+	median_ecdna_rloops	5018754	6.7005959952945	HER2+median_ecdna_rloops
+IC10	median_ecdna_rloops	17619461	7.24599264334967	IC10median_ecdna_rloops
+ER+ High	median_ecdna_rloops	2274101	6.35680994014226	ER+ Highmedian_ecdna_rloops
+HER2+	median_ecdna_rloops	3220920	6.50798007294611	HER2+median_ecdna_rloops
+HER2+	median_ecdna_rloops	519729	5.71577778601359	HER2+median_ecdna_rloops
+HER2+	median_ecdna_rloops	34116581	7.53296551449737	HER2+median_ecdna_rloops
+HER2+	median_ecdna_rloops	4961213	6.69558796056061	HER2+median_ecdna_rloops
+ER+ High	median_ecdna_rloops	4716527	6.67362241700211	ER+ Highmedian_ecdna_rloops
+HER2+	median_ecdna_rloops	20376313	7.30912562450643	HER2+median_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	16803111	7.22538972215838	ER+ Typicalmedian_ecdna_rloops
+HER2+	median_ecdna_rloops	27669336	7.44199875289985	HER2+median_ecdna_rloops
+IC10	median_ecdna_rloops	5099111	6.70749455118061	IC10median_ecdna_rloops
+ER+ High	median_ecdna_rloops	2513011	6.40019456241722	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	5849731	6.76713596974247	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	14318668.5	7.15590266492341	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	10486436	7.02062795205538	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	9961766	6.99833637961704	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	2016102	6.30451271586325	ER+ Highmedian_ecdna_rloops
+IC10	median_ecdna_rloops	5592066	6.74757236616323	IC10median_ecdna_rloops
+ER+ High	median_ecdna_rloops	9844199.5	6.99318045053634	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	8788369.5	6.94390835761508	ER+ Highmedian_ecdna_rloops
+HER2+	median_ecdna_rloops	5066088	6.70467281511686	HER2+median_ecdna_rloops
+ER+ High	median_ecdna_rloops	16381867	7.21436342220077	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	14439526	7.15955296714952	ER+ Highmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	24969379.5	7.39740776747073	ER+ Typicalmedian_ecdna_rloops
+HER2+	median_ecdna_rloops	4952566	6.69483035953284	HER2+median_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	1723029	6.23629283909692	ER+ Typicalmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	6849010	6.83562786371836	ER+ Highmedian_ecdna_rloops
+IC10	median_ecdna_rloops	NA	NA	IC10median_ecdna_rloops
+HER2+	median_ecdna_rloops	785430	5.89510803834419	HER2+median_ecdna_rloops
+ER+ High	median_ecdna_rloops	2182251	6.33890490018915	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	NA	NA	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	26860031	7.4291065257346	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	7319078	6.86445643483121	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	5024412	6.70108533061949	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	3487906	6.54256489658012	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	10246333	7.01056850847891	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	14397064	7.15827396541319	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	2479096	6.39429351980557	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	8025290	6.90446078903989	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	5167902	6.71331435348546	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	983011	5.99255881946181	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	4529054	6.65600759470624	ER+ Highmedian_ecdna_rloops
+HER2+	median_ecdna_rloops	5342146	6.7277158343425	HER2+median_ecdna_rloops
+ER+ High	median_ecdna_rloops	3341288	6.52391404094108	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	1845007.5	6.26599837130516	ER+ Highmedian_ecdna_rloops
+IC10	median_ecdna_rloops	14645311	7.1656986282153	IC10median_ecdna_rloops
+ER+ High	median_ecdna_rloops	2182580.5	6.33897046971526	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	8089965	6.90794669639059	ER+ Highmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	15896955	7.20131397218432	ER+ Typicalmedian_ecdna_rloops
+HER2+	median_ecdna_rloops	5179450.5	6.71428377072283	HER2+median_ecdna_rloops
+HER2+	median_ecdna_rloops	8588001	6.93389213690404	HER2+median_ecdna_rloops
+ER+ High	median_ecdna_rloops	NA	NA	ER+ Highmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	3881203	6.58896647029629	ER+ Typicalmedian_ecdna_rloops
+IC10	median_ecdna_rloops	5831561	6.76578489731841	IC10median_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	15666087	7.19496056174489	ER+ Typicalmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	19011325	7.27901240904848	ER+ Typicalmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	3273167.5	6.51496836300326	ER+ Highmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	60623476	7.78264084127953	ER+ Typicalmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	12306630	7.09013917897828	ER+ Typicalmedian_ecdna_rloops
+HER2+	median_ecdna_rloops	6029794.5	6.78030258332961	HER2+median_ecdna_rloops
+IC10	median_ecdna_rloops	7985484.5	6.90230132542894	IC10median_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	6329470	6.80136741438051	ER+ Typicalmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	4789096	6.68025363347988	ER+ Typicalmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	7442228.5	6.87170305846256	ER+ Highmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	16307263	7.2123811020963	ER+ Typicalmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	2422895	6.38433477295077	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	3273285	6.51498395299984	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	9193679.5	6.96348940701729	ER+ Highmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	21325289	7.32889494579705	ER+ Typicalmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	NA	NA	ER+ Typicalmedian_ecdna_rloops
+HER2+	median_ecdna_rloops	2877188.5	6.45896846671968	HER2+median_ecdna_rloops
+ER+ High	median_ecdna_rloops	756600	5.87886691096438	ER+ Highmedian_ecdna_rloops
+HER2+	median_ecdna_rloops	5376280.5	6.73048200013059	HER2+median_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	5497770	6.74018664610992	ER+ Typicalmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	20300587	7.30750861729533	ER+ Typicalmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	4383043	6.64177583042154	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	4542829	6.65732648512118	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	2568188	6.40962698148276	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	5825178.5	6.76530931247203	ER+ Highmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	15305635	7.18485138068616	ER+ Typicalmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	NA	NA	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	NA	NA	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	3933683	6.59479946931784	ER+ Highmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	4781569	6.67957051803155	ER+ Typicalmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	2671269	6.42671778677985	ER+ Typicalmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	10610975	7.0257553322444	ER+ Typicalmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	5155980	6.71231130829146	ER+ Typicalmedian_ecdna_rloops
+IC10	median_ecdna_rloops	1674725	6.22394376276273	IC10median_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	NA	NA	ER+ Typicalmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	NA	NA	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	3788947	6.57851864500367	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	214124	5.33066737597357	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	59703973	7.77600323948499	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	9460678	6.97592230715981	ER+ Highmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	NA	NA	ER+ Typicalmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	2708213	6.43268297882665	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	12357330	7.09192467972199	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	1561416	6.19351890345572	ER+ Highmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	3494512.5	6.54338672257896	ER+ Typicalmedian_ecdna_rloops
+IC10	median_ecdna_rloops	82015990	7.91389853684698	IC10median_ecdna_rloops
+IC10	median_ecdna_rloops	NA	NA	IC10median_ecdna_rloops
+IC10	median_ecdna_rloops	77010653	7.88655081157946	IC10median_ecdna_rloops
+ER+ High	median_ecdna_rloops	2582708	6.41207547593185	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	4268950	6.63032116990075	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	2399197	6.38006609071857	ER+ Highmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	NA	NA	ER+ Typicalmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	4537086.5	6.65677715493292	ER+ Typicalmedian_ecdna_rloops
+IC10	median_ecdna_rloops	1148334.5	6.06006879094676	IC10median_ecdna_rloops
+IC10	median_ecdna_rloops	7845791	6.89463679035359	IC10median_ecdna_rloops
+IC10	median_ecdna_rloops	237916.5	5.37642638770314	IC10median_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	4153351	6.61839873948441	ER+ Typicalmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	14719749	7.16790043401354	ER+ Highmedian_ecdna_rloops
+IC10	median_ecdna_rloops	17435628.5	7.24143763186348	IC10median_ecdna_rloops
+ER+ High	median_ecdna_rloops	5472033	6.73814878717085	ER+ Highmedian_ecdna_rloops
+IC10	median_ecdna_rloops	5831561	6.76578489731841	IC10median_ecdna_rloops
+ER+ High	median_ecdna_rloops	1427022	6.15443097289922	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	756600	5.87886691096438	ER+ Highmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	6913603	6.83970450023674	ER+ Typicalmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	3524018	6.54703824127602	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	NA	NA	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	14253009	7.15390658984267	ER+ Highmedian_ecdna_rloops
+HER2+	median_ecdna_rloops	5844298	6.76673242675718	HER2+median_ecdna_rloops
+ER+ High	median_ecdna_rloops	1419224	6.15205125275993	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	824651	5.91627071659319	ER+ Highmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	4478150	6.65109873358449	ER+ Typicalmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	3352315	6.52534494987109	ER+ Typicalmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	NA	NA	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	13749441	7.13828507334895	ER+ Highmedian_ecdna_rloops
+HER2+	median_ecdna_rloops	16442070	7.21595651923962	HER2+median_ecdna_rloops
+HER2+	median_ecdna_rloops	5131716	6.71026269822369	HER2+median_ecdna_rloops
+ER+ High	median_ecdna_rloops	1548438.5	6.18989424144647	ER+ Highmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	15429641	7.18835584963877	ER+ Typicalmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	3820935	6.58216976339382	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	1244931	6.09514563028212	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	13033319	7.11505505838495	ER+ Highmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	5116471	6.70897060178395	ER+ Typicalmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	18786419.5	7.27384403900481	ER+ Typicalmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	8594401.5	6.93421568905415	ER+ Typicalmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	6844589	6.83534743843487	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	1771571	6.24835880756802	ER+ Highmedian_ecdna_rloops
+HER2+	median_ecdna_rloops	7867024	6.8958105302816	HER2+median_ecdna_rloops
+ER+ High	median_ecdna_rloops	12773196	7.10629961031651	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	3359818.5	6.52631594636019	ER+ Highmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	30013027	7.47730981339726	ER+ Typicalmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	13588289	7.13316480696865	ER+ Highmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	14643466	7.1656439128364	ER+ Typicalmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	1066740.5	6.02805919100376	ER+ Highmedian_ecdna_rloops
+HER2+	median_ecdna_rloops	6105341	6.78570999662696	HER2+median_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	11462927.5	7.05929558350531	ER+ Typicalmedian_ecdna_rloops
+HER2+	median_ecdna_rloops	4413969.5	6.64482942630411	HER2+median_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	11608087.5	7.06476071050094	ER+ Typicalmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	2153338	6.33311240615413	ER+ Typicalmedian_ecdna_rloops
+IC10	median_ecdna_rloops	3357023	6.52595444611257	IC10median_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	3195621	6.50455540236193	ER+ Typicalmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	3132506.5	6.49589211947615	ER+ Typicalmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	13468047	7.12930465554037	ER+ Typicalmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	9601387	6.98233402024453	ER+ Typicalmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	NA	NA	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	4283244.5	6.63177296728467	ER+ Highmedian_ecdna_rloops
+IC10	median_ecdna_rloops	10546810	7.02312116347589	IC10median_ecdna_rloops
+IC10	median_ecdna_rloops	NA	NA	IC10median_ecdna_rloops
+IC10	median_ecdna_rloops	NA	NA	IC10median_ecdna_rloops
+ER+ High	median_ecdna_rloops	6305885	6.79974611515618	ER+ Highmedian_ecdna_rloops
+IC10	median_ecdna_rloops	89409477	7.95138355934309	IC10median_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	6595790	6.81926688575587	ER+ Typicalmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	6100985	6.78540002841318	ER+ Typicalmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	1701060	6.23071988767982	ER+ Typicalmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	2490629	6.39630921493376	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	8393574	6.92394697537969	ER+ Highmedian_ecdna_rloops
+ER+ High	median_ecdna_rloops	2865668	6.45722602563731	ER+ Highmedian_ecdna_rloops
+ER+ Typical	median_ecdna_rloops	3810960	6.58103450438186	ER+ Typicalmedian_ecdna_rloops
+IC10	median_tra_rloops	10555116	7.02346305168183	IC10median_tra_rloops
+IC10	median_tra_rloops	10252385	7.01082494890844	IC10median_tra_rloops
+HER2+	median_tra_rloops	3217864.5	6.5075678875478	HER2+median_tra_rloops
+HER2+	median_tra_rloops	11140483	7.04690405923655	HER2+median_tra_rloops
+ER+ High	median_tra_rloops	10435986.5	7.01853355023996	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	12767648	7.10611093482601	ER+ Highmedian_tra_rloops
+ER+ Typical	median_tra_rloops	9371818	6.97182389238115	ER+ Typicalmedian_tra_rloops
+IC10	median_tra_rloops	11840251	7.07336094571839	IC10median_tra_rloops
+ER+ High	median_tra_rloops	5687028	6.75488544286582	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	5906500	6.77133028182773	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	7258009	6.86081756223073	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	13222405	7.1213104882396	ER+ Highmedian_tra_rloops
+ER+ Typical	median_tra_rloops	NA	NA	ER+ Typicalmedian_tra_rloops
+ER+ High	median_tra_rloops	6792806	6.83204927541426	ER+ Highmedian_tra_rloops
+ER+ Typical	median_tra_rloops	8688982.5	6.93896897251743	ER+ Typicalmedian_tra_rloops
+ER+ High	median_tra_rloops	6640582	6.82220620927287	ER+ Highmedian_tra_rloops
+IC10	median_tra_rloops	12552480	7.09872957267921	IC10median_tra_rloops
+ER+ High	median_tra_rloops	5917853	6.77216424643183	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	NA	NA	ER+ Highmedian_tra_rloops
+ER+ Typical	median_tra_rloops	11017345.5	7.04207700838392	ER+ Typicalmedian_tra_rloops
+ER+ High	median_tra_rloops	15234179	7.1828190827097	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	12170634	7.08531323803299	ER+ Highmedian_tra_rloops
+ER+ Typical	median_tra_rloops	11496595	7.06056927015764	ER+ Typicalmedian_tra_rloops
+IC10	median_tra_rloops	8101233	6.90855117672708	IC10median_tra_rloops
+ER+ Typical	median_tra_rloops	12850211	7.10891029262223	ER+ Typicalmedian_tra_rloops
+HER2+	median_tra_rloops	13038751	7.11523602502694	HER2+median_tra_rloops
+HER2+	median_tra_rloops	13038648.5	7.11523261094564	HER2+median_tra_rloops
+IC10	median_tra_rloops	12962474	7.11268793179845	IC10median_tra_rloops
+ER+ High	median_tra_rloops	6693916.5	6.8256803555396	ER+ Highmedian_tra_rloops
+ER+ Typical	median_tra_rloops	20379046	7.30918387092073	ER+ Typicalmedian_tra_rloops
+IC10	median_tra_rloops	6353348.5	6.80300274668525	IC10median_tra_rloops
+ER+ Typical	median_tra_rloops	8364489	6.9224394662861	ER+ Typicalmedian_tra_rloops
+ER+ Typical	median_tra_rloops	NA	NA	ER+ Typicalmedian_tra_rloops
+ER+ High	median_tra_rloops	11446656	7.05867866934503	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	10597963	7.02522243993507	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	NA	NA	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	10031017	7.0013450097251	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	11641733.5	7.06601769059396	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	5552270	6.74447065538129	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	9128592.5	6.96040386819761	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	12286453.5	7.08942657668362	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	NA	NA	ER+ Highmedian_tra_rloops
+ER+ Typical	median_tra_rloops	10972548	7.04030752894577	ER+ Typicalmedian_tra_rloops
+ER+ Typical	median_tra_rloops	9368625.5	6.97167592523203	ER+ Typicalmedian_tra_rloops
+ER+ High	median_tra_rloops	10673918	7.02832390279711	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	NA	NA	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	3525456.5	6.54721548354951	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	5761431	6.76053044043781	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	5339381	6.72749099307319	ER+ Highmedian_tra_rloops
+ER+ Typical	median_tra_rloops	7009993	6.84571764624512	ER+ Typicalmedian_tra_rloops
+ER+ High	median_tra_rloops	3901546	6.59123684301311	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	10001305	7.00005671515592	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	NA	NA	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	8732187	6.94112307729863	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	13163100	7.11935821363513	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	6801608.5	6.83261169421483	ER+ Highmedian_tra_rloops
+HER2+	median_tra_rloops	10956448	7.03966982152157	HER2+median_tra_rloops
+HER2+	median_tra_rloops	13018818.5	7.11457160574681	HER2+median_tra_rloops
+ER+ Typical	median_tra_rloops	11149953	7.04727307567231	ER+ Typicalmedian_tra_rloops
+ER+ Typical	median_tra_rloops	7011830	6.8458314401297	ER+ Typicalmedian_tra_rloops
+ER+ Typical	median_tra_rloops	6059132	6.78241048551058	ER+ Typicalmedian_tra_rloops
+ER+ High	median_tra_rloops	8757901	6.94240008117383	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	11477538	7.05984877714758	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	11408176	7.05721625072018	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	9607861	6.98262675656503	ER+ Highmedian_tra_rloops
+HER2+	median_tra_rloops	6019623.5	6.77956940111427	HER2+median_tra_rloops
+ER+ High	median_tra_rloops	12234985	7.08760347674247	ER+ Highmedian_tra_rloops
+ER+ Typical	median_tra_rloops	39048865	7.5916084262519	ER+ Typicalmedian_tra_rloops
+HER2+	median_tra_rloops	8924061	6.95056257888705	HER2+median_tra_rloops
+ER+ High	median_tra_rloops	7467961	6.87320209941733	ER+ Highmedian_tra_rloops
+ER+ Typical	median_tra_rloops	NA	NA	ER+ Typicalmedian_tra_rloops
+ER+ Typical	median_tra_rloops	7969247	6.90141734211646	ER+ Typicalmedian_tra_rloops
+HER2+	median_tra_rloops	10710307	7.02980196016678	HER2+median_tra_rloops
+HER2+	median_tra_rloops	10821136.5	7.03427291548474	HER2+median_tra_rloops
+IC10	median_tra_rloops	13442917	7.12849354950259	IC10median_tra_rloops
+ER+ Typical	median_tra_rloops	17787974	7.25012651040082	ER+ Typicalmedian_tra_rloops
+HER2+	median_tra_rloops	12339109	7.09128383586998	HER2+median_tra_rloops
+ER+ Typical	median_tra_rloops	8303927	6.91928357492897	ER+ Typicalmedian_tra_rloops
+ER+ High	median_tra_rloops	NA	NA	ER+ Highmedian_tra_rloops
+ER+ Typical	median_tra_rloops	9951392	6.9978838777175	ER+ Typicalmedian_tra_rloops
+HER2+	median_tra_rloops	7729552.5	6.88815440749054	HER2+median_tra_rloops
+HER2+	median_tra_rloops	4291172	6.63257602360535	HER2+median_tra_rloops
+ER+ Typical	median_tra_rloops	4698289	6.67193981991556	ER+ Typicalmedian_tra_rloops
+ER+ High	median_tra_rloops	3858998	6.5864746660307	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	13724963.5	7.1375112298089	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	6678416.5	6.82467356540397	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	8392443	6.92388845202644	ER+ Highmedian_tra_rloops
+IC10	median_tra_rloops	10471839	7.02002299797662	IC10median_tra_rloops
+ER+ Typical	median_tra_rloops	12023693	7.08003791503373	ER+ Typicalmedian_tra_rloops
+ER+ High	median_tra_rloops	8647101.5	6.93687060699465	ER+ Highmedian_tra_rloops
+IC10	median_tra_rloops	7383232	6.86824657410005	IC10median_tra_rloops
+ER+ Typical	median_tra_rloops	7991368	6.90262118459769	ER+ Typicalmedian_tra_rloops
+ER+ Typical	median_tra_rloops	NA	NA	ER+ Typicalmedian_tra_rloops
+HER2+	median_tra_rloops	9937369	6.99727146029075	HER2+median_tra_rloops
+HER2+	median_tra_rloops	9265739.5	6.9668801330141	HER2+median_tra_rloops
+ER+ High	median_tra_rloops	NA	NA	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	8448252	6.92676691120994	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	17097789	7.2329399786476	ER+ Highmedian_tra_rloops
+ER+ Typical	median_tra_rloops	4856421	6.68631641783417	ER+ Typicalmedian_tra_rloops
+HER2+	median_tra_rloops	7028332.5	6.84685236092988	HER2+median_tra_rloops
+ER+ Typical	median_tra_rloops	NA	NA	ER+ Typicalmedian_tra_rloops
+HER2+	median_tra_rloops	7616925.5	6.88177976486233	HER2+median_tra_rloops
+HER2+	median_tra_rloops	11536262	7.06206514839362	HER2+median_tra_rloops
+ER+ High	median_tra_rloops	3610581	6.55757721271338	ER+ Highmedian_tra_rloops
+IC10	median_tra_rloops	12943154	7.11204015207288	IC10median_tra_rloops
+ER+ Typical	median_tra_rloops	13636490.5	7.13470264611296	ER+ Typicalmedian_tra_rloops
+ER+ High	median_tra_rloops	9466942	6.97620976225945	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	NA	NA	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	4423377	6.64575405361325	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	3809085	6.58082077809644	ER+ Highmedian_tra_rloops
+IC10	median_tra_rloops	9668607	6.98536395273505	IC10median_tra_rloops
+ER+ Typical	median_tra_rloops	9059767	6.95711707652782	ER+ Typicalmedian_tra_rloops
+ER+ Typical	median_tra_rloops	8727000.5	6.94086505061341	ER+ Typicalmedian_tra_rloops
+ER+ High	median_tra_rloops	7530559.5	6.87682730196404	ER+ Highmedian_tra_rloops
+ER+ Typical	median_tra_rloops	13505942.5	7.130524928585	ER+ Typicalmedian_tra_rloops
+ER+ Typical	median_tra_rloops	NA	NA	ER+ Typicalmedian_tra_rloops
+ER+ High	median_tra_rloops	14468343	7.16041882601754	ER+ Highmedian_tra_rloops
+ER+ Typical	median_tra_rloops	NA	NA	ER+ Typicalmedian_tra_rloops
+HER2+	median_tra_rloops	NA	NA	HER2+median_tra_rloops
+HER2+	median_tra_rloops	11498068	7.06062491052228	HER2+median_tra_rloops
+HER2+	median_tra_rloops	11410676	7.05731141204679	HER2+median_tra_rloops
+HER2+	median_tra_rloops	NA	NA	HER2+median_tra_rloops
+HER2+	median_tra_rloops	10418776	7.01781674263683	HER2+median_tra_rloops
+ER+ Typical	median_tra_rloops	8558629	6.9324042517031	ER+ Typicalmedian_tra_rloops
+ER+ High	median_tra_rloops	9482745	6.97693411792445	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	4336160	6.63710539901776	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	8709965	6.94001645971017	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	5939831.5	6.77377419828904	ER+ Highmedian_tra_rloops
+ER+ Typical	median_tra_rloops	6978814	6.84378168585363	ER+ Typicalmedian_tra_rloops
+ER+ Typical	median_tra_rloops	6630475.5	6.82154474015206	ER+ Typicalmedian_tra_rloops
+ER+ High	median_tra_rloops	10690595.5	7.02900193808353	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	NA	NA	ER+ Highmedian_tra_rloops
+ER+ Typical	median_tra_rloops	6810151	6.83315680530846	ER+ Typicalmedian_tra_rloops
+HER2+	median_tra_rloops	6174108	6.7905742924089	HER2+median_tra_rloops
+HER2+	median_tra_rloops	7802232	6.89221891561219	HER2+median_tra_rloops
+HER2+	median_tra_rloops	5929303.5	6.77300375415235	HER2+median_tra_rloops
+HER2+	median_tra_rloops	8688058	6.93892276151819	HER2+median_tra_rloops
+ER+ High	median_tra_rloops	10559253	7.023633236841	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	NA	NA	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	NA	NA	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	10185405	7.00797834507358	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	NA	NA	ER+ Highmedian_tra_rloops
+HER2+	median_tra_rloops	11011809	7.04185870938099	HER2+median_tra_rloops
+ER+ High	median_tra_rloops	5451112.5	6.73648522475573	ER+ Highmedian_tra_rloops
+HER2+	median_tra_rloops	9366396	6.97157256165184	HER2+median_tra_rloops
+IC10	median_tra_rloops	7725426	6.88792249309606	IC10median_tra_rloops
+ER+ High	median_tra_rloops	6927195	6.8405574758589	ER+ Highmedian_tra_rloops
+HER2+	median_tra_rloops	10817033	7.03410819478014	HER2+median_tra_rloops
+HER2+	median_tra_rloops	10813102	7.03395033987361	HER2+median_tra_rloops
+HER2+	median_tra_rloops	10658952	7.02771454721831	HER2+median_tra_rloops
+HER2+	median_tra_rloops	11010078	7.04179043515168	HER2+median_tra_rloops
+ER+ High	median_tra_rloops	8019277	6.90413526919053	ER+ Highmedian_tra_rloops
+HER2+	median_tra_rloops	25602588	7.40828388451346	HER2+median_tra_rloops
+ER+ Typical	median_tra_rloops	14884109	7.17272287098511	ER+ Typicalmedian_tra_rloops
+HER2+	median_tra_rloops	9673214.5	6.9855708630983	HER2+median_tra_rloops
+IC10	median_tra_rloops	15101819.5	7.17902930394533	IC10median_tra_rloops
+ER+ High	median_tra_rloops	16963671	7.22951986659555	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	8785713	6.94377706163776	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	5431956.5	6.73495636333657	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	2982838	6.47462981276583	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	8999180	6.95420298684317	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	10294910	7.01262259647363	ER+ Highmedian_tra_rloops
+IC10	median_tra_rloops	5325336	6.72634709616888	IC10median_tra_rloops
+ER+ High	median_tra_rloops	10175898.5	7.00757280911301	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	9334937	6.9701114378344	ER+ Highmedian_tra_rloops
+HER2+	median_tra_rloops	12770486	7.10620745931352	HER2+median_tra_rloops
+ER+ High	median_tra_rloops	13561546	7.13230923342795	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	11286761	7.05256936732547	ER+ Highmedian_tra_rloops
+ER+ Typical	median_tra_rloops	14393965	7.1581804725053	ER+ Typicalmedian_tra_rloops
+HER2+	median_tra_rloops	7111980	6.85199058772507	HER2+median_tra_rloops
+ER+ Typical	median_tra_rloops	6868493	6.83686152320389	ER+ Typicalmedian_tra_rloops
+ER+ High	median_tra_rloops	6747706	6.82915621632286	ER+ Highmedian_tra_rloops
+IC10	median_tra_rloops	NA	NA	IC10median_tra_rloops
+HER2+	median_tra_rloops	9905250	6.99586548507737	HER2+median_tra_rloops
+ER+ High	median_tra_rloops	7252140	6.86046623929091	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	NA	NA	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	9955889	6.998080089558	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	9951347.5	6.99788193566299	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	7580214.5	6.87968155248304	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	6901917	6.83896979523958	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	10648535	7.02728990347184	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	13906818	7.14322780226137	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	16651868.5	7.22146299868051	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	9454863.5	6.9756553092441	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	9143590	6.96111679148874	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	9454863.5	6.9756553092441	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	2054286	6.31266111784409	ER+ Highmedian_tra_rloops
+HER2+	median_tra_rloops	13062853.5	7.11603808950717	HER2+median_tra_rloops
+ER+ High	median_tra_rloops	8149857	6.91115004182541	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	14777010	7.16958659661064	ER+ Highmedian_tra_rloops
+IC10	median_tra_rloops	4160613.5	6.61915747828305	IC10median_tra_rloops
+ER+ High	median_tra_rloops	6990294	6.84449550395294	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	13486778	7.12990824103175	ER+ Highmedian_tra_rloops
+ER+ Typical	median_tra_rloops	5089744	6.7066960244061	ER+ Typicalmedian_tra_rloops
+HER2+	median_tra_rloops	12914378.5	7.11107354436921	HER2+median_tra_rloops
+HER2+	median_tra_rloops	12978871	7.11323694936242	HER2+median_tra_rloops
+ER+ High	median_tra_rloops	NA	NA	ER+ Highmedian_tra_rloops
+ER+ Typical	median_tra_rloops	6566107	6.81730802177107	ER+ Typicalmedian_tra_rloops
+IC10	median_tra_rloops	5489374	6.7395229000962	IC10median_tra_rloops
+ER+ Typical	median_tra_rloops	3593717	6.55554399490736	ER+ Typicalmedian_tra_rloops
+ER+ Typical	median_tra_rloops	15105569	7.17913711777111	ER+ Typicalmedian_tra_rloops
+ER+ High	median_tra_rloops	8200540.5	6.91384253076144	ER+ Highmedian_tra_rloops
+ER+ Typical	median_tra_rloops	11615526	7.06503891865626	ER+ Typicalmedian_tra_rloops
+ER+ Typical	median_tra_rloops	7840362	6.89433617049661	ER+ Typicalmedian_tra_rloops
+HER2+	median_tra_rloops	9504181	6.9779147442237	HER2+median_tra_rloops
+IC10	median_tra_rloops	6501530	6.81301563765189	IC10median_tra_rloops
+ER+ Typical	median_tra_rloops	6364454	6.80376122014577	ER+ Typicalmedian_tra_rloops
+ER+ Typical	median_tra_rloops	6455732.5	6.80994559391533	ER+ Typicalmedian_tra_rloops
+ER+ High	median_tra_rloops	13377441	7.12637307669847	ER+ Highmedian_tra_rloops
+ER+ Typical	median_tra_rloops	9551334	6.98006407761652	ER+ Typicalmedian_tra_rloops
+ER+ High	median_tra_rloops	7603157	6.8809940155841	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	12697461.5	7.10371693888066	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	12980300	7.11328476342917	ER+ Highmedian_tra_rloops
+ER+ Typical	median_tra_rloops	5794314	6.76300210133429	ER+ Typicalmedian_tra_rloops
+ER+ Typical	median_tra_rloops	NA	NA	ER+ Typicalmedian_tra_rloops
+HER2+	median_tra_rloops	4010786	6.60322959861069	HER2+median_tra_rloops
+ER+ High	median_tra_rloops	7096291	6.85103147764943	ER+ Highmedian_tra_rloops
+HER2+	median_tra_rloops	6507978	6.81344614288209	HER2+median_tra_rloops
+ER+ Typical	median_tra_rloops	9744982	6.98878108583305	ER+ Typicalmedian_tra_rloops
+ER+ Typical	median_tra_rloops	9779754.5	6.99032799728983	ER+ Typicalmedian_tra_rloops
+ER+ High	median_tra_rloops	10083597	7.00361552345207	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	6937831.5	6.84122381046657	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	6887832	6.8380826088205	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	6987831	6.84434245521902	ER+ Highmedian_tra_rloops
+ER+ Typical	median_tra_rloops	13414918	7.12758805472251	ER+ Typicalmedian_tra_rloops
+ER+ High	median_tra_rloops	NA	NA	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	NA	NA	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	10882136.5	7.03671420908266	ER+ Highmedian_tra_rloops
+ER+ Typical	median_tra_rloops	13380750	7.1264804890673	ER+ Typicalmedian_tra_rloops
+ER+ Typical	median_tra_rloops	3077471.5	6.48819418080673	ER+ Typicalmedian_tra_rloops
+ER+ Typical	median_tra_rloops	8771486.5	6.94307324881212	ER+ Typicalmedian_tra_rloops
+ER+ Typical	median_tra_rloops	10595853	7.02513596553391	ER+ Typicalmedian_tra_rloops
+IC10	median_tra_rloops	26396946	7.42155370044084	IC10median_tra_rloops
+ER+ Typical	median_tra_rloops	NA	NA	ER+ Typicalmedian_tra_rloops
+ER+ High	median_tra_rloops	NA	NA	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	10383919	7.01636133356912	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	11490122	7.06032467776882	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	12351516	7.0917203004515	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	6017666.5	6.77942818757412	ER+ Highmedian_tra_rloops
+ER+ Typical	median_tra_rloops	NA	NA	ER+ Typicalmedian_tra_rloops
+ER+ High	median_tra_rloops	7926243	6.89906743744335	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	12500931.5	7.09694241016801	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	13301737.5	7.12390840575017	ER+ Highmedian_tra_rloops
+ER+ Typical	median_tra_rloops	9089298.5	6.95853041402424	ER+ Typicalmedian_tra_rloops
+IC10	median_tra_rloops	11039677.5	7.04295642595577	IC10median_tra_rloops
+IC10	median_tra_rloops	NA	NA	IC10median_tra_rloops
+IC10	median_tra_rloops	6531281	6.8149984356211	IC10median_tra_rloops
+ER+ High	median_tra_rloops	13249914.5	7.12221310861239	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	5609609	6.74893266861167	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	12475306	7.09605124181169	ER+ Highmedian_tra_rloops
+ER+ Typical	median_tra_rloops	NA	NA	ER+ Typicalmedian_tra_rloops
+ER+ Typical	median_tra_rloops	16630973.5	7.22091769766047	ER+ Typicalmedian_tra_rloops
+IC10	median_tra_rloops	10555116	7.02346305168183	IC10median_tra_rloops
+IC10	median_tra_rloops	10234166.5	7.01005252068089	IC10median_tra_rloops
+IC10	median_tra_rloops	6768739	6.83050783235196	IC10median_tra_rloops
+ER+ Typical	median_tra_rloops	16166323.5	7.208611291965	ER+ Typicalmedian_tra_rloops
+ER+ High	median_tra_rloops	9898274.5	6.99555953741863	ER+ Highmedian_tra_rloops
+IC10	median_tra_rloops	9668557	6.98536170682951	IC10median_tra_rloops
+ER+ High	median_tra_rloops	10231765	7.0099505992901	ER+ Highmedian_tra_rloops
+IC10	median_tra_rloops	5473746	6.73828472017619	IC10median_tra_rloops
+ER+ High	median_tra_rloops	10836793	7.03490081780684	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	7692403	6.88606208502604	ER+ Highmedian_tra_rloops
+ER+ Typical	median_tra_rloops	19403247.5	7.28787444578172	ER+ Typicalmedian_tra_rloops
+ER+ High	median_tra_rloops	8158429	6.91160659160449	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	NA	NA	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	7262182.5	6.86106721841749	ER+ Highmedian_tra_rloops
+HER2+	median_tra_rloops	13186969	7.12014501818104	HER2+median_tra_rloops
+ER+ High	median_tra_rloops	5795251	6.76307232551617	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	5795251	6.76307232551617	ER+ Highmedian_tra_rloops
+ER+ Typical	median_tra_rloops	12966037	7.11280729007007	ER+ Typicalmedian_tra_rloops
+ER+ Typical	median_tra_rloops	9791637	6.99085534909187	ER+ Typicalmedian_tra_rloops
+ER+ High	median_tra_rloops	NA	NA	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	10704770	7.0295773811587	ER+ Highmedian_tra_rloops
+HER2+	median_tra_rloops	10105958	7.00457753196773	HER2+median_tra_rloops
+HER2+	median_tra_rloops	10481907.5	7.02044036428486	HER2+median_tra_rloops
+ER+ High	median_tra_rloops	8469093	6.92783695320602	ER+ Highmedian_tra_rloops
+ER+ Typical	median_tra_rloops	7295949.5	6.86308187882231	ER+ Typicalmedian_tra_rloops
+ER+ High	median_tra_rloops	4839900.5	6.68483652312339	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	10421214.5	7.017918376752	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	13089231	7.11691416542417	ER+ Highmedian_tra_rloops
+ER+ Typical	median_tra_rloops	4454140	6.64876396091371	ER+ Typicalmedian_tra_rloops
+ER+ Typical	median_tra_rloops	11506118.5	7.06092888019887	ER+ Typicalmedian_tra_rloops
+ER+ Typical	median_tra_rloops	13326023	7.12470059109167	ER+ Typicalmedian_tra_rloops
+ER+ High	median_tra_rloops	6125314	6.78712842760704	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	7765685.5	6.8901798541384	ER+ Highmedian_tra_rloops
+HER2+	median_tra_rloops	9903287	6.99577940906028	HER2+median_tra_rloops
+ER+ High	median_tra_rloops	7572268	6.87922603359875	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	9169225	6.9623326772059	ER+ Highmedian_tra_rloops
+ER+ Typical	median_tra_rloops	14378031	7.15769944585	ER+ Typicalmedian_tra_rloops
+ER+ High	median_tra_rloops	4982184	6.69741984985393	ER+ Highmedian_tra_rloops
+ER+ Typical	median_tra_rloops	13962361	7.1449588937022	ER+ Typicalmedian_tra_rloops
+ER+ High	median_tra_rloops	15002828	7.17617315927202	ER+ Highmedian_tra_rloops
+HER2+	median_tra_rloops	9781124	6.99038880910185	HER2+median_tra_rloops
+ER+ Typical	median_tra_rloops	15133797	7.17994793287783	ER+ Typicalmedian_tra_rloops
+HER2+	median_tra_rloops	10088864	7.00384231074008	HER2+median_tra_rloops
+ER+ Typical	median_tra_rloops	9465236	6.97613149273231	ER+ Typicalmedian_tra_rloops
+ER+ Typical	median_tra_rloops	18934795	7.2772606304734	ER+ Typicalmedian_tra_rloops
+IC10	median_tra_rloops	5981029.5	6.77677601708322	IC10median_tra_rloops
+ER+ Typical	median_tra_rloops	6166586	6.79004486303191	ER+ Typicalmedian_tra_rloops
+ER+ Typical	median_tra_rloops	9597419	6.98215450071095	ER+ Typicalmedian_tra_rloops
+ER+ Typical	median_tra_rloops	8129747.5	6.91007711056926	ER+ Typicalmedian_tra_rloops
+ER+ Typical	median_tra_rloops	8836335	6.94627222147866	ER+ Typicalmedian_tra_rloops
+ER+ High	median_tra_rloops	NA	NA	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	10107078.5	7.00462568177633	ER+ Highmedian_tra_rloops
+IC10	median_tra_rloops	11070199.5	7.04415548675542	IC10median_tra_rloops
+IC10	median_tra_rloops	NA	NA	IC10median_tra_rloops
+IC10	median_tra_rloops	NA	NA	IC10median_tra_rloops
+ER+ High	median_tra_rloops	14718099	7.16785174935105	ER+ Highmedian_tra_rloops
+IC10	median_tra_rloops	7507961.5	6.87552209478525	IC10median_tra_rloops
+ER+ Typical	median_tra_rloops	8548327.5	6.93188120312657	ER+ Typicalmedian_tra_rloops
+ER+ Typical	median_tra_rloops	15650334	7.19452363818242	ER+ Typicalmedian_tra_rloops
+ER+ Typical	median_tra_rloops	10515317	7.02182241097925	ER+ Typicalmedian_tra_rloops
+ER+ High	median_tra_rloops	5225394	6.71811912537379	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	7928271	6.89917854133503	ER+ Highmedian_tra_rloops
+ER+ High	median_tra_rloops	10868990	7.03618922913952	ER+ Highmedian_tra_rloops
+ER+ Typical	median_tra_rloops	4390204.5	6.64248484949661	ER+ Typicalmedian_tra_rloops

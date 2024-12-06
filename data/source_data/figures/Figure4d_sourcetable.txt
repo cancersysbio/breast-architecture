@@ -1,0 +1,58 @@
+Alteration	Pathway	Stage	Total_Samples	Proportion
+Amplification	Epigenetic	Metastatic	720	0.188888888888889
+Amplification	Epigenetic	Primary	702	0.135327635327635
+Amplification	PD-L1	Metastatic	720	0.0236111111111111
+Amplification	PD-L1	Primary	702	0.0227920227920228
+Complex non-cyclic amplification	Epigenetic	Metastatic	720	0.00138888888888889
+Complex non-cyclic amplification	Epigenetic	Primary	702	0.00284900284900285
+Complex non-cyclic amplification	PD-L1	Metastatic	720	0.00138888888888889
+Cyclic amplification	Epigenetic	Metastatic	720	0.00416666666666667
+Cyclic amplification	Epigenetic	Primary	702	0.00427350427350427
+Cyclic amplification	PD-L1	Metastatic	720	0.00694444444444444
+Cyclic amplification	PD-L1	Primary	702	0.00427350427350427
+HLA LOH	HLA-II	Metastatic	720	0.126388888888889
+HLA LOH	HLA-II	Primary	702	0.115384615384615
+HLA LOH	HLA-I	Metastatic	720	0.1375
+HLA LOH	HLA-I	Primary	702	0.132478632478632
+Homozygous deletion	IFN-g
+pathway	Primary	702	0.00284900284900285
+Homozygous deletion	Antigen
+Presentation	Metastatic	720	0.00138888888888889
+Multiple	HLA-II	Metastatic	720	0.00138888888888889
+Multiple	HLA-II	Primary	702	0.0128205128205128
+Multiple	HLA-I	Metastatic	720	0.00277777777777778
+Multiple	HLA-I	Primary	702	0.00427350427350427
+Multiple	IFN-g
+pathway	Metastatic	720	0.0111111111111111
+Multiple	IFN-g
+pathway	Primary	702	0.00427350427350427
+Multiple	Antigen
+Presentation	Metastatic	720	0.00277777777777778
+Multiple	Antigen
+Presentation	Primary	702	0.00284900284900285
+Single nucleotide variant	HLA-II	Metastatic	720	0.0319444444444444
+Single nucleotide variant	HLA-II	Primary	702	0.0498575498575499
+Single nucleotide variant	HLA-I	Metastatic	720	0.0194444444444444
+Single nucleotide variant	HLA-I	Primary	702	0.0327635327635328
+Single nucleotide variant	IFN-g
+pathway	Metastatic	720	0.0611111111111111
+Single nucleotide variant	IFN-g
+pathway	Primary	702	0.0299145299145299
+Single nucleotide variant	Antigen
+Presentation	Metastatic	720	0.0888888888888889
+Single nucleotide variant	Antigen
+Presentation	Primary	702	0.0427350427350427
+Single nucleotide variant	CD58	Metastatic	720	0.00694444444444444
+Single nucleotide variant	CD58	Primary	702	0.00142450142450142
+Structural variant	HLA-II	Metastatic	720	0.00138888888888889
+Structural variant	HLA-II	Primary	702	0.00427350427350427
+Structural variant	IFN-g
+pathway	Metastatic	720	0.0541666666666667
+Structural variant	IFN-g
+pathway	Primary	702	0.0555555555555556
+Structural variant	Antigen
+Presentation	Metastatic	720	0.00694444444444444
+Structural variant	Antigen
+Presentation	Primary	702	0.0142450142450142
+Structural variant	CD58	Metastatic	720	0.00277777777777778
+Structural variant	CD58	Primary	702	0.00427350427350427

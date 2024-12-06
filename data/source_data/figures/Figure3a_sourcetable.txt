@@ -1,0 +1,31 @@
+any_complex	group	Freq	prop	stage	stage_code	amp_code	index	gindex
+complex	ER+ High	24	0.175182481751825	primary	a	e	ER+ High_a	a_e
+cyclic	ER+ High	81	0.591240875912409	primary	a	d	ER+ High_a	a_d
+none	ER+ High	32	0.233576642335766	primary	a	f	ER+ High_a	a_f
+complex	ER+ Typical	31	0.100323624595469	primary	a	e	ER+ Typical_a	a_e
+cyclic	ER+ Typical	36	0.116504854368932	primary	a	d	ER+ Typical_a	a_d
+none	ER+ Typical	242	0.783171521035599	primary	a	f	ER+ Typical_a	a_f
+complex	HER2+	9	0.130434782608696	primary	a	e	HER2+_a	a_e
+cyclic	HER2+	47	0.681159420289855	primary	a	d	HER2+_a	a_d
+none	HER2+	13	0.188405797101449	primary	a	f	HER2+_a	a_f
+complex	IC10	18	0.126760563380282	primary	a	e	IC10_a	a_e
+cyclic	IC10	27	0.190140845070423	primary	a	d	IC10_a	a_d
+none	IC10	97	0.683098591549296	primary	a	f	IC10_a	a_f
+complex	IC4ER-	7	0.175	primary	a	e	IC4ER-_a	a_e
+cyclic	IC4ER-	4	0.1	primary	a	d	IC4ER-_a	a_d
+none	IC4ER-	29	0.725	primary	a	f	IC4ER-_a	a_f
+complex	ER+ High	38	0.188118811881188	metastatic	b	e	ER+ High_b	b_e
+cyclic	ER+ High	116	0.574257425742574	metastatic	b	d	ER+ High_b	b_d
+none	ER+ High	48	0.237623762376238	metastatic	b	f	ER+ High_b	b_f
+complex	ER+ Typical	56	0.16374269005848	metastatic	b	e	ER+ Typical_b	b_e
+cyclic	ER+ Typical	67	0.195906432748538	metastatic	b	d	ER+ Typical_b	b_d
+none	ER+ Typical	219	0.640350877192982	metastatic	b	f	ER+ Typical_b	b_f
+complex	HER2+	12	0.210526315789474	metastatic	b	e	HER2+_b	b_e
+cyclic	HER2+	39	0.684210526315789	metastatic	b	d	HER2+_b	b_d
+none	HER2+	6	0.105263157894737	metastatic	b	f	HER2+_b	b_f
+complex	IC10	20	0.273972602739726	metastatic	b	e	IC10_b	b_e
+cyclic	IC10	28	0.383561643835616	metastatic	b	d	IC10_b	b_d
+none	IC10	25	0.342465753424658	metastatic	b	f	IC10_b	b_f
+complex	IC4ER-	3	0.166666666666667	metastatic	b	e	IC4ER-_b	b_e
+cyclic	IC4ER-	6	0.333333333333333	metastatic	b	d	IC4ER-_b	b_d
+none	IC4ER-	9	0.5	metastatic	b	f	IC4ER-_b	b_f

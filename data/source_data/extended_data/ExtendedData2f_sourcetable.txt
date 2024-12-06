@@ -1,0 +1,41 @@
+Biopsy_Site	Alteration	Alterations_per_Sample	Samples_per_Site
+Bone	Amplification	48.3098591549296	71
+Bone	Damaging structural variant	138.605633802817	71
+Bone	Homozygous deletion	15.2535211267606	71
+Bone	Non damaging structural variant	130.225352112676	71
+Bone	Protein coding SNV	119.380281690141	71
+Breast	Amplification	60.9375	16
+Breast	Damaging structural variant	138.625	16
+Breast	Homozygous deletion	12.9375	16
+Breast	Non damaging structural variant	131.3125	16
+Breast	Protein coding SNV	139	16
+Lymph node	Amplification	64.3076923076923	117
+Lymph node	Damaging structural variant	159.153846153846	117
+Lymph node	Homozygous deletion	19.4444444444444	117
+Lymph node	Non damaging structural variant	150.529914529915	117
+Lymph node	Protein coding SNV	159.350427350427	117
+Liver	Amplification	73.4548736462094	277
+Liver	Damaging structural variant	153.617328519856	277
+Liver	Homozygous deletion	25.3610108303249	277
+Liver	Non damaging structural variant	151.415162454874	277
+Liver	Protein coding SNV	172.314079422383	277
+Skin	Amplification	77.4193548387097	31
+Skin	Damaging structural variant	185.935483870968	31
+Skin	Homozygous deletion	18.6774193548387	31
+Skin	Non damaging structural variant	172.645161290323	31
+Skin	Protein coding SNV	182.41935483871	31
+Subcutaneous	Amplification	77.6666666666667	21
+Subcutaneous	Damaging structural variant	198.238095238095	21
+Subcutaneous	Homozygous deletion	22.9047619047619	21
+Subcutaneous	Non damaging structural variant	173.904761904762	21
+Subcutaneous	Protein coding SNV	178.904761904762	21
+Soft tissue	Amplification	63.5294117647059	17
+Soft tissue	Damaging structural variant	117.882352941176	17
+Soft tissue	Homozygous deletion	10.4117647058824	17
+Soft tissue	Non damaging structural variant	114.411764705882	17
+Soft tissue	Protein coding SNV	365.823529411765	17
+Lung	Amplification	107.904761904762	21
+Lung	Damaging structural variant	238.52380952381	21
+Lung	Homozygous deletion	12.3333333333333	21
+Lung	Non damaging structural variant	231.428571428571	21
+Lung	Protein coding SNV	401.52380952381	21

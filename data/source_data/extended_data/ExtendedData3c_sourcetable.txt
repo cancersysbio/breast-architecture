@@ -1,0 +1,8 @@
+label_chord_only,label_group,total_del_<10Kb,total_del_>10Kb,total_tds_<10Kb,total_tds_10-100Kb,total_tds_>100Kb,total_non_clustered_del,total_non_clustered_tds
+BRCA1-like,TNBC,1526,1589,5161,2963,1653,3115,9777
+BRCA2-like,ER+ High,640,559,37,57,242,1199,336
+BRCA2-like,ER+ Typical,509,453,27,64,229,962,320
+BRCA2-like,TNBC,345,351,25,31,170,696,226
+non-HRD-like,ER+ High,543,1966,148,234,1235,2509,1617
+non-HRD-like,ER+ Typical,559,1602,171,449,1302,2161,1922
+non-HRD-like,TNBC,727,1571,1244,1095,2180,2298,4519

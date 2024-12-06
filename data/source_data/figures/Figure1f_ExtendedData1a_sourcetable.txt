@@ -1,0 +1,1904 @@
+Stage	Subtype	Subgroup
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic10	IC10
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic8	ER+ Typical
+DCIS	ic4ER-	IC4ER-
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic8	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic9	ER+ High
+DCIS	ic5	HER2+
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic6	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic8	ER+ Typical
+DCIS	ic2	ER+ High
+DCIS	ic8	ER+ Typical
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic8	ER+ Typical
+DCIS	ic1	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic9	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic8	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic2	ER+ High
+DCIS	ic5	HER2+
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic1	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic10	IC10
+DCIS	ic8	ER+ Typical
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic5	HER2+
+DCIS	ic10	IC10
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic9	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic9	ER+ High
+DCIS	ic9	ER+ High
+DCIS	ic6	ER+ High
+DCIS	ic5	HER2+
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic5	HER2+
+DCIS	ic5	HER2+
+DCIS	ic5	HER2+
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic5	HER2+
+DCIS	ic2	ER+ High
+DCIS	ic9	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic9	ER+ High
+DCIS	ic4ER-	IC4ER-
+DCIS	ic5	HER2+
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic2	ER+ High
+DCIS	ic5	HER2+
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic9	ER+ High
+DCIS	ic4ER-	IC4ER-
+DCIS	ic4ER-	IC4ER-
+DCIS	ic5	HER2+
+DCIS	ic5	HER2+
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic4ER-	IC4ER-
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic6	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic6	ER+ High
+DCIS	ic5	HER2+
+DCIS	ic5	HER2+
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic9	ER+ High
+DCIS	ic5	HER2+
+DCIS	ic10	IC10
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic4ER-	IC4ER-
+DCIS	ic5	HER2+
+DCIS	ic9	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic1	ER+ High
+DCIS	ic9	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic1	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic8	ER+ Typical
+DCIS	ic8	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic9	ER+ High
+DCIS	ic4ER-	IC4ER-
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic1	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic5	HER2+
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic1	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic9	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic2	ER+ High
+DCIS	ic6	ER+ High
+DCIS	ic8	ER+ Typical
+DCIS	ic8	ER+ Typical
+DCIS	ic8	ER+ Typical
+DCIS	ic6	ER+ High
+DCIS	ic1	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic4ER-	IC4ER-
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic9	ER+ High
+DCIS	ic6	ER+ High
+DCIS	ic8	ER+ Typical
+DCIS	ic9	ER+ High
+DCIS	ic8	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic2	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic6	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic8	ER+ Typical
+DCIS	ic8	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic1	ER+ High
+DCIS	ic8	ER+ Typical
+DCIS	ic8	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic4ER-	IC4ER-
+DCIS	ic6	ER+ High
+DCIS	ic8	ER+ Typical
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic8	ER+ Typical
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic1	ER+ High
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic8	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic4ER-	IC4ER-
+DCIS	ic1	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic8	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic1	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic8	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic6	ER+ High
+DCIS	ic1	ER+ High
+DCIS	ic2	ER+ High
+DCIS	ic5	HER2+
+DCIS	ic5	HER2+
+DCIS	ic5	HER2+
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic1	ER+ High
+DCIS	ic6	ER+ High
+DCIS	ic4ER-	IC4ER-
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic8	ER+ Typical
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic8	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic1	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic9	ER+ High
+DCIS	ic6	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic10	IC10
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic9	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic9	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic8	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic8	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic2	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic1	ER+ High
+DCIS	ic9	ER+ High
+DCIS	ic1	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic1	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic1	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic4ER-	IC4ER-
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic4ER-	IC4ER-
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic1	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic4ER-	IC4ER-
+DCIS	ic1	ER+ High
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic5	HER2+
+DCIS	ic9	ER+ High
+DCIS	ic1	ER+ High
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic6	ER+ High
+DCIS	ic9	ER+ High
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic9	ER+ High
+DCIS	ic1	ER+ High
+DCIS	ic1	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic8	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic2	ER+ High
+DCIS	ic5	HER2+
+DCIS	ic4ER-	IC4ER-
+DCIS	ic8	ER+ Typical
+DCIS	ic8	ER+ Typical
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic5	HER2+
+DCIS	ic8	ER+ Typical
+DCIS	ic9	ER+ High
+DCIS	ic9	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic1	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic4ER-	IC4ER-
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic8	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic1	ER+ High
+DCIS	ic1	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic1	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic2	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic2	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic8	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic9	ER+ High
+DCIS	ic5	HER2+
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic8	ER+ Typical
+DCIS	ic1	ER+ High
+DCIS	ic5	HER2+
+DCIS	ic5	HER2+
+DCIS	ic5	HER2+
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic10	IC10
+DCIS	ic5	HER2+
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic4ER-	IC4ER-
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic9	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic4ER-	IC4ER-
+DCIS	ic1	ER+ High
+DCIS	ic4ER-	IC4ER-
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic6	ER+ High
+DCIS	ic9	ER+ High
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic8	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic5	HER2+
+DCIS	ic4ER-	IC4ER-
+DCIS	ic5	HER2+
+DCIS	ic4ER-	IC4ER-
+DCIS	ic4ER-	IC4ER-
+DCIS	ic5	HER2+
+DCIS	ic10	IC10
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic9	ER+ High
+DCIS	ic4ER-	IC4ER-
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic8	ER+ Typical
+DCIS	ic10	IC10
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic10	IC10
+DCIS	ic2	ER+ High
+DCIS	ic4ER-	IC4ER-
+DCIS	ic1	ER+ High
+DCIS	ic10	IC10
+DCIS	ic4ER-	IC4ER-
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic8	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic2	ER+ High
+DCIS	ic9	ER+ High
+DCIS	ic4ER-	IC4ER-
+DCIS	ic10	IC10
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic4ER-	IC4ER-
+DCIS	ic4ER-	IC4ER-
+DCIS	ic1	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic10	IC10
+DCIS	ic5	HER2+
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic1	ER+ High
+DCIS	ic8	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic4ER-	IC4ER-
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic8	ER+ Typical
+DCIS	ic10	IC10
+DCIS	ic5	HER2+
+DCIS	ic6	ER+ High
+DCIS	ic4ER-	IC4ER-
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic8	ER+ Typical
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic9	ER+ High
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic8	ER+ Typical
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic6	ER+ High
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic9	ER+ High
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic8	ER+ Typical
+DCIS	ic9	ER+ High
+DCIS	ic8	ER+ Typical
+DCIS	ic9	ER+ High
+DCIS	ic5	HER2+
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic6	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic9	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic1	ER+ High
+DCIS	ic8	ER+ Typical
+DCIS	ic1	ER+ High
+DCIS	ic10	IC10
+DCIS	ic10	IC10
+DCIS	ic9	ER+ High
+DCIS	ic5	HER2+
+DCIS	ic5	HER2+
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic4ER-	IC4ER-
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic4ER-	IC4ER-
+DCIS	ic5	HER2+
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic10	IC10
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic4ER-	IC4ER-
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic4ER-	IC4ER-
+DCIS	ic5	HER2+
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic6	ER+ High
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic1	ER+ High
+DCIS	ic10	IC10
+DCIS	ic9	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic6	ER+ High
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic9	ER+ High
+DCIS	ic5	HER2+
+DCIS	ic3/ic7	ER+ Typical
+DCIS	ic8	ER+ Typical
+DCIS	ic5	HER2+
+DCIS	ic4ER+	ER+ Typical
+DCIS	ic1	ER+ High
+Primary	ic3/ic7	ER+ Typical
+Primary	ic10	IC10
+Primary	ic6	ER+ High
+Primary	ic4ER-	IC4ER-
+Primary	ic9	ER+ High
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic8	ER+ Typical
+Primary	ic10	IC10
+Primary	ic1	ER+ High
+Primary	ic10	IC10
+Primary	ic1	ER+ High
+Primary	ic3/ic7	ER+ Typical
+Primary	ic5	HER2+
+Primary	ic5	HER2+
+Primary	ic5	HER2+
+Primary	ic5	HER2+
+Primary	ic10	IC10
+Primary	ic9	ER+ High
+Primary	ic10	IC10
+Primary	ic3/ic7	ER+ Typical
+Primary	ic1	ER+ High
+Primary	ic1	ER+ High
+Primary	ic10	IC10
+Primary	ic9	ER+ High
+Primary	ic10	IC10
+Primary	ic8	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic8	ER+ Typical
+Primary	ic10	IC10
+Primary	ic5	HER2+
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic1	ER+ High
+Primary	ic6	ER+ High
+Primary	ic4ER+	ER+ Typical
+Primary	ic8	ER+ Typical
+Primary	ic6	ER+ High
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic8	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic4	NA
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic6	ER+ High
+Primary	ic8	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic2	ER+ High
+Primary	ic8	ER+ Typical
+Primary	ic8	ER+ Typical
+Primary	ic9	ER+ High
+Primary	ic4ER+	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic6	ER+ High
+Primary	ic8	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic4ER+	ER+ Typical
+Primary	ic4ER+	ER+ Typical
+Primary	ic4ER+	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic4ER+	ER+ Typical
+Primary	ic9	ER+ High
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic4ER+	ER+ Typical
+Primary	ic1	ER+ High
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic4ER+	ER+ Typical
+Primary	ic8	ER+ Typical
+Primary	ic9	ER+ High
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic8	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic9	ER+ High
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic1	ER+ High
+Primary	ic9	ER+ High
+Primary	ic9	ER+ High
+Primary	ic10	IC10
+Primary	ic4ER+	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic6	ER+ High
+Primary	ic2	ER+ High
+Primary	ic4ER+	ER+ Typical
+Primary	ic5	HER2+
+Primary	ic3/ic7	ER+ Typical
+Primary	ic6	ER+ High
+Primary	ic8	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic8	ER+ Typical
+Primary	ic8	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic8	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic9	ER+ High
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic2	ER+ High
+Primary	ic10	IC10
+Primary	ic5	HER2+
+Primary	ic3/ic7	ER+ Typical
+Primary	ic10	IC10
+Primary	ic9	ER+ High
+Primary	ic10	IC10
+Primary	ic4ER+	ER+ Typical
+Primary	ic4ER-	IC4ER-
+Primary	ic10	IC10
+Primary	ic1	ER+ High
+Primary	ic9	ER+ High
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic2	ER+ High
+Primary	ic1	ER+ High
+Primary	ic5	HER2+
+Primary	ic3/ic7	ER+ Typical
+Primary	ic4ER+	ER+ Typical
+Primary	ic5	HER2+
+Primary	ic5	HER2+
+Primary	ic3/ic7	ER+ Typical
+Primary	ic1	ER+ High
+Primary	ic10	IC10
+Primary	ic2	ER+ High
+Primary	ic5	HER2+
+Primary	ic10	IC10
+Primary	ic3/ic7	ER+ Typical
+Primary	ic10	IC10
+Primary	ic9	ER+ High
+Primary	ic9	ER+ High
+Primary	ic4ER-	IC4ER-
+Primary	ic5	HER2+
+Primary	ic10	IC10
+Primary	ic9	ER+ High
+Primary	ic10	IC10
+Primary	ic9	ER+ High
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic9	ER+ High
+Primary	ic5	HER2+
+Primary	ic5	HER2+
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic3/ic7	ER+ Typical
+Primary	ic1	ER+ High
+Primary	ic9	ER+ High
+Primary	ic3/ic7	ER+ Typical
+Primary	ic5	HER2+
+Primary	ic5	HER2+
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic9	ER+ High
+Primary	ic10	IC10
+Primary	ic9	ER+ High
+Primary	ic4	NA
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic4ER-	IC4ER-
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic4ER-	IC4ER-
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic4ER-	IC4ER-
+Primary	ic9	ER+ High
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic9	ER+ High
+Primary	ic3/ic7	ER+ Typical
+Primary	ic5	HER2+
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic3/ic7	ER+ Typical
+Primary	ic8	ER+ Typical
+Primary	ic1	ER+ High
+Primary	ic10	IC10
+Primary	ic4ER-	IC4ER-
+Primary	ic8	ER+ Typical
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic3/ic7	ER+ Typical
+Primary	ic10	IC10
+Primary	ic3/ic7	ER+ Typical
+Primary	ic4ER+	ER+ Typical
+Primary	ic4ER+	ER+ Typical
+Primary	ic1	ER+ High
+Primary	ic1	ER+ High
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic2	ER+ High
+Primary	ic5	HER2+
+Primary	ic1	ER+ High
+Primary	ic5	HER2+
+Primary	ic3/ic7	ER+ Typical
+Primary	ic1	ER+ High
+Primary	ic5	HER2+
+Primary	ic8	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic8	ER+ Typical
+Primary	ic8	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic4ER+	ER+ Typical
+Primary	ic9	ER+ High
+Primary	ic1	ER+ High
+Primary	ic8	ER+ Typical
+Primary	ic6	ER+ High
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic6	ER+ High
+Primary	ic3/ic7	ER+ Typical
+Primary	ic4ER+	ER+ Typical
+Primary	ic8	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic8	ER+ Typical
+Primary	ic1	ER+ High
+Primary	ic8	ER+ Typical
+Primary	ic4ER+	ER+ Typical
+Primary	ic2	ER+ High
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic1	ER+ High
+Primary	ic3/ic7	ER+ Typical
+Primary	ic6	ER+ High
+Primary	ic8	ER+ Typical
+Primary	ic5	HER2+
+Primary	ic5	HER2+
+Primary	ic5	HER2+
+Primary	ic8	ER+ Typical
+Primary	ic6	ER+ High
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic8	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic2	ER+ High
+Primary	ic3/ic7	ER+ Typical
+Primary	ic4ER+	ER+ Typical
+Primary	ic8	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic8	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic1	ER+ High
+Primary	ic4ER+	ER+ Typical
+Primary	ic9	ER+ High
+Primary	ic5	HER2+
+Primary	ic5	HER2+
+Primary	ic3/ic7	ER+ Typical
+Primary	ic5	HER2+
+Primary	ic9	ER+ High
+Primary	ic2	ER+ High
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic4ER+	ER+ Typical
+Primary	ic8	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic1	ER+ High
+Primary	ic4ER+	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic4ER+	ER+ Typical
+Primary	ic9	ER+ High
+Primary	ic5	HER2+
+Primary	ic5	HER2+
+Primary	ic4ER-	IC4ER-
+Primary	ic1	ER+ High
+Primary	ic1	ER+ High
+Primary	ic5	HER2+
+Primary	ic5	HER2+
+Primary	ic8	ER+ Typical
+Primary	ic8	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic4ER+	ER+ Typical
+Primary	ic8	ER+ Typical
+Primary	ic6	ER+ High
+Primary	ic3/ic7	ER+ Typical
+Primary	ic4ER+	ER+ Typical
+Primary	ic4ER+	ER+ Typical
+Primary	ic9	ER+ High
+Primary	ic8	ER+ Typical
+Primary	ic8	ER+ Typical
+Primary	ic4ER+	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic8	ER+ Typical
+Primary	ic8	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic1	ER+ High
+Primary	ic1	ER+ High
+Primary	ic4ER+	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic4ER+	ER+ Typical
+Primary	ic8	ER+ Typical
+Primary	ic2	ER+ High
+Primary	ic9	ER+ High
+Primary	ic9	ER+ High
+Primary	ic4ER+	ER+ Typical
+Primary	ic4ER+	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic8	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic2	ER+ High
+Primary	ic4ER+	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic8	ER+ Typical
+Primary	ic2	ER+ High
+Primary	ic8	ER+ Typical
+Primary	ic2	ER+ High
+Primary	ic8	ER+ Typical
+Primary	ic2	ER+ High
+Primary	ic4ER+	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic4ER+	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic9	ER+ High
+Primary	ic8	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic4ER-	IC4ER-
+Primary	ic5	HER2+
+Primary	ic9	ER+ High
+Primary	ic5	HER2+
+Primary	ic9	ER+ High
+Primary	ic5	HER2+
+Primary	ic5	HER2+
+Primary	ic8	ER+ Typical
+Primary	ic4ER+	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic9	ER+ High
+Primary	ic5	HER2+
+Primary	ic5	HER2+
+Primary	ic4ER+	ER+ Typical
+Primary	ic9	ER+ High
+Primary	ic6	ER+ High
+Primary	ic3/ic7	ER+ Typical
+Primary	ic8	ER+ Typical
+Primary	ic4ER+	ER+ Typical
+Primary	ic8	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic8	ER+ Typical
+Primary	ic6	ER+ High
+Primary	ic3/ic7	ER+ Typical
+Primary	ic6	ER+ High
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic4ER+	ER+ Typical
+Primary	ic4ER+	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic4ER+	ER+ Typical
+Primary	ic4ER-	IC4ER-
+Primary	ic3/ic7	ER+ Typical
+Primary	ic10	IC10
+Primary	ic5	HER2+
+Primary	ic10	IC10
+Primary	ic5	HER2+
+Primary	ic4ER-	IC4ER-
+Primary	ic3/ic7	ER+ Typical
+Primary	ic5	HER2+
+Primary	ic10	IC10
+Primary	ic3/ic7	ER+ Typical
+Primary	ic6	ER+ High
+Primary	ic5	HER2+
+Primary	ic1	ER+ High
+Primary	ic10	IC10
+Primary	ic9	ER+ High
+Primary	ic4ER-	IC4ER-
+Primary	ic5	HER2+
+Primary	ic5	HER2+
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic4ER-	IC4ER-
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic4ER-	IC4ER-
+Primary	ic3/ic7	ER+ Typical
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic4ER-	IC4ER-
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic8	ER+ Typical
+Primary	ic10	IC10
+Primary	ic9	ER+ High
+Primary	ic3/ic7	ER+ Typical
+Primary	ic5	HER2+
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic4ER+	ER+ Typical
+Primary	ic9	ER+ High
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic4ER-	IC4ER-
+Primary	ic4ER-	IC4ER-
+Primary	ic9	ER+ High
+Primary	ic5	HER2+
+Primary	ic4ER-	IC4ER-
+Primary	ic5	HER2+
+Primary	ic1	ER+ High
+Primary	ic1	ER+ High
+Primary	ic4ER-	IC4ER-
+Primary	ic3/ic7	ER+ Typical
+Primary	ic4ER-	IC4ER-
+Primary	ic10	IC10
+Primary	ic2	ER+ High
+Primary	ic5	HER2+
+Primary	ic4ER-	IC4ER-
+Primary	ic8	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic4ER-	IC4ER-
+Primary	ic3/ic7	ER+ Typical
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic3/ic7	ER+ Typical
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic4ER+	ER+ Typical
+Primary	ic5	HER2+
+Primary	ic9	ER+ High
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic10	IC10
+Primary	ic5	HER2+
+Primary	ic4ER-	IC4ER-
+Primary	ic5	HER2+
+Primary	ic3/ic7	ER+ Typical
+Primary	ic10	IC10
+Primary	ic3/ic7	ER+ Typical
+Primary	ic10	IC10
+Primary	ic3/ic7	ER+ Typical
+Primary	ic1	ER+ High
+Primary	ic8	ER+ Typical
+Primary	ic9	ER+ High
+Primary	ic4ER+	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic1	ER+ High
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic5	HER2+
+Primary	ic3/ic7	ER+ Typical
+Primary	ic4ER+	ER+ Typical
+Primary	ic9	ER+ High
+Primary	ic3/ic7	ER+ Typical
+Primary	ic6	ER+ High
+Primary	ic3/ic7	ER+ Typical
+Primary	ic2	ER+ High
+Primary	ic2	ER+ High
+Primary	ic1	ER+ High
+Primary	ic10	IC10
+Primary	ic5	HER2+
+Primary	ic4ER+	ER+ Typical
+Primary	ic10	IC10
+Primary	ic5	HER2+
+Primary	ic5	HER2+
+Primary	ic5	HER2+
+Primary	ic5	HER2+
+Primary	ic3/ic7	ER+ Typical
+Primary	ic6	ER+ High
+Primary	ic1	ER+ High
+Primary	ic10	IC10
+Primary	ic5	HER2+
+Primary	ic10	IC10
+Primary	ic8	ER+ Typical
+Primary	ic5	HER2+
+Primary	ic1	ER+ High
+Primary	ic5	HER2+
+Primary	ic3/ic7	ER+ Typical
+Primary	ic4ER-	IC4ER-
+Primary	ic4ER-	IC4ER-
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic4ER+	ER+ Typical
+Primary	ic8	ER+ Typical
+Primary	ic10	IC10
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic8	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic6	ER+ High
+Primary	ic3/ic7	ER+ Typical
+Primary	ic6	ER+ High
+Primary	ic5	HER2+
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic8	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic1	ER+ High
+Primary	ic6	ER+ High
+Primary	ic3/ic7	ER+ Typical
+Primary	ic6	ER+ High
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic5	HER2+
+Primary	ic4ER+	ER+ Typical
+Primary	ic8	ER+ Typical
+Primary	ic2	ER+ High
+Primary	ic1	ER+ High
+Primary	ic4ER+	ER+ Typical
+Primary	ic8	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic8	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic9	ER+ High
+Primary	ic8	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic9	ER+ High
+Primary	ic8	ER+ Typical
+Primary	ic4ER+	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic4ER+	ER+ Typical
+Primary	ic4ER+	ER+ Typical
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic4ER+	ER+ Typical
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic3/ic7	ER+ Typical
+Primary	ic10	IC10
+Primary	ic8	ER+ Typical
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic8	ER+ Typical
+Primary	ic10	IC10
+Primary	ic4ER-	IC4ER-
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic4ER-	IC4ER-
+Primary	ic10	IC10
+Primary	ic9	ER+ High
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic4ER-	IC4ER-
+Primary	ic3/ic7	ER+ Typical
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic9	ER+ High
+Primary	ic10	IC10
+Primary	ic3/ic7	ER+ Typical
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic3/ic7	ER+ Typical
+Primary	ic4ER-	IC4ER-
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic4ER-	IC4ER-
+Primary	ic10	IC10
+Primary	ic3/ic7	ER+ Typical
+Primary	ic4ER-	IC4ER-
+Primary	ic4ER-	IC4ER-
+Primary	ic4ER-	IC4ER-
+Primary	ic10	IC10
+Primary	ic4ER-	IC4ER-
+Primary	ic5	HER2+
+Primary	ic10	IC10
+Primary	ic4ER-	IC4ER-
+Primary	ic2	ER+ High
+Primary	ic10	IC10
+Primary	ic3/ic7	ER+ Typical
+Primary	ic10	IC10
+Primary	ic4ER-	IC4ER-
+Primary	ic3/ic7	ER+ Typical
+Primary	ic4ER-	IC4ER-
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic4ER-	IC4ER-
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic9	ER+ High
+Primary	ic10	IC10
+Primary	ic10	IC10
+Primary	ic6	ER+ High
+Primary	ic1	ER+ High
+Primary	ic3/ic7	ER+ Typical
+Primary	ic5	HER2+
+Primary	ic10	IC10
+Primary	ic3/ic7	ER+ Typical
+Primary	ic5	HER2+
+Primary	ic4ER-	IC4ER-
+Primary	ic3/ic7	ER+ Typical
+Primary	ic2	ER+ High
+Primary	ic4ER+	ER+ Typical
+Primary	ic5	HER2+
+Primary	ic10	IC10
+Primary	ic4ER+	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic1	ER+ High
+Primary	ic10	IC10
+Primary	ic1	ER+ High
+Primary	ic3/ic7	ER+ Typical
+Primary	ic2	ER+ High
+Primary	ic5	HER2+
+Primary	ic8	ER+ Typical
+Primary	ic4ER+	ER+ Typical
+Primary	ic4ER+	ER+ Typical
+Primary	ic4ER+	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic5	HER2+
+Primary	ic8	ER+ Typical
+Primary	ic5	HER2+
+Primary	ic9	ER+ High
+Primary	ic6	ER+ High
+Primary	ic5	HER2+
+Primary	ic8	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic5	HER2+
+Primary	ic4ER+	ER+ Typical
+Primary	ic4ER-	IC4ER-
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic5	HER2+
+Primary	ic10	IC10
+Primary	ic4ER+	ER+ Typical
+Primary	ic8	ER+ Typical
+Primary	ic9	ER+ High
+Primary	ic10	IC10
+Primary	ic9	ER+ High
+Primary	ic3/ic7	ER+ Typical
+Primary	ic10	IC10
+Primary	ic2	ER+ High
+Primary	ic3/ic7	ER+ Typical
+Primary	ic9	ER+ High
+Primary	ic6	ER+ High
+Primary	ic3/ic7	ER+ Typical
+Primary	ic10	IC10
+Primary	ic3/ic7	ER+ Typical
+Primary	ic4ER+	ER+ Typical
+Primary	ic1	ER+ High
+Primary	ic10	IC10
+Primary	ic1	ER+ High
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Primary	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic8	ER+ Typical
+Metastatic	ic10	IC10
+Metastatic	ic5	HER2+
+Metastatic	ic5	HER2+
+Metastatic	ic9	ER+ High
+Metastatic	ic8	ER+ Typical
+Metastatic	ic1	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic6	ER+ High
+Metastatic	ic10	IC10
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic9	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic9	ER+ High
+Metastatic	ic6	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic6	ER+ High
+Metastatic	ic1	ER+ High
+Metastatic	ic10	IC10
+Metastatic	ic8	ER+ Typical
+Metastatic	ic6	ER+ High
+Metastatic	ic10	IC10
+Metastatic	ic9	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic2	ER+ High
+Metastatic	ic10	IC10
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic1	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic8	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic10	IC10
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic8	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic5	HER2+
+Metastatic	ic10	IC10
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic9	ER+ High
+Metastatic	ic10	IC10
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic10	IC10
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic8	ER+ Typical
+Metastatic	ic1	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic6	ER+ High
+Metastatic	ic1	ER+ High
+Metastatic	ic1	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic8	ER+ Typical
+Metastatic	ic2	ER+ High
+Metastatic	ic9	ER+ High
+Metastatic	ic2	ER+ High
+Metastatic	ic2	ER+ High
+Metastatic	ic9	ER+ High
+Metastatic	ic6	ER+ High
+Metastatic	ic2	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic2	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic6	ER+ High
+Metastatic	ic6	ER+ High
+Metastatic	ic9	ER+ High
+Metastatic	ic1	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic6	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic1	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic9	ER+ High
+Metastatic	ic5	HER2+
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic10	IC10
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic10	IC10
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic10	IC10
+Metastatic	ic10	IC10
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic5	HER2+
+Metastatic	ic1	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic8	ER+ Typical
+Metastatic	ic8	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic4ER-	IC4ER-
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic1	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic2	ER+ High
+Metastatic	ic10	IC10
+Metastatic	ic1	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic5	HER2+
+Metastatic	ic5	HER2+
+Metastatic	ic1	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic8	ER+ Typical
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic6	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic6	ER+ High
+Metastatic	ic10	IC10
+Metastatic	ic5	HER2+
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic4ER-	IC4ER-
+Metastatic	ic1	ER+ High
+Metastatic	ic5	HER2+
+Metastatic	ic4ER-	IC4ER-
+Metastatic	ic1	ER+ High
+Metastatic	ic10	IC10
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic9	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic5	HER2+
+Metastatic	ic1	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic10	IC10
+Metastatic	ic10	IC10
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic5	HER2+
+Metastatic	ic1	ER+ High
+Metastatic	ic5	HER2+
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic8	ER+ Typical
+Metastatic	ic8	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic2	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic5	HER2+
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic10	IC10
+Metastatic	ic4ER-	IC4ER-
+Metastatic	ic6	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic9	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic9	ER+ High
+Metastatic	ic1	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic6	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic8	ER+ Typical
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic8	ER+ Typical
+Metastatic	ic10	IC10
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic2	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic1	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic10	IC10
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic8	ER+ Typical
+Metastatic	ic5	HER2+
+Metastatic	ic8	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic5	HER2+
+Metastatic	ic6	ER+ High
+Metastatic	ic5	HER2+
+Metastatic	ic6	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic5	HER2+
+Metastatic	ic8	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic5	HER2+
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic5	HER2+
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic6	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic1	ER+ High
+Metastatic	ic10	IC10
+Metastatic	ic10	IC10
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic2	ER+ High
+Metastatic	ic1	ER+ High
+Metastatic	ic9	ER+ High
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic4	NA
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic5	HER2+
+Metastatic	ic6	ER+ High
+Metastatic	ic2	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic1	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic10	IC10
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic9	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic1	ER+ High
+Metastatic	ic9	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic4ER-	IC4ER-
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic5	HER2+
+Metastatic	ic8	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic5	HER2+
+Metastatic	ic5	HER2+
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic8	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic5	HER2+
+Metastatic	ic8	ER+ Typical
+Metastatic	ic6	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic4ER-	IC4ER-
+Metastatic	ic9	ER+ High
+Metastatic	ic4ER-	IC4ER-
+Metastatic	ic9	ER+ High
+Metastatic	ic10	IC10
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic8	ER+ Typical
+Metastatic	ic4ER-	IC4ER-
+Metastatic	ic2	ER+ High
+Metastatic	ic6	ER+ High
+Metastatic	ic1	ER+ High
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic1	ER+ High
+Metastatic	ic2	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic6	ER+ High
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic4ER-	IC4ER-
+Metastatic	ic6	ER+ High
+Metastatic	ic5	HER2+
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic8	ER+ Typical
+Metastatic	ic5	HER2+
+Metastatic	ic9	ER+ High
+Metastatic	ic10	IC10
+Metastatic	ic9	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic5	HER2+
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic5	HER2+
+Metastatic	ic9	ER+ High
+Metastatic	ic4ER-	IC4ER-
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic2	ER+ High
+Metastatic	ic10	IC10
+Metastatic	ic2	ER+ High
+Metastatic	ic5	HER2+
+Metastatic	ic6	ER+ High
+Metastatic	ic5	HER2+
+Metastatic	ic5	HER2+
+Metastatic	ic1	ER+ High
+Metastatic	ic6	ER+ High
+Metastatic	ic10	IC10
+Metastatic	ic10	IC10
+Metastatic	ic6	ER+ High
+Metastatic	ic5	HER2+
+Metastatic	ic4ER-	IC4ER-
+Metastatic	ic9	ER+ High
+Metastatic	ic2	ER+ High
+Metastatic	ic5	HER2+
+Metastatic	ic1	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic5	HER2+
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic10	IC10
+Metastatic	ic2	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic4ER-	IC4ER-
+Metastatic	ic2	ER+ High
+Metastatic	ic1	ER+ High
+Metastatic	ic9	ER+ High
+Metastatic	ic8	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic8	ER+ Typical
+Metastatic	ic8	ER+ Typical
+Metastatic	ic1	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic2	ER+ High
+Metastatic	ic10	IC10
+Metastatic	ic9	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic6	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic5	HER2+
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic1	ER+ High
+Metastatic	ic8	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic9	ER+ High
+Metastatic	ic5	HER2+
+Metastatic	ic8	ER+ Typical
+Metastatic	ic6	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic8	ER+ Typical
+Metastatic	ic10	IC10
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic5	HER2+
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic6	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic6	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic10	IC10
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic2	ER+ High
+Metastatic	ic2	ER+ High
+Metastatic	ic2	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic6	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic9	ER+ High
+Metastatic	ic1	ER+ High
+Metastatic	ic9	ER+ High
+Metastatic	ic4ER-	IC4ER-
+Metastatic	ic1	ER+ High
+Metastatic	ic2	ER+ High
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic1	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic2	ER+ High
+Metastatic	ic5	HER2+
+Metastatic	ic10	IC10
+Metastatic	ic6	ER+ High
+Metastatic	ic10	IC10
+Metastatic	ic6	ER+ High
+Metastatic	ic6	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic8	ER+ Typical
+Metastatic	ic6	ER+ High
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic5	HER2+
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic6	ER+ High
+Metastatic	ic10	IC10
+Metastatic	ic4ER-	IC4ER-
+Metastatic	ic6	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic1	ER+ High
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic8	ER+ Typical
+Metastatic	ic5	HER2+
+Metastatic	ic2	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic10	IC10
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic10	IC10
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic10	IC10
+Metastatic	ic1	ER+ High
+Metastatic	ic2	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic4	NA
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic10	IC10
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic5	HER2+
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic9	ER+ High
+Metastatic	ic5	HER2+
+Metastatic	ic5	HER2+
+Metastatic	ic10	IC10
+Metastatic	ic4ER-	IC4ER-
+Metastatic	ic4ER-	IC4ER-
+Metastatic	ic10	IC10
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic1	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic5	HER2+
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic10	IC10
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic1	ER+ High
+Metastatic	ic6	ER+ High
+Metastatic	ic6	ER+ High
+Metastatic	ic8	ER+ Typical
+Metastatic	ic9	ER+ High
+Metastatic	ic1	ER+ High
+Metastatic	ic10	IC10
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic6	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic5	HER2+
+Metastatic	ic6	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic9	ER+ High
+Metastatic	ic5	HER2+
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic8	ER+ Typical
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic8	ER+ Typical
+Metastatic	ic6	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic10	IC10
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic9	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic5	HER2+
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic2	ER+ High
+Metastatic	ic1	ER+ High
+Metastatic	ic9	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic10	IC10
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic6	ER+ High
+Metastatic	ic1	ER+ High
+Metastatic	ic1	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic10	IC10
+Metastatic	ic1	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic1	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic8	ER+ Typical
+Metastatic	ic9	ER+ High
+Metastatic	ic4	NA
+Metastatic	ic10	IC10
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic8	ER+ Typical
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic4ER-	IC4ER-
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic1	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic9	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic5	HER2+
+Metastatic	ic6	ER+ High
+Metastatic	ic8	ER+ Typical
+Metastatic	ic9	ER+ High
+Metastatic	ic9	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic2	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic1	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic8	ER+ Typical
+Metastatic	ic6	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic10	IC10
+Metastatic	ic10	IC10
+Metastatic	ic9	ER+ High
+Metastatic	ic10	IC10
+Metastatic	ic2	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic9	ER+ High
+Metastatic	ic4	NA
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic9	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic10	IC10
+Metastatic	ic8	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic10	IC10
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic9	ER+ High
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic8	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic8	ER+ Typical
+Metastatic	ic10	IC10
+Metastatic	ic10	IC10
+Metastatic	ic9	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic10	IC10
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic8	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic1	ER+ High
+Metastatic	ic1	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic1	ER+ High
+Metastatic	ic10	IC10
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic9	ER+ High
+Metastatic	ic6	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic1	ER+ High
+Metastatic	ic4	NA
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic10	IC10
+Metastatic	ic1	ER+ High
+Metastatic	ic2	ER+ High
+Metastatic	ic6	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic8	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic9	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic1	ER+ High
+Metastatic	ic6	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic1	ER+ High
+Metastatic	ic10	IC10
+Metastatic	ic5	HER2+
+Metastatic	ic1	ER+ High
+Metastatic	ic9	ER+ High
+Metastatic	ic1	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic8	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic6	ER+ High
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic9	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic5	HER2+
+Metastatic	ic6	ER+ High
+Metastatic	ic10	IC10
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic9	ER+ High
+Metastatic	ic5	HER2+
+Metastatic	ic8	ER+ Typical
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic4	NA
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic8	ER+ Typical
+Metastatic	ic6	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic8	ER+ Typical
+Metastatic	ic1	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic6	ER+ High
+Metastatic	ic4	NA
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic9	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic5	HER2+
+Metastatic	ic9	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic6	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic6	ER+ High
+Metastatic	ic8	ER+ Typical
+Metastatic	ic1	ER+ High
+Metastatic	ic6	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic2	ER+ High
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic5	HER2+
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic1	ER+ High
+Metastatic	ic2	ER+ High
+Metastatic	ic6	ER+ High
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic1	ER+ High
+Metastatic	ic10	IC10
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic8	ER+ Typical
+Metastatic	ic5	HER2+
+Metastatic	ic8	ER+ Typical
+Metastatic	ic1	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic6	ER+ High
+Metastatic	ic4ER-	IC4ER-
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic10	IC10
+Metastatic	ic5	HER2+
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic4ER+	ER+ Typical
+Metastatic	ic5	HER2+
+Metastatic	ic10	IC10
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic6	ER+ High
+Metastatic	ic9	ER+ High
+Metastatic	ic5	HER2+
+Metastatic	ic1	ER+ High
+Metastatic	ic8	ER+ Typical
+Metastatic	ic10	IC10
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic10	IC10
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic8	ER+ Typical
+Metastatic	ic8	ER+ Typical
+Metastatic	ic10	IC10
+Metastatic	ic6	ER+ High
+Metastatic	ic10	IC10
+Metastatic	ic9	ER+ High
+Metastatic	ic1	ER+ High
+Metastatic	ic6	ER+ High
+Metastatic	ic10	IC10
+Metastatic	ic10	IC10
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic1	ER+ High
+Metastatic	ic6	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic10	IC10
+Metastatic	ic2	ER+ High
+Metastatic	ic2	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic10	IC10
+Metastatic	ic8	ER+ Typical
+Metastatic	ic10	IC10
+Metastatic	ic10	IC10
+Metastatic	ic9	ER+ High
+Metastatic	ic9	ER+ High
+Metastatic	ic10	IC10
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic1	ER+ High
+Metastatic	ic10	IC10
+Metastatic	ic6	ER+ High
+Metastatic	ic4ER-	IC4ER-
+Metastatic	ic2	ER+ High
+Metastatic	ic6	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic1	ER+ High
+Metastatic	ic6	ER+ High
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic3/ic7	ER+ Typical
+Metastatic	ic2	ER+ High
+Metastatic	ic10	IC10
+Metastatic	ic8	ER+ Typical

@@ -1,0 +1,396 @@
+sample	ampliconID	Freq	width	FreqNorm	comparison	stage	group	iC10	ER	index
+CURTIS_H000380_T01_01_WG01	amplicon1	2	4240683	0.471622141999296	ecdna	primary	ER+ High	ic9	1	primaryER+ Highecdna
+CURTIS_H000382_T01_01_WG01	amplicon1	2	10749784	0.186050249939906	noncyclic	primary	ER+ High	ic9	1	primaryER+ Highnoncyclic
+CURTIS_H000387_T01_01_WG01	amplicon1	0	20718901	0	ecdna	primary	ER+ High	ic1	1	primaryER+ Highecdna
+CURTIS_H000390_T01_01_WG01	amplicon1	12	9047976	1.32626346488983	ecdna	primary	ER+ Typical	ic9	1	primaryER+ Typicalecdna
+CURTIS_H000392_T01_01_WG01	amplicon1	0	3140447	0	ecdna	primary	HER2+	ic5	1	primaryHER2+ecdna
+CURTIS_H000393_T01_01_WG01	amplicon1	0	9440122	0	ecdna	primary	HER2+	ic9	1	primaryHER2+ecdna
+CURTIS_H000394_T01_01_WG01	amplicon1	4	5542614	0.721681141786168	ecdna	primary	HER2+	ic5	0	primaryHER2+ecdna
+CURTIS_H000396_T01_01_WG01	amplicon1	13	31889135	0.407662358982142	ecdna	primary	ER+ High	ic9	1	primaryER+ Highecdna
+CURTIS_H000399_T01_01_WG01	amplicon1	8	18617077	0.429712999521891	noncyclic	primary	ER+ High	ic1	0	primaryER+ Highnoncyclic
+CURTIS_H000400_T01_01_WG01	amplicon1	12	31635757	0.379317618351917	ecdna	primary	ER+ High	ic1	1	primaryER+ Highecdna
+CURTIS_H000402_T01_01_WG01	amplicon1	2	12304171	0.16254650557116	ecdna	primary	ER+ High	ic9	1	primaryER+ Highecdna
+CURTIS_H000405_T01_01_WG01	amplicon1	17	41795955	0.406737924758508	ecdna	primary	ER+ Typical	ic9	1	primaryER+ Typicalecdna
+CURTIS_H000406_T01_01_WG01	amplicon1	0	361060	0	noncyclic	primary	IC10	ic8	0	primaryIC10noncyclic
+CURTIS_H000407_T01_01_WG01	amplicon1	1	14638322	0.0683138408896867	ecdna	primary	IC10	ic8	0	primaryIC10ecdna
+CURTIS_H000409_T01_01_WG01	amplicon1	0	2119266	0	ecdna	primary	IC10	ic9	0	primaryIC10ecdna
+CURTIS_H000409_T01_01_WG01	amplicon2	0	439608	0	ecdna	primary	IC10	ic9	0	primaryIC10ecdna
+CURTIS_H000412_T01_01_WG01	amplicon2	5	33516483	0.149180330167697	ecdna	primary	HER2+	ic5	1	primaryHER2+ecdna
+CURTIS_H000412_T01_01_WG01	amplicon3	0	5316622	0	noncyclic	primary	HER2+	ic5	1	primaryHER2+noncyclic
+CURTIS_H000414_T01_01_WG01	amplicon2	0	3069157	0	noncyclic	primary	IC10	ic5	0	primaryIC10noncyclic
+CURTIS_H000415_T01_01_WG01	amplicon1	12	22538926	0.53241223650142	ecdna	primary	ER+ High	ic1	1	primaryER+ Highecdna
+CURTIS_H000416_T01_01_WG01	amplicon2	0	3143072	0	noncyclic	primary	ER+ High	ic9	1	primaryER+ Highnoncyclic
+CURTIS_H000419_T01_01_WG01	amplicon1	2	12319872	0.162339348980249	ecdna	primary	ER+ High	ic6	1	primaryER+ Highecdna
+CURTIS_H000427_T01_01_WG01	amplicon1	0	8876599	0	ecdna	primary	ER+ Typical	ic6	1	primaryER+ Typicalecdna
+CURTIS_H000429_T01_01_WG01	amplicon1	2	7177232	0.278658959331397	ecdna	primary	ER+ High	ic6	1	primaryER+ Highecdna
+CURTIS_H000429_T01_01_WG01	amplicon2	1	6303068	0.15865289728748	noncyclic	primary	ER+ High	ic6	1	primaryER+ Highnoncyclic
+CURTIS_H000432_T01_01_WG01	amplicon1	12	28248672	0.424798730361555	ecdna	primary	ER+ High	ic2	NA	primaryER+ Highecdna
+CURTIS_H000435_T01_01_WG01	amplicon1	0	3459165	0	ecdna	primary	ER+ High	ic9	1	primaryER+ Highecdna
+CURTIS_H000438_T01_01_WG01	amplicon1	12	4660723	2.57470782966505	noncyclic	primary	ER+ High	ic9	1	primaryER+ Highnoncyclic
+CURTIS_H000443_T01_01_WG01	amplicon2	1	6116914	0.163481127902076	noncyclic	primary	ER+ Typical	ic2	1	primaryER+ Typicalnoncyclic
+CURTIS_H000443_T01_01_WG01	amplicon1	12	3321042	3.61332377006975	noncyclic	primary	ER+ Typical	ic2	1	primaryER+ Typicalnoncyclic
+CURTIS_H000445_T01_01_WG01	amplicon1	12	24078817	0.498363353980389	ecdna	primary	ER+ Typical	ic2	1	primaryER+ Typicalecdna
+CURTIS_H000452_T01_01_WG01	amplicon1	0	5814152	0	noncyclic	primary	ER+ Typical	ic1	1	primaryER+ Typicalnoncyclic
+CURTIS_H000454_T01_01_WG01	amplicon1	1	15794964	0.0633113187215875	ecdna	primary	ER+ Typical	ic4	1	primaryER+ Typicalecdna
+CURTIS_H000460_T01_01_WG01	amplicon1	0	1529245	0	noncyclic	primary	ER+ Typical	ic9	1	primaryER+ Typicalnoncyclic
+CURTIS_H000463_T01_01_WG01	amplicon1	8	30124590	0.265563780287134	ecdna	primary	ER+ Typical	ic8	1	primaryER+ Typicalecdna
+CURTIS_H000468_T01_01_WG01	amplicon2	0	2047506	0	noncyclic	primary	ER+ Typical	ic8	1	primaryER+ Typicalnoncyclic
+CURTIS_H000468_T01_01_WG01	amplicon1	0	6050379	0	ecdna	primary	ER+ Typical	ic8	1	primaryER+ Typicalecdna
+CURTIS_H000470_T01_01_WG01	amplicon2	0	9803668	0	noncyclic	primary	ER+ Typical	ic3	1	primaryER+ Typicalnoncyclic
+CURTIS_H000470_T01_01_WG01	amplicon1	0	5272095	0	ecdna	primary	ER+ Typical	ic3	1	primaryER+ Typicalecdna
+CURTIS_H000472_T01_01_WG01	amplicon1	0	1727787	0	noncyclic	primary	ER+ High	ic9	1	primaryER+ Highnoncyclic
+CURTIS_H000472_T01_01_WG01	amplicon2	2	13502354	0.148122320004349	ecdna	primary	ER+ High	ic9	1	primaryER+ Highecdna
+CURTIS_H000474_T01_01_WG01	amplicon2	2	4351486	0.459613106878892	noncyclic	primary	ER+ Typical	ic7	1	primaryER+ Typicalnoncyclic
+CURTIS_H000474_T01_01_WG01	amplicon3	0	1463581	0	noncyclic	primary	ER+ Typical	ic7	1	primaryER+ Typicalnoncyclic
+CURTIS_H000477_T01_01_WG01	amplicon2	12	20089748	0.597319588080448	ecdna	primary	ER+ High	ic1	1	primaryER+ Highecdna
+CURTIS_H000485_T01_01_WG01	amplicon3	12	10729084	1.11845521947633	ecdna	primary	ER+ High	ic1	1	primaryER+ Highecdna
+CURTIS_H000485_T01_01_WG01	amplicon2	0	5811597	0	noncyclic	primary	ER+ High	ic1	1	primaryER+ Highnoncyclic
+CURTIS_H000487_T01_01_WG01	amplicon1	4	4575808	0.874162552274921	noncyclic	primary	HER2+	ic5	1	primaryHER2+noncyclic
+CURTIS_H000489_T01_01_WG01	amplicon1	2	3397848	0.588607848261606	noncyclic	primary	ER+ High	ic6	1	primaryER+ Highnoncyclic
+CURTIS_H000489_T01_01_WG01	amplicon3	0	2401523	0	noncyclic	primary	ER+ High	ic6	1	primaryER+ Highnoncyclic
+CURTIS_H000497_T01_01_WG01	amplicon1	0	4509200	0	ecdna	primary	ER+ High	ic9	1	primaryER+ Highecdna
+CURTIS_H000498_T01_01_WG01	amplicon1	3	30138579	0.0995401939819392	noncyclic	primary	IC10	ic9	0	primaryIC10noncyclic
+CURTIS_H000500_T01_01_WG01	amplicon1	16	7943675	2.01418109376328	ecdna	primary	ER+ High	ic2	0	primaryER+ Highecdna
+CURTIS_H000501_T01_01_WG01	amplicon1	0	34975034	0	ecdna	primary	IC10	ic3	0	primaryIC10ecdna
+CURTIS_H000502_T01_01_WG01	amplicon1	4	22286852	0.179478016904317	ecdna	primary	HER2+	ic5	0	primaryHER2+ecdna
+CURTIS_H000505_T01_01_WG01	amplicon3	0	950548	0	noncyclic	primary	ER+ High	ic9	1	primaryER+ Highnoncyclic
+CURTIS_H000505_T01_01_WG01	amplicon2	12	11155901	1.07566390200128	ecdna	primary	ER+ High	ic9	1	primaryER+ Highecdna
+CURTIS_H000506_T01_01_WG01	amplicon2	1	2155462	0.463937661624283	noncyclic	primary	IC10	ic9	0	primaryIC10noncyclic
+CURTIS_H000511_T01_01_WG01	amplicon1	6	23253823	0.258022089529107	ecdna	primary	ER+ High	ic1	1	primaryER+ Highecdna
+CURTIS_H000513_T01_01_WG01	amplicon1	3	9658924	0.310593602351566	ecdna	primary	ER+ High	ic9	0	primaryER+ Highecdna
+CURTIS_H000516_T01_01_WG01	amplicon1	1	4453811	0.224526815349821	ecdna	primary	IC10	ic9	0	primaryIC10ecdna
+CURTIS_H000516_T01_01_WG01	amplicon3	0	9263844	0	noncyclic	primary	IC10	ic9	0	primaryIC10noncyclic
+CURTIS_H000516_T01_01_WG01	amplicon2	2	23716180	0.0843306131088565	noncyclic	primary	IC10	ic9	0	primaryIC10noncyclic
+CURTIS_H000517_T01_01_WG01	amplicon5	0	16258690	0	noncyclic	primary	IC10	ic10	0	primaryIC10noncyclic
+CURTIS_H000517_T01_01_WG01	amplicon6	0	8580354	0	noncyclic	primary	IC10	ic10	0	primaryIC10noncyclic
+CURTIS_H000518_T01_01_WG01	amplicon1	12	7699040	1.55863588187618	ecdna	primary	ER+ High	ic5	1	primaryER+ Highecdna
+CURTIS_H000520_T01_01_WG01	amplicon1	0	4868885	0	ecdna	primary	HER2+	ic9	1	primaryHER2+ecdna
+CURTIS_H000523_T01_01_WG01	amplicon2	0	751027	0	noncyclic	primary	HER2+	ic5	0	primaryHER2+noncyclic
+CURTIS_H000523_T01_01_WG01	amplicon5	0	6016175	0	noncyclic	primary	HER2+	ic5	0	primaryHER2+noncyclic
+CURTIS_H000524_T01_01_WG01	amplicon1	0	4766032	0	noncyclic	primary	HER2+	ic5	1	primaryHER2+noncyclic
+CURTIS_H000524_T01_01_WG01	amplicon3	0	22773204	0	ecdna	primary	HER2+	ic5	1	primaryHER2+ecdna
+CURTIS_H000526_T01_01_WG01	amplicon1	0	9996578	0	ecdna	primary	ER+ Typical	ic8	1	primaryER+ Typicalecdna
+CURTIS_H000527_T01_01_WG01	amplicon1	2	13111269	0.152540535931343	noncyclic	primary	ER+ High	ic1	1	primaryER+ Highnoncyclic
+CURTIS_H000529_T01_01_WG01	amplicon1	12	17701987	0.677890001839906	ecdna	primary	ER+ High	ic2	1	primaryER+ Highecdna
+CURTIS_H000530_T01_01_WG01	amplicon2	0	6346278	0	ecdna	primary	HER2+	ic5	1	primaryHER2+ecdna
+CURTIS_H000530_T01_01_WG01	amplicon1	0	2690838	0	noncyclic	primary	HER2+	ic5	1	primaryHER2+noncyclic
+CURTIS_H000532_T01_01_WG01	amplicon1	0	1171238	0	noncyclic	primary	ER+ Typical	ic7	1	primaryER+ Typicalnoncyclic
+CURTIS_H000532_T01_01_WG01	amplicon2	1	60213759	0.0166074999569451	ecdna	primary	ER+ Typical	ic7	1	primaryER+ Typicalecdna
+CURTIS_H000533_T01_01_WG01	amplicon1	0	684062	0	ecdna	primary	IC10	ic6	0	primaryIC10ecdna
+CURTIS_H000534_T01_01_WG01	amplicon1	0	541444	0	noncyclic	primary	ER+ High	ic9	0	primaryER+ Highnoncyclic
+CURTIS_H000535_T01_01_WG01	amplicon2	2	12448273	0.160664856884164	ecdna	primary	ER+ High	ic9	0	primaryER+ Highecdna
+CURTIS_H000540_T01_01_WG01	amplicon4	0	7502418	0	noncyclic	primary	IC10	ic9	0	primaryIC10noncyclic
+CURTIS_H000540_T01_01_WG01	amplicon25	0	5246221	0	noncyclic	primary	IC10	ic9	0	primaryIC10noncyclic
+CURTIS_H000540_T01_01_WG01	amplicon22	0	1380397	0	ecdna	primary	IC10	ic9	0	primaryIC10ecdna
+CURTIS_H000540_T01_01_WG01	amplicon2	0	1279261	0	noncyclic	primary	IC10	ic9	0	primaryIC10noncyclic
+CURTIS_H000540_T01_01_WG01	amplicon21	0	2113178	0	ecdna	primary	IC10	ic9	0	primaryIC10ecdna
+CURTIS_H000540_T01_01_WG01	amplicon34	1	718998	1.3908244529192	ecdna	primary	IC10	ic9	0	primaryIC10ecdna
+CURTIS_H000540_T01_01_WG01	amplicon19	1	2887986	0.346262066367358	ecdna	primary	IC10	ic9	0	primaryIC10ecdna
+CURTIS_H000540_T01_01_WG01	amplicon1	2	5545393	0.360659740436791	noncyclic	primary	IC10	ic9	0	primaryIC10noncyclic
+CURTIS_H000547_T01_01_WG01	amplicon1	0	8712496	0	noncyclic	primary	HER2+	ic5	1	primaryHER2+noncyclic
+CURTIS_H000548_T01_01_WG01	amplicon1	0	5452490	0	noncyclic	primary	HER2+	ic5	1	primaryHER2+noncyclic
+CURTIS_H000551_T01_01_WG01	amplicon1	0	12216773	0	noncyclic	primary	IC10	ic10	0	primaryIC10noncyclic
+CURTIS_H000553_T01_01_WG01	amplicon2	12	6712493	1.78771136148671	noncyclic	primary	ER+ High	ic6	1	primaryER+ Highnoncyclic
+CURTIS_H000553_T01_01_WG01	amplicon3	5	39905968	0.125294542410298	ecdna	primary	ER+ High	ic6	1	primaryER+ Highecdna
+CURTIS_H000553_T01_01_WG01	amplicon1	2	6261241	0.319425494083361	ecdna	primary	ER+ High	ic6	1	primaryER+ Highecdna
+CURTIS_H000558_T01_01_WG01	amplicon2	0	1769804	0	ecdna	primary	HER2+	ic5	1	primaryHER2+ecdna
+CURTIS_H000558_T01_01_WG01	amplicon3	2	13791268	0.145019297717947	ecdna	primary	HER2+	ic5	1	primaryHER2+ecdna
+CURTIS_H000559_T01_01_WG01	amplicon2	0	2683193	0	noncyclic	primary	HER2+	ic5	1	primaryHER2+noncyclic
+CURTIS_H000559_T01_01_WG01	amplicon3	0	7949807	0	noncyclic	primary	HER2+	ic5	1	primaryHER2+noncyclic
+CURTIS_H000559_T01_01_WG01	amplicon1	0	5412870	0	noncyclic	primary	HER2+	ic5	1	primaryHER2+noncyclic
+CURTIS_H000561_T01_01_WG01	amplicon1	2	11191386	0.178708874843563	noncyclic	primary	IC10	ic10	0	primaryIC10noncyclic
+CURTIS_H000562_T01_01_WG01	amplicon1	0	957965	0	noncyclic	primary	IC10	ic10	0	primaryIC10noncyclic
+CURTIS_H000562_T01_01_WG01	amplicon2	0	2201156	0	ecdna	primary	IC10	ic10	0	primaryIC10ecdna
+CURTIS_H000565_T01_01_WG01	amplicon3	0	17249660	0	noncyclic	primary	ER+ High	ic9	0	primaryER+ Highnoncyclic
+CURTIS_H000565_T01_01_WG01	amplicon1	0	126283	0	noncyclic	primary	ER+ High	ic9	0	primaryER+ Highnoncyclic
+CURTIS_H000569_T01_01_WG01	amplicon1	0	18617532	0	ecdna	primary	IC10	ic8	0	primaryIC10ecdna
+CURTIS_H000570_T01_01_WG01	amplicon2	0	8606348	0	noncyclic	primary	IC10	ic9	0	primaryIC10noncyclic
+CURTIS_H000570_T01_01_WG01	amplicon5	2	17458381	0.11455815977438	noncyclic	primary	IC10	ic9	0	primaryIC10noncyclic
+CURTIS_H000577_T01_01_WG01	amplicon1	0	308899	0	noncyclic	primary	IC10	ic9	0	primaryIC10noncyclic
+CURTIS_H000581_T01_01_WG01	amplicon1	0	7143180	0	ecdna	primary	ER+ High	ic9	0	primaryER+ Highecdna
+CURTIS_H000581_T01_01_WG01	amplicon3	1	1850352	0.540437711311145	ecdna	primary	ER+ High	ic9	0	primaryER+ Highecdna
+CURTIS_H000582_T01_01_WG01	amplicon1	0	6400935	0	ecdna	primary	IC10	ic9	0	primaryIC10ecdna
+CURTIS_H000582_T01_01_WG01	amplicon3	9	1992499	4.51694078641947	noncyclic	primary	IC10	ic9	0	primaryIC10noncyclic
+CURTIS_H000582_T01_01_WG01	amplicon2	12	15413057	0.778560670994729	ecdna	primary	IC10	ic9	0	primaryIC10ecdna
+CURTIS_H000583_T01_01_WG01	amplicon2	0	1051424	0	noncyclic	primary	IC10	ic10	0	primaryIC10noncyclic
+CURTIS_H000583_T01_01_WG01	amplicon1	0	22708261	0	ecdna	primary	IC10	ic10	0	primaryIC10ecdna
+CURTIS_H000587_T01_01_WG01	amplicon2	0	7764407	0	ecdna	primary	HER2+	ic5	1	primaryHER2+ecdna
+CURTIS_H000587_T01_01_WG01	amplicon1	0	21620105	0	ecdna	primary	HER2+	ic5	1	primaryHER2+ecdna
+CURTIS_H000589_T01_01_WG01	amplicon4	2	8290587	0.24123744193264	noncyclic	primary	IC10	ic9	0	primaryIC10noncyclic
+CURTIS_H000589_T01_01_WG01	amplicon1	3	34320260	0.0874119252010329	noncyclic	primary	IC10	ic9	0	primaryIC10noncyclic
+CURTIS_H000592_T01_01_WG01	amplicon1	0	6917423	0	noncyclic	primary	ER+ Typical	ic8	1	primaryER+ Typicalnoncyclic
+CURTIS_H000593_T01_01_WG01	amplicon4	0	9275352	0	noncyclic	primary	ER+ High	ic9	1	primaryER+ Highnoncyclic
+CURTIS_H000593_T01_01_WG01	amplicon2	1	32110676	0.0311422904955349	ecdna	primary	ER+ High	ic9	1	primaryER+ Highecdna
+CURTIS_H000782_T01_01_WG01	amplicon1	1	16558706	0.060391192403561	noncyclic	primary	IC10	ic8	0	primaryIC10noncyclic
+CURTIS_H000782_T01_01_WG01	amplicon3	0	2084583	0	noncyclic	primary	IC10	ic8	0	primaryIC10noncyclic
+CURTIS_H000793_T01_01_WG01	amplicon1	0	596881	0	noncyclic	primary	ER+ Typical	ic10	0	primaryER+ Typicalnoncyclic
+CURTIS_H001390_T01_01_WG01	amplicon1	0	8280974	0	ecdna	primary	IC10	ic8	0	primaryIC10ecdna
+CURTIS_H001391_T01_01_WG01	amplicon1	0	3140109	0	ecdna	primary	ER+ Typical	ic1	1	primaryER+ Typicalecdna
+CURTIS_H001391_T01_01_WG01	amplicon2	0	14832169	0	noncyclic	primary	ER+ Typical	ic1	1	primaryER+ Typicalnoncyclic
+CURTIS_H001392_T01_01_WG01	amplicon2	8	16684218	0.479495053349219	ecdna	primary	ER+ Typical	ic1	1	primaryER+ Typicalecdna
+CURTIS_H001392_T01_01_WG01	amplicon1	2	6418467	0.311600885382756	noncyclic	primary	ER+ Typical	ic1	1	primaryER+ Typicalnoncyclic
+CURTIS_H001394_T01_01_WG01	amplicon1	0	4661763	0	noncyclic	primary	ER+ High	ic9	1	primaryER+ Highnoncyclic
+CURTIS_H001394_T01_01_WG01	amplicon2	2	6443453	0.310392579879142	ecdna	primary	ER+ High	ic9	1	primaryER+ Highecdna
+CURTIS_H001395_T01_01_WG01	amplicon1	5	6344080	0.788136341281951	ecdna	primary	ER+ High	ic1	1	primaryER+ Highecdna
+CURTIS_H001395_T01_01_WG01	amplicon2	0	3887697	0	ecdna	primary	ER+ High	ic1	1	primaryER+ Highecdna
+CURTIS_H001398_T01_01_WG01	amplicon1	2	16238740	0.123162265052584	ecdna	primary	ER+ High	ic2	1	primaryER+ Highecdna
+CURTIS_H001399_T01_01_WG01	amplicon1	0	3272230	0	ecdna	primary	HER2+	ic5	1	primaryHER2+ecdna
+CURTIS_H001400_T01_01_WG01	amplicon1	1	2656000	0.376506024096386	noncyclic	primary	ER+ High	ic1	1	primaryER+ Highnoncyclic
+CURTIS_H001400_T01_01_WG01	amplicon3	4	20828704	0.192042673418375	ecdna	primary	ER+ High	ic1	1	primaryER+ Highecdna
+CURTIS_H001400_T01_01_WG01	amplicon2	0	7062964	0	noncyclic	primary	ER+ High	ic1	1	primaryER+ Highnoncyclic
+CURTIS_H001400_T01_01_WG01	amplicon5	1	6169379	0.162090868465043	ecdna	primary	ER+ High	ic1	1	primaryER+ Highecdna
+CURTIS_H001401_T01_01_WG01	amplicon1	0	10639127	0	ecdna	primary	HER2+	ic5	1	primaryHER2+ecdna
+CURTIS_H001401_T01_01_WG01	amplicon2	0	2560686	0	noncyclic	primary	HER2+	ic5	1	primaryHER2+noncyclic
+CURTIS_H001401_T01_01_WG01	amplicon3	3	14611045	0.205324122949454	ecdna	primary	HER2+	ic5	1	primaryHER2+ecdna
+CURTIS_H001403_T01_01_WG01	amplicon1	0	3798801	0	noncyclic	primary	ER+ High	ic1	1	primaryER+ Highnoncyclic
+CURTIS_H001404_T01_01_WG01	amplicon1	4	7103085	0.563135595308236	ecdna	primary	HER2+	ic5	0	primaryHER2+ecdna
+CURTIS_H001404_T01_01_WG01	amplicon3	0	12715374	0	noncyclic	primary	HER2+	ic5	0	primaryHER2+noncyclic
+CURTIS_H001410_T01_01_WG01	amplicon1	0	2797374	0	noncyclic	primary	ER+ Typical	ic9	1	primaryER+ Typicalnoncyclic
+CURTIS_H001415_T01_01_WG01	amplicon2	0	1668575	0	noncyclic	primary	ER+ Typical	ic7	1	primaryER+ Typicalnoncyclic
+CURTIS_H001415_T01_01_WG01	amplicon1	1	29071499	0.034397951065406	ecdna	primary	ER+ Typical	ic7	1	primaryER+ Typicalecdna
+CURTIS_H001416_T01_01_WG01	amplicon2	2	7222670	0.276905908756734	noncyclic	primary	ER+ High	ic9	1	primaryER+ Highnoncyclic
+CURTIS_H001416_T01_01_WG01	amplicon1	0	6419677	0	noncyclic	primary	ER+ High	ic9	1	primaryER+ Highnoncyclic
+CURTIS_H001417_T01_01_WG01	amplicon1	10	51417272	0.194487175437857	ecdna	primary	ER+ High	ic1	1	primaryER+ Highecdna
+CURTIS_H001419_T01_01_WG01	amplicon1	16	21468475	0.745278833265987	ecdna	primary	ER+ High	ic2	1	primaryER+ Highecdna
+CURTIS_H001422_T01_01_WG01	amplicon1	2	12580845	0.158971833767923	ecdna	primary	ER+ High	ic6	1	primaryER+ Highecdna
+CURTIS_H001432_T01_01_WG01	amplicon1	12	6846913	1.75261464546139	noncyclic	primary	ER+ High	ic9	1	primaryER+ Highnoncyclic
+CURTIS_H001433_T01_01_WG01	amplicon1	2	10862448	0.184120559196233	ecdna	primary	ER+ Typical	ic9	1	primaryER+ Typicalecdna
+CURTIS_H001435_T01_01_WG01	amplicon1	0	1910397	0	noncyclic	primary	ER+ Typical	ic7	1	primaryER+ Typicalnoncyclic
+CURTIS_H001436_T01_01_WG01	amplicon1	0	2307983	0	noncyclic	primary	ER+ High	ic1	1	primaryER+ Highnoncyclic
+CURTIS_H001438_T01_01_WG01	amplicon1	2	14015771	0.142696395367761	ecdna	primary	ER+ High	ic6	1	primaryER+ Highecdna
+CURTIS_H001440_T01_01_WG01	amplicon1	5	19943322	0.250710488453228	ecdna	primary	HER2+	ic5	1	primaryHER2+ecdna
+CURTIS_H001441_T01_01_WG01	amplicon1	0	18850825	0	ecdna	primary	HER2+	ic5	1	primaryHER2+ecdna
+CURTIS_H001442_T01_01_WG01	amplicon1	0	28732327	0	ecdna	primary	HER2+	ic5	0	primaryHER2+ecdna
+CURTIS_H001446_T01_01_WG01	amplicon1	2	4196217	0.476619774430159	ecdna	primary	ER+ Typical	ic3	1	primaryER+ Typicalecdna
+CURTIS_H001452_T01_01_WG01	amplicon1	14	10501093	1.33319455412879	ecdna	primary	ER+ High	ic2	1	primaryER+ Highecdna
+CURTIS_H001453_T01_01_WG01	amplicon1	0	2815879	0	noncyclic	primary	ER+ Typical	ic7	1	primaryER+ Typicalnoncyclic
+CURTIS_H001453_T01_01_WG01	amplicon2	0	3363125	0	noncyclic	primary	ER+ Typical	ic7	1	primaryER+ Typicalnoncyclic
+CURTIS_H001455_T01_01_WG01	amplicon1	2	6470222	0.309108404626611	ecdna	primary	ER+ Typical	ic8	1	primaryER+ Typicalecdna
+CURTIS_H001459_T01_01_WG01	amplicon1	4	51285157	0.0779952764890629	ecdna	primary	ER+ High	ic1	1	primaryER+ Highecdna
+CURTIS_H001461_T01_01_WG01	amplicon1	1	5879984	0.170068489982286	ecdna	primary	ER+ High	ic9	1	primaryER+ Highecdna
+CURTIS_H001462_T01_01_WG01	amplicon1	4	7938662	0.503863245468821	ecdna	primary	HER2+	ic5	0	primaryHER2+ecdna
+CURTIS_H001463_T01_01_WG01	amplicon1	4	5609424	0.713085692933891	noncyclic	primary	HER2+	ic9	1	primaryHER2+noncyclic
+CURTIS_H001464_T01_01_WG01	amplicon1	2	3286645	0.60852328134009	noncyclic	primary	ER+ Typical	ic5	1	primaryER+ Typicalnoncyclic
+CURTIS_H001465_T01_01_WG01	amplicon4	0	3137635	0	noncyclic	primary	HER2+	ic9	1	primaryHER2+noncyclic
+CURTIS_H001465_T01_01_WG01	amplicon3	0	6034459	0	noncyclic	primary	HER2+	ic9	1	primaryHER2+noncyclic
+CURTIS_H001466_T01_01_WG01	amplicon1	7	22668017	0.308805132800103	ecdna	primary	ER+ High	ic9	1	primaryER+ Highecdna
+CURTIS_H001466_T01_01_WG01	amplicon3	2	6421813	0.311438529898021	noncyclic	primary	ER+ High	ic9	1	primaryER+ Highnoncyclic
+CURTIS_H001466_T01_01_WG01	amplicon2	0	2797925	0	ecdna	primary	ER+ High	ic9	1	primaryER+ Highecdna
+CURTIS_H001467_T01_01_WG01	amplicon1	12	13237472	0.906517498205095	ecdna	primary	ER+ High	ic2	1	primaryER+ Highecdna
+CURTIS_H001467_T01_01_WG01	amplicon2	2	3833502	0.521716174923086	ecdna	primary	ER+ High	ic2	1	primaryER+ Highecdna
+CURTIS_H001468_T01_01_WG01	amplicon1	12	20105131	0.596862562099198	ecdna	primary	ER+ Typical	ic8	1	primaryER+ Typicalecdna
+CURTIS_H001471_T01_01_WG01	amplicon1	0	2416395	0	noncyclic	primary	ER+ Typical	ic2	1	primaryER+ Typicalnoncyclic
+CURTIS_H001473_T01_01_WG01	amplicon1	0	47161166	0	noncyclic	primary	ER+ Typical	ic3	1	primaryER+ Typicalnoncyclic
+CURTIS_H001478_T01_01_WG01	amplicon1	1	34926082	0.0286318975028462	ecdna	primary	ER+ High	ic1	1	primaryER+ Highecdna
+CURTIS_H001479_T01_01_WG01	amplicon2	4	89473589	0.0447059299253101	ecdna	primary	ER+ Typical	ic6	1	primaryER+ Typicalecdna
+CURTIS_H001479_T01_01_WG01	amplicon1	0	1711683	0	noncyclic	primary	ER+ Typical	ic6	1	primaryER+ Typicalnoncyclic
+CURTIS_H001479_T01_01_WG01	amplicon3	1	6262421	0.15968265308257	ecdna	primary	ER+ Typical	ic6	1	primaryER+ Typicalecdna
+CURTIS_H001482_T01_01_WG01	amplicon1	0	4085093	0	ecdna	primary	ER+ High	ic9	1	primaryER+ Highecdna
+CURTIS_H001483_T01_01_WG01	amplicon1	0	1110048	0	noncyclic	primary	HER2+	ic5	0	primaryHER2+noncyclic
+CURTIS_H001483_T01_01_WG01	amplicon2	0	3508768	0	ecdna	primary	HER2+	ic5	0	primaryHER2+ecdna
+CURTIS_H001483_T01_01_WG01	amplicon3	0	340075	0	noncyclic	primary	HER2+	ic5	0	primaryHER2+noncyclic
+CURTIS_H001484_T01_01_WG01	amplicon1	0	10231203	0	ecdna	primary	HER2+	ic5	0	primaryHER2+ecdna
+CURTIS_H001486_T01_01_WG01	amplicon2	0	7858226	0	noncyclic	primary	ER+ High	ic1	1	primaryER+ Highnoncyclic
+CURTIS_H001486_T01_01_WG01	amplicon4	12	11492133	1.04419257939322	noncyclic	primary	ER+ High	ic1	1	primaryER+ Highnoncyclic
+CURTIS_H001486_T01_01_WG01	amplicon3	0	10943911	0	ecdna	primary	ER+ High	ic1	1	primaryER+ Highecdna
+CURTIS_H001486_T01_01_WG01	amplicon1	0	6299925	0	noncyclic	primary	ER+ High	ic1	1	primaryER+ Highnoncyclic
+CURTIS_H001488_T01_01_WG01	amplicon1	2	11443886	0.174765809446197	ecdna	primary	HER2+	ic5	1	primaryHER2+ecdna
+CURTIS_H001489_T01_01_WG01	amplicon1	0	18114778	0	ecdna	primary	HER2+	ic5	1	primaryHER2+ecdna
+CURTIS_H001492_T01_01_WG01	amplicon1	0	3590728	0	noncyclic	primary	ER+ Typical	ic8	1	primaryER+ Typicalnoncyclic
+CURTIS_H001510_T01_01_WG01	amplicon2	2	52278623	0.0382565546915802	ecdna	primary	ER+ High	ic1	1	primaryER+ Highecdna
+CURTIS_H001510_T01_01_WG01	amplicon3	0	526728	0	noncyclic	primary	ER+ High	ic1	1	primaryER+ Highnoncyclic
+CURTIS_H001511_T01_01_WG01	amplicon1	1	27991139	0.0357255915881094	ecdna	primary	ER+ High	ic1	1	primaryER+ Highecdna
+CURTIS_H001516_T01_01_WG01	amplicon1	0	4388306	0	noncyclic	primary	ER+ Typical	ic4	1	primaryER+ Typicalnoncyclic
+CURTIS_H001516_T01_01_WG01	amplicon2	0	2052472	0	noncyclic	primary	ER+ Typical	ic4	1	primaryER+ Typicalnoncyclic
+CURTIS_H001518_T01_01_WG01	amplicon1	12	28243501	0.424876505217961	ecdna	primary	ER+ High	ic8	1	primaryER+ Highecdna
+CURTIS_H001519_T01_01_WG01	amplicon2	0	7457933	0	ecdna	primary	ER+ High	ic9	1	primaryER+ Highecdna
+CURTIS_H001520_T01_01_WG01	amplicon1	0	4938864	0	noncyclic	primary	ER+ High	ic9	1	primaryER+ Highnoncyclic
+CURTIS_H001524_T01_01_WG01	amplicon1	12	11643974	1.03057598720162	noncyclic	primary	ER+ Typical	ic8	1	primaryER+ Typicalnoncyclic
+CURTIS_H001525_T01_01_WG01	amplicon3	0	491571	0	noncyclic	primary	ER+ Typical	ic4	1	primaryER+ Typicalnoncyclic
+CURTIS_H001526_T01_01_WG01	amplicon1	0	5642249	0	ecdna	primary	ER+ High	ic2	1	primaryER+ Highecdna
+CURTIS_H001528_T01_01_WG01	amplicon1	1	17517752	0.0570849501694053	ecdna	primary	ER+ Typical	ic9	1	primaryER+ Typicalecdna
+CURTIS_H001530_T01_01_WG01	amplicon1	12	10927450	1.09815190186182	ecdna	primary	ER+ High	ic2	1	primaryER+ Highecdna
+CURTIS_H001531_T01_01_WG01	amplicon1	0	5591922	0	noncyclic	primary	ER+ Typical	ic8	1	primaryER+ Typicalnoncyclic
+CURTIS_H001532_T01_01_WG01	amplicon1	20	35352018	0.565738566890297	ecdna	primary	ER+ High	ic2	1	primaryER+ Highecdna
+CURTIS_H001533_T01_01_WG01	amplicon1	0	8555874	0	noncyclic	primary	ER+ Typical	ic8	1	primaryER+ Typicalnoncyclic
+CURTIS_H001534_T01_01_WG01	amplicon1	14	16943610	0.82627019861765	ecdna	primary	ER+ High	ic2	1	primaryER+ Highecdna
+CURTIS_H001535_T01_01_WG01	amplicon2	0	2019802	0	noncyclic	primary	ER+ Typical	ic4	1	primaryER+ Typicalnoncyclic
+CURTIS_H001535_T01_01_WG01	amplicon1	0	3859334	0	noncyclic	primary	ER+ Typical	ic4	1	primaryER+ Typicalnoncyclic
+CURTIS_H001539_T01_01_WG01	amplicon1	3	10160461	0.295262193319772	ecdna	primary	ER+ Typical	ic4	1	primaryER+ Typicalecdna
+CURTIS_H001541_T01_01_WG01	amplicon1	12	6677480	1.79708512792251	ecdna	primary	ER+ High	ic9	1	primaryER+ Highecdna
+CURTIS_H001545_T01_01_WG01	amplicon3	4	19684175	0.203208922903805	ecdna	primary	HER2+	ic5	1	primaryHER2+ecdna
+CURTIS_H001545_T01_01_WG01	amplicon4	0	8489398	0	ecdna	primary	HER2+	ic5	1	primaryHER2+ecdna
+CURTIS_H001545_T01_01_WG01	amplicon2	3	19922584	0.150582876197184	ecdna	primary	HER2+	ic5	1	primaryHER2+ecdna
+CURTIS_H001545_T01_01_WG01	amplicon1	0	2818178	0	noncyclic	primary	HER2+	ic5	1	primaryHER2+noncyclic
+CURTIS_H001546_T01_01_WG01	amplicon1	0	3636043	0	noncyclic	primary	ER+ High	ic9	1	primaryER+ Highnoncyclic
+CURTIS_H001547_T01_01_WG01	amplicon1	0	5475658	0	ecdna	primary	HER2+	ic5	1	primaryHER2+ecdna
+CURTIS_H001554_T01_01_WG01	amplicon1	0	14395947	0	ecdna	primary	ER+ High	ic9	1	primaryER+ Highecdna
+CURTIS_H001556_T01_01_WG01	amplicon1	2	6733451	0.297024512393422	ecdna	primary	HER2+	ic5	1	primaryHER2+ecdna
+CURTIS_H001559_T01_01_WG01	amplicon1	0	4668818	0	noncyclic	primary	ER+ High	ic4	1	primaryER+ Highnoncyclic
+CURTIS_H001562_T01_01_WG01	amplicon1	0	18250404	0	noncyclic	primary	ER+ Typical	ic4	1	primaryER+ Typicalnoncyclic
+CURTIS_H001566_T01_01_WG01	amplicon1	2	7562603	0.264459208026654	noncyclic	primary	ER+ High	ic6	1	primaryER+ Highnoncyclic
+CURTIS_H001567_T01_01_WG01	amplicon1	1	66279056	0.0150877224322567	ecdna	primary	ER+ Typical	ic9	1	primaryER+ Typicalecdna
+CURTIS_H001568_T01_01_WG01	amplicon1	2	15332085	0.130445402565926	noncyclic	primary	ER+ High	ic6	1	primaryER+ Highnoncyclic
+CURTIS_H001570_T01_01_WG01	amplicon1	12	11307697	1.06122404942403	ecdna	primary	ER+ Typical	ic7	1	primaryER+ Typicalecdna
+CURTIS_H001579_T01_01_WG01	amplicon1	5	9361198	0.534119671435216	ecdna	primary	ER+ Typical	ic8	1	primaryER+ Typicalecdna
+CURTIS_H001581_T01_01_WG01	amplicon2	0	28703065	0	ecdna	primary	HER2+	ic1	0	primaryHER2+ecdna
+CURTIS_H001581_T01_01_WG01	amplicon3	0	5764283	0	noncyclic	primary	HER2+	ic1	0	primaryHER2+noncyclic
+CURTIS_H001581_T01_01_WG01	amplicon1	1	11048719	0.0905082299586042	noncyclic	primary	HER2+	ic1	0	primaryHER2+noncyclic
+CURTIS_H001585_T01_01_WG01	amplicon1	3	19077950	0.157249599668728	ecdna	primary	ER+ Typical	ic9	1	primaryER+ Typicalecdna
+CURTIS_H001589_T01_01_WG01	amplicon1	2	6832949	0.292699389385169	ecdna	primary	ER+ High	ic6	1	primaryER+ Highecdna
+CURTIS_H001591_T01_01_WG01	amplicon1	0	15425050	0	ecdna	primary	ER+ High	ic1	1	primaryER+ Highecdna
+CURTIS_H001591_T01_01_WG01	amplicon3	0	16518258	0	noncyclic	primary	ER+ High	ic1	1	primaryER+ Highnoncyclic
+CURTIS_H001591_T01_01_WG01	amplicon2	12	9276596	1.29357794604831	noncyclic	primary	ER+ High	ic1	1	primaryER+ Highnoncyclic
+CURTIS_H001596_T01_01_WG01	amplicon1	0	8996477	0	ecdna	primary	HER2+	ic5	0	primaryHER2+ecdna
+CURTIS_H001597_T01_01_WG01	amplicon1	0	28041182	0	noncyclic	primary	IC10	ic9	0	primaryIC10noncyclic
+CURTIS_H001606_T01_01_WG01	amplicon1	0	3140414	0	noncyclic	primary	IC10	ic6	0	primaryIC10noncyclic
+CURTIS_H001618_T01_01_WG01	amplicon2	0	2382721	0	noncyclic	primary	IC10	ic9	0	primaryIC10noncyclic
+CURTIS_H001620_T01_01_WG01	amplicon1	2	6111767	0.327237605752968	ecdna	primary	ER+ Typical	ic2	1	primaryER+ Typicalecdna
+CURTIS_H001626_T01_01_WG01	amplicon1	0	18126401	0	ecdna	primary	ER+ High	ic9	1	primaryER+ Highecdna
+CURTIS_H001627_T01_01_WG01	amplicon1	0	875674	0	ecdna	primary	HER2+	ic5	1	primaryHER2+ecdna
+CURTIS_H001629_T01_01_WG01	amplicon1	4	8390344	0.476738498445356	noncyclic	primary	HER2+	ic5	0	primaryHER2+noncyclic
+CURTIS_H001630_T01_01_WG01	amplicon4	0	26519198	0	ecdna	primary	ER+ High	ic1	1	primaryER+ Highecdna
+CURTIS_H001630_T01_01_WG01	amplicon1	0	789839	0	noncyclic	primary	ER+ High	ic1	1	primaryER+ Highnoncyclic
+CURTIS_H001631_T01_01_WG01	amplicon1	4	67618449	0.0591554532698613	ecdna	primary	ER+ High	ic1	1	primaryER+ Highecdna
+CURTIS_H001635_T01_01_WG01	amplicon1	0	8526334	0	ecdna	primary	IC10	ic9	0	primaryIC10ecdna
+CURTIS_H001636_T01_01_WG01	amplicon2	12	13199298	0.909139258769671	noncyclic	primary	ER+ High	ic2	0	primaryER+ Highnoncyclic
+CURTIS_H001636_T01_01_WG01	amplicon5	0	3762121	0	noncyclic	primary	ER+ High	ic2	0	primaryER+ Highnoncyclic
+CURTIS_H001637_T01_01_WG01	amplicon2	3	44631595	0.0672169569561652	ecdna	primary	HER2+	ic5	1	primaryHER2+ecdna
+CURTIS_H001637_T01_01_WG01	amplicon1	4	19205042	0.208278638495037	ecdna	primary	HER2+	ic5	1	primaryHER2+ecdna
+CURTIS_H001647_T01_01_WG01	amplicon8	0	176428	0	ecdna	primary	IC10	ic10	0	primaryIC10ecdna
+CURTIS_H001647_T01_01_WG01	amplicon1	0	2733240	0	noncyclic	primary	IC10	ic10	0	primaryIC10noncyclic
+CURTIS_H001647_T01_01_WG01	amplicon2	3	21365219	0.140415129842573	ecdna	primary	IC10	ic10	0	primaryIC10ecdna
+CURTIS_H001648_T01_01_WG01	amplicon2	1	9286621	0.107681792979384	ecdna	primary	IC10	ic10	0	primaryIC10ecdna
+CURTIS_H001649_T01_01_WG01	amplicon1	0	12343593	0	ecdna	primary	IC10	ic8	0	primaryIC10ecdna
+CURTIS_H001651_T01_01_WG01	amplicon1	4	3927768	1.01839008821295	ecdna	primary	HER2+	ic5	0	primaryHER2+ecdna
+CURTIS_H001653_T01_01_WG01	amplicon1	3	7956037	0.377072152882145	ecdna	primary	ER+ Typical	ic7	0	primaryER+ Typicalecdna
+CURTIS_H001654_T01_01_WG01	amplicon2	0	1544288	0	ecdna	primary	ER+ Typical	ic1	1	primaryER+ Typicalecdna
+CURTIS_H001654_T01_01_WG01	amplicon1	6	50924132	0.11782233224908	ecdna	primary	ER+ Typical	ic1	1	primaryER+ Typicalecdna
+CURTIS_H001655_T01_01_WG01	amplicon1	0	9788215	0	noncyclic	primary	IC10	ic7	1	primaryIC10noncyclic
+CURTIS_H001656_T01_01_WG01	amplicon1	4	9238398	0.432975500730754	ecdna	primary	HER2+	ic5	0	primaryHER2+ecdna
+CURTIS_H001658_T01_01_WG01	amplicon3	0	6297963	0	noncyclic	primary	HER2+	ic5	0	primaryHER2+noncyclic
+CURTIS_H001658_T01_01_WG01	amplicon1	0	50207042	0	ecdna	primary	HER2+	ic5	0	primaryHER2+ecdna
+CURTIS_H001660_T01_01_WG01	amplicon5	0	17677416	0	ecdna	primary	IC10	ic10	0	primaryIC10ecdna
+CURTIS_H001662_T01_01_WG01	amplicon4	0	2478877	0	ecdna	primary	IC10	ic10	0	primaryIC10ecdna
+CURTIS_H001664_T01_01_WG01	amplicon1	2	14485078	0.138073126012853	ecdna	primary	ER+ High	ic8	1	primaryER+ Highecdna
+CURTIS_H001673_T01_01_WG01	amplicon1	6	78837465	0.0761059478510629	ecdna	primary	HER2+	ic1	1	primaryHER2+ecdna
+CURTIS_H001675_T01_01_WG01	amplicon3	0	427387	0	noncyclic	primary	ER+ Typical	ic1	1	primaryER+ Typicalnoncyclic
+CURTIS_H001675_T01_01_WG01	amplicon2	1	23272789	0.0429686360324068	ecdna	primary	ER+ Typical	ic1	1	primaryER+ Typicalecdna
+CURTIS_H001676_T01_01_WG01	amplicon1	2	6657641	0.300406705618401	noncyclic	primary	ER+ High	ic9	1	primaryER+ Highnoncyclic
+CURTIS_H001678_T01_01_WG01	amplicon1	2	14213372	0.140712562789463	ecdna	primary	ER+ High	ic6	1	primaryER+ Highecdna
+CURTIS_H001678_T01_01_WG01	amplicon2	2	6330301	0.315940742786165	ecdna	primary	ER+ High	ic6	1	primaryER+ Highecdna
+CURTIS_H001680_T01_01_WG01	amplicon1	12	16948329	0.708034402683592	ecdna	primary	ER+ High	ic2	1	primaryER+ Highecdna
+CURTIS_H001681_T01_01_WG01	amplicon1	16	13751382	1.16351941935727	ecdna	primary	ER+ High	ic8	1	primaryER+ Highecdna
+CURTIS_H001682_T01_01_WG01	amplicon2	2	1205452	1.65912869197612	ecdna	primary	ER+ High	ic5	1	primaryER+ Highecdna
+CURTIS_H001682_T01_01_WG01	amplicon5	0	1417515	0	ecdna	primary	ER+ High	ic5	1	primaryER+ Highecdna
+CURTIS_H001682_T01_01_WG01	amplicon4	0	1760638	0	noncyclic	primary	ER+ High	ic5	1	primaryER+ Highnoncyclic
+CURTIS_H001682_T01_01_WG01	amplicon1	1	24714595	0.0404619213869376	noncyclic	primary	ER+ High	ic5	1	primaryER+ Highnoncyclic
+CURTIS_H001683_T01_01_WG01	amplicon2	1	43334732	0.0230761782488928	noncyclic	primary	IC10	ic8	0	primaryIC10noncyclic
+CURTIS_H001683_T01_01_WG01	amplicon1	0	24183435	0	noncyclic	primary	IC10	ic8	0	primaryIC10noncyclic
+CURTIS_H001683_T01_01_WG01	amplicon3	0	3615185	0	ecdna	primary	IC10	ic8	0	primaryIC10ecdna
+CURTIS_H001684_T01_01_WG01	amplicon2	0	816521	0	noncyclic	primary	HER2+	ic5	0	primaryHER2+noncyclic
+CURTIS_H001684_T01_01_WG01	amplicon1	4	13412655	0.29822581733445	ecdna	primary	HER2+	ic5	0	primaryHER2+ecdna
+CURTIS_H001687_T01_01_WG01	amplicon1	4	30223886	0.132345655353517	ecdna	primary	HER2+	ic5	1	primaryHER2+ecdna
+CURTIS_H001688_T01_01_WG01	amplicon1	0	2824450	0	ecdna	primary	HER2+	ic5	1	primaryHER2+ecdna
+CURTIS_H001690_T01_01_WG01	amplicon1	0	27372912	0	ecdna	primary	HER2+	ic5	1	primaryHER2+ecdna
+CURTIS_H001692_T01_01_WG01	amplicon1	2	9319588	0.214601761365417	ecdna	primary	ER+ High	ic6	1	primaryER+ Highecdna
+CURTIS_H001693_T01_01_WG01	amplicon2	0	18024542	0	noncyclic	primary	ER+ High	ic9	1	primaryER+ Highnoncyclic
+CURTIS_H001695_T01_01_WG01	amplicon1	4	11172293	0.358028562265598	ecdna	primary	HER2+	ic5	1	primaryHER2+ecdna
+CURTIS_H001697_T01_01_WG01	amplicon1	0	2293490	0	noncyclic	primary	ER+ Typical	ic5	0	primaryER+ Typicalnoncyclic
+CURTIS_H001698_T01_01_WG01	amplicon1	5	47368480	0.105555424197694	ecdna	primary	HER2+	ic1	1	primaryHER2+ecdna
+CURTIS_H001698_T01_01_WG01	amplicon2	0	2373447	0	ecdna	primary	HER2+	ic1	1	primaryHER2+ecdna
+CURTIS_H001698_T01_01_WG01	amplicon3	1	8308581	0.12035749546162	noncyclic	primary	HER2+	ic1	1	primaryHER2+noncyclic
+CURTIS_H001699_T01_01_WG01	amplicon2	0	5301244	0	noncyclic	primary	ER+ High	ic1	1	primaryER+ Highnoncyclic
+CURTIS_H001699_T01_01_WG01	amplicon1	0	21776236	0	ecdna	primary	ER+ High	ic1	1	primaryER+ Highecdna
+CURTIS_H001700_T01_01_WG01	amplicon1	0	8736165	0	ecdna	primary	HER2+	ic5	0	primaryHER2+ecdna
+CURTIS_H001700_T01_01_WG01	amplicon2	1	2788030	0.358676197888832	noncyclic	primary	HER2+	ic5	0	primaryHER2+noncyclic
+CURTIS_H001701_T01_01_WG01	amplicon1	2	13912348	0.143757186062338	noncyclic	primary	ER+ Typical	ic7	1	primaryER+ Typicalnoncyclic
+CURTIS_H001710_T01_01_WG01	amplicon2	1	12595124	0.0793958042810853	ecdna	primary	IC10	ic8	0	primaryIC10ecdna
+CURTIS_H001712_T01_01_WG01	amplicon1	5	4480973	1.11582908444215	noncyclic	primary	ER+ Typical	ic3	1	primaryER+ Typicalnoncyclic
+CURTIS_H001713_T01_01_WG01	amplicon1	0	1588863	0	noncyclic	primary	ER+ Typical	ic8	1	primaryER+ Typicalnoncyclic
+CURTIS_H001715_T01_01_WG01	amplicon1	2	26336772	0.0759394507421031	noncyclic	primary	ER+ High	ic6	1	primaryER+ Highnoncyclic
+CURTIS_H001716_T01_01_WG01	amplicon1	2	8533030	0.23438333159499	noncyclic	primary	ER+ Typical	ic9	1	primaryER+ Typicalnoncyclic
+CURTIS_H001717_T01_01_WG01	amplicon1	3	5002055	0.599753501310961	ecdna	primary	ER+ High	ic6	1	primaryER+ Highecdna
+CURTIS_H001717_T01_01_WG01	amplicon2	2	2902801	0.688989703393378	ecdna	primary	ER+ High	ic6	1	primaryER+ Highecdna
+CURTIS_H001722_T01_01_WG01	amplicon1	0	925098	0	noncyclic	primary	ER+ Typical	ic7	0	primaryER+ Typicalnoncyclic
+CURTIS_H001727_T01_01_WG01	amplicon1	5	19127385	0.261405309716932	ecdna	primary	ER+ High	ic1	1	primaryER+ Highecdna
+CURTIS_H001728_T01_01_WG01	amplicon2	0	11131345	0	ecdna	primary	ER+ High	ic6	1	primaryER+ Highecdna
+CURTIS_H001728_T01_01_WG01	amplicon6	1	17596303	0.056830119372234	noncyclic	primary	ER+ High	ic6	1	primaryER+ Highnoncyclic
+CURTIS_H001728_T01_01_WG01	amplicon7	0	3664953	0	noncyclic	primary	ER+ High	ic6	1	primaryER+ Highnoncyclic
+CURTIS_H001728_T01_01_WG01	amplicon5	1	8316703	0.120239955665124	ecdna	primary	ER+ High	ic6	1	primaryER+ Highecdna
+CURTIS_H001730_T01_01_WG01	amplicon1	5	50527280	0.0989564449145096	ecdna	primary	ER+ High	ic6	1	primaryER+ Highecdna
+CURTIS_H001731_T01_01_WG01	amplicon1	0	2374229	0	noncyclic	primary	ER+ Typical	ic7	1	primaryER+ Typicalnoncyclic
+CURTIS_H001736_T01_01_WG01	amplicon1	12	13786761	0.870400233963583	ecdna	primary	ER+ High	ic2	1	primaryER+ Highecdna
+CURTIS_H001742_T01_01_WG01	amplicon1	0	11126460	0	ecdna	primary	ER+ Typical	ic6	1	primaryER+ Typicalecdna
+CURTIS_H001742_T01_01_WG01	amplicon2	0	28734312	0	ecdna	primary	ER+ Typical	ic6	1	primaryER+ Typicalecdna
+CURTIS_H001743_T01_01_WG01	amplicon1	14	13265773	1.05534747202443	noncyclic	primary	ER+ High	ic9	1	primaryER+ Highnoncyclic
+CURTIS_H001744_T01_01_WG01	amplicon1	4	14792574	0.270405948281888	ecdna	primary	ER+ Typical	ic8	1	primaryER+ Typicalecdna
+CURTIS_H001746_T01_01_WG01	amplicon2	0	5771290	0	noncyclic	primary	ER+ Typical	ic8	1	primaryER+ Typicalnoncyclic
+CURTIS_H001746_T01_01_WG01	amplicon5	2	7000673	0.285686818967262	ecdna	primary	ER+ Typical	ic8	1	primaryER+ Typicalecdna
+CURTIS_H001747_T01_01_WG01	amplicon1	2	10965815	0.182384984608987	ecdna	primary	ER+ High	ic9	1	primaryER+ Highecdna
+CURTIS_H001752_T01_01_WG01	amplicon2	0	21226235	0	ecdna	primary	ER+ Typical	ic4	1	primaryER+ Typicalecdna
+CURTIS_H002039_T01_01_WG01	amplicon1	0	28463048	0	ecdna	primary	IC10	ic10	0	primaryIC10ecdna
+CURTIS_H002041_T01_01_WG01	amplicon1	0	6298323	0	noncyclic	primary	IC10	ic9	0	primaryIC10noncyclic
+CURTIS_H002041_T01_01_WG01	amplicon2	0	18204767	0	ecdna	primary	IC10	ic9	0	primaryIC10ecdna
+CURTIS_H002045_T01_01_WG01	amplicon1	0	1955197	0	ecdna	primary	IC10	ic10	0	primaryIC10ecdna
+CURTIS_H002049_T01_01_WG01	amplicon1	0	5331562	0	ecdna	primary	ER+ High	ic9	0	primaryER+ Highecdna
+CURTIS_H002055_T01_01_WG01	amplicon1	1	11858729	0.0843260690079013	noncyclic	primary	IC10	ic8	0	primaryIC10noncyclic
+CURTIS_H002063_T01_01_WG01	amplicon1	0	1553565	0	ecdna	primary	IC10	ic1	0	primaryIC10ecdna
+CURTIS_H002066_T01_01_WG01	amplicon1	0	7255596	0	noncyclic	primary	IC10	ic10	0	primaryIC10noncyclic
+CURTIS_H002084_T01_01_WG01	amplicon2	0	3109400	0	ecdna	primary	ER+ High	ic5	0	primaryER+ Highecdna
+CURTIS_H002084_T01_01_WG01	amplicon1	10	2632323	3.79892589169338	noncyclic	primary	ER+ High	ic5	0	primaryER+ Highnoncyclic
+CURTIS_H002097_T01_01_WG01	amplicon1	2	8240616	0.242700302987058	ecdna	primary	ER+ High	ic9	0	primaryER+ Highecdna
+CURTIS_H003223_T01_01_WG01	amplicon1	17	38687245	0.439421313148558	ecdna	primary	ER+ High	ic6	1	primaryER+ Highecdna
+CURTIS_H004018_T01_01_WG01	amplicon2	3	28635086	0.10476657901429	noncyclic	primary	HER2+	ic5	0	primaryHER2+noncyclic
+CURTIS_H004018_T01_01_WG01	amplicon1	0	13671560	0	ecdna	primary	HER2+	ic5	0	primaryHER2+ecdna
+CURTIS_H004047_T01_01_WG01	amplicon3	0	12450568	0	ecdna	primary	IC10	ic9	0	primaryIC10ecdna
+CURTIS_H004047_T01_01_WG01	amplicon1	0	3724398	0	noncyclic	primary	IC10	ic9	0	primaryIC10noncyclic
+CURTIS_H004066_T01_01_WG01	amplicon1	0	8824896	0	ecdna	primary	HER2+	ic5	0	primaryHER2+ecdna
+CURTIS_H004115_T01_01_WG01	amplicon1	12	7262247	1.65238114319163	noncyclic	primary	ER+ Typical	ic9	1	primaryER+ Typicalnoncyclic
+CURTIS_H004118_T01_01_WG01	amplicon1	14	12849855	1.08950645746586	ecdna	primary	ER+ High	ic6	1	primaryER+ Highecdna
+CURTIS_H004158_T01_01_WG01	amplicon1	0	19685786	0	ecdna	primary	HER2+	ic5	0	primaryHER2+ecdna
+CURTIS_H004176_T01_01_WG01	amplicon1	0	3517766	0	ecdna	primary	IC10	ic10	0	primaryIC10ecdna
+CURTIS_H004188_T01_01_WG01	amplicon2	2	1178220	1.69747585340599	ecdna	primary	ER+ High	ic1	1	primaryER+ Highecdna
+CURTIS_H004188_T01_01_WG01	amplicon3	3	36938680	0.0812156796073926	ecdna	primary	ER+ High	ic1	1	primaryER+ Highecdna
+CURTIS_H004210_T01_01_WG01	amplicon1	0	14242708	0	ecdna	primary	ER+ High	ic1	1	primaryER+ Highecdna
+CURTIS_H004211_T01_01_WG01	amplicon1	0	5104513	0	ecdna	primary	ER+ Typical	ic9	1	primaryER+ Typicalecdna
+CURTIS_H004218_T01_01_WG01	amplicon1	12	16938476	0.708446261635344	ecdna	primary	ER+ High	ic2	1	primaryER+ Highecdna
+CURTIS_H004221_T01_01_WG01	amplicon1	4	8262709	0.484102731924844	ecdna	primary	HER2+	ic5	1	primaryHER2+ecdna
+CURTIS_H004221_T01_01_WG01	amplicon2	2	3482391	0.574318047571338	noncyclic	primary	HER2+	ic5	1	primaryHER2+noncyclic
+CURTIS_H004265_T01_01_WG01	amplicon1	1	9075468	0.110187155086658	ecdna	primary	ER+ Typical	ic6	1	primaryER+ Typicalecdna
+CURTIS_H004271_T02_01_WG01	amplicon1	0	2504096	0	noncyclic	primary	ER+ Typical	ic6	1	primaryER+ Typicalnoncyclic
+CURTIS_H004281_T01_01_WG01	amplicon1	0	18444148	0	ecdna	primary	HER2+	ic5	1	primaryHER2+ecdna
+CURTIS_H004289_T01_01_WG01	amplicon2	0	3074678	0	noncyclic	primary	HER2+	ic5	1	primaryHER2+noncyclic
+CURTIS_H004289_T01_01_WG01	amplicon1	0	860924	0	noncyclic	primary	HER2+	ic5	1	primaryHER2+noncyclic
+CURTIS_H004297_T01_01_WG01	amplicon1	2	5321512	0.375833033919683	ecdna	primary	ER+ High	ic9	1	primaryER+ Highecdna
+CURTIS_H004303_T01_01_WG01	amplicon2	0	2630981	0	ecdna	primary	ER+ High	ic6	1	primaryER+ Highecdna
+CURTIS_H004304_T01_01_WG01	amplicon2	0	11430378	0	ecdna	primary	HER2+	ic5	1	primaryHER2+ecdna
+CURTIS_H004304_T01_01_WG01	amplicon1	0	6232561	0	noncyclic	primary	HER2+	ic5	1	primaryHER2+noncyclic
+CURTIS_H004369_T01_01_WG01	amplicon5	7	24568518	0.284917470398499	ecdna	primary	HER2+	ic9	1	primaryHER2+ecdna
+CURTIS_H004369_T01_01_WG01	amplicon2	0	13450925	0	ecdna	primary	HER2+	ic9	1	primaryHER2+ecdna
+CURTIS_H004369_T01_01_WG01	amplicon3	0	906495	0	noncyclic	primary	HER2+	ic9	1	primaryHER2+noncyclic
+CURTIS_H004369_T01_01_WG01	amplicon1	0	1360190	0	noncyclic	primary	HER2+	ic9	1	primaryHER2+noncyclic
+CURTIS_H004369_T01_01_WG01	amplicon6	0	1310106	0	noncyclic	primary	HER2+	ic9	1	primaryHER2+noncyclic
+CURTIS_H004389_T01_01_WG01	amplicon2	12	9698264	1.23733484673133	noncyclic	primary	HER2+	ic5	0	primaryHER2+noncyclic
+CURTIS_H004389_T01_01_WG01	amplicon1	4	10110969	0.395609955880589	ecdna	primary	HER2+	ic5	0	primaryHER2+ecdna
+CURTIS_H004419_T01_01_WG01	amplicon1	0	17653593	0	noncyclic	primary	IC10	ic5	0	primaryIC10noncyclic
+CURTIS_H004443_T01_01_WG01	amplicon6	0	191132	0	noncyclic	primary	ER+ Typical	ic1	1	primaryER+ Typicalnoncyclic
+CURTIS_H004443_T01_01_WG01	amplicon5	0	746653	0	ecdna	primary	ER+ Typical	ic1	1	primaryER+ Typicalecdna
+CURTIS_H004443_T01_01_WG01	amplicon1	0	152505	0	noncyclic	primary	ER+ Typical	ic1	1	primaryER+ Typicalnoncyclic
+CURTIS_H004443_T01_01_WG01	amplicon2	18	23197224	0.775954915984775	ecdna	primary	ER+ Typical	ic1	1	primaryER+ Typicalecdna
+CURTIS_H004458_T01_01_WG01	amplicon1	0	4731947	0	ecdna	primary	ER+ Typical	ic8	0	primaryER+ Typicalecdna
+CURTIS_H004458_T01_01_WG01	amplicon3	2	8069501	0.247846799944631	noncyclic	primary	ER+ Typical	ic8	0	primaryER+ Typicalnoncyclic
+CURTIS_H004463_T01_01_WG01	amplicon2	0	5693575	0	noncyclic	primary	ER+ High	ic9	0	primaryER+ Highnoncyclic
+CURTIS_H004482_T01_01_WG01	amplicon1	0	16953577	0	ecdna	primary	ER+ High	ic9	1	primaryER+ Highecdna
+CURTIS_H004510_T01_01_WG01	amplicon4	11	14274599	0.770599580415534	ecdna	primary	IC10	ic10	0	primaryIC10ecdna
+CURTIS_H004510_T01_01_WG01	amplicon5	0	558590	0	noncyclic	primary	IC10	ic10	0	primaryIC10noncyclic
+CURTIS_H004510_T01_01_WG01	amplicon3	0	8967118	0	noncyclic	primary	IC10	ic10	0	primaryIC10noncyclic
+CURTIS_H004510_T01_01_WG01	amplicon1	0	8870156	0	noncyclic	primary	IC10	ic10	0	primaryIC10noncyclic
+CURTIS_H004514_T01_01_WG01	amplicon1	12	11854715	1.01225546122366	ecdna	primary	ER+ High	ic2	1	primaryER+ Highecdna
+CURTIS_H004536_T01_01_WG01	amplicon1	4	18867250	0.212007579270959	noncyclic	primary	ER+ High	ic9	NA	primaryER+ Highnoncyclic
+CURTIS_H004536_T01_01_WG01	amplicon3	1	6357424	0.157296414396775	ecdna	primary	ER+ High	ic9	NA	primaryER+ Highecdna
+CURTIS_H004568_T01_01_WG01	amplicon1	6	9790214	0.612856879328685	ecdna	primary	IC10	ic8	1	primaryIC10ecdna
+CURTIS_H004568_T01_01_WG01	amplicon2	12	11834237	1.01400707117831	noncyclic	primary	IC10	ic8	1	primaryIC10noncyclic
+CURTIS_H004574_T01_01_WG01	amplicon2	0	314908	0	noncyclic	primary	ER+ Typical	ic9	1	primaryER+ Typicalnoncyclic
+CURTIS_H004650_T01_01_WG01	amplicon1	0	1731371	0	noncyclic	primary	ER+ High	ic1	NA	primaryER+ Highnoncyclic
+CURTIS_H004668_T01_01_WG01	amplicon1	0	4597125	0	noncyclic	primary	ER+ Typical	ic7	1	primaryER+ Typicalnoncyclic

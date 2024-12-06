@@ -1,0 +1,71 @@
+sample_name,ecDNA+.x,BFB+.x,type.x,ecDNA+.y,BFB+.y,type.y
+CURTIS_H000727,None detected,None detected,wgs,,,
+CURTIS_H000730,None detected,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000741,Positive,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000767,None detected,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000772,None detected,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000781,None detected,Positive,wgs,,,
+CURTIS_H000782,None detected,Positive,wgs,None detected,None detected,swgs
+CURTIS_H000784,None detected,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000793,None detected,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000804,None detected,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000805,Positive,None detected,wgs,Positive,None detected,swgs
+CURTIS_H000807,Positive,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000399,None detected,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000400,Positive,None detected,wgs,,,
+CURTIS_H000402,Positive,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000405,Positive,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000406,None detected,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000407,Positive,None detected,wgs,,,
+CURTIS_H000409,Positive,None detected,wgs,Positive,None detected,swgs
+CURTIS_H000412,None detected,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000414,None detected,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000415,Positive,None detected,wgs,,,
+CURTIS_H000416,None detected,None detected,wgs,,,
+CURTIS_H000498,None detected,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000500,Positive,None detected,wgs,Positive,None detected,swgs
+CURTIS_H000501,Positive,None detected,wgs,Positive,None detected,swgs
+CURTIS_H000502,Positive,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000504,None detected,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000505,None detected,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000506,None detected,Positive,wgs,None detected,None detected,swgs
+CURTIS_H000511,Positive,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000512,None detected,Positive,wgs,None detected,None detected,swgs
+CURTIS_H000513,Positive,None detected,wgs,,,
+CURTIS_H000515,None detected,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000516,Positive,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000517,None detected,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000518,Positive,None detected,wgs,Positive,None detected,swgs
+CURTIS_H000520,Positive,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000523,None detected,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000524,None detected,None detected,wgs,Positive,None detected,swgs
+CURTIS_H000525,None detected,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000526,Positive,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000527,None detected,None detected,wgs,None detected,Positive,swgs
+CURTIS_H000529,Positive,None detected,wgs,Positive,None detected,swgs
+CURTIS_H000530,None detected,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000532,None detected,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000533,Positive,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000534,None detected,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000535,None detected,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000536,None detected,Positive,wgs,,,
+CURTIS_H000537,None detected,Positive,wgs,None detected,None detected,swgs
+CURTIS_H000539,None detected,Positive,wgs,None detected,None detected,swgs
+CURTIS_H000540,None detected,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000542,None detected,Positive,wgs,None detected,None detected,swgs
+CURTIS_H000547,None detected,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000548,None detected,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000550,None detected,None detected,wgs,,,
+CURTIS_H000551,None detected,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000553,Positive,Positive,wgs,None detected,None detected,swgs
+CURTIS_H000554,None detected,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000555,Positive,Positive,wgs,None detected,None detected,swgs
+CURTIS_H000558,None detected,None detected,wgs,,,
+CURTIS_H000559,None detected,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000585,None detected,None detected,wgs,,,
+CURTIS_H000587,Positive,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000588,None detected,None detected,wgs,,,
+CURTIS_H000589,None detected,None detected,wgs,None detected,None detected,swgs
+CURTIS_H000590,None detected,None detected,wgs,,,
+CURTIS_H000592,None detected,None detected,wgs,Positive,None detected,swgs
+CURTIS_H000593,None detected,None detected,wgs,None detected,None detected,swgs

@@ -1,0 +1,7 @@
+dataset	statistic	value
+Primary	varexpl	0.99592020163972
+Primary	t_ratio	0.710957554218677
+Metastatic	varexpl	0.985305498049949
+Metastatic	t_ratio	0.523717028246901
+Primary+Metastatic	varexpl	0.997994465929447
+Primary+Metastatic	t_ratio	0.725551771522071

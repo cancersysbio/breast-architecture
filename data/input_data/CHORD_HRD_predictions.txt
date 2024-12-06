@@ -1,0 +1,1155 @@
+Sample	Stage	group	CHORD	p_BRCA1	p_BRCA2
+CURTIS_H000378_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000379_T01_01_WG01	Primary	IC10	HR_deficient	0.876	0.054
+CURTIS_H000380_T01_01_WG01	Primary	ER+ High	HR_deficient	0.162	0.66
+CURTIS_H000381_T01_01_WG01	Primary	IC4ER-	HR_deficient	0.836	0.084
+CURTIS_H000382_T01_01_WG01	Primary	ER+ High	HR_deficient	0.156	0.702
+CURTIS_H000383_T01_01_WG01	Primary	IC10	HR_deficient	0.774	0.052
+CURTIS_H000384_T01_01_WG01	Primary	IC10	HR_deficient	0.9	0.014
+CURTIS_H000385_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000386_T01_01_WG01	Primary	IC10	HR_proficient	0.098	0.006
+CURTIS_H000387_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H000388_T01_01_WG01	Primary	IC10	HR_proficient	0	0.002
+CURTIS_H000389_T01_01_WG01	Primary	ER+ High	HR_deficient	0.112	0.748
+CURTIS_H000390_T01_01_WG01	Primary	ER+ Typical	HR_deficient	0.06	0.732
+CURTIS_H000391_T01_01_WG01	Primary	HER2+	HR_proficient	0.012	0.016
+CURTIS_H000393_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H000394_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H000395_T01_01_WG01	Primary	IC10	HR_proficient	0	0
+CURTIS_H000396_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H000419_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H000420_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000421_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000422_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000423_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0.014	0.002
+CURTIS_H000424_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000425_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000426_T01_01_WG01	Primary	NA	HR_proficient	0	0
+CURTIS_H000427_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000428_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0.008	0
+CURTIS_H000429_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0.002
+CURTIS_H000430_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000431_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000432_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H000433_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000434_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000435_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H000436_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000437_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000438_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H000439_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0.002
+CURTIS_H000440_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0.05	0
+CURTIS_H000441_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0.002
+CURTIS_H000442_T01_01_WG01	Primary	ER+ Typical	HR_deficient	0.13	0.714
+CURTIS_H000443_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0.004	0.01
+CURTIS_H000444_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000445_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0.056	0.014
+CURTIS_H000446_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0.004
+CURTIS_H000447_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0.042	0
+CURTIS_H000448_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000449_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0.132	0.348
+CURTIS_H000450_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000451_T01_01_WG01	Primary	ER+ High	HR_deficient	0.186	0.644
+CURTIS_H000452_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000453_T01_01_WG01	Primary	ER+ Typical	HR_deficient	0.13	0.732
+CURTIS_H000454_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000455_T01_01_WG01	Primary	ER+ High	HR_deficient	0.134	0.708
+CURTIS_H000456_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000457_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000458_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000459_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000460_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0.002
+CURTIS_H000461_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000462_T01_01_WG01	Primary	ER+ High	HR_deficient	0.246	0.574
+CURTIS_H000463_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000464_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000465_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0.002	0.002
+CURTIS_H000466_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000467_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0.002	0
+CURTIS_H000468_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000469_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000470_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000471_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000472_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H000473_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000474_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000475_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000476_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000477_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H000478_T01_01_WG01	Primary	ER+ High	HR_deficient	0.128	0.718
+CURTIS_H000479_T01_01_WG01	Primary	ER+ High	HR_deficient	0.786	0.048
+CURTIS_H000480_T01_01_WG01	Primary	IC10	HR_deficient	0.164	0.652
+CURTIS_H000481_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0.008	0.006
+CURTIS_H000482_T01_01_WG01	Primary	ER+ Typical	HR_deficient	0.278	0.478
+CURTIS_H000483_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000485_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H000486_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000487_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H000488_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000489_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H000490_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0.008	0.006
+CURTIS_H000491_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000492_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0.002	0.002
+CURTIS_H000493_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000494_T01_01_WG01	Primary	ER+ Typical	HR_deficient	0.66	0.124
+CURTIS_H000495_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000496_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H000497_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H000560_T01_01_WG01	Primary	IC10	HR_proficient	0	0
+CURTIS_H000561_T01_01_WG01	Primary	IC10	HR_proficient	0.198	0.182
+CURTIS_H000563_T01_01_WG01	Primary	IC10	HR_proficient	0	0
+CURTIS_H000564_T01_01_WG01	Primary	IC10	HR_deficient	0.538	0.356
+CURTIS_H000565_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H000566_T01_01_WG01	Primary	IC10	HR_proficient	0	0
+CURTIS_H000567_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H000569_T01_01_WG01	Primary	IC10	HR_proficient	0	0
+CURTIS_H000570_T01_01_WG01	Primary	IC10	HR_proficient	0	0
+CURTIS_H000573_T01_01_WG01	Primary	IC4ER-	HR_deficient	0.874	0.038
+CURTIS_H000574_T01_01_WG01	Primary	IC10	HR_deficient	0.724	0.084
+CURTIS_H000575_T01_01_WG01	Primary	IC10	HR_deficient	0.872	0.066
+CURTIS_H000576_T01_01_WG01	Primary	IC4ER-	HR_deficient	0.872	0.044
+CURTIS_H000577_T01_01_WG01	Primary	IC10	HR_proficient	0.026	0.012
+CURTIS_H000578_T01_01_WG01	Primary	IC10	HR_deficient	0.1	0.746
+CURTIS_H000579_T01_01_WG01	Primary	IC10	HR_proficient	0.002	0.004
+CURTIS_H000580_T01_01_WG01	Primary	IC4ER-	HR_deficient	0.854	0.086
+CURTIS_H000581_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H000582_T01_01_WG01	Primary	IC10	HR_proficient	0	0
+CURTIS_H000583_T01_01_WG01	Primary	IC10	HR_proficient	0	0
+CURTIS_H001390_T01_01_WG01	Primary	IC10	HR_proficient	0	0
+CURTIS_H001391_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001392_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0.002
+CURTIS_H001393_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001394_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001395_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001396_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001397_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001398_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001399_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H001400_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001401_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H001402_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001403_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001404_T01_01_WG01	Primary	HER2+	HR_proficient	0	0.002
+CURTIS_H001405_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001406_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001407_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001409_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001410_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001411_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001412_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001413_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001414_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001415_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0.01
+CURTIS_H001416_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001417_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001418_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0.002
+CURTIS_H001419_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001420_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001421_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001422_T01_01_WG01	Primary	ER+ High	HR_proficient	0.002	0
+CURTIS_H001423_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001424_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001426_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0.064	0
+CURTIS_H001427_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001428_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001429_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001430_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001431_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001432_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001433_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001434_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001435_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001436_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001437_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0.002
+CURTIS_H001438_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001439_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001440_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H001441_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H001442_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H001443_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001444_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001445_T01_01_WG01	Primary	ER+ Typical	HR_deficient	0.832	0.062
+CURTIS_H001446_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001447_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001448_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001449_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0.092	0
+CURTIS_H001450_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0.002
+CURTIS_H001451_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001452_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001453_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0.002	0
+CURTIS_H001454_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0.002	0
+CURTIS_H001455_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0.002
+CURTIS_H001456_T01_01_WG01	Primary	ER+ Typical	cannot_be_determined	0	0
+CURTIS_H001457_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001458_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0.002	0.002
+CURTIS_H001459_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001460_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0.002	0.004
+CURTIS_H001461_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001462_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H001463_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H001464_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001465_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H001466_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001467_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001468_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001470_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001471_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001472_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001473_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0.002	0
+CURTIS_H001475_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001476_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001477_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001478_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001479_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001481_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001482_T01_01_WG01	Primary	ER+ High	HR_proficient	0.058	0.024
+CURTIS_H001483_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H001484_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H001485_T01_01_WG01	Primary	IC4ER-	HR_proficient	0	0
+CURTIS_H001486_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001487_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001488_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H001489_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H001491_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001492_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001493_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0.012	0.002
+CURTIS_H001494_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001495_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001496_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001497_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001498_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001499_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001500_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001501_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001502_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001504_T01_01_WG01	Primary	ER+ Typical	cannot_be_determined	0	0
+CURTIS_H001505_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001506_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0.002	0.022
+CURTIS_H001507_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0.002	0
+CURTIS_H001508_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0.04	0
+CURTIS_H001509_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001510_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0.008
+CURTIS_H001511_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001512_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0.002
+CURTIS_H001513_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001514_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001515_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001516_T01_01_WG01	Primary	ER+ Typical	HR_deficient	0.244	0.45
+CURTIS_H001517_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001518_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001519_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001520_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0.002
+CURTIS_H001521_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001522_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0.02
+CURTIS_H001523_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0.002
+CURTIS_H001524_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0.002
+CURTIS_H001525_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001526_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001527_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001528_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001530_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001531_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001532_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001533_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001534_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001535_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001536_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001537_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001538_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001539_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001540_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001541_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001542_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001543_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001544_T01_01_WG01	Primary	IC4ER-	HR_proficient	0	0
+CURTIS_H001545_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H001546_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001547_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H001548_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001549_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H001550_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H001551_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001552_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001553_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001554_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001555_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H001556_T01_01_WG01	Primary	HER2+	HR_proficient	0	0.002
+CURTIS_H001557_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0.004
+CURTIS_H001558_T01_01_WG01	Primary	ER+ High	HR_proficient	0.004	0
+CURTIS_H001559_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001560_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001561_T01_01_WG01	Primary	ER+ Typical	HR_deficient	0.034	0.682
+CURTIS_H001562_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001563_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001564_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0.04	0
+CURTIS_H001565_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0.002
+CURTIS_H001566_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001567_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001568_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001569_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0.004
+CURTIS_H001570_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001571_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001572_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001573_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001574_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001575_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001576_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001577_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001579_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001580_T01_01_WG01	Primary	IC10	HR_deficient	0.922	0.006
+CURTIS_H001581_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H001582_T01_01_WG01	Primary	IC10	HR_deficient	0.28	0.486
+CURTIS_H001583_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H001584_T01_01_WG01	Primary	IC4ER-	HR_proficient	0.206	0.014
+CURTIS_H001585_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001586_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H001587_T01_01_WG01	Primary	IC10	HR_deficient	0.146	0.552
+CURTIS_H001588_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001589_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001590_T01_01_WG01	Primary	HER2+	HR_deficient	0.71	0.112
+CURTIS_H001591_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001592_T01_01_WG01	Primary	IC10	HR_proficient	0.476	0.006
+CURTIS_H001593_T01_01_WG01	Primary	ER+ High	HR_deficient	0.074	0.746
+CURTIS_H001594_T01_01_WG01	Primary	IC4ER-	HR_proficient	0.012	0.008
+CURTIS_H001595_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H001596_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H001597_T01_01_WG01	Primary	IC10	HR_deficient	0.88	0.03
+CURTIS_H001598_T01_01_WG01	Primary	IC10	HR_deficient	0.574	0.188
+CURTIS_H001599_T01_01_WG01	Primary	IC10	cannot_be_determined	0	0
+CURTIS_H001600_T01_01_WG01	Primary	IC4ER-	HR_proficient	0	0
+CURTIS_H001601_T01_01_WG01	Primary	IC10	HR_deficient	0.924	0.016
+CURTIS_H001602_T01_01_WG01	Primary	IC10	HR_deficient	0.808	0.07
+CURTIS_H001603_T01_01_WG01	Primary	IC4ER-	cannot_be_determined	0.034	0.016
+CURTIS_H001604_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0.002	0
+CURTIS_H001605_T01_01_WG01	Primary	IC10	HR_deficient	0.804	0.062
+CURTIS_H001606_T01_01_WG01	Primary	IC10	HR_deficient	0.892	0.044
+CURTIS_H001607_T01_01_WG01	Primary	IC4ER-	HR_deficient	0.59	0.008
+CURTIS_H001608_T01_01_WG01	Primary	IC10	cannot_be_determined	0	0
+CURTIS_H001609_T01_01_WG01	Primary	IC10	HR_deficient	0.774	0.088
+CURTIS_H001610_T01_01_WG01	Primary	IC10	HR_proficient	0.028	0.006
+CURTIS_H001611_T01_01_WG01	Primary	ER+ Typical	cannot_be_determined	0	0
+CURTIS_H001612_T01_01_WG01	Primary	IC10	HR_proficient	0	0
+CURTIS_H001614_T01_01_WG01	Primary	ER+ High	HR_deficient	0.15	0.636
+CURTIS_H001615_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001616_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H001617_T01_01_WG01	Primary	IC10	HR_proficient	0	0
+CURTIS_H001618_T01_01_WG01	Primary	IC10	HR_proficient	0	0.008
+CURTIS_H001619_T01_01_WG01	Primary	IC10	HR_proficient	0.364	0.022
+CURTIS_H001620_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0.002	0
+CURTIS_H001621_T01_01_WG01	Primary	ER+ High	cannot_be_determined	0.15	0.022
+CURTIS_H001622_T01_01_WG01	Primary	IC10	HR_proficient	0.176	0.016
+CURTIS_H001623_T01_01_WG01	Primary	IC10	HR_deficient	0.92	0.01
+CURTIS_H001624_T01_01_WG01	Primary	IC4ER-	HR_proficient	0	0
+CURTIS_H001625_T01_01_WG01	Primary	IC4ER-	HR_deficient	0.046	0.792
+CURTIS_H001626_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001627_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H001628_T01_01_WG01	Primary	IC4ER-	HR_proficient	0.006	0
+CURTIS_H001629_T01_01_WG01	Primary	HER2+	HR_proficient	0.002	0
+CURTIS_H001630_T01_01_WG01	Primary	ER+ High	HR_deficient	0.046	0.69
+CURTIS_H001631_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001632_T01_01_WG01	Primary	IC4ER-	HR_proficient	0.038	0.004
+CURTIS_H001633_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001634_T01_01_WG01	Primary	IC4ER-	cannot_be_determined	0	0
+CURTIS_H001635_T01_01_WG01	Primary	IC10	HR_proficient	0	0
+CURTIS_H001636_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001637_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H001638_T01_01_WG01	Primary	IC4ER-	HR_proficient	0.006	0.004
+CURTIS_H001639_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001640_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001641_T01_01_WG01	Primary	IC4ER-	HR_proficient	0	0
+CURTIS_H001642_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001643_T01_01_WG01	Primary	IC10	HR_proficient	0.124	0.002
+CURTIS_H001644_T01_01_WG01	Primary	IC10	HR_proficient	0.238	0.012
+CURTIS_H001645_T01_01_WG01	Primary	IC10	HR_proficient	0.398	0.002
+CURTIS_H001646_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001647_T01_01_WG01	Primary	IC10	HR_proficient	0	0
+CURTIS_H001648_T01_01_WG01	Primary	IC10	HR_proficient	0	0
+CURTIS_H001649_T01_01_WG01	Primary	IC10	HR_proficient	0	0
+CURTIS_H001650_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001651_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H001652_T01_01_WG01	Primary	ER+ High	HR_proficient	0.004	0
+CURTIS_H001653_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001654_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001655_T01_01_WG01	Primary	IC10	HR_proficient	0	0
+CURTIS_H001656_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H001657_T01_01_WG01	Primary	IC4ER-	HR_proficient	0	0
+CURTIS_H001658_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H001659_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001660_T01_01_WG01	Primary	IC10	HR_deficient	0.92	0.004
+CURTIS_H001661_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001662_T01_01_WG01	Primary	IC10	HR_proficient	0	0
+CURTIS_H001663_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001664_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001665_T01_01_WG01	Primary	ER+ Typical	HR_deficient	0.204	0.496
+CURTIS_H001666_T01_01_WG01	Primary	ER+ High	HR_deficient	0.178	0.6
+CURTIS_H001667_T01_01_WG01	Primary	ER+ Typical	HR_deficient	0.134	0.708
+CURTIS_H001668_T01_01_WG01	Primary	ER+ Typical	HR_deficient	0.092	0.762
+CURTIS_H001669_T01_01_WG01	Primary	ER+ Typical	HR_deficient	0.148	0.566
+CURTIS_H001670_T01_01_WG01	Primary	ER+ High	HR_deficient	0.12	0.596
+CURTIS_H001671_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001673_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H001674_T01_01_WG01	Primary	ER+ Typical	cannot_be_determined	0.022	0
+CURTIS_H001675_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001676_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001677_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001678_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001679_T01_01_WG01	Primary	ER+ Typical	HR_deficient	0.208	0.496
+CURTIS_H001680_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001681_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0.004
+CURTIS_H001682_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001683_T01_01_WG01	Primary	IC10	HR_proficient	0	0.004
+CURTIS_H001684_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H001685_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001686_T01_01_WG01	Primary	IC10	HR_deficient	0.778	0.058
+CURTIS_H001687_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H001688_T01_01_WG01	Primary	HER2+	cannot_be_determined	0	0.004
+CURTIS_H001689_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H001690_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H001691_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001692_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001693_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001694_T01_01_WG01	Primary	IC10	HR_deficient	0.898	0.038
+CURTIS_H001695_T01_01_WG01	Primary	HER2+	HR_proficient	0.002	0
+CURTIS_H001696_T01_01_WG01	Primary	IC10	HR_deficient	0.798	0.116
+CURTIS_H001697_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001698_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H001699_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001700_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H001701_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001702_T01_01_WG01	Primary	IC4ER-	HR_deficient	0.852	0.02
+CURTIS_H001703_T01_01_WG01	Primary	IC4ER-	HR_proficient	0.252	0.02
+CURTIS_H001704_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0.002
+CURTIS_H001705_T01_01_WG01	Primary	ER+ Typical	HR_deficient	0.088	0.628
+CURTIS_H001706_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001707_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001708_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001709_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001710_T01_01_WG01	Primary	IC10	HR_proficient	0	0
+CURTIS_H001711_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0.004
+CURTIS_H001712_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001713_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001714_T01_01_WG01	Primary	ER+ Typical	HR_deficient	0.14	0.638
+CURTIS_H001715_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001716_T01_01_WG01	Primary	ER+ Typical	HR_deficient	0.784	0.046
+CURTIS_H001717_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001721_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H001722_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001723_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001724_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0.002
+CURTIS_H001725_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001726_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001727_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001728_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001729_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001730_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001731_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001732_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0.036	0
+CURTIS_H001733_T01_01_WG01	Primary	HER2+	HR_deficient	0.918	0.006
+CURTIS_H001734_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001736_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001737_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001738_T01_01_WG01	Primary	ER+ Typical	cannot_be_determined	0	0.002
+CURTIS_H001739_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001741_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001742_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001743_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001744_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001745_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001746_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001747_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H001748_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001752_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H001753_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0.048	0
+CURTIS_H002029_T01_01_WG01	Primary	IC10	HR_deficient	0.926	0.01
+CURTIS_H002030_T01_01_WG01	Primary	IC10	HR_proficient	0.094	0.006
+CURTIS_H002031_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H002032_T01_01_WG01	Primary	IC10	HR_proficient	0.336	0.028
+CURTIS_H002033_T01_01_WG01	Primary	IC10	HR_deficient	0.86	0.078
+CURTIS_H002034_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0.166	0
+CURTIS_H002035_T01_01_WG01	Primary	IC10	cannot_be_determined	0.12	0
+CURTIS_H002036_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H002037_T01_01_WG01	Primary	IC10	HR_deficient	0.834	0.058
+CURTIS_H002038_T01_01_WG01	Primary	IC10	HR_deficient	0.794	0.022
+CURTIS_H002039_T01_01_WG01	Primary	IC10	HR_deficient	0.714	0.094
+CURTIS_H002040_T01_01_WG01	Primary	IC10	HR_proficient	0.194	0.006
+CURTIS_H002041_T01_01_WG01	Primary	IC10	HR_proficient	0	0.002
+CURTIS_H002042_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H002043_T01_01_WG01	Primary	IC10	HR_deficient	0.828	0.066
+CURTIS_H002044_T01_01_WG01	Primary	IC4ER-	HR_proficient	0	0
+CURTIS_H002045_T01_01_WG01	Primary	IC10	HR_deficient	0.752	0.066
+CURTIS_H002046_T01_01_WG01	Primary	IC10	HR_deficient	0.61	0.064
+CURTIS_H002047_T01_01_WG01	Primary	IC4ER-	HR_proficient	0	0
+CURTIS_H002048_T01_01_WG01	Primary	IC10	HR_proficient	0	0
+CURTIS_H002049_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0.002
+CURTIS_H002050_T01_01_WG01	Primary	IC10	HR_deficient	0.922	0.008
+CURTIS_H002051_T01_01_WG01	Primary	IC10	HR_proficient	0.01	0
+CURTIS_H002052_T01_01_WG01	Primary	IC4ER-	HR_deficient	0.414	0.418
+CURTIS_H002053_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0.002	0
+CURTIS_H002054_T01_01_WG01	Primary	IC10	HR_deficient	0.176	0.582
+CURTIS_H002055_T01_01_WG01	Primary	IC10	HR_proficient	0.136	0.346
+CURTIS_H002056_T01_01_WG01	Primary	IC10	HR_deficient	0.702	0.18
+CURTIS_H002057_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0.002
+CURTIS_H002058_T01_01_WG01	Primary	IC10	HR_deficient	0.566	0.004
+CURTIS_H002059_T01_01_WG01	Primary	ER+ Typical	HR_deficient	0.864	0.05
+CURTIS_H002060_T01_01_WG01	Primary	IC10	HR_deficient	0.93	0.008
+CURTIS_H002061_T01_01_WG01	Primary	IC10	HR_deficient	0.898	0.014
+CURTIS_H002062_T01_01_WG01	Primary	IC10	HR_deficient	0.892	0.05
+CURTIS_H002063_T01_01_WG01	Primary	IC10	HR_deficient	0.796	0.11
+CURTIS_H002064_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H002065_T01_01_WG01	Primary	IC4ER-	HR_proficient	0.332	0.012
+CURTIS_H002066_T01_01_WG01	Primary	IC10	HR_deficient	0.494	0.008
+CURTIS_H002067_T01_01_WG01	Primary	IC10	cannot_be_determined	0	0
+CURTIS_H002068_T01_01_WG01	Primary	IC10	HR_deficient	0.888	0.008
+CURTIS_H002069_T01_01_WG01	Primary	IC4ER-	HR_proficient	0.03	0
+CURTIS_H002070_T01_01_WG01	Primary	IC10	HR_proficient	0.004	0.034
+CURTIS_H002071_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H002072_T01_01_WG01	Primary	IC4ER-	HR_proficient	0	0
+CURTIS_H002076_T01_01_WG01	Primary	IC4ER-	HR_proficient	0	0
+CURTIS_H002077_T01_01_WG01	Primary	IC4ER-	HR_proficient	0	0
+CURTIS_H002078_T01_01_WG01	Primary	IC10	HR_proficient	0.002	0.002
+CURTIS_H002079_T01_01_WG01	Primary	IC4ER-	HR_proficient	0.004	0.012
+CURTIS_H002080_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H002082_T01_01_WG01	Primary	IC10	HR_deficient	0.218	0.528
+CURTIS_H002083_T01_01_WG01	Primary	IC4ER-	HR_proficient	0	0
+CURTIS_H002084_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H002085_T01_01_WG01	Primary	IC10	cannot_be_determined	0	0.002
+CURTIS_H002086_T01_01_WG01	Primary	ER+ Typical	HR_deficient	0.872	0.022
+CURTIS_H002087_T01_01_WG01	Primary	IC10	HR_deficient	0.922	0.004
+CURTIS_H002088_T01_01_WG01	Primary	IC4ER-	HR_proficient	0.472	0.02
+CURTIS_H002089_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0.002
+CURTIS_H002090_T01_01_WG01	Primary	IC4ER-	HR_deficient	0.47	0.258
+CURTIS_H002091_T01_01_WG01	Primary	IC10	HR_deficient	0.112	0.574
+CURTIS_H002092_T01_01_WG01	Primary	IC10	HR_proficient	0.006	0
+CURTIS_H002093_T01_01_WG01	Primary	IC10	HR_deficient	0.242	0.464
+CURTIS_H002094_T01_01_WG01	Primary	IC4ER-	HR_proficient	0	0
+CURTIS_H002095_T01_01_WG01	Primary	IC10	HR_deficient	0.83	0.06
+CURTIS_H002096_T01_01_WG01	Primary	IC10	HR_deficient	0.748	0.142
+CURTIS_H002097_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H002098_T01_01_WG01	Primary	IC10	HR_proficient	0.182	0.018
+CURTIS_H002099_T01_01_WG01	Primary	IC10	HR_proficient	0.266	0
+CURTIS_H003223_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H004015_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H004016_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H004018_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H004047_T01_01_WG01	Primary	IC10	HR_proficient	0	0
+CURTIS_H004098_T01_01_WG01	Primary	IC4ER-	HR_deficient	0.778	0.216
+CURTIS_H004118_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H004127_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H004158_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H004176_T01_01_WG01	Primary	IC10	HR_proficient	0	0.004
+CURTIS_H004179_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H004182_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H004188_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H004195_T01_01_WG01	Primary	IC10	HR_deficient	0.17	0.72
+CURTIS_H004210_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H004211_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H004218_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H004221_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H004251_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H004254_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H004265_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H004270_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H004281_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H004287_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H004289_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H004297_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H004303_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H004304_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H004324_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H004333_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H004369_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H004370_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0.002	0.002
+CURTIS_H004379_T01_01_WG01	Primary	IC4ER-	HR_deficient	0.75	0.048
+CURTIS_H004381_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H004386_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H004389_T01_01_WG01	Primary	HER2+	HR_proficient	0	0
+CURTIS_H004419_T01_01_WG01	Primary	IC10	HR_deficient	0.97	0.02
+CURTIS_H004443_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0.01	0
+CURTIS_H004458_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0.002	0
+CURTIS_H004463_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H004470_T01_01_WG01	Primary	IC10	HR_proficient	0.01	0.002
+CURTIS_H004482_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H004504_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H004510_T01_01_WG01	Primary	IC10	HR_proficient	0.002	0.002
+CURTIS_H004514_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H004521_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H004529_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H004536_T01_01_WG01	Primary	ER+ High	HR_deficient	0.044	0.854
+CURTIS_H004559_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H004568_T01_01_WG01	Primary	IC10	HR_proficient	0.002	0
+CURTIS_H004574_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H004598_T01_01_WG01	Primary	ER+ Typical	HR_deficient	0.262	0.486
+CURTIS_H004610_T01_01_WG01	Primary	ER+ High	HR_deficient	0.006	0.992
+CURTIS_H004622_T01_01_WG01	Primary	IC10	HR_deficient	0.964	0.024
+CURTIS_H004650_T01_01_WG01	Primary	ER+ High	HR_proficient	0	0
+CURTIS_H004652_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0.02
+CURTIS_H004656_T01_01_WG01	Primary	ER+ Typical	HR_proficient	0	0
+CURTIS_H004668_T01_01_WG01	Primary	ER+ Typical	cannot_be_determined	0	0
+CURTIS_H003221_T01_01_WG01	Metastatic	IC10	HR_proficient	0.004	0.01
+CURTIS_H003222_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H003224_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004004_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004005_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0.006
+CURTIS_H004006_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0.022	0.002
+CURTIS_H004007_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004008_T02_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004009_T01_01_WG01	Metastatic	IC10	HR_deficient	0.93	0.032
+CURTIS_H004010_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004011_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.006	0.012
+CURTIS_H004012_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004013_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0.002
+CURTIS_H004014_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004017_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004019_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004020_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0.006	0.012
+CURTIS_H004021_T01_01_WG01	Metastatic	ER+ High	HR_deficient	0	1
+CURTIS_H004022_T01_01_WG01	Metastatic	IC10	HR_deficient	0.026	0.966
+CURTIS_H004023_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004024_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0.016	0.014
+CURTIS_H004025_T01_01_WG01	Metastatic	IC10	HR_deficient	0.9	0.072
+CURTIS_H004026_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004027_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.002	0.014
+CURTIS_H004028_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004029_T01_01_WG01	Metastatic	IC10	HR_deficient	0.986	0.008
+CURTIS_H004030_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.002	0
+CURTIS_H004031_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0.008	0.008
+CURTIS_H004032_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004033_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0.004
+CURTIS_H004034_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004035_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004036_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004037_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.022	0.024
+CURTIS_H004038_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004039_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.43	0
+CURTIS_H004040_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004041_T01_01_WG01	Metastatic	IC10	HR_deficient	0.976	0.02
+CURTIS_H004042_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004043_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004044_T01_01_WG01	Metastatic	ER+ Typical	HR_deficient	0.934	0.032
+CURTIS_H004045_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004046_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004048_T01_01_WG01	Metastatic	IC10	HR_deficient	0.804	0.098
+CURTIS_H004049_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.006	0
+CURTIS_H004050_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004051_T01_01_WG01	Metastatic	IC10	HR_proficient	0.014	0.004
+CURTIS_H004094_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004096_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004097_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004098_T02_01_WG01	Metastatic	IC10	HR_deficient	0.784	0.21
+CURTIS_H004099_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004100_T01_01_WG01	Metastatic	IC10	HR_deficient	0.392	0.272
+CURTIS_H004102_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0.01
+CURTIS_H004103_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004104_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004105_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004106_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004107_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004108_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004109_T02_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004110_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004111_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004112_T01_01_WG01	Metastatic	IC4ER-	HR_deficient	0.788	0.046
+CURTIS_H004114_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004116_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004117_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004119_T01_01_WG01	Metastatic	IC10	HR_deficient	0.144	0.842
+CURTIS_H004120_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004121_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.02	0.002
+CURTIS_H004122_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004123_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004124_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004125_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004126_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0.002
+CURTIS_H004129_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004130_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.002	0.002
+CURTIS_H004131_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0.004	0.008
+CURTIS_H004132_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004133_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.002	0
+CURTIS_H004134_T01_01_WG01	Metastatic	ER+ High	HR_deficient	0.006	0.988
+CURTIS_H004135_T01_01_WG01	Metastatic	IC10	HR_proficient	0.032	0.022
+CURTIS_H004136_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004137_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.006	0.004
+CURTIS_H004138_T01_01_WG01	Metastatic	IC4ER-	HR_proficient	0	0.002
+CURTIS_H004139_T01_01_WG01	Metastatic	ER+ High	HR_deficient	0.03	0.96
+CURTIS_H004140_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004141_T01_01_WG01	Metastatic	IC4ER-	HR_proficient	0	0
+CURTIS_H004142_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004143_T01_01_WG01	Metastatic	IC10	HR_proficient	0.01	0.008
+CURTIS_H004144_T01_01_WG01	Metastatic	ER+ Typical	HR_deficient	0.01	0.982
+CURTIS_H004145_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0.002	0.002
+CURTIS_H004146_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004147_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004148_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004149_T01_01_WG01	Metastatic	ER+ Typical	HR_deficient	0	0.978
+CURTIS_H004150_T01_01_WG01	Metastatic	IC10	HR_proficient	0	0
+CURTIS_H004152_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004153_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004154_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004155_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004156_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.002	0
+CURTIS_H004157_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004159_T02_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004160_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004161_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004162_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004163_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004164_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004165_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004166_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004167_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0.002
+CURTIS_H004168_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004169_T01_01_WG01	Metastatic	IC10	HR_proficient	0	0.002
+CURTIS_H004170_T01_01_WG01	Metastatic	IC4ER-	HR_proficient	0	0
+CURTIS_H004171_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004172_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.004	0.002
+CURTIS_H004173_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004174_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004175_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004177_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004178_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0.004
+CURTIS_H004180_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004181_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004183_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004184_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004185_T01_01_WG01	Metastatic	ER+ Typical	cannot_be_determined	0	0
+CURTIS_H004186_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004187_T01_01_WG01	Metastatic	IC10	HR_proficient	0.004	0.01
+CURTIS_H004188_T02_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004189_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004190_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004191_T01_01_WG01	Metastatic	ER+ High	HR_deficient	0.936	0.028
+CURTIS_H004192_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004193_T01_01_WG01	Metastatic	IC10	HR_proficient	0.002	0
+CURTIS_H004194_T01_01_WG01	Metastatic	ER+ Typical	HR_deficient	0.108	0.872
+CURTIS_H004196_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004197_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0.002
+CURTIS_H004198_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004199_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004200_T01_01_WG01	Metastatic	ER+ Typical	HR_deficient	0.004	0.992
+CURTIS_H004201_T01_01_WG01	Metastatic	ER+ Typical	HR_deficient	0.032	0.914
+CURTIS_H004202_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004203_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004204_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004205_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0.006	0.002
+CURTIS_H004206_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004207_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004208_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.012	0.044
+CURTIS_H004209_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004212_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004213_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004214_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0.002
+CURTIS_H004215_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004216_T01_01_WG01	Metastatic	ER+ Typical	HR_deficient	0.008	0.988
+CURTIS_H004217_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004219_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004220_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004222_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004223_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004224_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004225_T01_01_WG01	Metastatic	ER+ Typical	HR_deficient	0.976	0.002
+CURTIS_H004226_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004227_T01_01_WG01	Metastatic	IC10	HR_proficient	0.002	0
+CURTIS_H004228_T01_01_WG01	Metastatic	IC10	HR_proficient	0	0
+CURTIS_H004229_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004230_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004231_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004232_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004233_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.01	0.012
+CURTIS_H004234_T01_01_WG01	Metastatic	NA	HR_proficient	0	0
+CURTIS_H004235_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004236_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004238_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004239_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004240_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004241_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004242_T01_01_WG01	Metastatic	IC10	cannot_be_determined	0	0
+CURTIS_H004243_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004244_T02_01_WG01	Metastatic	ER+ High	HR_proficient	0	0.008
+CURTIS_H004245_T01_01_WG01	Metastatic	ER+ Typical	HR_deficient	0.078	0.838
+CURTIS_H004246_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0.002	0.002
+CURTIS_H004247_T01_01_WG01	Metastatic	ER+ High	HR_deficient	0.014	0.976
+CURTIS_H004248_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004249_T01_01_WG01	Metastatic	IC4ER-	HR_proficient	0	0
+CURTIS_H004250_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0.004
+CURTIS_H004252_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004253_T01_01_WG01	Metastatic	ER+ Typical	HR_deficient	0.804	0.044
+CURTIS_H004255_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004256_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004257_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004258_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004259_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004260_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004261_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004262_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004263_T01_01_WG01	Metastatic	ER+ Typical	cannot_be_determined	0	0
+CURTIS_H004264_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004266_T01_01_WG01	Metastatic	HER2+	HR_proficient	0.002	0
+CURTIS_H004267_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.018	0.038
+CURTIS_H004268_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004269_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004272_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.02	0.002
+CURTIS_H004273_T01_01_WG01	Metastatic	IC4ER-	HR_proficient	0	0
+CURTIS_H004274_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004275_T01_01_WG01	Metastatic	IC4ER-	HR_proficient	0	0
+CURTIS_H004276_T01_01_WG01	Metastatic	ER+ High	HR_deficient	0.972	0.006
+CURTIS_H004277_T01_01_WG01	Metastatic	IC10	HR_proficient	0	0
+CURTIS_H004279_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004280_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.008	0.026
+CURTIS_H004282_T01_01_WG01	Metastatic	IC4ER-	HR_proficient	0	0
+CURTIS_H004283_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004284_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004285_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004286_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004288_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.012	0.01
+CURTIS_H004290_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0.002
+CURTIS_H004291_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004293_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004294_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004295_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004296_T01_01_WG01	Metastatic	IC4ER-	HR_proficient	0.006	0.004
+CURTIS_H004298_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004299_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004300_T01_01_WG01	Metastatic	ER+ Typical	HR_deficient	0.368	0.584
+CURTIS_H004301_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004302_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004305_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004306_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004307_T01_01_WG01	Metastatic	IC10	HR_proficient	0.022	0
+CURTIS_H004308_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004309_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004310_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004311_T01_01_WG01	Metastatic	ER+ Typical	HR_deficient	0.072	0.818
+CURTIS_H004313_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004314_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0.002	0
+CURTIS_H004315_T01_01_WG01	Metastatic	IC4ER-	HR_deficient	0.928	0.036
+CURTIS_H004316_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0.002
+CURTIS_H004317_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004318_T01_01_WG01	Metastatic	IC10	HR_proficient	0.002	0
+CURTIS_H004319_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004320_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004321_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004322_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004323_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004325_T01_01_WG01	Metastatic	ER+ High	HR_deficient	0.028	0.95
+CURTIS_H004326_T01_01_WG01	Metastatic	ER+ High	HR_deficient	0	1
+CURTIS_H004327_T01_01_WG01	Metastatic	IC10	HR_proficient	0	0
+CURTIS_H004329_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004331_T01_01_WG01	Metastatic	IC4ER-	HR_deficient	0.93	0.052
+CURTIS_H004332_T01_01_WG01	Metastatic	ER+ High	HR_deficient	0.076	0.908
+CURTIS_H004334_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004335_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004336_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004337_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004338_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004339_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004340_T01_01_WG01	Metastatic	IC10	HR_proficient	0	0.002
+CURTIS_H004341_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004342_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004343_T01_01_WG01	Metastatic	IC4ER-	HR_proficient	0	0
+CURTIS_H004344_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004345_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004346_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0.004	0.002
+CURTIS_H004347_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004348_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004349_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004350_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004351_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004353_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004354_T01_01_WG01	Metastatic	IC10	HR_proficient	0	0
+CURTIS_H004355_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004356_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004357_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004358_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004359_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0.002
+CURTIS_H004360_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0.002
+CURTIS_H004361_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004362_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004363_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004364_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004365_T01_01_WG01	Metastatic	ER+ High	HR_deficient	0	1
+CURTIS_H004366_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004367_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004368_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004371_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.002	0.002
+CURTIS_H004372_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004373_T01_01_WG01	Metastatic	IC10	HR_proficient	0	0
+CURTIS_H004374_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0.002
+CURTIS_H004375_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0.002
+CURTIS_H004376_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.004	0.006
+CURTIS_H004377_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004378_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004380_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004382_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004383_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004384_T01_01_WG01	Metastatic	IC10	HR_proficient	0.004	0
+CURTIS_H004385_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004387_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004388_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0.002	0.004
+CURTIS_H004390_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0.002	0.004
+CURTIS_H004391_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004392_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004393_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004394_T01_01_WG01	Metastatic	ER+ High	cannot_be_determined	0	0
+CURTIS_H004395_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004396_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0.002	0
+CURTIS_H004397_T01_01_WG01	Metastatic	IC4ER-	HR_deficient	0.9	0.008
+CURTIS_H004398_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004399_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004400_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004401_T01_01_WG01	Metastatic	ER+ Typical	HR_deficient	0.738	0.056
+CURTIS_H004402_T01_01_WG01	Metastatic	ER+ Typical	HR_deficient	0.002	0.998
+CURTIS_H004403_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004404_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004405_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004406_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004407_T01_01_WG01	Metastatic	IC10	HR_proficient	0.002	0.002
+CURTIS_H004408_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004409_T01_01_WG01	Metastatic	IC10	HR_deficient	0.264	0.528
+CURTIS_H004410_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004411_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0.004	0.002
+CURTIS_H004412_T01_01_WG01	Metastatic	ER+ Typical	cannot_be_determined	0	0
+CURTIS_H004413_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004414_T01_01_WG01	Metastatic	ER+ High	HR_deficient	0.13	0.474
+CURTIS_H004415_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004416_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004417_T01_01_WG01	Metastatic	HER2+	HR_proficient	0.002	0.012
+CURTIS_H004418_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004420_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004421_T01_01_WG01	Metastatic	IC10	HR_proficient	0.004	0.002
+CURTIS_H004422_T01_01_WG01	Metastatic	IC4ER-	HR_proficient	0	0
+CURTIS_H004423_T03_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004424_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004425_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0.002
+CURTIS_H004426_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004427_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004428_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004429_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004430_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.002	0
+CURTIS_H004431_T01_01_WG01	Metastatic	IC10	HR_proficient	0	0
+CURTIS_H004432_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004433_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004434_T01_01_WG01	Metastatic	IC10	HR_proficient	0	0
+CURTIS_H004435_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004436_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.002	0
+CURTIS_H004437_T01_01_WG01	Metastatic	IC10	HR_proficient	0.006	0.004
+CURTIS_H004438_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004439_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004440_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004441_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004442_T01_01_WG01	Metastatic	NA	HR_proficient	0	0
+CURTIS_H004444_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004445_T01_01_WG01	Metastatic	IC10	HR_deficient	0.16	0.712
+CURTIS_H004446_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004447_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.002	0
+CURTIS_H004448_T01_01_WG01	Metastatic	HER2+	HR_deficient	0.158	0.356
+CURTIS_H004449_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004450_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0.002
+CURTIS_H004451_T01_01_WG01	Metastatic	ER+ Typical	cannot_be_determined	0	0.002
+CURTIS_H004452_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0.004
+CURTIS_H004453_T01_01_WG01	Metastatic	ER+ High	HR_deficient	0.968	0.028
+CURTIS_H004454_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004455_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004456_T01_01_WG01	Metastatic	IC10	HR_proficient	0	0
+CURTIS_H004457_T01_01_WG01	Metastatic	IC4ER-	HR_proficient	0	0
+CURTIS_H004459_T01_01_WG01	Metastatic	IC4ER-	HR_deficient	0.916	0.066
+CURTIS_H004460_T01_01_WG01	Metastatic	IC10	HR_proficient	0	0
+CURTIS_H004461_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004462_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004464_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.002	0
+CURTIS_H004465_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004466_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0.002
+CURTIS_H004467_T01_01_WG01	Metastatic	ER+ Typical	HR_deficient	0.014	0.972
+CURTIS_H004468_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0.01
+CURTIS_H004469_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004471_T01_01_WG01	Metastatic	IC10	HR_proficient	0	0
+CURTIS_H004472_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004473_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.002	0
+CURTIS_H004474_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004475_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.004	0.004
+CURTIS_H004476_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0.002
+CURTIS_H004477_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0.008	0.006
+CURTIS_H004478_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004479_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004480_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004481_T01_01_WG01	Metastatic	ER+ High	HR_deficient	0.282	0.694
+CURTIS_H004483_T01_01_WG01	Metastatic	IC10	HR_deficient	0.102	0.878
+CURTIS_H004484_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004485_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004486_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.018	0.016
+CURTIS_H004487_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004488_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004489_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004490_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004491_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004492_T01_01_WG01	Metastatic	ER+ Typical	HR_deficient	0.898	0.068
+CURTIS_H004493_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004494_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004495_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004496_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0.006
+CURTIS_H004497_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004498_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004499_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004500_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0.004
+CURTIS_H004501_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004502_T01_01_WG01	Metastatic	IC10	HR_deficient	0.922	0.056
+CURTIS_H004503_T01_01_WG01	Metastatic	ER+ Typical	HR_deficient	0.82	0.15
+CURTIS_H004505_T01_01_WG01	Metastatic	ER+ Typical	HR_deficient	0	1
+CURTIS_H004506_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004507_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004508_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004509_T01_01_WG01	Metastatic	ER+ Typical	HR_deficient	0.018	0.982
+CURTIS_H004511_T01_01_WG01	Metastatic	ER+ Typical	HR_deficient	0.014	0.938
+CURTIS_H004512_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004513_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0.016	0.016
+CURTIS_H004515_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004516_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004517_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004518_T01_01_WG01	Metastatic	IC10	HR_proficient	0	0
+CURTIS_H004519_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0.002
+CURTIS_H004520_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.002	0
+CURTIS_H004522_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004523_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004524_T01_01_WG01	Metastatic	ER+ High	HR_deficient	0	0.998
+CURTIS_H004525_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004526_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004527_T01_01_WG01	Metastatic	IC10	HR_deficient	0.97	0.018
+CURTIS_H004528_T01_01_WG01	Metastatic	ER+ High	HR_deficient	0	1
+CURTIS_H004530_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004531_T01_01_WG01	Metastatic	ER+ High	HR_deficient	0.996	0
+CURTIS_H004532_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004533_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004534_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004535_T01_01_WG01	Metastatic	NA	HR_proficient	0	0
+CURTIS_H004537_T01_01_WG01	Metastatic	IC10	HR_proficient	0.01	0
+CURTIS_H004538_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0.002
+CURTIS_H004539_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004540_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004541_T01_01_WG01	Metastatic	IC4ER-	HR_proficient	0.002	0
+CURTIS_H004542_T01_01_WG01	Metastatic	ER+ Typical	HR_deficient	0.016	0.952
+CURTIS_H004543_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004544_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004545_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004546_T01_01_WG01	Metastatic	ER+ Typical	HR_deficient	0.01	0.988
+CURTIS_H004547_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004548_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0.004
+CURTIS_H004549_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004550_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004551_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004552_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004553_T01_01_WG01	Metastatic	ER+ Typical	HR_deficient	0.054	0.928
+CURTIS_H004554_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004555_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004556_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0.002
+CURTIS_H004557_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004558_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.002	0
+CURTIS_H004560_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.002	0.002
+CURTIS_H004561_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004562_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004564_T01_01_WG01	Metastatic	IC10	HR_proficient	0.002	0.006
+CURTIS_H004565_T01_01_WG01	Metastatic	IC10	HR_proficient	0	0
+CURTIS_H004566_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004567_T01_01_WG01	Metastatic	IC10	HR_proficient	0.01	0.004
+CURTIS_H004569_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004570_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.004	0.002
+CURTIS_H004571_T01_01_WG01	Metastatic	ER+ High	HR_deficient	0.982	0.01
+CURTIS_H004572_T01_01_WG01	Metastatic	NA	HR_proficient	0	0
+CURTIS_H004573_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004575_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004576_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.002	0
+CURTIS_H004577_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004578_T01_01_WG01	Metastatic	IC10	HR_proficient	0	0
+CURTIS_H004579_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004580_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004581_T01_01_WG01	Metastatic	IC10	HR_deficient	0.83	0.162
+CURTIS_H004582_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0.002
+CURTIS_H004583_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004584_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004585_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.01	0
+CURTIS_H004586_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004587_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004588_T01_01_WG01	Metastatic	IC10	HR_proficient	0.004	0.01
+CURTIS_H004589_T01_01_WG01	Metastatic	IC10	HR_proficient	0.002	0
+CURTIS_H004590_T01_01_WG01	Metastatic	ER+ High	HR_deficient	0.016	0.976
+CURTIS_H004591_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004592_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0.008
+CURTIS_H004593_T01_01_WG01	Metastatic	IC10	HR_proficient	0.004	0.01
+CURTIS_H004594_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004595_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0.002
+CURTIS_H004596_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004597_T01_01_WG01	Metastatic	ER+ Typical	HR_deficient	0.952	0.01
+CURTIS_H004599_T01_01_WG01	Metastatic	ER+ High	HR_deficient	0	1
+CURTIS_H004600_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004601_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004602_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004603_T01_01_WG01	Metastatic	IC10	HR_proficient	0	0
+CURTIS_H004604_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004605_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004606_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004607_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0.002
+CURTIS_H004608_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0.002
+CURTIS_H004609_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004612_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004613_T01_01_WG01	Metastatic	NA	HR_proficient	0	0
+CURTIS_H004614_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004615_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004616_T01_01_WG01	Metastatic	IC10	HR_proficient	0	0
+CURTIS_H004617_T01_01_WG01	Metastatic	ER+ High	HR_deficient	0.002	0.994
+CURTIS_H004618_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0.002
+CURTIS_H004619_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004620_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004623_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004624_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004625_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004626_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004628_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0.004
+CURTIS_H004630_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004631_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004632_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004633_T01_01_WG01	Metastatic	IC10	HR_proficient	0.002	0
+CURTIS_H004634_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004635_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004636_T01_01_WG01	Metastatic	ER+ High	HR_deficient	0	1
+CURTIS_H004637_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004638_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004639_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004640_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004641_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0.002	0
+CURTIS_H004642_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004643_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.002	0.014
+CURTIS_H004644_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004645_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004646_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004647_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0.006
+CURTIS_H004648_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004651_T01_01_WG01	Metastatic	IC10	HR_deficient	0.956	0.036
+CURTIS_H004653_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004654_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004655_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004657_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0
+CURTIS_H004658_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004659_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.012	0.018
+CURTIS_H004660_T01_01_WG01	Metastatic	NA	HR_proficient	0	0
+CURTIS_H004661_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004662_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0.002
+CURTIS_H004663_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004664_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004665_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004666_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004667_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0.002
+CURTIS_H004669_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004670_T01_01_WG01	Metastatic	NA	HR_proficient	0	0
+CURTIS_H004671_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0.002
+CURTIS_H004672_T01_01_WG01	Metastatic	ER+ Typical	HR_deficient	0	1
+CURTIS_H004673_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.002	0.002
+CURTIS_H004674_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.178	0.09
+CURTIS_H004675_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004676_T01_01_WG01	Metastatic	ER+ Typical	HR_deficient	0.202	0.678
+CURTIS_H004677_T01_01_WG01	Metastatic	HER2+	HR_proficient	0	0.002
+CURTIS_H004678_T01_01_WG01	Metastatic	ER+ High	HR_deficient	0.074	0.874
+CURTIS_H004679_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004680_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0.002	0.006
+CURTIS_H004681_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004682_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004684_T01_01_WG01	Metastatic	ER+ Typical	HR_proficient	0	0
+CURTIS_H004685_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0
+CURTIS_H004686_T01_01_WG01	Metastatic	ER+ High	HR_proficient	0	0.004

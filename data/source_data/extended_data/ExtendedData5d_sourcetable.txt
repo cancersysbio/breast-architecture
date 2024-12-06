@@ -1,0 +1,16 @@
+both_oncogene	subtype	Freq	Prop	oncocode
+2	ER+ High	9	0.5625	ER+ High_a
+1	ER+ High	2	0.125	ER+ High_b
+0	ER+ High	5	0.3125	ER+ High_c
+2	ER+ Typical	4	0.5	ER+ Typical_a
+1	ER+ Typical	3	0.375	ER+ Typical_b
+0	ER+ Typical	1	0.125	ER+ Typical_c
+2	HER2+	8	0.8	HER2+_a
+1	HER2+	1	0.1	HER2+_b
+0	HER2+	1	0.1	HER2+_c
+2	IC10	0	0	IC10_a
+1	IC10	0	0	IC10_b
+0	IC10	0	0	IC10_c
+2	IC4ER-	1	0.333333333333333	IC4ER-_a
+1	IC4ER-	0	0	IC4ER-_b
+0	IC4ER-	2	0.666666666666667	IC4ER-_c

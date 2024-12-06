@@ -1,0 +1,21 @@
+category	group	Freq	prop
+bfb	ER+ High	21	0.583333333333333
+both	ER+ High	4	0.111111111111111
+neither	ER+ High	6	0.166666666666667
+tyfona	ER+ High	5	0.138888888888889
+bfb	ER+ Typical	3	0.166666666666667
+both	ER+ Typical	1	0.0555555555555556
+neither	ER+ Typical	9	0.5
+tyfona	ER+ Typical	5	0.277777777777778
+bfb	HER2+	6	0.333333333333333
+both	HER2+	3	0.166666666666667
+neither	HER2+	0	0
+tyfona	HER2+	9	0.5
+bfb	IC10	2	0.25
+both	IC10	2	0.25
+neither	IC10	4	0.5
+tyfona	IC10	0	0
+bfb	IC4ER-	3	1
+both	IC4ER-	0	0
+neither	IC4ER-	0	0
+tyfona	IC4ER-	0	0

@@ -1,0 +1,7 @@
+any_complex	amp_code	x	seq	prop
+cyclic	d	3	wgs	0.25
+complex	e	1	wgs	0.0833333333333333
+none	f	8	wgs	0.666666666666667
+cyclic	d	32	swgs	0.0788177339901478
+complex	e	120	swgs	0.295566502463054
+none	f	254	swgs	0.625615763546798

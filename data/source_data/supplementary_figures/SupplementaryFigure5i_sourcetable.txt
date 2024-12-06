@@ -1,0 +1,13 @@
+Stage	IC9	Amplification	Proportion	Total_Samples
+Primary	IC9	Neither	0.06	50
+Primary	IC9	MYC only	0.02	50
+Primary	IC9	MYC and PVT1	0.92	50
+Primary	Other	Neither	0.717791411042945	652
+Primary	Other	MYC only	0.0260736196319018	652
+Primary	Other	MYC and PVT1	0.256134969325153	652
+Metastatic	IC9	Neither	0.0588235294117647	51
+Metastatic	IC9	MYC only	0.0196078431372549	51
+Metastatic	IC9	MYC and PVT1	0.92156862745098	51
+Metastatic	Other	Neither	0.618263473053892	668
+Metastatic	Other	MYC only	0.0419161676646707	668
+Metastatic	Other	MYC and PVT1	0.339820359281437	668

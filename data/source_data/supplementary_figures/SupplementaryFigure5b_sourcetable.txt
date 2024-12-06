@@ -1,0 +1,7 @@
+threshold	proportion	type	index
+2	0.984771573604061	ecdna	1
+4	0.954314720812183	ecdna	2
+9	0.918781725888325	ecdna	3
+2	0.9125	complex	4
+4	0.85625	complex	5
+9	0.76875	complex	6

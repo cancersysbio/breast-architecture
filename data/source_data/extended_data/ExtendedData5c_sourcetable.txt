@@ -1,0 +1,16 @@
+oncogene	group	Freq	Prop	oncocode
+IC oncogene	ER+ High	100	0.671140939597315	ER+ High_a
+Non-IC oncogene	ER+ High	33	0.221476510067114	ER+ High_b
+No oncogene	ER+ High	16	0.10738255033557	ER+ High_c
+IC oncogene	ER+ Typical	44	0.523809523809524	ER+ Typical_a
+Non-IC oncogene	ER+ Typical	36	0.428571428571429	ER+ Typical_b
+No oncogene	ER+ Typical	4	0.0476190476190476	ER+ Typical_c
+IC oncogene	HER2+	40	0.8	HER2+_a
+Non-IC oncogene	HER2+	9	0.18	HER2+_b
+No oncogene	HER2+	1	0.02	HER2+_c
+IC oncogene	IC10	5	0.151515151515152	IC10_a
+Non-IC oncogene	IC10	23	0.696969696969697	IC10_b
+No oncogene	IC10	5	0.151515151515152	IC10_c
+IC oncogene	IC4ER-	3	0.333333333333333	IC4ER-_a
+Non-IC oncogene	IC4ER-	3	0.333333333333333	IC4ER-_b
+No oncogene	IC4ER-	3	0.333333333333333	IC4ER-_c

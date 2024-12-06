@@ -1,0 +1,31 @@
+oncogene	group	Freq	Prop	Cohort	cohort_code	oncocode	index	gindex
+IC oncogene	ER+ High	63	0.692307692307692	Discovery	a	d	ER+ High_a	ER+ High_d
+IC oncogene	ER+ High	110	0.486725663716814	Validation	b	d	ER+ High_b	ER+ High_d
+Non-IC oncogene	ER+ High	17	0.186813186813187	Discovery	a	e	ER+ High_a	ER+ High_e
+Non-IC oncogene	ER+ High	46	0.20353982300885	Validation	b	e	ER+ High_b	ER+ High_e
+No oncogene	ER+ High	11	0.120879120879121	Discovery	a	f	ER+ High_a	ER+ High_f
+No oncogene	ER+ High	70	0.309734513274336	Validation	b	f	ER+ High_b	ER+ High_f
+IC oncogene	ER+ Typical	20	0.5	Discovery	a	d	ER+ Typical_a	ER+ Typical_d
+IC oncogene	ER+ Typical	50	0.335570469798658	Validation	b	d	ER+ Typical_b	ER+ Typical_d
+Non-IC oncogene	ER+ Typical	16	0.4	Discovery	a	e	ER+ Typical_a	ER+ Typical_e
+Non-IC oncogene	ER+ Typical	53	0.355704697986577	Validation	b	e	ER+ Typical_b	ER+ Typical_e
+No oncogene	ER+ Typical	4	0.1	Discovery	a	f	ER+ Typical_a	ER+ Typical_f
+No oncogene	ER+ Typical	46	0.308724832214765	Validation	b	f	ER+ Typical_b	ER+ Typical_f
+IC oncogene	HER2+	49	0.890909090909091	Discovery	a	d	HER2+_a	HER2+_d
+IC oncogene	HER2+	87	0.783783783783784	Validation	b	d	HER2+_b	HER2+_d
+Non-IC oncogene	HER2+	4	0.0727272727272727	Discovery	a	e	HER2+_a	HER2+_e
+Non-IC oncogene	HER2+	9	0.0810810810810811	Validation	b	e	HER2+_b	HER2+_e
+No oncogene	HER2+	2	0.0363636363636364	Discovery	a	f	HER2+_a	HER2+_f
+No oncogene	HER2+	15	0.135135135135135	Validation	b	f	HER2+_b	HER2+_f
+IC oncogene	IC10	5	0.151515151515152	Discovery	a	d	IC10_a	IC10_d
+IC oncogene	IC10	24	0.224299065420561	Validation	b	d	IC10_b	IC10_d
+Non-IC oncogene	IC10	19	0.575757575757576	Discovery	a	e	IC10_a	IC10_e
+Non-IC oncogene	IC10	40	0.373831775700935	Validation	b	e	IC10_b	IC10_e
+No oncogene	IC10	9	0.272727272727273	Discovery	a	f	IC10_a	IC10_f
+No oncogene	IC10	43	0.401869158878505	Validation	b	f	IC10_b	IC10_f
+IC oncogene	IC4ER-	2	0.4	Discovery	a	d	IC4ER-_a	IC4ER-_d
+IC oncogene	IC4ER-	7	0.388888888888889	Validation	b	d	IC4ER-_b	IC4ER-_d
+Non-IC oncogene	IC4ER-	2	0.4	Discovery	a	e	IC4ER-_a	IC4ER-_e
+Non-IC oncogene	IC4ER-	6	0.333333333333333	Validation	b	e	IC4ER-_b	IC4ER-_e
+No oncogene	IC4ER-	1	0.2	Discovery	a	f	IC4ER-_a	IC4ER-_f
+No oncogene	IC4ER-	5	0.277777777777778	Validation	b	f	IC4ER-_b	IC4ER-_f

@@ -1,0 +1,52 @@
+ENiClust	Pathway	Stage	Proportion
+IC1	Antigen
+Presentation	Metastatic	0.0952380952380952
+IC1	Antigen
+Presentation	Primary	0.025
+IC1	Epigenetic	Metastatic	0.0952380952380952
+IC1	Epigenetic	Primary	0.2
+IC1	HLA-I	Metastatic	0.126984126984127
+IC1	HLA-I	Primary	0.175
+IC1	HLA-II	Metastatic	0.0793650793650794
+IC1	HLA-II	Primary	0.175
+IC1	IFN-γ pathway	Metastatic	0.142857142857143
+IC1	IFN-γ pathway	Primary	0.175
+IC1	PD-L1	Primary	0.025
+IC2	Antigen
+Presentation	Metastatic	0.0277777777777778
+IC2	Antigen
+Presentation	Primary	0.0454545454545455
+IC2	Epigenetic	Metastatic	0.166666666666667
+IC2	Epigenetic	Primary	0.136363636363636
+IC2	HLA-I	Metastatic	0.166666666666667
+IC2	HLA-I	Primary	0.0909090909090909
+IC2	HLA-II	Metastatic	0.111111111111111
+IC2	HLA-II	Primary	0.0909090909090909
+IC2	IFN-γ pathway	Metastatic	0.0833333333333333
+IC2	IFN-γ pathway	Primary	0.0909090909090909
+IC2	PD-L1	Metastatic	0.0277777777777778
+IC6	Antigen
+Presentation	Metastatic	0.0483870967741935
+IC6	Antigen
+Presentation	Primary	0.04
+IC6	Epigenetic	Metastatic	0.0967741935483871
+IC6	HLA-I	Metastatic	0.17741935483871
+IC6	HLA-I	Primary	0.16
+IC6	HLA-II	Metastatic	0.17741935483871
+IC6	HLA-II	Primary	0.16
+IC6	IFN-γ pathway	Metastatic	0.0645161290322581
+IC6	IFN-γ pathway	Primary	0.04
+IC6	PD-L1	Metastatic	0.0161290322580645
+IC9	Antigen
+Presentation	Metastatic	0.0980392156862745
+IC9	Antigen
+Presentation	Primary	0.08
+IC9	Epigenetic	Metastatic	0.176470588235294
+IC9	Epigenetic	Primary	0.18
+IC9	HLA-I	Metastatic	0.117647058823529
+IC9	HLA-I	Primary	0.1
+IC9	HLA-II	Metastatic	0.117647058823529
+IC9	HLA-II	Primary	0.16
+IC9	IFN-γ pathway	Metastatic	0.0784313725490196
+IC9	IFN-γ pathway	Primary	0.12
+IC9	PD-L1	Metastatic	0.0196078431372549

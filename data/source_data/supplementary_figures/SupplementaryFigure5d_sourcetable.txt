@@ -1,0 +1,1047 @@
+Sample,group,label_chord_only,label_group,Type,ecDNA_detected
+CURTIS_H000378_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000378_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000379_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H000379_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H000380_T01_01_WG01,ER+ High,BRCA2-like,ER+ High,JaBbA,FALSE
+CURTIS_H000380_T01_01_WG01,ER+ High,BRCA2-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H000381_T01_01_WG01,IC4ER-,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H000381_T01_01_WG01,IC4ER-,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H000382_T01_01_WG01,ER+ High,BRCA2-like,ER+ High,JaBbA,FALSE
+CURTIS_H000382_T01_01_WG01,ER+ High,BRCA2-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H000383_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H000383_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H000384_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H000384_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H000385_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,TRUE
+CURTIS_H000385_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000386_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H000386_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H000387_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H000387_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H000388_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H000388_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H000389_T01_01_WG01,ER+ High,BRCA2-like,ER+ High,JaBbA,FALSE
+CURTIS_H000389_T01_01_WG01,ER+ High,BRCA2-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H000390_T01_01_WG01,ER+ High,BRCA2-like,ER+ High,JaBbA,TRUE
+CURTIS_H000390_T01_01_WG01,ER+ High,BRCA2-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H000395_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H000395_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H000396_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H000396_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H000419_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H000419_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H000420_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000420_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000421_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000421_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000422_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000422_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000423_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000423_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000424_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000424_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000425_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H000425_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H000427_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,TRUE
+CURTIS_H000427_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,TRUE
+CURTIS_H000428_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000428_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000429_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H000429_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H000430_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000430_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000431_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000431_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000432_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H000432_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H000433_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000433_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000434_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000434_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000435_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H000435_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H000436_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000436_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000437_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000437_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000438_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H000438_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H000439_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000439_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000440_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000440_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000441_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000441_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000442_T01_01_WG01,ER+ Typical,BRCA2-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000442_T01_01_WG01,ER+ Typical,BRCA2-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000443_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,TRUE
+CURTIS_H000443_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000444_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000444_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000445_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000445_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,TRUE
+CURTIS_H000446_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000446_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000447_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000447_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000448_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000448_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000449_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000449_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000450_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000450_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000451_T01_01_WG01,ER+ High,BRCA2-like,ER+ High,JaBbA,FALSE
+CURTIS_H000451_T01_01_WG01,ER+ High,BRCA2-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H000452_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000452_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000453_T01_01_WG01,ER+ Typical,BRCA2-like,ER+ Typical,JaBbA,TRUE
+CURTIS_H000453_T01_01_WG01,ER+ Typical,BRCA2-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000454_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000454_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,TRUE
+CURTIS_H000455_T01_01_WG01,ER+ High,BRCA2-like,ER+ High,JaBbA,FALSE
+CURTIS_H000455_T01_01_WG01,ER+ High,BRCA2-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H000456_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000456_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000457_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000457_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000458_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000458_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000459_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000459_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000460_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000460_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000461_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000461_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000462_T01_01_WG01,ER+ High,BRCA2-like,ER+ High,JaBbA,FALSE
+CURTIS_H000462_T01_01_WG01,ER+ High,BRCA2-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H000463_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,TRUE
+CURTIS_H000463_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,TRUE
+CURTIS_H000464_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000464_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000465_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000465_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000466_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000466_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000467_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000467_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000468_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000468_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,TRUE
+CURTIS_H000469_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000469_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000470_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000470_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,TRUE
+CURTIS_H000471_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000471_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000472_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H000472_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H000473_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000473_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000474_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000474_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000475_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000475_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000476_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000476_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000477_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H000477_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H000478_T01_01_WG01,ER+ High,BRCA2-like,ER+ High,JaBbA,FALSE
+CURTIS_H000478_T01_01_WG01,ER+ High,BRCA2-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H000480_T01_01_WG01,ER+ High,BRCA2-like,ER+ High,JaBbA,FALSE
+CURTIS_H000480_T01_01_WG01,ER+ High,BRCA2-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H000481_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000481_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000482_T01_01_WG01,ER+ Typical,BRCA2-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000482_T01_01_WG01,ER+ Typical,BRCA2-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000483_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000483_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000485_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H000485_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H000486_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000486_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000488_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000488_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000489_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H000489_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H000490_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000490_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000491_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000491_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000492_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000492_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000493_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000493_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000495_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000495_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000496_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H000496_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H000497_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H000497_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H000560_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H000560_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H000561_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H000561_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H000563_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,TRUE
+CURTIS_H000563_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H000564_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H000564_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H000565_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H000565_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H000566_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H000566_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H000567_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H000567_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H000569_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,TRUE
+CURTIS_H000569_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,TRUE
+CURTIS_H000570_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,TRUE
+CURTIS_H000570_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H000573_T01_01_WG01,IC4ER-,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H000573_T01_01_WG01,IC4ER-,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H000574_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H000574_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H000575_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H000575_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H000576_T01_01_WG01,IC4ER-,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H000576_T01_01_WG01,IC4ER-,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H000577_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,TRUE
+CURTIS_H000577_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H000578_T01_01_WG01,IC10,BRCA2-like,TNBC,JaBbA,FALSE
+CURTIS_H000578_T01_01_WG01,IC10,BRCA2-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H000579_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H000579_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H000580_T01_01_WG01,IC4ER-,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H000580_T01_01_WG01,IC4ER-,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H000581_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H000581_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,TRUE
+CURTIS_H000582_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,TRUE
+CURTIS_H000582_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,TRUE
+CURTIS_H000583_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H000583_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,TRUE
+CURTIS_H001390_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,TRUE
+CURTIS_H001390_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,TRUE
+CURTIS_H001391_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H001391_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001392_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,TRUE
+CURTIS_H001392_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,TRUE
+CURTIS_H001393_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001393_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001394_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H001394_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001395_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H001395_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001396_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001396_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001397_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001397_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001398_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H001398_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001400_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H001400_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001402_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001402_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001403_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H001403_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H001405_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001405_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001406_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001406_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001407_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001407_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001409_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001409_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001410_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001410_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001411_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001411_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001412_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001412_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001413_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001413_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001414_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001414_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001415_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,TRUE
+CURTIS_H001415_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,TRUE
+CURTIS_H001416_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H001416_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H001417_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H001417_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001418_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001418_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001419_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H001419_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001420_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001420_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001421_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001421_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001422_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H001422_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001423_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001423_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001424_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001424_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001426_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001426_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001427_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001427_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001428_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001428_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001429_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H001429_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H001430_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001430_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001431_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001431_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001432_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H001432_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H001433_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001433_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,TRUE
+CURTIS_H001434_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001434_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001435_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,TRUE
+CURTIS_H001435_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001436_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H001436_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H001437_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001437_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001438_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H001438_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001439_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001439_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001443_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001443_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001444_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H001444_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H001446_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,TRUE
+CURTIS_H001446_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,TRUE
+CURTIS_H001447_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001447_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001448_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001448_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001449_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001449_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001450_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H001450_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H001451_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001451_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001452_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H001452_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001453_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001453_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001454_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001454_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001455_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001455_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,TRUE
+CURTIS_H001456_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001456_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001457_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001457_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001458_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001458_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001459_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H001459_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001460_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001460_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001461_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H001461_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001464_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001464_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001466_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H001466_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001467_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H001467_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001468_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,TRUE
+CURTIS_H001468_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,TRUE
+CURTIS_H001470_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001470_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001471_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H001471_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H001472_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001472_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001473_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001473_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001475_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001475_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001476_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001476_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001477_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001477_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001478_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H001478_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001479_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,TRUE
+CURTIS_H001479_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,TRUE
+CURTIS_H001481_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001481_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001482_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H001482_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001486_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H001486_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001487_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H001487_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H001491_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001491_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001492_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001492_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001493_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001493_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001494_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001494_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001495_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001495_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001496_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001496_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001497_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H001497_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H001498_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001498_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001499_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001499_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001500_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001500_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001501_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H001501_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H001502_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001502_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001504_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001504_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001505_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001505_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001506_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001506_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001507_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001507_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001508_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001508_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001509_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001509_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001510_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H001510_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001511_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H001511_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001512_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001512_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001513_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,TRUE
+CURTIS_H001513_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001514_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001514_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001515_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001515_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001516_T01_01_WG01,ER+ Typical,BRCA2-like,ER+ Typical,JaBbA,TRUE
+CURTIS_H001516_T01_01_WG01,ER+ Typical,BRCA2-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001517_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001517_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001518_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001518_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,TRUE
+CURTIS_H001519_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H001519_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001520_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H001520_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H001521_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001521_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001522_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001522_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001523_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001523_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001524_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001524_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001525_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,TRUE
+CURTIS_H001525_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001526_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H001526_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001527_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001527_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001528_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H001528_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001530_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H001530_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001531_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001531_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001532_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H001532_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001533_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001533_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001534_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H001534_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001535_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001535_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001536_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001536_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001537_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001537_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001538_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001538_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001539_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,TRUE
+CURTIS_H001539_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,TRUE
+CURTIS_H001540_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001540_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001541_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H001541_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001542_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001542_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001543_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001543_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001544_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H001544_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001546_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H001546_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H001548_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H001548_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001551_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001551_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001552_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001552_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001553_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001553_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001554_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H001554_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001557_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001557_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001558_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H001558_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H001559_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H001559_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H001560_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001560_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001561_T01_01_WG01,ER+ Typical,BRCA2-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001561_T01_01_WG01,ER+ Typical,BRCA2-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001562_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001562_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001563_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001563_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001564_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001564_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001565_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001565_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001566_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H001566_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H001567_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001567_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,TRUE
+CURTIS_H001568_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H001568_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H001569_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001569_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001570_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,TRUE
+CURTIS_H001570_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,TRUE
+CURTIS_H001571_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001571_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001572_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001572_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001573_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001573_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001574_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001574_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001575_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001575_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001576_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001576_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001577_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001577_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001579_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001579_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,TRUE
+CURTIS_H001580_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H001580_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001582_T01_01_WG01,IC10,BRCA2-like,TNBC,JaBbA,FALSE
+CURTIS_H001582_T01_01_WG01,IC10,BRCA2-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001584_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H001584_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001585_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,TRUE
+CURTIS_H001585_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,TRUE
+CURTIS_H001587_T01_01_WG01,IC10,BRCA2-like,TNBC,JaBbA,TRUE
+CURTIS_H001587_T01_01_WG01,IC10,BRCA2-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001588_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001588_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001589_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H001589_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001591_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H001591_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001592_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H001592_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001593_T01_01_WG01,ER+ High,BRCA2-like,ER+ High,JaBbA,FALSE
+CURTIS_H001593_T01_01_WG01,ER+ High,BRCA2-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H001594_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H001594_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001597_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H001597_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001598_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H001598_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001599_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H001599_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001600_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,TRUE
+CURTIS_H001600_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001601_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H001601_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001602_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H001602_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001603_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H001603_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001604_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001604_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001605_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H001605_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001606_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H001606_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001607_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H001607_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001608_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H001608_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001609_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,TRUE
+CURTIS_H001609_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001610_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H001610_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001611_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001611_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001612_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H001612_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001614_T01_01_WG01,ER+ High,BRCA2-like,ER+ High,JaBbA,FALSE
+CURTIS_H001614_T01_01_WG01,ER+ High,BRCA2-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H001615_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001615_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001617_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H001617_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001618_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H001618_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001619_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H001619_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001620_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001620_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,TRUE
+CURTIS_H001621_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H001621_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001622_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,TRUE
+CURTIS_H001622_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001623_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H001623_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001624_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H001624_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001625_T01_01_WG01,ER+ Typical,BRCA2-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001625_T01_01_WG01,ER+ Typical,BRCA2-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001626_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H001626_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001628_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H001628_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001629_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H001629_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001630_T01_01_WG01,ER+ High,BRCA2-like,ER+ High,JaBbA,FALSE
+CURTIS_H001630_T01_01_WG01,ER+ High,BRCA2-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001631_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H001631_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001632_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,TRUE
+CURTIS_H001632_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001633_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001633_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001634_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H001634_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001635_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H001635_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,TRUE
+CURTIS_H001636_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H001636_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H001638_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H001638_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001639_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001639_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001640_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001640_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001641_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H001641_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001642_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001642_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001643_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H001643_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001644_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H001644_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001645_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H001645_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H001646_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001646_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001647_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,TRUE
+CURTIS_H001647_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,TRUE
+CURTIS_H001648_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,TRUE
+CURTIS_H001648_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,TRUE
+CURTIS_H001649_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H001649_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,TRUE
+CURTIS_H001650_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001650_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001652_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H001652_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H001653_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,TRUE
+CURTIS_H001653_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,TRUE
+CURTIS_H001654_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001654_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,TRUE
+CURTIS_H001655_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,TRUE
+CURTIS_H001655_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001657_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H001657_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,AmpliconArchitect,TRUE
+CURTIS_H001659_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001659_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001660_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,TRUE
+CURTIS_H001660_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,TRUE
+CURTIS_H001661_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001661_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001662_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H001662_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,TRUE
+CURTIS_H001663_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001663_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001664_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H001664_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001665_T01_01_WG01,ER+ Typical,BRCA2-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001665_T01_01_WG01,ER+ Typical,BRCA2-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001666_T01_01_WG01,ER+ High,BRCA2-like,ER+ High,JaBbA,TRUE
+CURTIS_H001666_T01_01_WG01,ER+ High,BRCA2-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H001667_T01_01_WG01,ER+ Typical,BRCA2-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001667_T01_01_WG01,ER+ Typical,BRCA2-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001668_T01_01_WG01,ER+ Typical,BRCA2-like,ER+ Typical,JaBbA,TRUE
+CURTIS_H001668_T01_01_WG01,ER+ Typical,BRCA2-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001669_T01_01_WG01,ER+ Typical,BRCA2-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001669_T01_01_WG01,ER+ Typical,BRCA2-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001670_T01_01_WG01,ER+ High,BRCA2-like,ER+ High,JaBbA,FALSE
+CURTIS_H001670_T01_01_WG01,ER+ High,BRCA2-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H001671_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001671_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001674_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001674_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001675_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001675_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,TRUE
+CURTIS_H001676_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H001676_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H001677_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001677_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001678_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H001678_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001679_T01_01_WG01,ER+ Typical,BRCA2-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001679_T01_01_WG01,ER+ Typical,BRCA2-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001680_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H001680_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001681_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H001681_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001683_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,TRUE
+CURTIS_H001683_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,TRUE
+CURTIS_H001685_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001685_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001686_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H001686_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001691_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001691_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001692_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H001692_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001693_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H001693_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H001694_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H001694_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001696_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,TRUE
+CURTIS_H001696_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001697_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,TRUE
+CURTIS_H001697_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001699_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H001699_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001701_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001701_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001702_T01_01_WG01,IC4ER-,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H001702_T01_01_WG01,IC4ER-,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001703_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H001703_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H001704_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001704_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001705_T01_01_WG01,ER+ Typical,BRCA2-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001705_T01_01_WG01,ER+ Typical,BRCA2-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001706_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001706_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001707_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001707_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001708_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001708_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001709_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001709_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001710_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H001710_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,TRUE
+CURTIS_H001711_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001711_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001712_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,TRUE
+CURTIS_H001712_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001713_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001713_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001714_T01_01_WG01,ER+ Typical,BRCA2-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001714_T01_01_WG01,ER+ Typical,BRCA2-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001715_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H001715_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H001717_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H001717_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001722_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001722_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001723_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001723_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001724_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001724_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001725_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001725_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001726_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001726_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001727_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H001727_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001728_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H001728_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001729_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001729_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001730_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H001730_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001731_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001731_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001732_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001732_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001734_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001734_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001736_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H001736_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001737_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H001737_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H001738_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001738_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001739_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001739_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001741_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001741_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001742_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,TRUE
+CURTIS_H001742_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,TRUE
+CURTIS_H001743_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H001743_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H001744_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001744_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,TRUE
+CURTIS_H001745_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001745_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001746_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001746_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,TRUE
+CURTIS_H001747_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H001747_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H001748_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001748_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H001752_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001752_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,TRUE
+CURTIS_H001753_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H001753_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H002029_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H002029_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002030_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,TRUE
+CURTIS_H002030_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002031_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H002031_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H002032_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H002032_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002033_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H002033_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002034_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H002034_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H002035_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H002035_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002036_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H002036_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H002037_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H002037_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002038_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H002038_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002039_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,TRUE
+CURTIS_H002039_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,TRUE
+CURTIS_H002040_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H002040_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002041_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,TRUE
+CURTIS_H002041_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,TRUE
+CURTIS_H002042_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H002042_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H002043_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,TRUE
+CURTIS_H002043_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002044_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H002044_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002045_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H002045_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,TRUE
+CURTIS_H002046_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H002046_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002048_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,TRUE
+CURTIS_H002048_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002049_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H002049_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H002050_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H002050_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002051_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H002051_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002052_T01_01_WG01,IC10,BRCA2-like,TNBC,JaBbA,FALSE
+CURTIS_H002052_T01_01_WG01,IC10,BRCA2-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002053_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,TRUE
+CURTIS_H002053_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H002054_T01_01_WG01,IC10,BRCA2-like,TNBC,JaBbA,FALSE
+CURTIS_H002054_T01_01_WG01,IC10,BRCA2-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002055_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H002055_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002056_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H002056_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002057_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H002057_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002058_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H002058_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002059_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H002059_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002060_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H002060_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002061_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H002061_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002062_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H002062_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002063_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,TRUE
+CURTIS_H002063_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,TRUE
+CURTIS_H002064_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H002064_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H002065_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H002065_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002066_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,TRUE
+CURTIS_H002066_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002067_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,TRUE
+CURTIS_H002067_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002068_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H002068_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002069_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H002069_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002070_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H002070_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002071_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H002071_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H002072_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H002072_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002076_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H002076_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002077_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H002077_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002078_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H002078_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002079_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H002079_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,AmpliconArchitect,TRUE
+CURTIS_H002082_T01_01_WG01,IC10,BRCA2-like,TNBC,JaBbA,FALSE
+CURTIS_H002082_T01_01_WG01,IC10,BRCA2-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002083_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H002083_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002084_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H002084_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H002085_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H002085_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002087_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H002087_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002088_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H002088_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002089_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H002089_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H002090_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H002090_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,TRUE
+CURTIS_H002091_T01_01_WG01,IC10,BRCA2-like,TNBC,JaBbA,TRUE
+CURTIS_H002091_T01_01_WG01,IC10,BRCA2-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002092_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H002092_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002093_T01_01_WG01,IC10,BRCA2-like,TNBC,JaBbA,FALSE
+CURTIS_H002093_T01_01_WG01,IC10,BRCA2-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002094_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H002094_T01_01_WG01,IC4ER-,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002095_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H002095_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002096_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H002096_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002097_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,TRUE
+CURTIS_H002097_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H002098_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H002098_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H002099_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H002099_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H003223_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H003223_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H004015_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H004015_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H004016_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H004016_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H004047_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H004047_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,TRUE
+CURTIS_H004098_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H004098_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H004118_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H004118_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H004127_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H004127_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H004176_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H004176_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,TRUE
+CURTIS_H004179_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H004179_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H004182_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H004182_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H004188_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H004188_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H004195_T01_01_WG01,IC10,BRCA2-like,TNBC,JaBbA,FALSE
+CURTIS_H004195_T01_01_WG01,IC10,BRCA2-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H004210_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H004210_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H004211_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H004211_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,TRUE
+CURTIS_H004218_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H004218_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H004221_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H004221_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,TRUE
+CURTIS_H004251_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H004251_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H004254_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H004254_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H004265_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H004265_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,TRUE
+CURTIS_H004270_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H004270_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H004287_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H004287_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H004297_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H004297_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H004303_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H004303_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H004324_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H004324_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H004333_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H004333_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H004370_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H004370_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H004379_T01_01_WG01,IC4ER-,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H004379_T01_01_WG01,IC4ER-,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H004381_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H004381_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H004386_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H004386_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H004419_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H004419_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H004443_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H004443_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H004458_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H004458_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,TRUE
+CURTIS_H004463_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H004463_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H004470_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H004470_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H004482_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H004482_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H004504_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H004504_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H004510_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H004510_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,TRUE
+CURTIS_H004514_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H004514_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H004521_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H004521_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H004529_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H004529_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H004536_T01_01_WG01,ER+ High,BRCA2-like,ER+ High,JaBbA,FALSE
+CURTIS_H004536_T01_01_WG01,ER+ High,BRCA2-like,ER+ High,AmpliconArchitect,TRUE
+CURTIS_H004559_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H004559_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H004568_T01_01_WG01,IC10,non-HRD-like,TNBC,JaBbA,FALSE
+CURTIS_H004568_T01_01_WG01,IC10,non-HRD-like,TNBC,AmpliconArchitect,TRUE
+CURTIS_H004574_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H004574_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H004598_T01_01_WG01,ER+ Typical,BRCA2-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H004598_T01_01_WG01,ER+ Typical,BRCA2-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H004610_T01_01_WG01,ER+ Typical,BRCA2-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H004610_T01_01_WG01,ER+ Typical,BRCA2-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H004622_T01_01_WG01,IC10,BRCA1-like,TNBC,JaBbA,FALSE
+CURTIS_H004622_T01_01_WG01,IC10,BRCA1-like,TNBC,AmpliconArchitect,FALSE
+CURTIS_H004650_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,JaBbA,FALSE
+CURTIS_H004650_T01_01_WG01,ER+ High,non-HRD-like,ER+ High,AmpliconArchitect,FALSE
+CURTIS_H004652_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H004652_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H004656_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H004656_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE
+CURTIS_H004668_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,JaBbA,FALSE
+CURTIS_H004668_T01_01_WG01,ER+ Typical,non-HRD-like,ER+ Typical,AmpliconArchitect,FALSE

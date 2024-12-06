@@ -1,0 +1,581 @@
+sample	ampliconID	Freq	width	FreqNorm	comparison	stage	group	iC10	ER	index
+CURTIS_H000525_T01_01_WG01	amplicon1	0	6317819	0	noncyclic	metastatic	ER+ Typical	ic8	1	metastaticER+ Typicalnoncyclic
+CURTIS_H003221_T01_01_WG01	amplicon1	11	12231652	0.899306160770434	ecdna	metastatic	IC10	ic9	0	metastaticIC10ecdna
+CURTIS_H003221_T01_01_WG01	amplicon2	0	1022486	0	ecdna	metastatic	IC10	ic9	0	metastaticIC10ecdna
+CURTIS_H003222_T01_01_WG01	amplicon1	0	6722818	0	ecdna	metastatic	HER2+	ic5	1	metastaticHER2+ecdna
+CURTIS_H003224_T01_01_WG01	amplicon3	0	5611235	0	noncyclic	metastatic	HER2+	ic5	NA	metastaticHER2+noncyclic
+CURTIS_H003224_T01_01_WG01	amplicon2	7	37191887	0.18821309066679	ecdna	metastatic	HER2+	ic5	NA	metastaticHER2+ecdna
+CURTIS_H004004_T01_01_WG01	amplicon2	0	990904	0	noncyclic	metastatic	ER+ High	ic9	0	metastaticER+ Highnoncyclic
+CURTIS_H004006_T01_01_WG01	amplicon1	2	5624615	0.355579893023789	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004006_T01_01_WG01	amplicon2	8	24438656	0.327350243810462	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004007_T01_01_WG01	amplicon2	0	2192988	0	ecdna	metastatic	ER+ Typical	ic5	1	metastaticER+ Typicalecdna
+CURTIS_H004008_T02_01_WG01	amplicon1	0	10014126	0	noncyclic	metastatic	ER+ High	ic6	1	metastaticER+ Highnoncyclic
+CURTIS_H004008_T02_01_WG01	amplicon2	2	10901215	0.183465787987853	noncyclic	metastatic	ER+ High	ic6	1	metastaticER+ Highnoncyclic
+CURTIS_H004009_T01_01_WG01	amplicon1	0	18192756	0	ecdna	metastatic	IC10	ic9	0	metastaticIC10ecdna
+CURTIS_H004012_T01_01_WG01	amplicon2	0	5519327	0	ecdna	metastatic	ER+ High	ic9	0	metastaticER+ Highecdna
+CURTIS_H004012_T01_01_WG01	amplicon1	0	2131147	0	ecdna	metastatic	ER+ High	ic9	0	metastaticER+ Highecdna
+CURTIS_H004014_T01_01_WG01	amplicon1	0	2715471	0	noncyclic	metastatic	ER+ High	ic9	1	metastaticER+ Highnoncyclic
+CURTIS_H004014_T01_01_WG01	amplicon2	14	35687965	0.392289109227719	ecdna	metastatic	ER+ High	ic9	1	metastaticER+ Highecdna
+CURTIS_H004017_T01_01_WG01	amplicon1	3	22150041	0.135439929885457	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004019_T01_01_WG01	amplicon2	1	22050364	0.0453507252760091	ecdna	metastatic	ER+ Typical	ic8	1	metastaticER+ Typicalecdna
+CURTIS_H004019_T01_01_WG01	amplicon1	16	10000819	1.5998689707313	noncyclic	metastatic	ER+ Typical	ic8	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004020_T01_01_WG01	amplicon1	12	17156327	0.699450412667	ecdna	metastatic	ER+ High	ic2	1	metastaticER+ Highecdna
+CURTIS_H004022_T01_01_WG01	amplicon1	0	1897544	0	noncyclic	metastatic	IC10	ic9	0	metastaticIC10noncyclic
+CURTIS_H004023_T01_01_WG01	amplicon2	2	6897360	0.289966015982927	ecdna	metastatic	ER+ Typical	ic8	NA	metastaticER+ Typicalecdna
+CURTIS_H004023_T01_01_WG01	amplicon1	0	3376381	0	noncyclic	metastatic	ER+ Typical	ic8	NA	metastaticER+ Typicalnoncyclic
+CURTIS_H004024_T01_01_WG01	amplicon1	2	9409814	0.212544052411663	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004025_T01_01_WG01	amplicon2	3	18421634	0.16285200324792	noncyclic	metastatic	IC10	ic8	0	metastaticIC10noncyclic
+CURTIS_H004025_T01_01_WG01	amplicon3	6	1554599	3.85951618391624	ecdna	metastatic	IC10	ic8	0	metastaticIC10ecdna
+CURTIS_H004026_T01_01_WG01	amplicon2	0	27345172	0	noncyclic	metastatic	ER+ High	ic9	1	metastaticER+ Highnoncyclic
+CURTIS_H004026_T01_01_WG01	amplicon1	10	27250271	0.366968827576063	ecdna	metastatic	ER+ High	ic9	1	metastaticER+ Highecdna
+CURTIS_H004027_T01_01_WG01	amplicon1	0	3804326	0	noncyclic	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004028_T01_01_WG01	amplicon1	0	5974366	0	ecdna	metastatic	ER+ High	ic2	1	metastaticER+ Highecdna
+CURTIS_H004029_T01_01_WG01	amplicon2	0	364033	0	noncyclic	metastatic	IC10	ic10	0	metastaticIC10noncyclic
+CURTIS_H004030_T01_01_WG01	amplicon1	0	7921140	0	ecdna	metastatic	ER+ Typical	ic2	1	metastaticER+ Typicalecdna
+CURTIS_H004030_T01_01_WG01	amplicon3	0	621868	0	noncyclic	metastatic	ER+ Typical	ic2	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004031_T01_01_WG01	amplicon3	14	13788132	1.01536596835597	ecdna	metastatic	ER+ High	ic2	1	metastaticER+ Highecdna
+CURTIS_H004031_T01_01_WG01	amplicon4	0	5480613	0	ecdna	metastatic	ER+ High	ic2	1	metastaticER+ Highecdna
+CURTIS_H004036_T01_01_WG01	amplicon1	0	1696814	0	noncyclic	metastatic	ER+ Typical	ic8	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004040_T01_01_WG01	amplicon4	3	62727035	0.0478262682111469	ecdna	metastatic	ER+ Typical	ic7	1	metastaticER+ Typicalecdna
+CURTIS_H004040_T01_01_WG01	amplicon2	0	2511886	0	noncyclic	metastatic	ER+ Typical	ic7	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004041_T01_01_WG01	amplicon1	0	9037371	0	ecdna	metastatic	IC10	ic9	1	metastaticIC10ecdna
+CURTIS_H004042_T01_01_WG01	amplicon1	10	10194468	0.980924163968144	ecdna	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalecdna
+CURTIS_H004044_T01_01_WG01	amplicon2	0	11618630	0	noncyclic	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004044_T01_01_WG01	amplicon1	0	855343	0	noncyclic	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004046_T01_01_WG01	amplicon1	1	2568035	0.389402792407424	noncyclic	metastatic	HER2+	ic5	0	metastaticHER2+noncyclic
+CURTIS_H004046_T01_01_WG01	amplicon2	2	8459304	0.23642607004075	ecdna	metastatic	HER2+	ic5	0	metastaticHER2+ecdna
+CURTIS_H004046_T01_01_WG01	amplicon3	0	3466524	0	ecdna	metastatic	HER2+	ic5	0	metastaticHER2+ecdna
+CURTIS_H004048_T01_01_WG01	amplicon1	0	8635656	0	ecdna	metastatic	IC10	ic9	1	metastaticIC10ecdna
+CURTIS_H004049_T01_01_WG01	amplicon1	0	8284955	0	noncyclic	metastatic	ER+ Typical	ic8	0	metastaticER+ Typicalnoncyclic
+CURTIS_H004050_T01_01_WG01	amplicon1	14	15665643	0.893675414408461	ecdna	metastatic	ER+ High	ic9	1	metastaticER+ Highecdna
+CURTIS_H004052_T01_01_WG01	amplicon1	2	48959384	0.0408501871673876	ecdna	metastatic	ER+ Typical	ic7	1	metastaticER+ Typicalecdna
+CURTIS_H004054_T01_01_WG01	amplicon1	0	15956397	0	ecdna	metastatic	IC10	ic9	0	metastaticIC10ecdna
+CURTIS_H004055_T01_01_WG01	amplicon1	4	62184361	0.0643248549261445	ecdna	metastatic	ER+ Typical	ic2	1	metastaticER+ Typicalecdna
+CURTIS_H004055_T01_01_WG01	amplicon5	0	2505368	0	ecdna	metastatic	ER+ Typical	ic2	1	metastaticER+ Typicalecdna
+CURTIS_H004058_T02_01_WG01	amplicon4	2	6487488	0.308285734016001	noncyclic	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004058_T02_01_WG01	amplicon1	0	798730	0	noncyclic	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004058_T02_01_WG01	amplicon2	0	1632027	0	noncyclic	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004060_T01_01_WG01	amplicon3	1	57450304	0.0174063482762424	ecdna	metastatic	ER+ High	ic1	1	metastaticER+ Highecdna
+CURTIS_H004060_T01_01_WG01	amplicon2	0	23688296	0	ecdna	metastatic	ER+ High	ic1	1	metastaticER+ Highecdna
+CURTIS_H004060_T01_01_WG01	amplicon1	0	416654	0	noncyclic	metastatic	ER+ High	ic1	1	metastaticER+ Highnoncyclic
+CURTIS_H004061_T01_01_WG01	amplicon1	2	9168095	0.218147826784081	noncyclic	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004062_T01_01_WG01	amplicon2	2	3343856	0.598111880415903	noncyclic	metastatic	ER+ High	ic6	0	metastaticER+ Highnoncyclic
+CURTIS_H004064_T01_01_WG01	amplicon1	0	4815473	0	noncyclic	metastatic	ER+ High	ic9	1	metastaticER+ Highnoncyclic
+CURTIS_H004068_T01_01_WG01	amplicon1	0	2243289	0	ecdna	metastatic	ER+ High	ic2	1	metastaticER+ Highecdna
+CURTIS_H004068_T01_01_WG01	amplicon2	12	11458805	1.04722961949348	ecdna	metastatic	ER+ High	ic2	1	metastaticER+ Highecdna
+CURTIS_H004069_T01_01_WG01	amplicon1	5	52595650	0.0950648960512894	ecdna	metastatic	ER+ High	ic9	1	metastaticER+ Highecdna
+CURTIS_H004070_T02_01_WG01	amplicon1	12	10883487	1.10258780113396	ecdna	metastatic	ER+ High	ic2	1	metastaticER+ Highecdna
+CURTIS_H004071_T01_01_WG01	amplicon4	0	4844373	0	noncyclic	metastatic	ER+ High	ic2	1	metastaticER+ Highnoncyclic
+CURTIS_H004071_T01_01_WG01	amplicon1	14	18997998	0.736919753334009	ecdna	metastatic	ER+ High	ic2	1	metastaticER+ Highecdna
+CURTIS_H004071_T01_01_WG01	amplicon2	0	1129022	0	noncyclic	metastatic	ER+ High	ic2	1	metastaticER+ Highnoncyclic
+CURTIS_H004071_T01_01_WG01	amplicon3	0	214629	0	noncyclic	metastatic	ER+ High	ic2	1	metastaticER+ Highnoncyclic
+CURTIS_H004073_T01_01_WG01	amplicon1	2	5668173	0.352847381334338	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004074_T01_01_WG01	amplicon1	12	25917304	0.463011121835821	ecdna	metastatic	ER+ High	ic2	1	metastaticER+ Highecdna
+CURTIS_H004076_T01_01_WG01	amplicon1	2	57206900	0.0349608176636035	ecdna	metastatic	ER+ Typical	ic6	1	metastaticER+ Typicalecdna
+CURTIS_H004076_T01_01_WG01	amplicon2	0	30612795	0	ecdna	metastatic	ER+ Typical	ic6	1	metastaticER+ Typicalecdna
+CURTIS_H004081_T01_01_WG01	amplicon2	4	4108731	0.973536598039638	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004081_T01_01_WG01	amplicon1	3	29554087	0.101508803164855	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004082_T02_01_WG01	amplicon1	2	13642694	0.146598611681828	noncyclic	metastatic	ER+ High	ic6	1	metastaticER+ Highnoncyclic
+CURTIS_H004083_T01_01_WG01	amplicon2	2	4616523	0.433226478022529	ecdna	metastatic	ER+ High	ic9	1	metastaticER+ Highecdna
+CURTIS_H004083_T01_01_WG01	amplicon1	2	34471772	0.0580184853856657	ecdna	metastatic	ER+ High	ic9	1	metastaticER+ Highecdna
+CURTIS_H004084_T01_01_WG01	amplicon1	0	12277312	0	ecdna	metastatic	ER+ High	ic9	1	metastaticER+ Highecdna
+CURTIS_H004085_T01_01_WG01	amplicon1	2	10469949	0.191022898010296	ecdna	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalecdna
+CURTIS_H004086_T01_01_WG01	amplicon1	2	7656464	0.261217188508951	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004088_T01_01_WG01	amplicon1	4	24149380	0.165635722324962	ecdna	metastatic	ER+ High	ic9	1	metastaticER+ Highecdna
+CURTIS_H004088_T01_01_WG01	amplicon4	12	22196035	0.540637100274892	ecdna	metastatic	ER+ High	ic9	1	metastaticER+ Highecdna
+CURTIS_H004088_T01_01_WG01	amplicon3	0	4085006	0	ecdna	metastatic	ER+ High	ic9	1	metastaticER+ Highecdna
+CURTIS_H004089_T01_01_WG01	amplicon1	0	6068974	0	noncyclic	metastatic	ER+ Typical	ic7	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004091_T01_01_WG01	amplicon1	14	9565310	1.4636221931124	noncyclic	metastatic	ER+ Typical	ic8	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004092_T02_01_WG01	amplicon1	10	25830453	0.387139939047914	ecdna	metastatic	ER+ High	ic9	0	metastaticER+ Highecdna
+CURTIS_H004092_T02_01_WG01	amplicon2	0	9948130	0	ecdna	metastatic	ER+ High	ic9	0	metastaticER+ Highecdna
+CURTIS_H004093_T02_01_WG01	amplicon2	4	25219567	0.158607005425589	ecdna	metastatic	HER2+	ic9	1	metastaticHER2+ecdna
+CURTIS_H004093_T02_01_WG01	amplicon7	0	1348353	0	noncyclic	metastatic	HER2+	ic9	1	metastaticHER2+noncyclic
+CURTIS_H004093_T02_01_WG01	amplicon6	0	8481676	0	noncyclic	metastatic	HER2+	ic9	1	metastaticHER2+noncyclic
+CURTIS_H004096_T01_01_WG01	amplicon1	4	6895721	0.58006987231647	noncyclic	metastatic	ER+ Typical	ic8	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004099_T01_01_WG01	amplicon1	0	1980276	0	noncyclic	metastatic	ER+ Typical	ic7	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004100_T01_01_WG01	amplicon2	0	3583225	0	noncyclic	metastatic	IC10	ic8	1	metastaticIC10noncyclic
+CURTIS_H004100_T01_01_WG01	amplicon1	0	6507447	0	noncyclic	metastatic	IC10	ic8	1	metastaticIC10noncyclic
+CURTIS_H004101_T01_01_WG01	amplicon3	0	6760334	0	noncyclic	metastatic	IC10	ic8	0	metastaticIC10noncyclic
+CURTIS_H004101_T01_01_WG01	amplicon1	2	3908948	0.511646611824972	noncyclic	metastatic	IC10	ic8	0	metastaticIC10noncyclic
+CURTIS_H004102_T01_01_WG01	amplicon2	0	3495449	0	noncyclic	metastatic	ER+ Typical	ic6	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004103_T01_01_WG01	amplicon2	1	7931647	0.126077219523259	ecdna	metastatic	HER2+	ic5	0	metastaticHER2+ecdna
+CURTIS_H004108_T01_01_WG01	amplicon1	7	80558704	0.08689315558006	ecdna	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalecdna
+CURTIS_H004109_T02_01_WG01	amplicon2	0	915276	0	noncyclic	metastatic	ER+ Typical	ic8	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004110_T01_01_WG01	amplicon1	0	3624628	0	ecdna	metastatic	ER+ Typical	ic8	1	metastaticER+ Typicalecdna
+CURTIS_H004111_T01_01_WG01	amplicon1	3	19857421	0.151077020525475	ecdna	metastatic	ER+ Typical	ic8	1	metastaticER+ Typicalecdna
+CURTIS_H004114_T01_01_WG01	amplicon2	1	54466035	0.0183600660485016	ecdna	metastatic	ER+ High	ic1	1	metastaticER+ Highecdna
+CURTIS_H004114_T01_01_WG01	amplicon3	0	3480931	0	ecdna	metastatic	ER+ High	ic1	1	metastaticER+ Highecdna
+CURTIS_H004114_T01_01_WG01	amplicon1	4	15121852	0.264517864610763	ecdna	metastatic	ER+ High	ic1	1	metastaticER+ Highecdna
+CURTIS_H004117_T01_01_WG01	amplicon1	2	13348971	0.149824282336069	ecdna	metastatic	ER+ High	ic2	1	metastaticER+ Highecdna
+CURTIS_H004119_T01_01_WG01	amplicon2	0	3613925	0	noncyclic	metastatic	IC10	ic2	0	metastaticIC10noncyclic
+CURTIS_H004119_T01_01_WG01	amplicon1	0	1232650	0	noncyclic	metastatic	IC10	ic2	0	metastaticIC10noncyclic
+CURTIS_H004119_T01_01_WG01	amplicon3	12	14153095	0.84787108402791	noncyclic	metastatic	IC10	ic2	0	metastaticIC10noncyclic
+CURTIS_H004120_T01_01_WG01	amplicon2	0	2665482	0	noncyclic	metastatic	ER+ High	ic9	1	metastaticER+ Highnoncyclic
+CURTIS_H004120_T01_01_WG01	amplicon3	0	18368394	0	noncyclic	metastatic	ER+ High	ic9	1	metastaticER+ Highnoncyclic
+CURTIS_H004120_T01_01_WG01	amplicon5	0	2261518	0	noncyclic	metastatic	ER+ High	ic9	1	metastaticER+ Highnoncyclic
+CURTIS_H004123_T01_01_WG01	amplicon1	8	29839296	0.268102839959763	ecdna	metastatic	HER2+	ic5	1	metastaticHER2+ecdna
+CURTIS_H004131_T01_01_WG01	amplicon1	2	10637543	0.188013341050654	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004132_T01_01_WG01	amplicon1	0	10614639	0	ecdna	metastatic	ER+ Typical	ic3	1	metastaticER+ Typicalecdna
+CURTIS_H004140_T01_01_WG01	amplicon2	3	13135379	0.228390821460119	ecdna	metastatic	HER2+	ic5	1	metastaticHER2+ecdna
+CURTIS_H004142_T01_01_WG01	amplicon1	2	17833374	0.112149276968004	noncyclic	metastatic	ER+ High	ic1	1	metastaticER+ Highnoncyclic
+CURTIS_H004142_T01_01_WG01	amplicon2	0	39001284	0	ecdna	metastatic	ER+ High	ic1	1	metastaticER+ Highecdna
+CURTIS_H004146_T01_01_WG01	amplicon1	7	12010615	0.58281778243662	ecdna	metastatic	ER+ Typical	ic8	1	metastaticER+ Typicalecdna
+CURTIS_H004146_T01_01_WG01	amplicon2	1	40159604	0.0249006439406126	ecdna	metastatic	ER+ Typical	ic8	1	metastaticER+ Typicalecdna
+CURTIS_H004147_T01_01_WG01	amplicon5	8	8579091	0.932499725203987	noncyclic	metastatic	HER2+	ic1	0	metastaticHER2+noncyclic
+CURTIS_H004147_T01_01_WG01	amplicon4	0	21091680	0	ecdna	metastatic	HER2+	ic1	0	metastaticHER2+ecdna
+CURTIS_H004147_T01_01_WG01	amplicon6	0	17227215	0	noncyclic	metastatic	HER2+	ic1	0	metastaticHER2+noncyclic
+CURTIS_H004147_T01_01_WG01	amplicon2	0	4161814	0	ecdna	metastatic	HER2+	ic1	0	metastaticHER2+ecdna
+CURTIS_H004148_T01_01_WG01	amplicon1	2	3226060	0.619951271830034	noncyclic	metastatic	ER+ High	ic1	1	metastaticER+ Highnoncyclic
+CURTIS_H004150_T01_01_WG01	amplicon2	8	102319663	0.0781863403908983	ecdna	metastatic	IC10	ic3	0	metastaticIC10ecdna
+CURTIS_H004150_T01_01_WG01	amplicon1	0	8495973	0	noncyclic	metastatic	IC10	ic3	0	metastaticIC10noncyclic
+CURTIS_H004150_T01_01_WG01	amplicon3	8	11032269	0.725145480045855	noncyclic	metastatic	IC10	ic3	0	metastaticIC10noncyclic
+CURTIS_H004152_T01_01_WG01	amplicon1	2	9031718	0.221441812067206	ecdna	metastatic	ER+ Typical	ic8	1	metastaticER+ Typicalecdna
+CURTIS_H004153_T01_01_WG01	amplicon4	0	1270832	0	noncyclic	metastatic	HER2+	ic5	0	metastaticHER2+noncyclic
+CURTIS_H004153_T01_01_WG01	amplicon3	0	531933	0	noncyclic	metastatic	HER2+	ic5	0	metastaticHER2+noncyclic
+CURTIS_H004153_T01_01_WG01	amplicon2	7	42150368	0.166072096926888	ecdna	metastatic	HER2+	ic5	0	metastaticHER2+ecdna
+CURTIS_H004154_T01_01_WG01	amplicon1	0	3214645	0	noncyclic	metastatic	ER+ High	ic1	1	metastaticER+ Highnoncyclic
+CURTIS_H004157_T01_01_WG01	amplicon1	2	6904295	0.289674760420868	noncyclic	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004160_T01_01_WG01	amplicon1	12	80241834	0.149547927830264	ecdna	metastatic	ER+ Typical	ic5	1	metastaticER+ Typicalecdna
+CURTIS_H004164_T01_01_WG01	amplicon1	12	10130066	1.1845924794567	ecdna	metastatic	ER+ High	ic2	1	metastaticER+ Highecdna
+CURTIS_H004166_T01_01_WG01	amplicon1	0	18283006	0	ecdna	metastatic	ER+ Typical	ic1	1	metastaticER+ Typicalecdna
+CURTIS_H004167_T01_01_WG01	amplicon2	3	12475338	0.240474446463895	ecdna	metastatic	HER2+	ic5	NA	metastaticHER2+ecdna
+CURTIS_H004167_T01_01_WG01	amplicon3	0	12827251	0	ecdna	metastatic	HER2+	ic5	NA	metastaticHER2+ecdna
+CURTIS_H004167_T01_01_WG01	amplicon1	0	2280059	0	noncyclic	metastatic	HER2+	ic5	NA	metastaticHER2+noncyclic
+CURTIS_H004168_T01_01_WG01	amplicon1	0	9466050	0	ecdna	metastatic	ER+ Typical	ic8	1	metastaticER+ Typicalecdna
+CURTIS_H004169_T01_01_WG01	amplicon2	0	1984044	0	noncyclic	metastatic	IC10	ic9	0	metastaticIC10noncyclic
+CURTIS_H004171_T01_01_WG01	amplicon1	14	15061966	0.929493533579879	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004175_T01_01_WG01	amplicon1	0	3808315	0	ecdna	metastatic	ER+ High	ic9	1	metastaticER+ Highecdna
+CURTIS_H004177_T01_01_WG01	amplicon2	0	18073862	0	noncyclic	metastatic	ER+ High	ic1	1	metastaticER+ Highnoncyclic
+CURTIS_H004177_T01_01_WG01	amplicon1	0	14688209	0	ecdna	metastatic	ER+ High	ic1	1	metastaticER+ Highecdna
+CURTIS_H004178_T01_01_WG01	amplicon3	0	28339589	0	noncyclic	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004178_T01_01_WG01	amplicon4	0	1048004	0	noncyclic	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004180_T01_01_WG01	amplicon3	0	2644649	0	noncyclic	metastatic	ER+ High	ic6	1	metastaticER+ Highnoncyclic
+CURTIS_H004180_T01_01_WG01	amplicon4	19	36802127	0.516274507720709	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004180_T01_01_WG01	amplicon1	0	1157911	0	noncyclic	metastatic	ER+ High	ic6	1	metastaticER+ Highnoncyclic
+CURTIS_H004181_T01_01_WG01	amplicon1	0	1068607	0	noncyclic	metastatic	ER+ Typical	ic6	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004183_T01_01_WG01	amplicon2	0	2376195	0	noncyclic	metastatic	ER+ Typical	ic8	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004187_T01_01_WG01	amplicon1	1	24854379	0.0402343587019414	ecdna	metastatic	IC10	ic10	0	metastaticIC10ecdna
+CURTIS_H004188_T02_01_WG01	amplicon2	0	15477620	0	ecdna	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalecdna
+CURTIS_H004189_T01_01_WG01	amplicon1	14	29797208	0.469842677877739	ecdna	metastatic	ER+ High	ic9	0	metastaticER+ Highecdna
+CURTIS_H004190_T01_01_WG01	amplicon1	1	1078056	0.92759559800233	noncyclic	metastatic	ER+ Typical	ic10	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004193_T01_01_WG01	amplicon5	0	1578350	0	noncyclic	metastatic	IC10	ic8	NA	metastaticIC10noncyclic
+CURTIS_H004193_T01_01_WG01	amplicon2	0	15583596	0	ecdna	metastatic	IC10	ic8	NA	metastaticIC10ecdna
+CURTIS_H004193_T01_01_WG01	amplicon6	0	810167	0	noncyclic	metastatic	IC10	ic8	NA	metastaticIC10noncyclic
+CURTIS_H004194_T01_01_WG01	amplicon1	0	19340602	0	ecdna	metastatic	ER+ Typical	ic10	0	metastaticER+ Typicalecdna
+CURTIS_H004196_T01_01_WG01	amplicon1	2	2760626	0.724473362201182	ecdna	metastatic	ER+ Typical	ic8	1	metastaticER+ Typicalecdna
+CURTIS_H004197_T01_01_WG01	amplicon2	0	29408996	0	ecdna	metastatic	HER2+	ic5	1	metastaticHER2+ecdna
+CURTIS_H004197_T01_01_WG01	amplicon1	0	2859185	0	noncyclic	metastatic	HER2+	ic5	1	metastaticHER2+noncyclic
+CURTIS_H004202_T01_01_WG01	amplicon1	1	30298851	0.0330045518887828	ecdna	metastatic	HER2+	ic5	1	metastaticHER2+ecdna
+CURTIS_H004203_T01_01_WG01	amplicon2	3	3965932	0.756442621809955	ecdna	metastatic	ER+ High	ic9	1	metastaticER+ Highecdna
+CURTIS_H004203_T01_01_WG01	amplicon1	0	23179801	0	ecdna	metastatic	ER+ High	ic9	1	metastaticER+ Highecdna
+CURTIS_H004204_T01_01_WG01	amplicon2	1	4353665	0.229691535752062	noncyclic	metastatic	HER2+	ic5	1	metastaticHER2+noncyclic
+CURTIS_H004204_T01_01_WG01	amplicon1	0	3084727	0	noncyclic	metastatic	HER2+	ic5	1	metastaticHER2+noncyclic
+CURTIS_H004205_T01_01_WG01	amplicon1	2	9128357	0.219097478330438	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004206_T01_01_WG01	amplicon2	5	42501319	0.11764340772577	ecdna	metastatic	ER+ Typical	ic1	1	metastaticER+ Typicalecdna
+CURTIS_H004207_T01_01_WG01	amplicon1	0	23256619	0	ecdna	metastatic	HER2+	ic5	1	metastaticHER2+ecdna
+CURTIS_H004212_T01_01_WG01	amplicon2	0	982338	0	noncyclic	metastatic	ER+ Typical	ic7	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004212_T01_01_WG01	amplicon1	0	5348344	0	ecdna	metastatic	ER+ Typical	ic7	1	metastaticER+ Typicalecdna
+CURTIS_H004213_T01_01_WG01	amplicon1	0	4985914	0	noncyclic	metastatic	HER2+	ic5	1	metastaticHER2+noncyclic
+CURTIS_H004213_T01_01_WG01	amplicon2	0	9948074	0	ecdna	metastatic	HER2+	ic5	1	metastaticHER2+ecdna
+CURTIS_H004213_T01_01_WG01	amplicon4	0	3524763	0	noncyclic	metastatic	HER2+	ic5	1	metastaticHER2+noncyclic
+CURTIS_H004215_T01_01_WG01	amplicon1	0	2911659	0	noncyclic	metastatic	ER+ Typical	ic6	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004219_T01_01_WG01	amplicon1	5	35098646	0.142455637747393	ecdna	metastatic	HER2+	ic5	0	metastaticHER2+ecdna
+CURTIS_H004223_T01_01_WG01	amplicon1	2	4767863	0.419475140120427	noncyclic	metastatic	ER+ High	ic6	1	metastaticER+ Highnoncyclic
+CURTIS_H004226_T01_01_WG01	amplicon2	1	29289985	0.0341413626534804	ecdna	metastatic	ER+ High	ic1	NA	metastaticER+ Highecdna
+CURTIS_H004226_T01_01_WG01	amplicon1	0	216373	0	noncyclic	metastatic	ER+ High	ic1	NA	metastaticER+ Highnoncyclic
+CURTIS_H004227_T01_01_WG01	amplicon1	0	2642836	0	noncyclic	metastatic	IC10	ic9	0	metastaticIC10noncyclic
+CURTIS_H004228_T01_01_WG01	amplicon4	2	2881439	0.694097636632252	noncyclic	metastatic	IC10	ic9	0	metastaticIC10noncyclic
+CURTIS_H004228_T01_01_WG01	amplicon7	0	1527939	0	noncyclic	metastatic	IC10	ic9	0	metastaticIC10noncyclic
+CURTIS_H004228_T01_01_WG01	amplicon6	0	2397624	0	ecdna	metastatic	IC10	ic9	0	metastaticIC10ecdna
+CURTIS_H004228_T01_01_WG01	amplicon2	0	148180	0	noncyclic	metastatic	IC10	ic9	0	metastaticIC10noncyclic
+CURTIS_H004229_T01_01_WG01	amplicon1	0	22509099	0	ecdna	metastatic	ER+ Typical	ic1	1	metastaticER+ Typicalecdna
+CURTIS_H004230_T01_01_WG01	amplicon3	0	21930045	0	noncyclic	metastatic	ER+ High	ic2	1	metastaticER+ Highnoncyclic
+CURTIS_H004230_T01_01_WG01	amplicon1	12	21404901	0.560619271259419	ecdna	metastatic	ER+ High	ic2	1	metastaticER+ Highecdna
+CURTIS_H004231_T01_01_WG01	amplicon3	0	20698981	0	noncyclic	metastatic	ER+ High	ic1	1	metastaticER+ Highnoncyclic
+CURTIS_H004231_T01_01_WG01	amplicon4	2	13206512	0.151440440897642	noncyclic	metastatic	ER+ High	ic1	1	metastaticER+ Highnoncyclic
+CURTIS_H004231_T01_01_WG01	amplicon2	0	3970918	0	ecdna	metastatic	ER+ High	ic1	1	metastaticER+ Highecdna
+CURTIS_H004232_T01_01_WG01	amplicon1	0	1168172	0	noncyclic	metastatic	ER+ High	ic9	1	metastaticER+ Highnoncyclic
+CURTIS_H004237_T01_01_WG01	amplicon1	14	11897248	1.17674272235058	ecdna	metastatic	ER+ High	ic2	1	metastaticER+ Highecdna
+CURTIS_H004238_T01_01_WG01	amplicon1	12	10004918	1.19941013009802	ecdna	metastatic	ER+ High	ic2	1	metastaticER+ Highecdna
+CURTIS_H004239_T01_01_WG01	amplicon5	0	8976228	0	noncyclic	metastatic	ER+ Typical	ic1	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004239_T01_01_WG01	amplicon4	2	8895612	0.224829949867418	noncyclic	metastatic	ER+ Typical	ic1	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004239_T01_01_WG01	amplicon2	0	10562217	0	noncyclic	metastatic	ER+ Typical	ic1	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004242_T01_01_WG01	amplicon1	0	8112724	0	ecdna	metastatic	IC10	ic10	NA	metastaticIC10ecdna
+CURTIS_H004243_T01_01_WG01	amplicon2	12	25958625	0.462274099648961	ecdna	metastatic	ER+ Typical	ic2	1	metastaticER+ Typicalecdna
+CURTIS_H004243_T01_01_WG01	amplicon1	0	3443565	0	ecdna	metastatic	ER+ Typical	ic2	1	metastaticER+ Typicalecdna
+CURTIS_H004244_T02_01_WG01	amplicon1	0	1481848	0	ecdna	metastatic	ER+ High	ic9	1	metastaticER+ Highecdna
+CURTIS_H004245_T01_01_WG01	amplicon2	2	5347358	0.374016476921874	ecdna	metastatic	ER+ Typical	ic6	1	metastaticER+ Typicalecdna
+CURTIS_H004245_T01_01_WG01	amplicon3	2	7845244	0.254931522843649	noncyclic	metastatic	ER+ Typical	ic6	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004245_T01_01_WG01	amplicon1	0	5182182	0	ecdna	metastatic	ER+ Typical	ic6	1	metastaticER+ Typicalecdna
+CURTIS_H004246_T01_01_WG01	amplicon2	0	9779262	0	noncyclic	metastatic	ER+ High	ic1	0	metastaticER+ Highnoncyclic
+CURTIS_H004246_T01_01_WG01	amplicon1	1	22007545	0.0454389619560019	ecdna	metastatic	ER+ High	ic1	0	metastaticER+ Highecdna
+CURTIS_H004247_T01_01_WG01	amplicon2	2	2953255	0.67721886528593	noncyclic	metastatic	ER+ High	ic9	1	metastaticER+ Highnoncyclic
+CURTIS_H004247_T01_01_WG01	amplicon1	0	21224630	0	noncyclic	metastatic	ER+ High	ic9	1	metastaticER+ Highnoncyclic
+CURTIS_H004248_T01_01_WG01	amplicon1	1	5734181	0.174392820875379	ecdna	metastatic	ER+ Typical	ic7	1	metastaticER+ Typicalecdna
+CURTIS_H004256_T01_01_WG01	amplicon1	0	5741270	0	ecdna	metastatic	HER2+	ic5	NA	metastaticHER2+ecdna
+CURTIS_H004256_T01_01_WG01	amplicon2	3	26033824	0.115234703899051	ecdna	metastatic	HER2+	ic5	NA	metastaticHER2+ecdna
+CURTIS_H004259_T01_01_WG01	amplicon2	0	7523169	0	ecdna	metastatic	HER2+	ic5	1	metastaticHER2+ecdna
+CURTIS_H004259_T01_01_WG01	amplicon1	0	1156997	0	noncyclic	metastatic	HER2+	ic5	1	metastaticHER2+noncyclic
+CURTIS_H004259_T01_01_WG01	amplicon3	0	4087565	0	ecdna	metastatic	HER2+	ic5	1	metastaticHER2+ecdna
+CURTIS_H004260_T01_01_WG01	amplicon1	0	4195539	0	ecdna	metastatic	HER2+	ic5	0	metastaticHER2+ecdna
+CURTIS_H004266_T01_01_WG01	amplicon3	4	2110841	1.89497929971987	noncyclic	metastatic	HER2+	ic5	1	metastaticHER2+noncyclic
+CURTIS_H004267_T01_01_WG01	amplicon1	2	6673207	0.299705973454742	ecdna	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalecdna
+CURTIS_H004268_T01_01_WG01	amplicon3	1	7677224	0.130255415238633	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004268_T01_01_WG01	amplicon2	14	25936739	0.539774873009286	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004277_T01_01_WG01	amplicon1	1	39749739	0.0251573978888264	noncyclic	metastatic	IC10	ic8	0	metastaticIC10noncyclic
+CURTIS_H004279_T01_01_WG01	amplicon1	6	22415768	0.267668723195208	noncyclic	metastatic	ER+ Typical	ic7	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004284_T01_01_WG01	amplicon1	5	17749675	0.281695298646313	noncyclic	metastatic	ER+ High	ic6	1	metastaticER+ Highnoncyclic
+CURTIS_H004284_T01_01_WG01	amplicon2	16	20452785	0.782289551276269	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004285_T01_01_WG01	amplicon1	0	12774321	0	ecdna	metastatic	ER+ High	ic1	1	metastaticER+ Highecdna
+CURTIS_H004286_T01_01_WG01	amplicon2	2	11875074	0.168420003109033	ecdna	metastatic	ER+ Typical	ic6	1	metastaticER+ Typicalecdna
+CURTIS_H004286_T01_01_WG01	amplicon3	0	13485855	0	ecdna	metastatic	ER+ Typical	ic6	1	metastaticER+ Typicalecdna
+CURTIS_H004290_T01_01_WG01	amplicon1	0	2946535	0	noncyclic	metastatic	ER+ High	ic8	1	metastaticER+ Highnoncyclic
+CURTIS_H004291_T01_01_WG01	amplicon2	0	12114973	0	ecdna	metastatic	ER+ High	ic9	1	metastaticER+ Highecdna
+CURTIS_H004291_T01_01_WG01	amplicon1	0	513689	0	noncyclic	metastatic	ER+ High	ic9	1	metastaticER+ Highnoncyclic
+CURTIS_H004294_T01_01_WG01	amplicon1	2	4710906	0.424546785692604	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004295_T01_01_WG01	amplicon1	0	2957585	0	ecdna	metastatic	ER+ Typical	ic4	1	metastaticER+ Typicalecdna
+CURTIS_H004299_T01_01_WG01	amplicon1	0	2962827	0	noncyclic	metastatic	HER2+	ic5	0	metastaticHER2+noncyclic
+CURTIS_H004300_T01_01_WG01	amplicon1	0	3173462	0	noncyclic	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004301_T01_01_WG01	amplicon2	0	5680903	0	noncyclic	metastatic	ER+ Typical	ic8	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004302_T01_01_WG01	amplicon1	12	13539194	0.886315684670742	noncyclic	metastatic	ER+ Typical	ic8	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004305_T01_01_WG01	amplicon1	1	16069351	0.0622302667979559	ecdna	metastatic	HER2+	ic5	1	metastaticHER2+ecdna
+CURTIS_H004305_T01_01_WG01	amplicon4	5	48482901	0.103129142375371	ecdna	metastatic	HER2+	ic5	1	metastaticHER2+ecdna
+CURTIS_H004305_T01_01_WG01	amplicon2	0	578429	0	noncyclic	metastatic	HER2+	ic5	1	metastaticHER2+noncyclic
+CURTIS_H004306_T01_01_WG01	amplicon2	0	273922	0	noncyclic	metastatic	ER+ High	ic9	1	metastaticER+ Highnoncyclic
+CURTIS_H004307_T01_01_WG01	amplicon2	3	60274905	0.0497719573344827	noncyclic	metastatic	IC10	ic9	NA	metastaticIC10noncyclic
+CURTIS_H004307_T01_01_WG01	amplicon4	0	947769	0	noncyclic	metastatic	IC10	ic9	NA	metastaticIC10noncyclic
+CURTIS_H004310_T01_01_WG01	amplicon1	0	17519490	0	ecdna	metastatic	HER2+	ic5	0	metastaticHER2+ecdna
+CURTIS_H004313_T01_01_WG01	amplicon1	4	11605951	0.344650774417366	ecdna	metastatic	HER2+	ic5	1	metastaticHER2+ecdna
+CURTIS_H004314_T01_01_WG01	amplicon2	12	60069465	0.199768717767005	ecdna	metastatic	ER+ High	ic9	1	metastaticER+ Highecdna
+CURTIS_H004314_T01_01_WG01	amplicon1	0	3174304	0	noncyclic	metastatic	ER+ High	ic9	1	metastaticER+ Highnoncyclic
+CURTIS_H004317_T01_01_WG01	amplicon2	0	587699	0	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004317_T01_01_WG01	amplicon5	12	6117355	1.9616321106099	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004317_T01_01_WG01	amplicon4	3	18445581	0.162640580418692	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004317_T01_01_WG01	amplicon3	0	167567	0	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004318_T01_01_WG01	amplicon1	0	1595241	0	noncyclic	metastatic	IC10	ic9	0	metastaticIC10noncyclic
+CURTIS_H004319_T01_01_WG01	amplicon1	12	3959754	3.03049128809517	noncyclic	metastatic	ER+ High	ic9	1	metastaticER+ Highnoncyclic
+CURTIS_H004319_T01_01_WG01	amplicon2	0	3022505	0	noncyclic	metastatic	ER+ High	ic9	1	metastaticER+ Highnoncyclic
+CURTIS_H004320_T01_01_WG01	amplicon4	0	1123030	0	noncyclic	metastatic	HER2+	ic5	0	metastaticHER2+noncyclic
+CURTIS_H004320_T01_01_WG01	amplicon5	2	21686699	0.0922224262899577	ecdna	metastatic	HER2+	ic5	0	metastaticHER2+ecdna
+CURTIS_H004320_T01_01_WG01	amplicon1	0	2154342	0	noncyclic	metastatic	HER2+	ic5	0	metastaticHER2+noncyclic
+CURTIS_H004321_T01_01_WG01	amplicon2	0	8048375	0	noncyclic	metastatic	ER+ High	ic9	1	metastaticER+ Highnoncyclic
+CURTIS_H004321_T01_01_WG01	amplicon1	2	3563997	0.561167700197278	ecdna	metastatic	ER+ High	ic9	1	metastaticER+ Highecdna
+CURTIS_H004321_T01_01_WG01	amplicon3	0	1798240	0	noncyclic	metastatic	ER+ High	ic9	1	metastaticER+ Highnoncyclic
+CURTIS_H004323_T01_01_WG01	amplicon1	0	5320337	0	noncyclic	metastatic	HER2+	ic5	1	metastaticHER2+noncyclic
+CURTIS_H004323_T01_01_WG01	amplicon2	0	7095513	0	ecdna	metastatic	HER2+	ic5	1	metastaticHER2+ecdna
+CURTIS_H004325_T01_01_WG01	amplicon1	0	8507554	0	noncyclic	metastatic	ER+ High	ic1	1	metastaticER+ Highnoncyclic
+CURTIS_H004327_T01_01_WG01	amplicon1	0	10781134	0	ecdna	metastatic	IC10	ic10	0	metastaticIC10ecdna
+CURTIS_H004329_T01_01_WG01	amplicon1	9	25647056	0.350917469825776	noncyclic	metastatic	ER+ High	ic6	1	metastaticER+ Highnoncyclic
+CURTIS_H004329_T01_01_WG01	amplicon2	2	10525141	0.190021207316843	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004330_T01_01_WG01	amplicon1	1	17871969	0.0559535437869213	ecdna	metastatic	HER2+	ic5	1	metastaticHER2+ecdna
+CURTIS_H004330_T01_01_WG01	amplicon4	0	12408385	0	ecdna	metastatic	HER2+	ic5	1	metastaticHER2+ecdna
+CURTIS_H004330_T01_01_WG01	amplicon2	0	120072	0	noncyclic	metastatic	HER2+	ic5	1	metastaticHER2+noncyclic
+CURTIS_H004330_T01_01_WG01	amplicon5	4	11520874	0.347195881145823	ecdna	metastatic	HER2+	ic5	1	metastaticHER2+ecdna
+CURTIS_H004330_T01_01_WG01	amplicon3	1	5633975	0.177494575322042	ecdna	metastatic	HER2+	ic5	1	metastaticHER2+ecdna
+CURTIS_H004332_T01_01_WG01	amplicon1	0	1145542	0	noncyclic	metastatic	ER+ High	ic9	1	metastaticER+ Highnoncyclic
+CURTIS_H004334_T01_01_WG01	amplicon2	2	1850435	1.08082694069232	noncyclic	metastatic	ER+ High	ic1	1	metastaticER+ Highnoncyclic
+CURTIS_H004334_T01_01_WG01	amplicon1	0	19031506	0	ecdna	metastatic	ER+ High	ic1	1	metastaticER+ Highecdna
+CURTIS_H004335_T01_01_WG01	amplicon4	0	43919265	0	ecdna	metastatic	HER2+	ic5	0	metastaticHER2+ecdna
+CURTIS_H004335_T01_01_WG01	amplicon1	0	165976	0	noncyclic	metastatic	HER2+	ic5	0	metastaticHER2+noncyclic
+CURTIS_H004337_T01_01_WG01	amplicon1	0	967767	0	ecdna	metastatic	ER+ Typical	ic1	NA	metastaticER+ Typicalecdna
+CURTIS_H004338_T01_01_WG01	amplicon1	2	26665582	0.0750030507490892	ecdna	metastatic	HER2+	ic6	1	metastaticHER2+ecdna
+CURTIS_H004339_T01_01_WG01	amplicon3	0	5208261	0	noncyclic	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004339_T01_01_WG01	amplicon1	0	14849828	0	noncyclic	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004340_T01_01_WG01	amplicon1	2	12469581	0.160390313034576	ecdna	metastatic	IC10	ic9	0	metastaticIC10ecdna
+CURTIS_H004341_T01_01_WG01	amplicon1	12	8270844	1.45087974093091	ecdna	metastatic	ER+ High	ic2	1	metastaticER+ Highecdna
+CURTIS_H004344_T01_01_WG01	amplicon1	12	20301279	0.591095762981239	ecdna	metastatic	ER+ High	ic9	1	metastaticER+ Highecdna
+CURTIS_H004344_T01_01_WG01	amplicon3	0	8300005	0	ecdna	metastatic	ER+ High	ic9	1	metastaticER+ Highecdna
+CURTIS_H004345_T01_01_WG01	amplicon2	0	349453	0	noncyclic	metastatic	ER+ High	ic1	1	metastaticER+ Highnoncyclic
+CURTIS_H004345_T01_01_WG01	amplicon1	1	42502161	0.0235282154241522	ecdna	metastatic	ER+ High	ic1	1	metastaticER+ Highecdna
+CURTIS_H004348_T01_01_WG01	amplicon2	2	7493316	0.266904531985572	noncyclic	metastatic	ER+ Typical	ic2	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004351_T01_01_WG01	amplicon3	0	8526275	0	noncyclic	metastatic	ER+ High	ic1	1	metastaticER+ Highnoncyclic
+CURTIS_H004351_T01_01_WG01	amplicon1	1	26078159	0.0383462651638868	ecdna	metastatic	ER+ High	ic1	1	metastaticER+ Highecdna
+CURTIS_H004351_T01_01_WG01	amplicon2	0	1361830	0	noncyclic	metastatic	ER+ High	ic1	1	metastaticER+ Highnoncyclic
+CURTIS_H004353_T01_01_WG01	amplicon1	12	16265872	0.737740958492726	ecdna	metastatic	ER+ High	ic8	1	metastaticER+ Highecdna
+CURTIS_H004354_T01_01_WG01	amplicon1	0	1149642	0	ecdna	metastatic	IC10	ic8	0	metastaticIC10ecdna
+CURTIS_H004355_T01_01_WG01	amplicon1	0	5364994	0	ecdna	metastatic	ER+ High	ic9	1	metastaticER+ Highecdna
+CURTIS_H004358_T01_01_WG01	amplicon1	2	6217923	0.321650814910381	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004360_T01_01_WG01	amplicon2	6	40809972	0.14702288940556	ecdna	metastatic	HER2+	ic5	1	metastaticHER2+ecdna
+CURTIS_H004362_T01_01_WG01	amplicon3	1	6303598	0.158639557915971	noncyclic	metastatic	ER+ High	ic1	1	metastaticER+ Highnoncyclic
+CURTIS_H004362_T01_01_WG01	amplicon2	0	15421382	0	ecdna	metastatic	ER+ High	ic1	1	metastaticER+ Highecdna
+CURTIS_H004362_T01_01_WG01	amplicon4	0	2622004	0	noncyclic	metastatic	ER+ High	ic1	1	metastaticER+ Highnoncyclic
+CURTIS_H004362_T01_01_WG01	amplicon1	0	2455661	0	ecdna	metastatic	ER+ High	ic1	1	metastaticER+ Highecdna
+CURTIS_H004364_T01_01_WG01	amplicon2	0	13912048	0	ecdna	metastatic	ER+ Typical	ic8	1	metastaticER+ Typicalecdna
+CURTIS_H004364_T01_01_WG01	amplicon1	0	342374	0	noncyclic	metastatic	ER+ Typical	ic8	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004366_T01_01_WG01	amplicon1	4	14203147	0.281627726587636	ecdna	metastatic	HER2+	ic5	1	metastaticHER2+ecdna
+CURTIS_H004367_T01_01_WG01	amplicon1	3	33271789	0.0901664770716116	ecdna	metastatic	ER+ Typical	ic8	1	metastaticER+ Typicalecdna
+CURTIS_H004368_T01_01_WG01	amplicon1	2	13206092	0.151445257234313	ecdna	metastatic	ER+ High	ic9	1	metastaticER+ Highecdna
+CURTIS_H004373_T01_01_WG01	amplicon2	0	9414607	0	ecdna	metastatic	IC10	ic10	0	metastaticIC10ecdna
+CURTIS_H004375_T01_01_WG01	amplicon1	0	437146	0	noncyclic	metastatic	HER2+	ic5	0	metastaticHER2+noncyclic
+CURTIS_H004375_T01_01_WG01	amplicon3	1	4695363	0.212976078739812	ecdna	metastatic	HER2+	ic5	0	metastaticHER2+ecdna
+CURTIS_H004376_T01_01_WG01	amplicon1	0	494387	0	noncyclic	metastatic	ER+ Typical	ic4	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004377_T01_01_WG01	amplicon1	6	21806847	0.275142940196719	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004382_T01_01_WG01	amplicon1	2	3226272	0.619910534511659	noncyclic	metastatic	ER+ High	ic1	NA	metastaticER+ Highnoncyclic
+CURTIS_H004387_T01_01_WG01	amplicon1	0	520825	0	ecdna	metastatic	ER+ High	ic2	1	metastaticER+ Highecdna
+CURTIS_H004387_T01_01_WG01	amplicon4	12	35577381	0.337292955881154	ecdna	metastatic	ER+ High	ic2	1	metastaticER+ Highecdna
+CURTIS_H004388_T01_01_WG01	amplicon3	0	1776632	0	noncyclic	metastatic	ER+ High	ic2	1	metastaticER+ Highnoncyclic
+CURTIS_H004388_T01_01_WG01	amplicon2	6	37189874	0.161334238454263	ecdna	metastatic	ER+ High	ic2	1	metastaticER+ Highecdna
+CURTIS_H004388_T01_01_WG01	amplicon1	1	6463803	0.154707685243501	noncyclic	metastatic	ER+ High	ic2	1	metastaticER+ Highnoncyclic
+CURTIS_H004392_T01_01_WG01	amplicon1	2	3914036	0.510981503491537	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004394_T01_01_WG01	amplicon1	0	5996564	0	ecdna	metastatic	ER+ High	ic9	1	metastaticER+ Highecdna
+CURTIS_H004395_T01_01_WG01	amplicon1	0	18636691	0	ecdna	metastatic	ER+ High	ic1	1	metastaticER+ Highecdna
+CURTIS_H004398_T01_01_WG01	amplicon2	2	26765341	0.0747235015612168	ecdna	metastatic	ER+ High	ic1	1	metastaticER+ Highecdna
+CURTIS_H004399_T01_01_WG01	amplicon1	12	10382675	1.15577151360319	ecdna	metastatic	ER+ High	ic2	1	metastaticER+ Highecdna
+CURTIS_H004400_T01_01_WG01	amplicon1	1	8544412	0.117035554933447	noncyclic	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004403_T01_01_WG01	amplicon2	0	586925	0	ecdna	metastatic	ER+ High	ic1	1	metastaticER+ Highecdna
+CURTIS_H004403_T01_01_WG01	amplicon3	12	8195148	1.46428105996377	ecdna	metastatic	ER+ High	ic1	1	metastaticER+ Highecdna
+CURTIS_H004403_T01_01_WG01	amplicon1	1	18791855	0.0532145442799553	ecdna	metastatic	ER+ High	ic1	1	metastaticER+ Highecdna
+CURTIS_H004405_T01_01_WG01	amplicon1	14	25138731	0.55690957510942	ecdna	metastatic	ER+ High	ic2	1	metastaticER+ Highecdna
+CURTIS_H004406_T01_01_WG01	amplicon2	6	38461368	0.156000691395064	ecdna	metastatic	HER2+	ic5	NA	metastaticHER2+ecdna
+CURTIS_H004407_T01_01_WG01	amplicon1	2	5407474	0.369858458866376	noncyclic	metastatic	IC10	ic9	0	metastaticIC10noncyclic
+CURTIS_H004407_T01_01_WG01	amplicon3	0	1516269	0	noncyclic	metastatic	IC10	ic9	0	metastaticIC10noncyclic
+CURTIS_H004408_T01_01_WG01	amplicon1	2	2580451	0.775058313449858	noncyclic	metastatic	ER+ High	ic6	1	metastaticER+ Highnoncyclic
+CURTIS_H004409_T01_01_WG01	amplicon3	2	20315399	0.098447488036046	noncyclic	metastatic	IC10	ic9	0	metastaticIC10noncyclic
+CURTIS_H004409_T01_01_WG01	amplicon1	0	4983559	0	noncyclic	metastatic	IC10	ic9	0	metastaticIC10noncyclic
+CURTIS_H004410_T01_01_WG01	amplicon4	0	1710353	0	noncyclic	metastatic	ER+ High	ic6	1	metastaticER+ Highnoncyclic
+CURTIS_H004410_T01_01_WG01	amplicon3	0	2691558	0	noncyclic	metastatic	ER+ High	ic6	1	metastaticER+ Highnoncyclic
+CURTIS_H004410_T01_01_WG01	amplicon1	0	1673879	0	noncyclic	metastatic	ER+ High	ic6	1	metastaticER+ Highnoncyclic
+CURTIS_H004410_T01_01_WG01	amplicon2	2	22089764	0.0905396725831928	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004411_T01_01_WG01	amplicon1	14	18053869	0.775457050231172	ecdna	metastatic	ER+ High	ic2	1	metastaticER+ Highecdna
+CURTIS_H004412_T01_01_WG01	amplicon2	0	438974	0	noncyclic	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004412_T01_01_WG01	amplicon1	0	105288	0	noncyclic	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004414_T01_01_WG01	amplicon1	12	9906334	1.21134619527264	noncyclic	metastatic	ER+ High	ic6	1	metastaticER+ Highnoncyclic
+CURTIS_H004414_T01_01_WG01	amplicon2	0	2557449	0	noncyclic	metastatic	ER+ High	ic6	1	metastaticER+ Highnoncyclic
+CURTIS_H004417_T01_01_WG01	amplicon1	0	457679	0	noncyclic	metastatic	HER2+	ic5	1	metastaticHER2+noncyclic
+CURTIS_H004417_T01_01_WG01	amplicon2	0	691232	0	noncyclic	metastatic	HER2+	ic5	1	metastaticHER2+noncyclic
+CURTIS_H004421_T01_01_WG01	amplicon1	2	11079668	0.180510823970538	ecdna	metastatic	IC10	ic10	NA	metastaticIC10ecdna
+CURTIS_H004421_T01_01_WG01	amplicon2	0	3392832	0	noncyclic	metastatic	IC10	ic10	NA	metastaticIC10noncyclic
+CURTIS_H004423_T03_01_WG01	amplicon1	0	165580	0	noncyclic	metastatic	ER+ High	ic6	1	metastaticER+ Highnoncyclic
+CURTIS_H004423_T03_01_WG01	amplicon4	2	13423527	0.148992138951261	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004424_T01_01_WG01	amplicon1	2	9164460	0.218234353142466	noncyclic	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004425_T01_01_WG01	amplicon2	4	70410203	0.0568099484104598	ecdna	metastatic	ER+ High	ic1	1	metastaticER+ Highecdna
+CURTIS_H004427_T01_01_WG01	amplicon1	0	10566015	0	ecdna	metastatic	ER+ Typical	ic8	1	metastaticER+ Typicalecdna
+CURTIS_H004428_T01_01_WG01	amplicon2	12	14934210	0.803524257392925	ecdna	metastatic	HER2+	ic5	0	metastaticHER2+ecdna
+CURTIS_H004428_T01_01_WG01	amplicon1	0	718200	0	ecdna	metastatic	HER2+	ic5	0	metastaticHER2+ecdna
+CURTIS_H004429_T01_01_WG01	amplicon1	12	8935275	1.34299168184527	ecdna	metastatic	ER+ High	ic2	1	metastaticER+ Highecdna
+CURTIS_H004430_T01_01_WG01	amplicon1	0	4118885	0	ecdna	metastatic	ER+ Typical	ic8	1	metastaticER+ Typicalecdna
+CURTIS_H004431_T01_01_WG01	amplicon1	0	1147619	0	ecdna	metastatic	IC10	ic3	NA	metastaticIC10ecdna
+CURTIS_H004435_T01_01_WG01	amplicon1	16	14863295	1.07647732215501	ecdna	metastatic	ER+ Typical	ic2	1	metastaticER+ Typicalecdna
+CURTIS_H004436_T01_01_WG01	amplicon2	0	8144427	0	ecdna	metastatic	ER+ Typical	ic10	1	metastaticER+ Typicalecdna
+CURTIS_H004438_T01_01_WG01	amplicon1	0	5219346	0	noncyclic	metastatic	ER+ High	ic1	1	metastaticER+ Highnoncyclic
+CURTIS_H004438_T01_01_WG01	amplicon3	2	10410845	0.192107364964131	noncyclic	metastatic	ER+ High	ic1	1	metastaticER+ Highnoncyclic
+CURTIS_H004439_T01_01_WG01	amplicon1	14	13386550	1.04582584758582	ecdna	metastatic	ER+ High	ic2	1	metastaticER+ Highecdna
+CURTIS_H004447_T01_01_WG01	amplicon1	5	14156114	0.353204276258301	noncyclic	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004450_T01_01_WG01	amplicon2	2	18494049	0.108142895046942	ecdna	metastatic	ER+ Typical	ic6	1	metastaticER+ Typicalecdna
+CURTIS_H004450_T01_01_WG01	amplicon1	0	4457052	0	ecdna	metastatic	ER+ Typical	ic6	1	metastaticER+ Typicalecdna
+CURTIS_H004452_T01_01_WG01	amplicon1	0	9583437	0	noncyclic	metastatic	ER+ Typical	ic8	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004454_T01_01_WG01	amplicon1	4	10769526	0.371418389258729	noncyclic	metastatic	HER2+	ic5	0	metastaticHER2+noncyclic
+CURTIS_H004454_T01_01_WG01	amplicon2	12	27429710	0.43748183994654	ecdna	metastatic	HER2+	ic5	0	metastaticHER2+ecdna
+CURTIS_H004455_T01_01_WG01	amplicon1	0	3261422	0	noncyclic	metastatic	HER2+	ic2	1	metastaticHER2+noncyclic
+CURTIS_H004456_T01_01_WG01	amplicon3	1	21166666	0.047244095976192	ecdna	metastatic	IC10	ic10	0	metastaticIC10ecdna
+CURTIS_H004456_T01_01_WG01	amplicon2	0	836521	0	noncyclic	metastatic	IC10	ic10	0	metastaticIC10noncyclic
+CURTIS_H004460_T01_01_WG01	amplicon1	0	12860804	0	noncyclic	metastatic	IC10	ic9	0	metastaticIC10noncyclic
+CURTIS_H004461_T01_01_WG01	amplicon3	5	86145267	0.0580414940265958	ecdna	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalecdna
+CURTIS_H004461_T01_01_WG01	amplicon4	12	18321792	0.654957768323098	ecdna	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalecdna
+CURTIS_H004461_T01_01_WG01	amplicon2	0	522087	0	noncyclic	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004462_T01_01_WG01	amplicon2	0	2894396	0	noncyclic	metastatic	ER+ Typical	ic8	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004466_T01_01_WG01	amplicon1	1	24299722	0.0411527341753128	ecdna	metastatic	ER+ High	ic1	1	metastaticER+ Highecdna
+CURTIS_H004468_T01_01_WG01	amplicon1	0	8519670	0	noncyclic	metastatic	HER2+	ic5	1	metastaticHER2+noncyclic
+CURTIS_H004474_T01_01_WG01	amplicon2	0	1586882	0	noncyclic	metastatic	ER+ Typical	ic2	0	metastaticER+ Typicalnoncyclic
+CURTIS_H004474_T01_01_WG01	amplicon1	3	39480208	0.075987441606184	ecdna	metastatic	ER+ Typical	ic2	0	metastaticER+ Typicalecdna
+CURTIS_H004475_T01_01_WG01	amplicon2	2	5024870	0.39802024728998	noncyclic	metastatic	ER+ Typical	ic10	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004475_T01_01_WG01	amplicon4	1	9318108	0.107317923338085	noncyclic	metastatic	ER+ Typical	ic10	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004475_T01_01_WG01	amplicon3	2	2865070	0.69806322358616	noncyclic	metastatic	ER+ Typical	ic10	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004476_T01_01_WG01	amplicon1	0	11790897	0	noncyclic	metastatic	ER+ High	ic1	1	metastaticER+ Highnoncyclic
+CURTIS_H004476_T01_01_WG01	amplicon5	1	3293404	0.303637209404009	noncyclic	metastatic	ER+ High	ic1	1	metastaticER+ Highnoncyclic
+CURTIS_H004477_T01_01_WG01	amplicon1	2	16288222	0.122788110329046	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004478_T01_01_WG01	amplicon1	2	13585583	0.147214882129092	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004480_T01_01_WG01	amplicon1	8	46871807	0.170678292816831	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004483_T01_01_WG01	amplicon1	0	18623519	0	noncyclic	metastatic	IC10	ic10	0	metastaticIC10noncyclic
+CURTIS_H004484_T01_01_WG01	amplicon1	0	4821905	0	noncyclic	metastatic	ER+ Typical	ic8	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004486_T01_01_WG01	amplicon1	0	38134597	0	ecdna	metastatic	ER+ Typical	ic1	1	metastaticER+ Typicalecdna
+CURTIS_H004486_T01_01_WG01	amplicon2	0	1011414	0	ecdna	metastatic	ER+ Typical	ic1	1	metastaticER+ Typicalecdna
+CURTIS_H004489_T01_01_WG01	amplicon1	2	3893248	0.513709889531825	noncyclic	metastatic	ER+ Typical	ic1	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004490_T01_01_WG01	amplicon2	0	492193	0	noncyclic	metastatic	HER2+	ic5	1	metastaticHER2+noncyclic
+CURTIS_H004490_T01_01_WG01	amplicon3	4	12955396	0.308751658382345	ecdna	metastatic	HER2+	ic5	1	metastaticHER2+ecdna
+CURTIS_H004491_T01_01_WG01	amplicon1	2	9419910	0.212316253552316	ecdna	metastatic	ER+ High	ic6	0	metastaticER+ Highecdna
+CURTIS_H004492_T01_01_WG01	amplicon2	0	1480585	0	noncyclic	metastatic	ER+ Typical	ic10	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004492_T01_01_WG01	amplicon4	0	6123430	0	noncyclic	metastatic	ER+ Typical	ic10	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004493_T01_01_WG01	amplicon4	0	4703256	0	noncyclic	metastatic	ER+ High	ic9	0	metastaticER+ Highnoncyclic
+CURTIS_H004493_T01_01_WG01	amplicon1	0	3417908	0	noncyclic	metastatic	ER+ High	ic9	0	metastaticER+ Highnoncyclic
+CURTIS_H004494_T01_01_WG01	amplicon1	6	28388763	0.211351230766906	ecdna	metastatic	HER2+	ic9	1	metastaticHER2+ecdna
+CURTIS_H004498_T01_01_WG01	amplicon1	13	48245748	0.269453797254838	ecdna	metastatic	ER+ Typical	ic6	1	metastaticER+ Typicalecdna
+CURTIS_H004500_T01_01_WG01	amplicon1	2	13220526	0.151279911253153	noncyclic	metastatic	ER+ High	ic6	1	metastaticER+ Highnoncyclic
+CURTIS_H004503_T01_01_WG01	amplicon1	0	14287517	0	ecdna	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalecdna
+CURTIS_H004508_T01_01_WG01	amplicon1	0	6057316	0	noncyclic	metastatic	HER2+	ic5	0	metastaticHER2+noncyclic
+CURTIS_H004513_T01_01_WG01	amplicon3	0	4684943	0	noncyclic	metastatic	ER+ High	ic2	1	metastaticER+ Highnoncyclic
+CURTIS_H004513_T01_01_WG01	amplicon2	12	13607950	0.88183745531105	ecdna	metastatic	ER+ High	ic2	1	metastaticER+ Highecdna
+CURTIS_H004515_T01_01_WG01	amplicon3	0	2146662	0	ecdna	metastatic	ER+ High	ic1	1	metastaticER+ Highecdna
+CURTIS_H004515_T01_01_WG01	amplicon4	1	33048756	0.0302583250032165	ecdna	metastatic	ER+ High	ic1	1	metastaticER+ Highecdna
+CURTIS_H004515_T01_01_WG01	amplicon2	1	21395364	0.0467390973109876	ecdna	metastatic	ER+ High	ic1	1	metastaticER+ Highecdna
+CURTIS_H004516_T01_01_WG01	amplicon2	12	11516418	1.04199066063771	noncyclic	metastatic	ER+ High	ic9	1	metastaticER+ Highnoncyclic
+CURTIS_H004517_T01_01_WG01	amplicon1	0	43672101	0	ecdna	metastatic	ER+ Typical	ic8	1	metastaticER+ Typicalecdna
+CURTIS_H004518_T01_01_WG01	amplicon1	2	7122793	0.280788729926589	noncyclic	metastatic	IC10	ic9	0	metastaticIC10noncyclic
+CURTIS_H004519_T01_01_WG01	amplicon1	0	3509757	0	noncyclic	metastatic	ER+ Typical	ic8	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004522_T01_01_WG01	amplicon1	0	2588869	0	noncyclic	metastatic	ER+ Typical	ic7	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004523_T01_01_WG01	amplicon1	5	4379244	1.1417495805212	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004523_T01_01_WG01	amplicon2	0	2027673	0	noncyclic	metastatic	ER+ High	ic6	1	metastaticER+ Highnoncyclic
+CURTIS_H004523_T01_01_WG01	amplicon3	2	10426359	0.191821516984021	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004525_T01_01_WG01	amplicon1	0	6774255	0	ecdna	metastatic	ER+ High	ic1	1	metastaticER+ Highecdna
+CURTIS_H004526_T01_01_WG01	amplicon1	0	5781951	0	ecdna	metastatic	ER+ Typical	ic1	1	metastaticER+ Typicalecdna
+CURTIS_H004532_T01_01_WG01	amplicon4	5	39907757	0.12528892565924	ecdna	metastatic	ER+ Typical	ic1	1	metastaticER+ Typicalecdna
+CURTIS_H004533_T01_01_WG01	amplicon2	3	17334463	0.173065643856403	ecdna	metastatic	ER+ Typical	ic8	1	metastaticER+ Typicalecdna
+CURTIS_H004533_T01_01_WG01	amplicon1	9	33488097	0.268752207687406	ecdna	metastatic	ER+ Typical	ic8	1	metastaticER+ Typicalecdna
+CURTIS_H004537_T01_01_WG01	amplicon1	0	2519882	0	ecdna	metastatic	IC10	ic10	0	metastaticIC10ecdna
+CURTIS_H004538_T01_01_WG01	amplicon1	4	6804172	0.587874615750454	ecdna	metastatic	ER+ Typical	ic8	1	metastaticER+ Typicalecdna
+CURTIS_H004543_T01_01_WG01	amplicon1	1	3567089	0.280340636300356	ecdna	metastatic	ER+ High	ic1	1	metastaticER+ Highecdna
+CURTIS_H004543_T01_01_WG01	amplicon2	16	21511515	0.743787687664026	ecdna	metastatic	ER+ High	ic1	1	metastaticER+ Highecdna
+CURTIS_H004545_T01_01_WG01	amplicon2	5	68088920	0.0734333868124212	noncyclic	metastatic	ER+ High	ic9	1	metastaticER+ Highnoncyclic
+CURTIS_H004545_T01_01_WG01	amplicon1	0	3949304	0	noncyclic	metastatic	ER+ High	ic9	1	metastaticER+ Highnoncyclic
+CURTIS_H004547_T01_01_WG01	amplicon1	0	3237765	0	noncyclic	metastatic	HER2+	ic5	1	metastaticHER2+noncyclic
+CURTIS_H004548_T01_01_WG01	amplicon1	2	9027286	0.221550530247962	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004550_T01_01_WG01	amplicon2	0	8468570	0	noncyclic	metastatic	ER+ High	ic9	1	metastaticER+ Highnoncyclic
+CURTIS_H004550_T01_01_WG01	amplicon1	0	13312451	0	ecdna	metastatic	ER+ High	ic9	1	metastaticER+ Highecdna
+CURTIS_H004551_T01_01_WG01	amplicon1	12	30001020	0.399986400462384	ecdna	metastatic	ER+ High	ic9	1	metastaticER+ Highecdna
+CURTIS_H004552_T01_01_WG01	amplicon1	2	18818061	0.106280875590742	ecdna	metastatic	ER+ Typical	ic8	1	metastaticER+ Typicalecdna
+CURTIS_H004552_T01_01_WG01	amplicon2	0	1876168	0	noncyclic	metastatic	ER+ Typical	ic8	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004552_T01_01_WG01	amplicon3	0	1997300	0	noncyclic	metastatic	ER+ Typical	ic8	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004554_T01_01_WG01	amplicon1	14	26249919	0.533334979052697	ecdna	metastatic	ER+ High	ic2	1	metastaticER+ Highecdna
+CURTIS_H004557_T01_01_WG01	amplicon1	5	30938485	0.161611016182596	ecdna	metastatic	ER+ High	ic1	1	metastaticER+ Highecdna
+CURTIS_H004562_T01_01_WG01	amplicon1	5	9127264	0.547809288741949	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004563_T01_01_WG01	amplicon2	1	20290986	0.0492829673235199	ecdna	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalecdna
+CURTIS_H004564_T01_01_WG01	amplicon4	0	9292064	0	ecdna	metastatic	IC10	ic2	0	metastaticIC10ecdna
+CURTIS_H004564_T01_01_WG01	amplicon3	2	2854054	0.7007575890295	noncyclic	metastatic	IC10	ic2	0	metastaticIC10noncyclic
+CURTIS_H004564_T01_01_WG01	amplicon1	0	27886400	0	ecdna	metastatic	IC10	ic2	0	metastaticIC10ecdna
+CURTIS_H004564_T01_01_WG01	amplicon2	12	10411377	1.15258529203198	noncyclic	metastatic	IC10	ic2	0	metastaticIC10noncyclic
+CURTIS_H004565_T01_01_WG01	amplicon1	0	9451050	0	ecdna	metastatic	IC10	ic9	0	metastaticIC10ecdna
+CURTIS_H004566_T01_01_WG01	amplicon1	2	13999698	0.142860224556273	ecdna	metastatic	ER+ High	ic9	1	metastaticER+ Highecdna
+CURTIS_H004567_T01_01_WG01	amplicon1	5	23656003	0.211362840966836	noncyclic	metastatic	IC10	ic9	0	metastaticIC10noncyclic
+CURTIS_H004569_T01_01_WG01	amplicon1	14	31457429	0.445045906326293	ecdna	metastatic	ER+ High	ic2	0	metastaticER+ Highecdna
+CURTIS_H004575_T01_01_WG01	amplicon1	2	41557461	0.0481261355211282	ecdna	metastatic	ER+ High	ic9	1	metastaticER+ Highecdna
+CURTIS_H004576_T01_01_WG01	amplicon1	1	4299980	0.23255922120568	noncyclic	metastatic	ER+ Typical	ic10	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004580_T01_01_WG01	amplicon3	0	3685556	0	ecdna	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalecdna
+CURTIS_H004580_T01_01_WG01	amplicon1	0	5739424	0	noncyclic	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004586_T01_01_WG01	amplicon1	0	3402253	0	ecdna	metastatic	ER+ Typical	ic8	1	metastaticER+ Typicalecdna
+CURTIS_H004587_T01_01_WG01	amplicon2	3	9571017	0.313446314012398	noncyclic	metastatic	ER+ Typical	ic8	NA	metastaticER+ Typicalnoncyclic
+CURTIS_H004587_T01_01_WG01	amplicon1	0	6299281	0	noncyclic	metastatic	ER+ Typical	ic8	NA	metastaticER+ Typicalnoncyclic
+CURTIS_H004587_T01_01_WG01	amplicon4	0	983285	0	noncyclic	metastatic	ER+ Typical	ic8	NA	metastaticER+ Typicalnoncyclic
+CURTIS_H004588_T01_01_WG01	amplicon1	11	12073743	0.911067926491395	ecdna	metastatic	IC10	ic9	NA	metastaticIC10ecdna
+CURTIS_H004588_T01_01_WG01	amplicon2	0	1022486	0	ecdna	metastatic	IC10	ic9	NA	metastaticIC10ecdna
+CURTIS_H004589_T01_01_WG01	amplicon1	1	6831234	0.146386436184151	ecdna	metastatic	IC10	ic10	0	metastaticIC10ecdna
+CURTIS_H004591_T01_01_WG01	amplicon1	6	11485647	0.52239111997783	noncyclic	metastatic	ER+ Typical	ic7	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004592_T01_01_WG01	amplicon2	0	3277832	0	noncyclic	metastatic	ER+ Typical	ic1	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004592_T01_01_WG01	amplicon1	12	22796592	0.526394471594702	ecdna	metastatic	ER+ Typical	ic1	1	metastaticER+ Typicalecdna
+CURTIS_H004600_T01_01_WG01	amplicon3	1	34447235	0.0290299061738917	ecdna	metastatic	ER+ High	ic1	1	metastaticER+ Highecdna
+CURTIS_H004602_T01_01_WG01	amplicon1	0	240073	0	noncyclic	metastatic	ER+ High	ic1	1	metastaticER+ Highnoncyclic
+CURTIS_H004603_T01_01_WG01	amplicon4	0	1368266	0	noncyclic	metastatic	IC10	ic10	0	metastaticIC10noncyclic
+CURTIS_H004603_T01_01_WG01	amplicon2	0	485105	0	noncyclic	metastatic	IC10	ic10	0	metastaticIC10noncyclic
+CURTIS_H004603_T01_01_WG01	amplicon3	0	34661779	0	ecdna	metastatic	IC10	ic10	0	metastaticIC10ecdna
+CURTIS_H004604_T01_01_WG01	amplicon1	2	5720861	0.349597726635903	noncyclic	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004605_T01_01_WG01	amplicon1	2	7163846	0.27917964735702	noncyclic	metastatic	ER+ High	ic9	1	metastaticER+ Highnoncyclic
+CURTIS_H004606_T01_01_WG01	amplicon1	2	13472515	0.14845038212984	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004607_T01_01_WG01	amplicon1	0	2997952	0	noncyclic	metastatic	ER+ Typical	ic7	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004616_T01_01_WG01	amplicon1	0	1128696	0	ecdna	metastatic	IC10	ic3	NA	metastaticIC10ecdna
+CURTIS_H004618_T01_01_WG01	amplicon1	12	11188688	1.07251180835501	ecdna	metastatic	ER+ High	ic2	1	metastaticER+ Highecdna
+CURTIS_H004619_T01_01_WG01	amplicon1	2	9440631	0.211850246026987	ecdna	metastatic	ER+ High	ic6	NA	metastaticER+ Highecdna
+CURTIS_H004628_T01_01_WG01	amplicon2	3	28700508	0.10452776654685	ecdna	metastatic	ER+ Typical	ic1	1	metastaticER+ Typicalecdna
+CURTIS_H004629_T01_01_WG01	amplicon1	1	1741047	0.574367033170271	noncyclic	metastatic	ER+ High	ic1	1	metastaticER+ Highnoncyclic
+CURTIS_H004630_T01_01_WG01	amplicon1	6	16676797	0.359781317719464	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004630_T01_01_WG01	amplicon2	0	13315148	0	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004632_T01_01_WG01	amplicon2	0	20603479	0	ecdna	metastatic	ER+ High	ic1	1	metastaticER+ Highecdna
+CURTIS_H004632_T01_01_WG01	amplicon3	0	171570	0	noncyclic	metastatic	ER+ High	ic1	1	metastaticER+ Highnoncyclic
+CURTIS_H004633_T01_01_WG01	amplicon1	0	4882106	0	noncyclic	metastatic	IC10	ic10	0	metastaticIC10noncyclic
+CURTIS_H004634_T01_01_WG01	amplicon1	8	39279080	0.203670758072745	ecdna	metastatic	HER2+	ic5	NA	metastaticHER2+ecdna
+CURTIS_H004635_T01_01_WG01	amplicon1	0	22036014	0	noncyclic	metastatic	ER+ High	ic1	0	metastaticER+ Highnoncyclic
+CURTIS_H004636_T01_01_WG01	amplicon1	1	20283807	0.0493004099279785	noncyclic	metastatic	ER+ High	ic9	1	metastaticER+ Highnoncyclic
+CURTIS_H004637_T01_01_WG01	amplicon4	0	12051995	0	noncyclic	metastatic	ER+ High	ic1	1	metastaticER+ Highnoncyclic
+CURTIS_H004637_T01_01_WG01	amplicon1	6	25140918	0.238654769885491	ecdna	metastatic	ER+ High	ic1	1	metastaticER+ Highecdna
+CURTIS_H004637_T01_01_WG01	amplicon3	2	2310623	0.865567424889305	noncyclic	metastatic	ER+ High	ic1	1	metastaticER+ Highnoncyclic
+CURTIS_H004637_T01_01_WG01	amplicon2	0	599280	0	ecdna	metastatic	ER+ High	ic1	1	metastaticER+ Highecdna
+CURTIS_H004638_T01_01_WG01	amplicon1	0	8789243	0	noncyclic	metastatic	ER+ Typical	ic8	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004640_T01_01_WG01	amplicon1	12	21319963	0.562852759172237	ecdna	metastatic	ER+ Typical	ic2	1	metastaticER+ Typicalecdna
+CURTIS_H004642_T01_01_WG01	amplicon1	0	1308970	0	noncyclic	metastatic	ER+ Typical	ic1	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004643_T01_01_WG01	amplicon2	1	24376180	0.0410236550599807	ecdna	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalecdna
+CURTIS_H004644_T01_01_WG01	amplicon1	0	4068214	0	ecdna	metastatic	ER+ High	ic9	1	metastaticER+ Highecdna
+CURTIS_H004644_T01_01_WG01	amplicon2	4	40145266	0.0996381491157637	ecdna	metastatic	ER+ High	ic9	1	metastaticER+ Highecdna
+CURTIS_H004645_T01_01_WG01	amplicon1	0	3664664	0	noncyclic	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004648_T01_01_WG01	amplicon1	1	26802180	0.0373103978855451	ecdna	metastatic	HER2+	ic5	NA	metastaticHER2+ecdna
+CURTIS_H004648_T01_01_WG01	amplicon2	0	2532706	0	ecdna	metastatic	HER2+	ic5	NA	metastaticHER2+ecdna
+CURTIS_H004649_T02_01_WG01	amplicon1	2	8435961	0.237080280480197	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004653_T01_01_WG01	amplicon1	0	41658301	0	ecdna	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalecdna
+CURTIS_H004655_T01_01_WG01	amplicon1	14	27694833	0.505509457305628	ecdna	metastatic	ER+ High	ic2	1	metastaticER+ Highecdna
+CURTIS_H004657_T01_01_WG01	amplicon2	3	16396719	0.182963433111222	noncyclic	metastatic	HER2+	ic1	1	metastaticHER2+noncyclic
+CURTIS_H004657_T01_01_WG01	amplicon1	1	6188063	0.161601457515866	noncyclic	metastatic	HER2+	ic1	1	metastaticHER2+noncyclic
+CURTIS_H004661_T01_01_WG01	amplicon1	2	12136205	0.164796161567805	noncyclic	metastatic	ER+ Typical	ic2	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004663_T01_01_WG01	amplicon1	14	12427340	1.12654840054267	ecdna	metastatic	ER+ High	ic2	1	metastaticER+ Highecdna
+CURTIS_H004666_T01_01_WG01	amplicon1	0	3152194	0	ecdna	metastatic	ER+ High	ic1	1	metastaticER+ Highecdna
+CURTIS_H004667_T01_01_WG01	amplicon1	2	7230632	0.276600994214614	ecdna	metastatic	ER+ Typical	ic7	1	metastaticER+ Typicalecdna
+CURTIS_H004669_T01_01_WG01	amplicon2	12	5835242	2.05646998016535	noncyclic	metastatic	ER+ High	ic6	1	metastaticER+ Highnoncyclic
+CURTIS_H004671_T01_01_WG01	amplicon1	1	4230104	0.236400807166916	noncyclic	metastatic	ER+ Typical	ic1	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004673_T01_01_WG01	amplicon1	0	9673042	0	ecdna	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalecdna
+CURTIS_H004673_T01_01_WG01	amplicon3	0	2399993	0	noncyclic	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004673_T01_01_WG01	amplicon2	1	17239494	0.058006342877581	ecdna	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalecdna
+CURTIS_H004675_T01_01_WG01	amplicon3	0	884293	0	noncyclic	metastatic	ER+ High	ic9	1	metastaticER+ Highnoncyclic
+CURTIS_H004677_T01_01_WG01	amplicon1	1	4166510	0.240009024339315	noncyclic	metastatic	HER2+	ic5	0	metastaticHER2+noncyclic
+CURTIS_H004678_T01_01_WG01	amplicon1	0	22010220	0	noncyclic	metastatic	ER+ High	ic9	1	metastaticER+ Highnoncyclic
+CURTIS_H004682_T01_01_WG01	amplicon1	2	2973261	0.672662103999615	noncyclic	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004683_T01_01_WG01	amplicon1	2	25328414	0.0789627017309493	noncyclic	metastatic	ER+ High	ic6	1	metastaticER+ Highnoncyclic
+CURTIS_H004685_T01_01_WG01	amplicon1	11	62533890	0.175904617480218	ecdna	metastatic	ER+ High	ic1	1	metastaticER+ Highecdna
+CURTIS_H004686_T01_01_WG01	amplicon2	2	10592197	0.188818240446245	ecdna	metastatic	ER+ High	ic6	1	metastaticER+ Highecdna
+CURTIS_H004688_T01_01_WG01	amplicon3	0	1005003	0	noncyclic	metastatic	ER+ High	ic9	0	metastaticER+ Highnoncyclic
+CURTIS_H004688_T01_01_WG01	amplicon2	0	6679987	0	noncyclic	metastatic	ER+ High	ic9	0	metastaticER+ Highnoncyclic
+CURTIS_H004690_T01_01_WG01	amplicon1	0	24330910	0	ecdna	metastatic	HER2+	ic1	1	metastaticHER2+ecdna
+CURTIS_H004691_T01_01_WG01	amplicon1	0	3104192	0	noncyclic	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004693_T01_01_WG01	amplicon5	0	16315154	0	ecdna	metastatic	ER+ High	ic1	1	metastaticER+ Highecdna
+CURTIS_H004693_T01_01_WG01	amplicon4	0	1566955	0	noncyclic	metastatic	ER+ High	ic1	1	metastaticER+ Highnoncyclic
+CURTIS_H004694_T01_01_WG01	amplicon1	12	11988146	1.00098881011292	ecdna	metastatic	ER+ High	ic2	1	metastaticER+ Highecdna
+CURTIS_H004695_T01_01_WG01	amplicon1	0	1606812	0	noncyclic	metastatic	ER+ High	ic9	1	metastaticER+ Highnoncyclic
+CURTIS_H004695_T01_01_WG01	amplicon2	2	5856556	0.341497631030934	noncyclic	metastatic	ER+ High	ic9	1	metastaticER+ Highnoncyclic
+CURTIS_H004696_T01_01_WG01	amplicon2	6	24737356	0.242548152680505	ecdna	metastatic	ER+ Typical	ic1	1	metastaticER+ Typicalecdna
+CURTIS_H004698_T01_01_WG01	amplicon2	2	26203987	0.0763242631741498	ecdna	metastatic	ER+ High	ic1	1	metastaticER+ Highecdna
+CURTIS_H004702_T01_01_WG01	amplicon1	0	4563589	0	noncyclic	metastatic	HER2+	ic5	1	metastaticHER2+noncyclic
+CURTIS_H004702_T01_01_WG01	amplicon2	4	6929373	0.5772528048353	noncyclic	metastatic	HER2+	ic5	1	metastaticHER2+noncyclic
+CURTIS_H004709_T01_01_WG01	amplicon2	0	3493924	0	ecdna	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalecdna
+CURTIS_H004710_T01_01_WG01	amplicon1	2	6537080	0.305946997742111	ecdna	metastatic	ER+ High	ic9	NA	metastaticER+ Highecdna
+CURTIS_H004712_T01_01_WG01	amplicon1	2	665870	3.00358928920059	noncyclic	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004713_T01_01_WG01	amplicon1	0	1052545	0	noncyclic	metastatic	IC10	ic9	0	metastaticIC10noncyclic
+CURTIS_H004714_T01_01_WG01	amplicon2	0	6370567	0	noncyclic	metastatic	HER2+	ic5	0	metastaticHER2+noncyclic
+CURTIS_H004714_T01_01_WG01	amplicon4	0	3277729	0	ecdna	metastatic	HER2+	ic5	0	metastaticHER2+ecdna
+CURTIS_H004714_T01_01_WG01	amplicon5	2	2761552	0.724230432742168	noncyclic	metastatic	HER2+	ic5	0	metastaticHER2+noncyclic
+CURTIS_H004715_T01_01_WG01	amplicon1	0	5228749	0	noncyclic	metastatic	ER+ Typical	ic9	0	metastaticER+ Typicalnoncyclic
+CURTIS_H004717_T01_01_WG01	amplicon1	9	34083984	0.264053638799971	ecdna	metastatic	ER+ Typical	ic1	1	metastaticER+ Typicalecdna
+CURTIS_H004719_T01_01_WG01	amplicon1	4	18797287	0.212796665816721	ecdna	metastatic	HER2+	ic5	1	metastaticHER2+ecdna
+CURTIS_H004724_T01_01_WG01	amplicon1	0	1727299	0	noncyclic	metastatic	HER2+	ic5	1	metastaticHER2+noncyclic
+CURTIS_H004724_T01_01_WG01	amplicon2	0	5991646	0	noncyclic	metastatic	HER2+	ic5	1	metastaticHER2+noncyclic
+CURTIS_H004727_T01_01_WG01	amplicon1	0	5091963	0	noncyclic	metastatic	IC10	ic5	0	metastaticIC10noncyclic
+CURTIS_H004728_T01_01_WG01	amplicon1	0	12960658	0	ecdna	metastatic	ER+ Typical	ic1	1	metastaticER+ Typicalecdna
+CURTIS_H004733_T01_01_WG01	amplicon2	3	16851100	0.178029920895372	ecdna	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalecdna
+CURTIS_H004735_T01_01_WG01	amplicon1	12	4244480	2.82720144752714	noncyclic	metastatic	ER+ Typical	ic8	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004739_T01_01_WG01	amplicon1	2	9146321	0.218667155897983	noncyclic	metastatic	ER+ High	ic9	1	metastaticER+ Highnoncyclic
+CURTIS_H004742_T01_01_WG01	amplicon3	1	5036805	0.19853855767694	noncyclic	metastatic	IC10	ic5	0	metastaticIC10noncyclic
+CURTIS_H004742_T01_01_WG01	amplicon1	0	8854384	0	ecdna	metastatic	IC10	ic5	0	metastaticIC10ecdna
+CURTIS_H004744_T01_01_WG01	amplicon2	1	44791403	0.0223257128159169	ecdna	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalecdna
+CURTIS_H004745_T01_01_WG01	amplicon3	0	17374283	0	ecdna	metastatic	ER+ Typical	ic6	1	metastaticER+ Typicalecdna
+CURTIS_H004745_T01_01_WG01	amplicon2	3	70516103	0.0425434740771197	ecdna	metastatic	ER+ Typical	ic6	1	metastaticER+ Typicalecdna
+CURTIS_H004745_T01_01_WG01	amplicon1	1	5983761	0.167118974170258	ecdna	metastatic	ER+ Typical	ic6	1	metastaticER+ Typicalecdna
+CURTIS_H004746_T01_01_WG01	amplicon2	0	681952	0	noncyclic	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004748_T01_01_WG01	amplicon1	2	2768104	0.722516206038501	noncyclic	metastatic	ER+ High	ic6	0	metastaticER+ Highnoncyclic
+CURTIS_H004749_T01_01_WG01	amplicon1	2	10731563	0.186366142564694	noncyclic	metastatic	ER+ Typical	ic7	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004750_T01_01_WG01	amplicon2	2	4017022	0.497881266271382	noncyclic	metastatic	IC10	ic9	NA	metastaticIC10noncyclic
+CURTIS_H004750_T01_01_WG01	amplicon1	0	735697	0	noncyclic	metastatic	IC10	ic9	NA	metastaticIC10noncyclic
+CURTIS_H004751_T01_01_WG01	amplicon1	12	19160082	0.62630212125397	ecdna	metastatic	ER+ High	ic2	0	metastaticER+ Highecdna
+CURTIS_H004752_T01_01_WG01	amplicon1	14	32429946	0.431699762928992	ecdna	metastatic	ER+ High	ic9	1	metastaticER+ Highecdna
+CURTIS_H004755_T01_01_WG01	amplicon4	0	10810694	0	noncyclic	metastatic	IC10	ic9	0	metastaticIC10noncyclic
+CURTIS_H004755_T01_01_WG01	amplicon2	14	67926608	0.206104800640126	ecdna	metastatic	IC10	ic9	0	metastaticIC10ecdna
+CURTIS_H004757_T01_01_WG01	amplicon1	0	1281048	0	ecdna	metastatic	IC10	ic8	0	metastaticIC10ecdna
+CURTIS_H004757_T01_01_WG01	amplicon2	0	1049785	0	ecdna	metastatic	IC10	ic8	0	metastaticIC10ecdna
+CURTIS_H004759_T01_01_WG01	amplicon1	0	5740414	0	noncyclic	metastatic	ER+ High	ic9	1	metastaticER+ Highnoncyclic
+CURTIS_H004760_T01_01_WG01	amplicon1	0	11998334	0	ecdna	metastatic	ER+ High	ic9	1	metastaticER+ Highecdna
+CURTIS_H004761_T01_01_WG01	amplicon1	0	16966184	0	ecdna	metastatic	IC10	ic9	0	metastaticIC10ecdna
+CURTIS_H004762_T01_01_WG01	amplicon1	0	4940687	0	ecdna	metastatic	ER+ Typical	ic10	1	metastaticER+ Typicalecdna
+CURTIS_H004763_T01_01_WG01	amplicon1	2	21869113	0.0914531833092636	ecdna	metastatic	ER+ Typical	ic6	1	metastaticER+ Typicalecdna
+CURTIS_H004763_T01_01_WG01	amplicon2	0	8325074	0	ecdna	metastatic	ER+ Typical	ic6	1	metastaticER+ Typicalecdna
+CURTIS_H004764_T01_01_WG01	amplicon1	0	7205063	0	noncyclic	metastatic	ER+ High	ic1	1	metastaticER+ Highnoncyclic
+CURTIS_H004766_T01_01_WG01	amplicon1	8	9165547	0.87283388541895	noncyclic	metastatic	ER+ High	ic6	1	metastaticER+ Highnoncyclic
+CURTIS_H004768_T01_01_WG01	amplicon1	12	14833792	0.808963749795062	ecdna	metastatic	ER+ High	ic2	1	metastaticER+ Highecdna
+CURTIS_H004772_T01_01_WG01	amplicon1	2	344190	5.81074406577762	noncyclic	metastatic	ER+ High	ic1	1	metastaticER+ Highnoncyclic
+CURTIS_H004772_T01_01_WG01	amplicon2	1	12904525	0.0774921975043638	ecdna	metastatic	ER+ High	ic1	1	metastaticER+ Highecdna
+CURTIS_H004773_T01_01_WG01	amplicon1	2	6344409	0.315238188458531	noncyclic	metastatic	ER+ High	ic6	1	metastaticER+ Highnoncyclic
+CURTIS_H004774_T01_01_WG01	amplicon1	0	2662509	0	noncyclic	metastatic	ER+ Typical	ic9	1	metastaticER+ Typicalnoncyclic
+CURTIS_H004776_T01_01_WG01	amplicon1	12	15101786	0.794608001993936	ecdna	metastatic	ER+ High	ic2	1	metastaticER+ Highecdna
+CURTIS_H004778_T01_01_WG01	amplicon1	0	8239833	0	ecdna	metastatic	ER+ Typical	ic8	1	metastaticER+ Typicalecdna

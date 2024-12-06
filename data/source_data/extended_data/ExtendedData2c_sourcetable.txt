@@ -1,0 +1,51 @@
+Subtype	Pretreatment_Type	Alteration	Alterations_per_Sample	Samples_per_Group
+ER+ High	Primary	Amplification	49.3722627737226	137
+ER+ High	Primary	Damaging structural variant	120.284671532847	137
+ER+ High	Primary	Homozygous deletion	11.6934306569343	137
+ER+ High	Primary	Non damaging structural variant	118.620437956204	137
+ER+ High	Primary	Protein coding SNV	77.6350364963504	137
+ER+ High	Both	Amplification	78.5294117647059	119
+ER+ High	Both	Damaging structural variant	165.672268907563	119
+ER+ High	Both	Homozygous deletion	17.2100840336134	119
+ER+ High	Both	Non damaging structural variant	164.53781512605	119
+ER+ High	Both	Protein coding SNV	120.731092436975	119
+ER+ High	Radiotherapy	Amplification	29.3333333333333	6
+ER+ High	Radiotherapy	Damaging structural variant	74.1666666666667	6
+ER+ High	Radiotherapy	Homozygous deletion	9.5	6
+ER+ High	Radiotherapy	Non damaging structural variant	52.3333333333333	6
+ER+ High	Radiotherapy	Protein coding SNV	53.5	6
+ER+ High	Systemic	Amplification	66.6666666666667	48
+ER+ High	Systemic	Damaging structural variant	136.1875	48
+ER+ High	Systemic	Homozygous deletion	15.2916666666667	48
+ER+ High	Systemic	Non damaging structural variant	134.520833333333	48
+ER+ High	Systemic	Protein coding SNV	94.2708333333333	48
+ER+ High	Neither	Amplification	53.3571428571429	14
+ER+ High	Neither	Damaging structural variant	155.285714285714	14
+ER+ High	Neither	Homozygous deletion	17.2857142857143	14
+ER+ High	Neither	Non damaging structural variant	135.571428571429	14
+ER+ High	Neither	Protein coding SNV	63.3571428571429	14
+ER+ Typical	Primary	Amplification	15.9645161290323	310
+ER+ Typical	Primary	Damaging structural variant	45.8096774193548	310
+ER+ Typical	Primary	Homozygous deletion	10.3870967741935	310
+ER+ Typical	Primary	Non damaging structural variant	46.2870967741936	310
+ER+ Typical	Primary	Protein coding SNV	64.7548387096774	310
+ER+ Typical	Both	Amplification	43.9672897196262	214
+ER+ Typical	Both	Damaging structural variant	100.771028037383	214
+ER+ Typical	Both	Homozygous deletion	22.9626168224299	214
+ER+ Typical	Both	Non damaging structural variant	96.9018691588785	214
+ER+ Typical	Both	Protein coding SNV	184.598130841122	214
+ER+ Typical	Radiotherapy	Amplification	50	10
+ER+ Typical	Radiotherapy	Damaging structural variant	125.1	10
+ER+ Typical	Radiotherapy	Homozygous deletion	12.7	10
+ER+ Typical	Radiotherapy	Non damaging structural variant	126.6	10
+ER+ Typical	Radiotherapy	Protein coding SNV	107	10
+ER+ Typical	Systemic	Amplification	42.7878787878788	66
+ER+ Typical	Systemic	Damaging structural variant	97.0757575757576	66
+ER+ Typical	Systemic	Homozygous deletion	17.1818181818182	66
+ER+ Typical	Systemic	Non damaging structural variant	94.3030303030303	66
+ER+ Typical	Systemic	Protein coding SNV	89.8333333333333	66
+ER+ Typical	Neither	Amplification	45.4814814814815	27
+ER+ Typical	Neither	Damaging structural variant	111.111111111111	27
+ER+ Typical	Neither	Homozygous deletion	19.8148148148148	27
+ER+ Typical	Neither	Non damaging structural variant	109.259259259259	27
+ER+ Typical	Neither	Protein coding SNV	95.1481481481482	27

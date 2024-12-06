@@ -1,0 +1,127 @@
+Sample	Study	Individual.ID	Sample.ID	sample_name_original	tumor_site	treated	treatments	time_to_met_biopsy	FFPE	purity	ploidy	mean_depth	clonality	ER_matched_primary	HER2_matched_primary	ER_sample	HER2_sample	iC10.CNA.only	ENiClust	Subgroup
+CURTIS_H009993_T02_01_WE01	Razavi et al. 2018	P0015178	P0015178_BM	P0015178_BrainMet	metastasis	yes	C/T	46	yes	0.66	1.94	37.46	polyclonal	1	0	1	1	ic8	IC8	ER+ Typical
+CURTIS_H009993_T01_01_WE01	Razavi et al. 2018	P0015178	P0015178_P	P0015178_P	primary	yes	C	_	yes	0.75	2.06	86.24	NA	1	0	1	0	ic8	IC8	ER+ Typical
+CURTIS_H009992_T02_01_WE01	Razavi et al. 2018	P0014913	P0014913_LU	P0014913_LungMet	metastasis	yes	C/T	126	yes	0.78	3.57	160.43	monoclonal	1	0	1	1	ic1	IC1	ER+ High
+CURTIS_H009992_T01_01_WE01	Razavi et al. 2018	P0014913	P0014913_P	P0014913_P	primary	no	_	_	yes	0.68	3.71	111.11	NA	1	0	1	0	ic1	IC1	ER+ High
+CURTIS_H009991_T02_01_WE01	Razavi et al. 2018	P0011373	P0011373_LN	P0011373_LymphMet	metastasis	yes	T	33	yes	0.86	1.9	175.16	monoclonal	1	0	1	1	ic3	IC4	ER+ Typical
+CURTIS_H009991_T01_01_WE01	Razavi et al. 2018	P0011373	P0011373_P	P0011373_P	primary	no	_	_	yes	0.4	2.81	132.6	NA	1	0	1	0	ic3	IC3/IC7	ER+ Typical
+CURTIS_H009990_T02_01_WE01	Razavi et al. 2018	P0011261	P0011261_LI	P0011261_LiverMet	metastasis	yes	C/T	45	yes	0.32	2.36	194.75	polyclonal	1	0	1	1	ic8	IC3/IC7	ER+ Typical
+CURTIS_H009990_T01_01_WE01	Razavi et al. 2018	P0011261	P0011261_P	P0011261_P	primary	no	_	_	yes	0.67	2.61	127.9	NA	1	0	1	0	ic8	IC3/IC7	ER+ Typical
+CURTIS_H009989_T02_01_WE01	Razavi et al. 2018	P0009636	P0009636_LN	P0009636_LymphMet	metastasis	yes	C/T	55	yes	0.47	2.9	176.38	monoclonal	1	0	1	1	ic1	IC3/IC7	ER+ Typical
+CURTIS_H009989_T01_01_WE01	Razavi et al. 2018	P0009636	P0009636_P	P0009636_P	primary	yes	C	_	yes	0.45	2.83	97.99	NA	1	0	1	0	ic1	IC3/IC7	ER+ Typical
+CURTIS_H009988_T02_01_WE01	Razavi et al. 2018	P0009021	P0009021_LI	P0009021_LiverMet	metastasis	yes	C/T	40	yes	0.67	3.21	95.08	monoclonal	1	0	1	1	ic6	IC6	ER+ High
+CURTIS_H009988_T01_01_WE01	Razavi et al. 2018	P0009021	P0009021_P	P0009021_P	primary	yes	C	_	yes	0.4	3.28	119.18	NA	1	0	1	0	ic6	IC6	ER+ High
+CURTIS_H009987_T02_01_WE01	Razavi et al. 2018	P0008003	P0008003_LI	P0008003_LiverMet	metastasis	yes	C/T	48	yes	0.23	2.77	121.04	monoclonal	1	0	1	1	ic1	IC1	ER+ High
+CURTIS_H009987_T01_01_WE01	Razavi et al. 2018	P0008003	P0008003_P	P0008003_P	primary	yes	C	_	yes	0.27	3.11	99.95	NA	1	0	1	0	ic1	IC1	ER+ High
+CURTIS_H009986_T02_01_WE01	Razavi et al. 2018	P0007148	P0007148_LU	P0007148_LungMet	metastasis	yes	C/T	55	yes	0.28	2.61	161.58	polyclonal	1	0	1	1	ic4	IC3/IC7	ER+ Typical
+CURTIS_H009986_T01_01_WE01	Razavi et al. 2018	P0007148	P0007148_P	P0007148_P	primary	no	_	_	yes	0.5	1.92	115.05	NA	1	0	1	0	ic3	IC10	IC10
+CURTIS_H009985_T02_01_WE01	Razavi et al. 2018	P0006442	P0006442_LI	P0006442_LiverMet	metastasis	yes	C/T	29	yes	0.35	2.34	122.31	polyclonal	1	0	0	0	ic3	IC10	IC10
+CURTIS_H009985_T01_01_WE01	Razavi et al. 2018	P0006442	P0006442_P	P0006442_P	primary	yes	T	_	yes	0.73	2.43	108.64	NA	1	0	1	0	ic10	IC3/IC7	ER+ Typical
+CURTIS_H009984_T02_01_WE01	Razavi et al. 2018	P0005778	P0005778_LI	P0005778_LiverMet	metastasis	yes	C/T	81	yes	0.69	2.13	144.29	monoclonal	1	0	1	1	ic3	IC3/IC7	ER+ Typical
+CURTIS_H009984_T01_01_WE01	Razavi et al. 2018	P0005778	P0005778_P	P0005778_P	primary	no	_	_	yes	0.53	2.67	109.3	NA	1	0	1	0	ic4	IC3/IC7	ER+ Typical
+CURTIS_H009983_T02_01_WE01	Razavi et al. 2018	P0004835	P0004835_LN	P0004835_LymphMet	metastasis	yes	T	48	yes	0.66	3.41	153.75	monoclonal	1	0	1	1	ic9	IC1	ER+ High
+CURTIS_H009983_T01_01_WE01	Razavi et al. 2018	P0004835	P0004835_P	P0004835_P	primary	no	_	_	yes	0.67	3.5	106.85	NA	1	0	1	0	ic1	IC1	ER+ High
+CURTIS_H009982_T02_01_WE01	Razavi et al. 2018	P0004758	P0004758_ST	P0004758_SoftMet	metastasis	yes	C/T	46	yes	0.28	2.54	159.03	monoclonal	1	0	0	0	ic6	IC6	ER+ High
+CURTIS_H009982_T01_01_WE01	Razavi et al. 2018	P0004758	P0004758_P	P0004758_P	primary	no	_	_	yes	0.57	2.11	106.66	NA	1	0	1	0	ic6	IC6	ER+ High
+CURTIS_H009981_T02_01_WE01	Razavi et al. 2018	P0004537	P0004537_LI	P0004537_LiverMet	metastasis	yes	C/T	11	yes	0.53	1.81	132.49	monoclonal	1	0	1	1	ic6	IC6	ER+ High
+CURTIS_H009981_T01_01_WE01	Razavi et al. 2018	P0004537	P0004537_P	P0004537_P	primary	yes	C	_	yes	0.6	1.87	119.41	NA	1	0	1	0	ic6	IC6	ER+ High
+CURTIS_H009980_T02_01_WE01	Razavi et al. 2018	P0004450	P0004450_BO	P0004450_BoneMet	metastasis	yes	C/T	1	yes	0.74	1.99	112.25	monoclonal	1	0	1	1	ic4	IC4	ER+ Typical
+CURTIS_H009980_T01_01_WE01	Razavi et al. 2018	P0004450	P0004450_P	P0004450_P	primary	no	_	_	yes	0.61	1.96	128.85	NA	1	0	1	0	ic4	IC4	ER+ Typical
+CURTIS_H009979_T02_01_WE01	Razavi et al. 2018	P0002473	P0002473_LN	P0002473_LymphMet	metastasis	yes	T	101	yes	0.5	2.94	100.98	polyclonal	1	0	1	1	ic8	IC3/IC7	ER+ Typical
+CURTIS_H009979_T01_01_WE01	Razavi et al. 2018	P0002473	P0002473_P	P0002473_P	primary	no	_	_	yes	0.56	2.32	107.82	NA	1	0	1	0	ic8	IC3/IC7	ER+ Typical
+CURTIS_H009978_T02_01_WE01	Razavi et al. 2018	P0002281	P0002281_CH	P0002281_ChestMet	metastasis	yes	C/T	24	yes	0.27	2.86	126.05	monoclonal	1	0	NA	NA	ic8	IC8	ER+ Typical
+CURTIS_H009978_T01_01_WE01	Razavi et al. 2018	P0002281	P0002281_P	P0002281_P	primary	no	_	_	yes	0.6	1.99	122.83	NA	1	0	1	0	ic8	IC8	ER+ Typical
+CURTIS_H009977_T03_01_WE01	Razavi et al. 2018	P0002088	P0002088_PE	P0002088_PeriMet	metastasis	yes	C/T	188	yes	0.81	2.21	129.28	monoclonal	1	0	1	1	ic2	IC3/IC7	ER+ Typical
+CURTIS_H009977_T02_01_WE01	Razavi et al. 2018	P0002088	P0002088_ST	P0002088_SoftMet	metastasis	yes	C/T	170	yes	0.81	2.07	36.24	monoclonal	1	0	1	1	ic2	IC2	ER+ High
+CURTIS_H009977_T01_01_WE01	Razavi et al. 2018	P0002088	P0002088_P	P0002088_P	primary	no	_	_	yes	0.72	2.25	95.68	NA	1	0	1	0	ic9	IC2	ER+ High
+CURTIS_H009976_T02_01_WE01	Razavi et al. 2018	P0001902	P0001902_OV	P0001902_OvaryMet	metastasis	yes	C/T	198	yes	0.42	2.09	88.83	monoclonal	1	0	1	1	ic6	IC4	ER+ Typical
+CURTIS_H009976_T01_01_WE01	Razavi et al. 2018	P0001902	P0001902_P	P0001902_P	primary	no	_	_	yes	0.59	2.17	97.85	NA	1	0	1	0	ic6	IC6	ER+ High
+CURTIS_H009975_T04_01_WE01	Razavi et al. 2018	P0001396	P0001396_CH	P0001396_ChestMet	metastasis	yes	C/T	37	yes	0.29	3.03	78.16	monoclonal	1	0	1	1	ic9	IC3/IC7	ER+ Typical
+CURTIS_H009975_T03_01_WE01	Razavi et al. 2018	P0001396	P0001396_SK_2	P0001396_SkinMet2	metastasis	yes	C/T	63	yes	0.35	3.09	42.85	monoclonal	1	0	NA	NA	ic10	IC4	NA
+CURTIS_H009975_T02_01_WE01	Razavi et al. 2018	P0001396	P0001396_SK_1	P0001396_SkinMet1	metastasis	yes	C/T	31	yes	0.43	3.05	86.2	polyclonal	1	0	NA	NA	ic9	IC10	IC10
+CURTIS_H009975_T01_01_WE01	Razavi et al. 2018	P0001396	P0001396_P	P0001396_P	primary	yes	C	_	yes	0.56	3.1	111.14	NA	1	0	1	0	ic8	IC3/IC7	ER+ Typical
+CURTIS_H009974_T02_01_WE01	Razavi et al. 2018	P0000816	P0000816_BM	P0000816_BrainMet	metastasis	yes	C/T	99	yes	0.7	1.94	53.48	monoclonal	1	0	1	1	ic2	IC2	ER+ High
+CURTIS_H009974_T01_01_WE01	Razavi et al. 2018	P0000816	P0000816_P	P0000816_P	primary	no	_	_	yes	0.38	2.13	109.47	NA	1	0	1	0	ic2	IC4	ER+ Typical
+CURTIS_H009973_T02_01_WE01	Razavi et al. 2018	P0000397	P0000397_SK	P0000397_SkinMet	metastasis	yes	C/T	100	yes	0.39	2.09	116.31	monoclonal	1	0	0	0	ic3	IC3/IC7	ER+ Typical
+CURTIS_H009973_T01_01_WE01	Razavi et al. 2018	P0000397	P0000397_P	P0000397_P	primary	no	_	_	yes	0.65	2.15	93.78	NA	1	0	1	0	ic3	IC10	IC10
+CURTIS_H009972_T04_01_WE01	Siegel et al. 2018	A26	A26_ST	A26_SoftTissueMet	metastasis	yes	C/T	14	no	0.86	3.32	81.24	monoclonal	0	1	NA	NA	ic9	IC10	IC10
+CURTIS_H009972_T03_01_WE01	Siegel et al. 2018	A26	A26_LU_2	A26_LungMet2	metastasis	yes	C/T	14	no	0.83	3.54	71.08	monoclonal	0	1	NA	NA	ic9	IC10	IC10
+CURTIS_H009972_T02_01_WE01	Siegel et al. 2018	A26	A26_LU_1	A26_LungMet1	metastasis	yes	C/T	14	no	0.79	3.68	62.55	monoclonal	0	1	NA	NA	ic1	IC10	IC10
+CURTIS_H009972_T01_01_WE01	Siegel et al. 2018	A26	A26_P	A26_Primary	primary	yes	C/T/R	_	yes	0.19	3.74	78.9	NA	0	1	0	1	ic10	IC10	IC10
+CURTIS_H009971_T04_01_WE01	Siegel et al. 2018	A23	A23_BM_3	A23_BrainMet3	metastasis	yes	C	37	no	0.56	2.97	61.75	monoclonal	0	0	NA	NA	ic9	IC10	IC10
+CURTIS_H009971_T03_01_WE01	Siegel et al. 2018	A23	A23_BM_2	A23_BrainMet2	metastasis	yes	C	37	no	0.35	3.08	78.47	monoclonal	0	0	NA	NA	ic9	IC10	IC10
+CURTIS_H009971_T02_01_WE01	Siegel et al. 2018	A23	A23_BM_1	A23_BrainMet1	metastasis	yes	C	37	no	0.48	3.31	75.77	monoclonal	0	0	NA	NA	ic9	IC10	IC10
+CURTIS_H009971_T01_01_WE01	Siegel et al. 2018	A23	A23_P	A23_Primary	primary	no	_	_	yes	0.27	3.24	87.37	NA	0	0	0	0	ic9	IC9	ER+ High
+CURTIS_H009970_T06_01_WE01	Siegel et al. 2018	A20	A20_LU_2	A20_LungMetR	metastasis	yes	C	38	no	0.51	2.59	97.36	monoclonal	0	0	NA	NA	ic9	IC10	IC10
+CURTIS_H009970_T05_01_WE01	Siegel et al. 2018	A20	A20_LU_1	A20_LungMetL	metastasis	yes	C	38	no	0.77	2.56	86.45	monoclonal	0	0	NA	NA	ic9	IC10	IC10
+CURTIS_H009970_T04_01_WE01	Siegel et al. 2018	A20	A20_LI	A20_LiverMet	metastasis	yes	C	38	no	0.54	2.67	93	monoclonal	0	0	NA	NA	ic10	IC10	IC10
+CURTIS_H009970_T03_01_WE01	Siegel et al. 2018	A20	A20_BM	A20_BrainMet	metastasis	yes	C	38	no	0.71	2.49	88.69	monoclonal	0	0	NA	NA	ic9	IC4	NA
+CURTIS_H009970_T02_01_WE01	Siegel et al. 2018	A20	A20_AD	A20_AdrenalMet	metastasis	yes	C	38	no	0.6	2.56	93.36	monoclonal	0	0	NA	NA	ic9	IC10	IC10
+CURTIS_H009970_T01_01_WE01	Siegel et al. 2018	A20	A20_P	A20_Primary	primary	no	_	_	yes	0.44	2.69	65.91	NA	0	0	0	0	ic10	IC4	IC4ER-
+CURTIS_H009969_T05_01_WE01	Siegel et al. 2018	A12	A12_LU	A12_LungMet	metastasis	yes	C/T	61	no	0.21	4.09	80.28	monoclonal	1	0	NA	NA	ic4	IC3/IC7	ER+ Typical
+CURTIS_H009969_T02_01_WE01	Siegel et al. 2018	A12	A12_AD	A12_AdrenalMet	metastasis	yes	C/T	61	no	0.63	2.71	61.39	polyclonal	1	0	NA	NA	ic7	IC3/IC7	ER+ Typical
+CURTIS_H009969_T01_01_WE01	Siegel et al. 2018	A12	A12_P	A12_Primary	primary	yes	C/T	_	no	0.43	3.03	101.43	NA	1	0	1	0	ic9	IC3/IC7	ER+ Typical
+CURTIS_H009968_T06_01_WE01	Siegel et al. 2018	A11	A11_RB	A11_RibMet	metastasis	yes	C	56	no	0.84	2.77	66.06	monoclonal	0	0	NA	NA	ic9	IC10	IC10
+CURTIS_H009968_T05_01_WE01	Siegel et al. 2018	A11	A11_LU	A11_LungMet	metastasis	yes	C	56	no	0.71	2.9	67.91	monoclonal	0	0	NA	NA	ic10	IC10	IC10
+CURTIS_H009968_T04_01_WE01	Siegel et al. 2018	A11	A11_LI	A11_LiverMet	metastasis	yes	C	56	no	0.72	2.89	61.49	monoclonal	0	0	NA	NA	ic10	IC10	IC10
+CURTIS_H009968_T03_01_WE01	Siegel et al. 2018	A11	A11_BM_2	A11_BrainMet2	metastasis	yes	C/R	56	no	0.81	2.92	63.15	monoclonal	0	0	NA	NA	ic10	IC10	IC10
+CURTIS_H009968_T02_01_WE01	Siegel et al. 2018	A11	A11_BM_1	A11_BrainMet1	metastasis	yes	C/R	56	no	0.69	2.93	66.04	monoclonal	0	0	NA	NA	ic10	IC10	IC10
+CURTIS_H009968_T01_01_WE01	Siegel et al. 2018	A11	A11_P	A11_Primary	primary	no	_	_	yes	0.66	3.53	66.21	NA	0	0	0	0	ic10	IC10	IC10
+CURTIS_H009967_T06_01_WE01	Siegel et al. 2018	A7	A7_RB	A7_RibMet	metastasis	yes	C	24	no	0.69	3.02	45.51	monoclonal	0	0	NA	NA	ic9	IC10	IC10
+CURTIS_H009967_T05_01_WE01	Siegel et al. 2018	A7	A7_LU	A7_LungMet	metastasis	yes	C	24	no	0.75	2.42	57.96	monoclonal	0	0	NA	NA	ic9	IC10	IC10
+CURTIS_H009967_T04_01_WE01	Siegel et al. 2018	A7	A7_LI	A7_LiverMet	metastasis	yes	C	24	no	0.76	3.16	68.01	monoclonal	0	0	NA	NA	ic9	IC10	IC10
+CURTIS_H009967_T03_01_WE01	Siegel et al. 2018	A7	A7_KI	A7_KidneyMet	metastasis	yes	C	24	no	0.46	2.38	50.07	monoclonal	0	0	NA	NA	ic9	IC10	IC10
+CURTIS_H009967_T02_01_WE01	Siegel et al. 2018	A7	A7_BM	A7_BrainMet	metastasis	yes	C/R	24	no	0.7	2.38	52.71	monoclonal	0	0	NA	NA	ic9	IC10	IC10
+CURTIS_H009967_T01_01_WE01	Siegel et al. 2018	A7	A7_P	A7_Primary	primary	yes	C	_	no	0.39	2.57	54.13	NA	0	0	0	0	ic9	IC10	IC10
+CURTIS_H009966_T03_01_WE01	Siegel et al. 2018	A5	A5_SK_2	A5_SkinMetR	metastasis	yes	C	26	no	0.61	3.03	57.98	monoclonal	0	0	NA	NA	ic9	IC9	ER+ High
+CURTIS_H009966_T02_01_WE01	Siegel et al. 2018	A5	A5_SK_1	A5_SkinMetL	metastasis	yes	C	26	no	0.56	3.1	65.43	monoclonal	0	0	NA	NA	ic9	IC9	ER+ High
+CURTIS_H009966_T01_01_WE01	Siegel et al. 2018	A5	A5_P	A5_Primary	primary	yes	C	_	no	0.36	3	64.7	NA	0	0	0	0	ic9	IC9	ER+ High
+CURTIS_H009965_T03_01_WE01	Siegel et al. 2018	A2	A2_LN	A2_LNM	metastasis	no	_	0	no	0.54	1.99	58.54	polyclonal	1	0	NA	NA	ic9	IC6	ER+ High
+CURTIS_H009965_T02_01_WE01	Siegel et al. 2018	A2	A2_LI	A2_LiverMet	metastasis	yes	C/T	12	no	0.81	1.86	83.21	polyclonal	1	0	NA	NA	ic9	IC6	ER+ High
+CURTIS_H009965_T01_01_WE01	Siegel et al. 2018	A2	A2_P	A2_Primary	primary	no	_	_	yes	0.58	2.59	45.2	NA	1	0	1	0	ic9	IC6	ER+ High
+CURTIS_H009964_T02_01_WE01	Ng et al. 2017	Case9	Case9_LN	Case9_lymph	metastasis	no	_	0	no	0.63	2.78	190.49	monoclonal	0	0	NA	NA	ic9	IC10	IC10
+CURTIS_H009964_T01_01_WE01	Ng et al. 2017	Case9	Case9_P	Case9_primary	primary	no	_	_	no	0.34	3.11	171.83	NA	0	0	0	0	ic10	IC10	IC10
+CURTIS_H009963_T02_01_WE01	Ng et al. 2017	Case8	Case8_SK	Case8_skin	metastasis	no	_	0	no	0.69	3.15	174.84	monoclonal	0	0	NA	NA	ic10	IC10	IC10
+CURTIS_H009963_T01_01_WE01	Ng et al. 2017	Case8	Case8_P	Case8_primary	primary	no	_	_	no	0.53	3.17	152.17	NA	0	0	0	0	ic3	IC10	IC10
+CURTIS_H009962_T02_01_WE01	Ng et al. 2017	Case7	Case7_LI	Case7_liver	metastasis	no	_	0	no	0.56	3.16	159.02	monoclonal	0	1	NA	NA	ic9	IC5	HER2+
+CURTIS_H009962_T01_01_WE01	Ng et al. 2017	Case7	Case7_P	Case7_primary	primary	no	_	_	no	0.7	3.32	142.16	NA	0	1	0	1	ic1	IC5	HER2+
+CURTIS_H009961_T02_01_WE01	Ng et al. 2017	Case6	Case6_LI	Case6_liver	metastasis	no	_	0	no	0.31	1.96	133.65	polyclonal	0	1	NA	NA	ic5	IC5	HER2+
+CURTIS_H009961_T01_01_WE01	Ng et al. 2017	Case6	Case6_P	Case6_primary	primary	no		_	no	0.41	1.9	150.5	NA	0	1	0	1	ic5	IC5	HER2+
+CURTIS_H009958_T02_01_WE01	Ng et al. 2017	Case3	Case3_LI	Case3_liver	metastasis	no	_	0	no	0.47	2.73	99.48	polyclonal	1	1	NA	NA	ic5	IC5	HER2+
+CURTIS_H009958_T01_01_WE01	Ng et al. 2017	Case3	Case3_P	Case3_primary	primary	no	_	_	no	0.49	3.06	163.39	NA	1	1	1	1	ic5	IC5	HER2+
+CURTIS_H009957_T02_01_WE01	Ng et al. 2017	Case2	Case2_BO	Case2_bone	metastasis	no	_	0	no	0.45	3.34	155.51	monoclonal	1	1	NA	NA	ic5	IC5	HER2+
+CURTIS_H009957_T01_01_WE01	Ng et al. 2017	Case2	Case2_P	Case2_primary	primary	no	_	_	no	0.5	3.35	205.09	NA	1	1	1	1	ic5	IC5	HER2+
+CURTIS_H009956_T02_01_WE01	Ng et al. 2017	Case1	Case1_LI	Case1_liver	metastasis	no	_	0	no	0.71	2.12	142.28	polyclonal	1	1	NA	NA	ic5	IC5	HER2+
+CURTIS_H009956_T01_01_WE01	Ng et al. 2017	Case1	Case1_P	Case1_P	primary	no	_	_	no	0.52	2.12	157.1	NA	1	1	1	1	ic5	IC5	HER2+
+CURTIS_H009955_T03_01_WE01	Brastianos et al. 2015	PB0418	PB0418_BM	PB0418_MT	metastasis	yes	C/T	11	yes	0.82	2.84	101.14	monoclonal	1	0	NA	NA	ic3	IC10	IC10
+CURTIS_H009955_T02_01_WE01	Brastianos et al. 2015	PB0418	PB0418_LN	PB0418_L1	metastasis	yes	C/T	11	yes	0.78	2.79	95.34	polyclonal	1	0	NA	NA	ic10	IC10	IC10
+CURTIS_H009955_T01_01_WE01	Brastianos et al. 2015	PB0418	PB0418_P	PB0418_P	primary	NA	_	_	yes	0.66	2.74	101.41	NA	1	0	1	0	ic10	IC4	ER+ Typical
+CURTIS_H009954_T02_01_WE01	Brastianos et al. 2015	PB0364	PB0364_BM	PB0364_MT	metastasis	yes	C/T/R	20	yes	0.89	1.95	120.25	monoclonal	NA	1	NA	NA	ic5	IC5	HER2+
+CURTIS_H009954_T01_01_WE01	Brastianos et al. 2015	PB0364	PB0364_P	PB0364_P	primary	NA	_	_	yes	0.39	3.06	98.15	NA	NA	1	NA	1	ic5	IC5	HER2+
+CURTIS_H009953_T02_01_WE01	Brastianos et al. 2015	PB0296	PB0296_LN	PB0296_L1	metastasis	no	_	0	yes	0.52	2.77	87.67	polyclonal	1	0	NA	NA	ic4	IC10	IC10
+CURTIS_H009953_T01_01_WE01	Brastianos et al. 2015	PB0296	PB0296_P	PB0296_P	primary	NA	_	_	yes	0.59	3.02	51.92	NA	1	0	1	0	ic9	IC3/IC7	ER+ Typical
+CURTIS_H009951_T02_01_WE01	Brastianos et al. 2015	PB0274	PB0274_BM	PB0274_MT	metastasis	yes	C/T	110	yes	0.53	2.55	124.41	monoclonal	NA	1	NA	NA	ic5	IC5	HER2+
+CURTIS_H009951_T01_01_WE01	Brastianos et al. 2015	PB0274	PB0274_P	PB0274_P	primary	NA	_	_	yes	0.63	2.14	70.62	NA	NA	1	NA	1	ic8	IC2	ER+ High
+CURTIS_H009950_T02_01_WE01	Brastianos et al. 2015	PB0222	PB0222_BM	PB0222_MT	metastasis	no	_	0	yes	0.83	2.1	159.14	monoclonal	0	0	NA	NA	ic9	IC4	NA
+CURTIS_H009950_T01_01_WE01	Brastianos et al. 2015	PB0222	PB0222_P	PB0222_P	primary	no	_	_	yes	0.72	2.39	94.1	NA	0	0	0	0	ic9	IC4	IC4ER-
+CURTIS_H009949_T03_01_WE01	Brastianos et al. 2015	PB0176	PB0176_BM_B	PB0176_MT_B	metastasis	yes	C/T	44	yes	0.79	2.68	136.03	NA	0	0	NA	NA	ic10	IC10	IC10
+CURTIS_H009949_T02_01_WE01	Brastianos et al. 2015	PB0176	PB0176_BM_A	PB0176_MT_A	metastasis	yes	C/T	44	yes	0.79	2.91	92.02	NA	0	0	NA	NA	ic10	IC10	IC10
+CURTIS_H009949_T01_01_WE01	Brastianos et al. 2015	PB0176	PB0176_P	PB0176_P	primary	NA	_	_	yes	0.34	3.08	97.83	NA	0	0	0	0	ic10	IC10	IC10
+CURTIS_H009948_T02_01_WE01	Brastianos et al. 2015	PB0175	PB0175_BM	PB0175_MT	metastasis	yes	C/T	44	yes	0.57	2.81	101.59	polyclonal	NA	1	NA	NA	ic8	IC10	IC10
+CURTIS_H009948_T01_01_WE01	Brastianos et al. 2015	PB0175	PB0175_P	PB0175_P	primary	NA	_	_	yes	0.45	3.26	89.68	NA	NA	1	NA	1	ic9	IC1	ER+ High
+CURTIS_H009947_T02_01_WE01	Brastianos et al. 2015	PB0155	PB0155_BM	PB0155_MT	metastasis	yes	C/T	30	no	0.37	2.82	113.1	monoclonal	NA	1	NA	NA	ic5	IC5	HER2+
+CURTIS_H009947_T01_01_WE01	Brastianos et al. 2015	PB0155	PB0155_P	PB0155_P	primary	NA	_	_	yes	0.37	2.77	81.33	NA	NA	1	NA	1	ic5	IC5	HER2+
+CURTIS_H009946_T02_01_WE01	Brastianos et al. 2015	PB0150	PB0150_BM	PB0150_MT	metastasis	yes	C/T/R	44	yes	0.71	3.41	105.4	monoclonal	NA	1	NA	NA	ic9	IC10	IC10
+CURTIS_H009946_T01_01_WE01	Brastianos et al. 2015	PB0150	PB0150_P	PB0150_P	primary	NA	_	_	yes	0.51	3.29	94.85	NA	NA	1	NA	1	ic4	IC4	NA
+CURTIS_H009945_T02_01_WE01	Brastianos et al. 2015	PB0149	PB0149_BM	PB0149_MT	metastasis	yes	C/T	56	no	0.78	2.18	139.52	monoclonal	1	0	NA	NA	ic6	IC6	ER+ High
+CURTIS_H009945_T01_01_WE01	Brastianos et al. 2015	PB0149	PB0149_P	PB0149_P	primary	NA	_	_	yes	0.82	2.15	85.13	NA	1	0	1	0	ic6	IC6	ER+ High
+CURTIS_H009944_T02_01_WE01	Brastianos et al. 2015	PB0148	PB0148_BM	PB0148_MT	metastasis	yes	C/T	43	no	0.49	3.07	113.41	monoclonal	NA	1	NA	NA	ic9	IC9	ER+ High
+CURTIS_H009944_T01_01_WE01	Brastianos et al. 2015	PB0148	PB0148_P	PB0148_P	primary	NA	_	_	yes	0.58	3.05	97.77	NA	NA	1	NA	1	ic9	IC10	IC10
+CURTIS_H009943_T02_01_WE01	Brastianos et al. 2015	PB0116	PB0116_BM	PB0116_MT	metastasis	yes	C/T	41	yes	0.82	3.1	105.01	monoclonal	NA	1	NA	NA	ic9	IC5	HER2+
+CURTIS_H009943_T01_01_WE01	Brastianos et al. 2015	PB0116	PB0116_P	PB0116_P	primary	NA	_	_	yes	0.63	2.13	110.89	NA	NA	1	NA	1	ic9	IC5	HER2+
+CURTIS_H009942_T02_01_WE01	Brastianos et al. 2015	PB0076	PB0076_BM	PB0076_MT	metastasis	yes	C/T	54	yes	0.81	3.16	122.55	monoclonal	NA	1	NA	NA	ic5	IC5	HER2+
+CURTIS_H009942_T01_01_WE01	Brastianos et al. 2015	PB0076	PB0076_P	PB0076_P	primary	NA	_	_	yes	0.6	3.11	68.93	NA	NA	1	NA	1	ic4	IC5	HER2+
+CURTIS_H009941_T02_01_WE01	Brastianos et al. 2015	PB0049	PB0049_BM	PB0049_MT	metastasis	yes	C/T	48	no	0.6	2.1	104.68	monoclonal	1	0	NA	NA	ic9	IC9	ER+ High
+CURTIS_H009941_T01_01_WE01	Brastianos et al. 2015	PB0049	PB0049_P	PB0049_P	primary	NA	_	_	yes	0.52	2.24	50.51	NA	1	0	1	0	ic1	IC1	ER+ High
+CURTIS_H009940_T02_01_WE01	Brastianos et al. 2015	PB0043	PB0043_BM	PB0043_MT	metastasis	yes	C/T	72	no	0.84	3.19	132.53	monoclonal	NA	1	NA	NA	ic5	IC5	HER2+
+CURTIS_H009940_T01_01_WE01	Brastianos et al. 2015	PB0043	PB0043_P	PB0043_P	primary	NA	_	_	yes	0.8	3.1	92.21	NA	NA	1	NA	1	ic5	IC5	HER2+

@@ -1,0 +1,51 @@
+Stage	Subtype	Alteration	Alterations_per_Sample
+Primary	ER+ High	Amplification	49.3722627737226
+Primary	ER+ High	Damaging structural variant	120.284671532847
+Primary	ER+ High	Homozygous deletion	11.6934306569343
+Primary	ER+ High	Non damaging structural variant	118.620437956204
+Primary	ER+ High	Protein coding SNV	77.6350364963504
+Primary	ER+ Typical	Amplification	15.9645161290323
+Primary	ER+ Typical	Damaging structural variant	45.8096774193548
+Primary	ER+ Typical	Homozygous deletion	10.3870967741935
+Primary	ER+ Typical	Non damaging structural variant	46.2870967741936
+Primary	ER+ Typical	Protein coding SNV	64.7548387096774
+Primary	HER2+	Amplification	57.2857142857143
+Primary	HER2+	Damaging structural variant	148.085714285714
+Primary	HER2+	Homozygous deletion	11.7857142857143
+Primary	HER2+	Non damaging structural variant	158.728571428571
+Primary	HER2+	Protein coding SNV	112.028571428571
+Primary	IC10	Amplification	43.8951048951049
+Primary	IC10	Damaging structural variant	190.531468531469
+Primary	IC10	Homozygous deletion	21.2027972027972
+Primary	IC10	Non damaging structural variant	169.832167832168
+Primary	IC10	Protein coding SNV	123.097902097902
+Primary	IC4ER-	Amplification	27.05
+Primary	IC4ER-	Damaging structural variant	115.525
+Primary	IC4ER-	Homozygous deletion	34.45
+Primary	IC4ER-	Non damaging structural variant	103.8
+Primary	IC4ER-	Protein coding SNV	80.1
+Metastatic	ER+ High	Amplification	76.6037735849057
+Metastatic	ER+ High	Damaging structural variant	170.948113207547
+Metastatic	ER+ High	Homozygous deletion	18.6603773584906
+Metastatic	ER+ High	Non damaging structural variant	165.485849056604
+Metastatic	ER+ High	Protein coding SNV	121.995283018868
+Metastatic	ER+ Typical	Amplification	50.5931232091691
+Metastatic	ER+ Typical	Damaging structural variant	113.0888252149
+Metastatic	ER+ Typical	Homozygous deletion	21.7249283667622
+Metastatic	ER+ Typical	Non damaging structural variant	110.146131805158
+Metastatic	ER+ Typical	Protein coding SNV	174.134670487106
+Metastatic	HER2+	Amplification	116.508771929825
+Metastatic	HER2+	Damaging structural variant	233.421052631579
+Metastatic	HER2+	Homozygous deletion	12.1929824561404
+Metastatic	HER2+	Non damaging structural variant	234.736842105263
+Metastatic	HER2+	Protein coding SNV	167.526315789474
+Metastatic	IC10	Amplification	94.5526315789474
+Metastatic	IC10	Damaging structural variant	246.328947368421
+Metastatic	IC10	Homozygous deletion	20.4736842105263
+Metastatic	IC10	Non damaging structural variant	216.223684210526
+Metastatic	IC10	Protein coding SNV	266.381578947368
+Metastatic	IC4ER-	Amplification	66.0526315789474
+Metastatic	IC4ER-	Damaging structural variant	247.631578947368
+Metastatic	IC4ER-	Homozygous deletion	24.8421052631579
+Metastatic	IC4ER-	Non damaging structural variant	229.368421052632
+Metastatic	IC4ER-	Protein coding SNV	232.105263157895

@@ -1,0 +1,7 @@
+variable	coefficient	pvalue	significance	group
+TNBC -enriched	0.0316389160949684	0.0222764690222387	*	Archetype
+ER+ Typical -enriched	-0.0585662445802026	0.00171976360788815	**	Archetype
+ER+ High/HER2+ -enriched	0.0269273284852342	0.0224638188941688	*	Archetype
+Histology ILC	1.62543835738994	0.0180329946132331	*	Other features
+HRD LOH score	1.59263926919713	3.552502139096e-07	***	Other features
+Proliferation	0.374601500101915	3.81952986802173e-09	***	Other features

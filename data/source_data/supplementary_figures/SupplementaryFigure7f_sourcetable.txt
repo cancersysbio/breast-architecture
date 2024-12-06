@@ -1,0 +1,3587 @@
+Sample,TME_subtype,biopsySite,Cohort,group,Stage
+TCGA-3C-AAAU,D,Primary,TCGA,ER+ High,Primary
+TCGA-3C-AALI,IE,Primary,TCGA,ER+ High,Primary
+TCGA-3C-AALJ,IE,Primary,TCGA,ER+ High,Primary
+TCGA-3C-AALK,F,Primary,TCGA,ER+ High,Primary
+TCGA-4H-AAAK,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-5L-AAT0,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-5L-AAT1,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-5T-A9QA,D,Primary,TCGA,ER+ High,Primary
+TCGA-A1-A0SD,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A1-A0SE,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-A1-A0SF,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A1-A0SG,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A1-A0SH,F,Primary,TCGA,ER+ High,Primary
+TCGA-A1-A0SI,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-A1-A0SJ,D,Primary,TCGA,ER+ High,Primary
+TCGA-A1-A0SK,D,Primary,TCGA,ER+ High,Primary
+TCGA-A1-A0SM,F,Primary,TCGA,ER+ High,Primary
+TCGA-A1-A0SN,D,Primary,TCGA,HER2+,Primary
+TCGA-A1-A0SO,D,Primary,TCGA,IC10,Primary
+TCGA-A1-A0SP,IE,Primary,TCGA,IC10,Primary
+TCGA-A1-A0SQ,D,Primary,TCGA,ER+ High,Primary
+TCGA-A2-A04N,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A04P,IE,Primary,TCGA,IC10,Primary
+TCGA-A2-A04Q,IE,Primary,TCGA,IC10,Primary
+TCGA-A2-A04R,D,Primary,TCGA,ER+ High,Primary
+TCGA-A2-A04T,IE,Primary,TCGA,IC10,Primary
+TCGA-A2-A04U,D,Primary,TCGA,IC10,Primary
+TCGA-A2-A04V,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A04W,D,Primary,TCGA,HER2+,Primary
+TCGA-A2-A04X,IE,Primary,TCGA,HER2+,Primary
+TCGA-A2-A04Y,IE,Primary,TCGA,ER+ High,Primary
+TCGA-A2-A0CK,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A0CL,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A0CM,IE,Primary,TCGA,IC10,Primary
+TCGA-A2-A0CO,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A0CP,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A0CQ,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A0CR,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A0CS,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A0CT,D,Primary,TCGA,ER+ High,Primary
+TCGA-A2-A0CU,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A0CV,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A0CW,D,Primary,TCGA,ER+ High,Primary
+TCGA-A2-A0CX,D,Primary,TCGA,HER2+,Primary
+TCGA-A2-A0D0,IE,Primary,TCGA,IC10,Primary
+TCGA-A2-A0D1,D,Primary,TCGA,ER+ High,Primary
+TCGA-A2-A0D2,IE,Primary,TCGA,IC10,Primary
+TCGA-A2-A0D3,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A0D4,D,Primary,TCGA,ER+ High,Primary
+TCGA-A2-A0EN,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A0EO,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A0EP,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A0EQ,IE,Primary,TCGA,IC4ER-,Primary
+TCGA-A2-A0ER,D,Primary,TCGA,ER+ High,Primary
+TCGA-A2-A0ES,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A0ET,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A0EU,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A0EV,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A0EW,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A0EX,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A0EY,D,Primary,TCGA,HER2+,Primary
+TCGA-A2-A0SU,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A0SV,F,Primary,TCGA,ER+ High,Primary
+TCGA-A2-A0SW,IE,Primary,TCGA,ER+ High,Primary
+TCGA-A2-A0SX,IE,Primary,TCGA,IC10,Primary
+TCGA-A2-A0SY,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A0T0,F,Primary,TCGA,IC10,Primary
+TCGA-A2-A0T1,IE,Primary,TCGA,HER2+,Primary
+TCGA-A2-A0T2,IE/F,Primary,TCGA,IC10,Primary
+TCGA-A2-A0T3,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A0T4,F,Primary,TCGA,ER+ High,Primary
+TCGA-A2-A0T5,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A0T6,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A0T7,F,Primary,TCGA,ER+ High,Primary
+TCGA-A2-A0YC,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A0YD,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A0YE,D,Primary,TCGA,IC4ER-,Primary
+TCGA-A2-A0YF,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A0YG,D,Primary,TCGA,HER2+,Primary
+TCGA-A2-A0YH,IE,Primary,TCGA,ER+ High,Primary
+TCGA-A2-A0YI,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A0YJ,D,Primary,TCGA,HER2+,Primary
+TCGA-A2-A0YK,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A0YL,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A0YM,F,Primary,TCGA,IC10,Primary
+TCGA-A2-A0YT,D,Primary,TCGA,ER+ High,Primary
+TCGA-A2-A1FV,D,Primary,TCGA,ER+ High,Primary
+TCGA-A2-A1FW,D,Primary,TCGA,ER+ High,Primary
+TCGA-A2-A1FX,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A1FZ,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A1G0,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A1G1,IE,Primary,TCGA,HER2+,Primary
+TCGA-A2-A1G4,D,Primary,TCGA,ER+ High,Primary
+TCGA-A2-A1G6,IE/F,Primary,TCGA,IC4ER-,Primary
+TCGA-A2-A259,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A25A,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A25B,D,Primary,TCGA,ER+ High,Primary
+TCGA-A2-A25C,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A25D,IE,Primary,TCGA,ER+ High,Primary
+TCGA-A2-A25E,D,Primary,TCGA,ER+ High,Primary
+TCGA-A2-A25F,IE,Primary,TCGA,IC4ER-,Primary
+TCGA-A2-A3KC,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A3KD,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A3XS,IE,Primary,TCGA,IC10,Primary
+TCGA-A2-A3XT,IE,Primary,TCGA,IC10,Primary
+TCGA-A2-A3XU,D,Primary,TCGA,ER+ High,Primary
+TCGA-A2-A3XV,D,Primary,TCGA,ER+ High,Primary
+TCGA-A2-A3XW,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A3XX,IE,Primary,TCGA,ER+ High,Primary
+TCGA-A2-A3XY,IE/F,Primary,TCGA,IC10,Primary
+TCGA-A2-A3XZ,IE,Primary,TCGA,HER2+,Primary
+TCGA-A2-A3Y0,IE,Primary,TCGA,IC10,Primary
+TCGA-A2-A4RW,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A4RX,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A4RY,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A4S0,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A4S1,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A4S2,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A4S3,IE,Primary,TCGA,ER+ High,Primary
+TCGA-A7-A0CD,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-A7-A0CE,D,Primary,TCGA,IC10,Primary
+TCGA-A7-A0CG,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A7-A0CJ,D,Primary,TCGA,ER+ High,Primary
+TCGA-A7-A0D9,D,Primary,TCGA,ER+ High,Primary
+TCGA-A7-A0DA,F,Primary,TCGA,IC10,Primary
+TCGA-A7-A13F,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-A7-A13H,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A7-A26G,IE/F,Primary,TCGA,IC10,Primary
+TCGA-A7-A26H,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A7-A2KD,IE,Primary,TCGA,HER2+,Primary
+TCGA-A7-A3IY,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A7-A3IZ,D,Primary,TCGA,ER+ High,Primary
+TCGA-A7-A3J0,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-A7-A3J1,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A7-A3RF,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-A7-A425,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A7-A426,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A7-A4SA,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-A7-A4SB,D,Primary,TCGA,ER+ High,Primary
+TCGA-A7-A4SC,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A7-A4SD,IE,Primary,TCGA,IC10,Primary
+TCGA-A7-A4SE,D,Primary,TCGA,IC10,Primary
+TCGA-A7-A4SF,D,Primary,TCGA,HER2+,Primary
+TCGA-A7-A56D,IE,Primary,TCGA,HER2+,Primary
+TCGA-A7-A5ZW,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A7-A5ZX,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A7-A6VV,F,Primary,TCGA,IC10,Primary
+TCGA-A7-A6VW,F,Primary,TCGA,IC10,Primary
+TCGA-A7-A6VX,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A7-A6VY,IE,Primary,TCGA,IC10,Primary
+TCGA-A8-A06O,D,Primary,TCGA,ER+ High,Primary
+TCGA-A8-A06P,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A8-A06Q,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-A8-A06R,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-A8-A06T,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-A8-A06U,IE,Primary,TCGA,ER+ High,Primary
+TCGA-A8-A06X,IE,Primary,TCGA,ER+ High,Primary
+TCGA-A8-A06Y,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-A8-A06Z,D,Primary,TCGA,ER+ High,Primary
+TCGA-A8-A075,IE,Primary,TCGA,ER+ High,Primary
+TCGA-A8-A076,D,Primary,TCGA,HER2+,Primary
+TCGA-A8-A079,D,Primary,TCGA,ER+ High,Primary
+TCGA-A8-A07B,D,Primary,TCGA,ER+ High,Primary
+TCGA-A8-A07F,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A8-A07G,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A8-A07I,F,Primary,TCGA,HER2+,Primary
+TCGA-A8-A07J,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A8-A07L,D,Primary,TCGA,ER+ High,Primary
+TCGA-A8-A07O,D,Primary,TCGA,IC10,Primary
+TCGA-A8-A07P,D,Primary,TCGA,ER+ High,Primary
+TCGA-A8-A07U,IE,Primary,TCGA,IC10,Primary
+TCGA-A8-A07W,D,Primary,TCGA,ER+ High,Primary
+TCGA-A8-A07Z,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-A8-A081,IE,Primary,TCGA,ER+ High,Primary
+TCGA-A8-A082,D,Primary,TCGA,ER+ High,Primary
+TCGA-A8-A083,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-A8-A085,D,Primary,TCGA,ER+ High,Primary
+TCGA-A8-A08B,IE,Primary,TCGA,HER2+,Primary
+TCGA-A8-A08C,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-A8-A08F,IE,Primary,TCGA,ER+ High,Primary
+TCGA-A8-A08G,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-A8-A08H,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A8-A08J,D,Primary,TCGA,ER+ High,Primary
+TCGA-A8-A08L,IE,Primary,TCGA,ER+ High,Primary
+TCGA-A8-A08O,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-A8-A08P,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-A8-A08R,IE,Primary,TCGA,IC10,Primary
+TCGA-A8-A08S,D,Primary,TCGA,HER2+,Primary
+TCGA-A8-A08T,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A8-A08X,IE,Primary,TCGA,HER2+,Primary
+TCGA-A8-A08Z,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A8-A090,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A8-A091,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-A8-A092,D,Primary,TCGA,ER+ High,Primary
+TCGA-A8-A093,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-A8-A094,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-A8-A095,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-A8-A096,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A8-A097,F,Primary,TCGA,HER2+,Primary
+TCGA-A8-A099,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A8-A09A,IE/F,Primary,TCGA,ER+ High,Primary
+TCGA-A8-A09B,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-A8-A09C,D,Primary,TCGA,ER+ High,Primary
+TCGA-A8-A09D,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A8-A09E,D,Primary,TCGA,ER+ High,Primary
+TCGA-A8-A09G,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-A8-A09I,IE,Primary,TCGA,HER2+,Primary
+TCGA-A8-A09K,IE,Primary,TCGA,ER+ High,Primary
+TCGA-A8-A09M,IE,Primary,TCGA,ER+ High,Primary
+TCGA-A8-A09N,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-A8-A09Q,IE,Primary,TCGA,ER+ High,Primary
+TCGA-A8-A09T,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A8-A09V,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-A8-A09W,D,Primary,TCGA,ER+ High,Primary
+TCGA-A8-A09X,IE,Primary,TCGA,IC4ER-,Primary
+TCGA-A8-A09Z,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-A8-A0A1,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-A8-A0A2,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-A8-A0A4,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-A8-A0A6,IE,Primary,TCGA,ER+ High,Primary
+TCGA-A8-A0A7,IE,Primary,TCGA,ER+ High,Primary
+TCGA-A8-A0A9,D,Primary,TCGA,ER+ High,Primary
+TCGA-A8-A0AB,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-A8-A0AD,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AC-A23C,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-AC-A23E,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AC-A23G,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AC-A23H,D,Primary,TCGA,ER+ High,Primary
+TCGA-AC-A2B8,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AC-A2BK,D,Primary,TCGA,IC10,Primary
+TCGA-AC-A2BM,D,Primary,TCGA,ER+ High,Primary
+TCGA-AC-A2FB,IE/F,Primary,TCGA,HER2+,Primary
+TCGA-AC-A2FE,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AC-A2FF,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AC-A2FG,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AC-A2FK,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AC-A2FM,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-AC-A2FO,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AC-A2QI,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AC-A2QJ,F,Primary,TCGA,IC4ER-,Primary
+TCGA-AC-A3BB,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AC-A3EH,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AC-A3HN,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AC-A3QP,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AC-A3TM,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-AC-A3TN,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-AC-A3W5,IE/F,Primary,TCGA,HER2+,Primary
+TCGA-AC-A3W6,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AC-A3W7,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AC-A3YI,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AC-A3YJ,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AC-A4ZE,F,Primary,TCGA,ER+ High,Primary
+TCGA-AC-A5EH,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AC-A5XS,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-AC-A5XU,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-AC-A62V,D,Primary,TCGA,ER+ High,Primary
+TCGA-AC-A62X,D,Primary,TCGA,IC10,Primary
+TCGA-AC-A62Y,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AC-A6IV,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AC-A6IW,IE,Primary,TCGA,IC10,Primary
+TCGA-AC-A6NO,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-AC-A7VB,D,Primary,TCGA,ER+ High,Primary
+TCGA-AC-A7VC,D,Primary,TCGA,IC4ER-,Primary
+TCGA-AC-A8OP,F,Primary,TCGA,ER+ High,Primary
+TCGA-AC-A8OQ,IE,Primary,TCGA,IC10,Primary
+TCGA-AC-A8OR,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AC-A8OS,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AN-A03X,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AN-A03Y,D,Primary,TCGA,ER+ High,Primary
+TCGA-AN-A041,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-AN-A046,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-AN-A049,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-AN-A04A,D,Primary,TCGA,ER+ High,Primary
+TCGA-AN-A04C,D,Primary,TCGA,HER2+,Primary
+TCGA-AN-A04D,D,Primary,TCGA,IC10,Primary
+TCGA-AN-A0AJ,IE,Primary,TCGA,ER+ High,Primary
+TCGA-AN-A0AK,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-AN-A0AL,D,Primary,TCGA,IC4ER-,Primary
+TCGA-AN-A0AM,IE,Primary,TCGA,ER+ High,Primary
+TCGA-AN-A0AR,D,Primary,TCGA,IC10,Primary
+TCGA-AN-A0AS,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AN-A0AT,IE,Primary,TCGA,IC10,Primary
+TCGA-AN-A0FD,D,Primary,TCGA,ER+ High,Primary
+TCGA-AN-A0FF,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-AN-A0FJ,D,Primary,TCGA,IC10,Primary
+TCGA-AN-A0FK,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-AN-A0FL,D,Primary,TCGA,ER+ High,Primary
+TCGA-AN-A0FN,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AN-A0FS,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AN-A0FT,F,Primary,TCGA,HER2+,Primary
+TCGA-AN-A0FV,D,Primary,TCGA,HER2+,Primary
+TCGA-AN-A0FW,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-AN-A0FX,D,Primary,TCGA,IC10,Primary
+TCGA-AN-A0FY,D,Primary,TCGA,IC10,Primary
+TCGA-AN-A0FZ,D,Primary,TCGA,ER+ High,Primary
+TCGA-AN-A0G0,D,Primary,TCGA,ER+ High,Primary
+TCGA-AN-A0XN,F,Primary,TCGA,IC4ER-,Primary
+TCGA-AN-A0XO,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-AN-A0XP,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-AN-A0XR,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-AN-A0XS,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AN-A0XT,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-AN-A0XU,IE,Primary,TCGA,IC10,Primary
+TCGA-AN-A0XV,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-AN-A0XW,IE,Primary,TCGA,ER+ High,Primary
+TCGA-AO-A03L,D,Primary,TCGA,ER+ High,Primary
+TCGA-AO-A03O,IE,Primary,TCGA,ER+ High,Primary
+TCGA-AO-A03P,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-AO-A03R,IE,Primary,TCGA,ER+ High,Primary
+TCGA-AO-A03T,IE,Primary,TCGA,ER+ High,Primary
+TCGA-AO-A03V,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-AO-A0J2,IE,Primary,TCGA,IC10,Primary
+TCGA-AO-A0J3,D,Primary,TCGA,ER+ High,Primary
+TCGA-AO-A0J4,IE,Primary,TCGA,IC10,Primary
+TCGA-AO-A0J5,F,Primary,TCGA,ER+ High,Primary
+TCGA-AO-A0J6,IE,Primary,TCGA,IC10,Primary
+TCGA-AO-A0J7,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-AO-A0J8,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AO-A0J9,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AO-A0JA,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-AO-A0JB,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AO-A0JC,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-AO-A0JD,IE,Primary,TCGA,IC10,Primary
+TCGA-AO-A0JE,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-AO-A0JF,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AO-A0JG,IE/F,Primary,TCGA,ER+ High,Primary
+TCGA-AO-A0JI,D,Primary,TCGA,ER+ High,Primary
+TCGA-AO-A0JJ,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AO-A0JM,D,Primary,TCGA,HER2+,Primary
+TCGA-AO-A124,IE,Primary,TCGA,IC10,Primary
+TCGA-AO-A128,IE,Primary,TCGA,IC10,Primary
+TCGA-AO-A12A,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AO-A12D,IE,Primary,TCGA,HER2+,Primary
+TCGA-AO-A12F,D,Primary,TCGA,IC10,Primary
+TCGA-AO-A12H,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AO-A1KO,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AO-A1KP,D,Primary,TCGA,ER+ High,Primary
+TCGA-AO-A1KR,IE,Primary,TCGA,IC10,Primary
+TCGA-AO-A1KS,D,Primary,TCGA,ER+ High,Primary
+TCGA-AO-A1KT,F,Primary,TCGA,ER+ High,Primary
+TCGA-AQ-A04H,D,Primary,TCGA,ER+ High,Primary
+TCGA-AQ-A04J,IE,Primary,TCGA,IC10,Primary
+TCGA-AQ-A0Y5,F,Primary,TCGA,HER2+,Primary
+TCGA-AQ-A1H2,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-AQ-A1H3,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AQ-A54N,IE,Primary,TCGA,IC10,Primary
+TCGA-AQ-A54O,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-AQ-A7U7,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AR-A0TP,D,Primary,TCGA,IC10,Primary
+TCGA-AR-A0TQ,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-AR-A0TR,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-AR-A0TS,IE,Primary,TCGA,IC10,Primary
+TCGA-AR-A0TT,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-AR-A0TU,IE,Primary,TCGA,IC10,Primary
+TCGA-AR-A0TV,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-AR-A0TW,IE,Primary,TCGA,ER+ High,Primary
+TCGA-AR-A0TX,IE,Primary,TCGA,HER2+,Primary
+TCGA-AR-A0TY,D,Primary,TCGA,ER+ High,Primary
+TCGA-AR-A0TZ,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-AR-A0U0,IE,Primary,TCGA,IC10,Primary
+TCGA-AR-A0U2,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-AR-A0U3,D,Primary,TCGA,ER+ High,Primary
+TCGA-AR-A1AH,D,Primary,TCGA,IC10,Primary
+TCGA-AR-A1AI,IE,Primary,TCGA,IC10,Primary
+TCGA-AR-A1AJ,IE,Primary,TCGA,IC10,Primary
+TCGA-AR-A1AK,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AR-A1AL,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AR-A1AM,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AR-A1AN,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AR-A1AO,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AR-A1AP,F,Primary,TCGA,ER+ High,Primary
+TCGA-AR-A1AQ,IE,Primary,TCGA,IC10,Primary
+TCGA-AR-A1AR,IE,Primary,TCGA,IC10,Primary
+TCGA-AR-A1AS,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AR-A1AT,IE,Primary,TCGA,HER2+,Primary
+TCGA-AR-A1AU,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AR-A1AV,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-AR-A1AW,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-AR-A1AX,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-AR-A1AY,D,Primary,TCGA,IC10,Primary
+TCGA-AR-A24H,IE,Primary,TCGA,ER+ High,Primary
+TCGA-AR-A24K,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-AR-A24L,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-AR-A24M,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AR-A24N,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-AR-A24O,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AR-A24P,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-AR-A24Q,D,Primary,TCGA,IC10,Primary
+TCGA-AR-A24R,IE,Primary,TCGA,ER+ High,Primary
+TCGA-AR-A24S,F,Primary,TCGA,ER+ High,Primary
+TCGA-AR-A24T,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AR-A24U,IE/F,Primary,TCGA,HER2+,Primary
+TCGA-AR-A24V,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AR-A24W,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AR-A24X,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AR-A24Z,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-AR-A250,D,Primary,TCGA,ER+ High,Primary
+TCGA-AR-A251,F,Primary,TCGA,IC10,Primary
+TCGA-AR-A252,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-AR-A254,IE,Primary,TCGA,HER2+,Primary
+TCGA-AR-A255,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AR-A256,D,Primary,TCGA,IC10,Primary
+TCGA-AR-A2LE,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-AR-A2LH,IE/F,Primary,TCGA,IC4ER-,Primary
+TCGA-AR-A2LJ,IE/F,Primary,TCGA,ER+ High,Primary
+TCGA-AR-A2LK,D,Primary,TCGA,ER+ High,Primary
+TCGA-AR-A2LL,D,Primary,TCGA,ER+ High,Primary
+TCGA-AR-A2LM,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AR-A2LN,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AR-A2LO,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-AR-A2LQ,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AR-A2LR,D,Primary,TCGA,IC10,Primary
+TCGA-AR-A5QM,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AR-A5QN,D,Primary,TCGA,ER+ High,Primary
+TCGA-AR-A5QP,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-AR-A5QQ,IE,Primary,TCGA,IC4ER-,Primary
+TCGA-B6-A0I1,D,Primary,TCGA,ER+ High,Primary
+TCGA-B6-A0I2,IE,Primary,TCGA,IC10,Primary
+TCGA-B6-A0I5,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-B6-A0I8,D,Primary,TCGA,ER+ High,Primary
+TCGA-B6-A0I9,IE,Primary,TCGA,HER2+,Primary
+TCGA-B6-A0IA,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-B6-A0IB,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-B6-A0IC,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-B6-A0IE,D,Primary,TCGA,ER+ High,Primary
+TCGA-B6-A0IH,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-B6-A0IJ,IE,Primary,TCGA,IC10,Primary
+TCGA-B6-A0IK,D,Primary,TCGA,IC4ER-,Primary
+TCGA-B6-A0IM,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-B6-A0IN,IE/F,Primary,TCGA,ER+ High,Primary
+TCGA-B6-A0RE,D,Primary,TCGA,IC10,Primary
+TCGA-B6-A0RG,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-B6-A0RH,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-B6-A0RI,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-B6-A0RL,D,Primary,TCGA,ER+ High,Primary
+TCGA-B6-A0RM,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-B6-A0RN,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-B6-A0RO,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-B6-A0RP,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-B6-A0RQ,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-B6-A0RS,IE/F,Primary,TCGA,IC10,Primary
+TCGA-B6-A0RT,IE,Primary,TCGA,IC10,Primary
+TCGA-B6-A0RU,D,Primary,TCGA,IC10,Primary
+TCGA-B6-A0RV,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-B6-A0WS,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-B6-A0WT,D,Primary,TCGA,ER+ High,Primary
+TCGA-B6-A0WV,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-B6-A0WW,D,Primary,TCGA,ER+ High,Primary
+TCGA-B6-A0WX,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-B6-A0WY,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-B6-A0WZ,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-B6-A0X0,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-B6-A0X1,IE,Primary,TCGA,IC10,Primary
+TCGA-B6-A0X4,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-B6-A0X5,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-B6-A1KC,D,Primary,TCGA,ER+ High,Primary
+TCGA-B6-A1KF,D,Primary,TCGA,HER2+,Primary
+TCGA-B6-A1KI,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-B6-A1KN,D,Primary,TCGA,HER2+,Primary
+TCGA-B6-A2IU,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-B6-A3ZX,IE,Primary,TCGA,IC4ER-,Primary
+TCGA-B6-A400,F,Primary,TCGA,IC10,Primary
+TCGA-B6-A401,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-B6-A402,D,Primary,TCGA,ER+ High,Primary
+TCGA-B6-A408,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-B6-A409,IE,Primary,TCGA,IC10,Primary
+TCGA-B6-A40B,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-B6-A40C,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0AU,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0AV,F,Primary,TCGA,IC10,Primary
+TCGA-BH-A0AW,IE,Primary,TCGA,HER2+,Primary
+TCGA-BH-A0AZ,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0B0,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0B1,D,Primary,TCGA,ER+ High,Primary
+TCGA-BH-A0B3,IE,Primary,TCGA,IC10,Primary
+TCGA-BH-A0B4,D,Primary,TCGA,ER+ High,Primary
+TCGA-BH-A0B5,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0B6,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0B7,IE/F,Primary,TCGA,HER2+,Primary
+TCGA-BH-A0B8,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0B9,IE,Primary,TCGA,IC4ER-,Primary
+TCGA-BH-A0BA,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0BC,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0BD,D,Primary,TCGA,ER+ High,Primary
+TCGA-BH-A0BF,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0BG,IE,Primary,TCGA,IC10,Primary
+TCGA-BH-A0BJ,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0BL,IE/F,Primary,TCGA,IC10,Primary
+TCGA-BH-A0BM,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0BO,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0BP,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0BQ,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0BR,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0BS,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0BT,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0BV,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0BW,IE,Primary,TCGA,IC10,Primary
+TCGA-BH-A0BZ,IE,Primary,TCGA,ER+ High,Primary
+TCGA-BH-A0C0,IE,Primary,TCGA,ER+ High,Primary
+TCGA-BH-A0C1,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0C3,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0C7,D,Primary,TCGA,ER+ High,Primary
+TCGA-BH-A0DD,D,Primary,TCGA,HER2+,Primary
+TCGA-BH-A0DE,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0DG,IE/F,Primary,TCGA,ER+ High,Primary
+TCGA-BH-A0DH,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0DI,F,Primary,TCGA,ER+ High,Primary
+TCGA-BH-A0DK,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0DL,IE,Primary,TCGA,IC10,Primary
+TCGA-BH-A0DO,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0DP,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0DQ,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0DS,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0DT,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0DV,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0DX,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0DZ,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0E0,D,Primary,TCGA,IC10,Primary
+TCGA-BH-A0E1,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0E2,D,Primary,TCGA,ER+ High,Primary
+TCGA-BH-A0E7,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0E9,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0EA,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0EB,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0EE,IE,Primary,TCGA,HER2+,Primary
+TCGA-BH-A0EI,D,Primary,TCGA,ER+ High,Primary
+TCGA-BH-A0GY,F,Primary,TCGA,ER+ High,Primary
+TCGA-BH-A0GZ,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0H0,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0H3,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0H5,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0H6,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0H7,D,Primary,TCGA,ER+ High,Primary
+TCGA-BH-A0H9,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0HA,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0HB,IE,Primary,TCGA,ER+ High,Primary
+TCGA-BH-A0HF,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0HI,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0HK,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0HL,D,Primary,TCGA,ER+ High,Primary
+TCGA-BH-A0HN,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0HO,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0HP,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0HQ,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0HU,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0HW,D,Primary,TCGA,ER+ High,Primary
+TCGA-BH-A0HX,D,Primary,TCGA,ER+ High,Primary
+TCGA-BH-A0HY,D,Primary,TCGA,HER2+,Primary
+TCGA-BH-A0RX,IE,Primary,TCGA,IC10,Primary
+TCGA-BH-A0W3,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0W4,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0W5,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0W7,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A18F,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A18G,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A18H,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A18I,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A18J,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A18K,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A18L,D,Primary,TCGA,ER+ High,Primary
+TCGA-BH-A18M,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A18N,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A18P,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A18Q,IE,Primary,TCGA,IC10,Primary
+TCGA-BH-A18R,D,Primary,TCGA,ER+ High,Primary
+TCGA-BH-A18S,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A18T,D,Primary,TCGA,IC10,Primary
+TCGA-BH-A18U,D,Primary,TCGA,HER2+,Primary
+TCGA-BH-A1EN,D,Primary,TCGA,ER+ High,Primary
+TCGA-BH-A1EO,F,Primary,TCGA,ER+ High,Primary
+TCGA-BH-A1ET,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A1EU,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A1EV,D,Primary,TCGA,HER2+,Primary
+TCGA-BH-A1EW,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A1EX,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A1EY,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A1F0,IE,Primary,TCGA,IC10,Primary
+TCGA-BH-A1F2,F,Primary,TCGA,HER2+,Primary
+TCGA-BH-A1F5,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A1F6,IE,Primary,TCGA,IC10,Primary
+TCGA-BH-A1F8,D,Primary,TCGA,ER+ High,Primary
+TCGA-BH-A1FC,IE,Primary,TCGA,IC10,Primary
+TCGA-BH-A1FD,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A1FG,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A1FH,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A1FJ,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A1FL,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A1FM,D,Primary,TCGA,ER+ High,Primary
+TCGA-BH-A1FN,F,Primary,TCGA,IC10,Primary
+TCGA-BH-A1FR,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A1FU,D,Primary,TCGA,HER2+,Primary
+TCGA-BH-A201,F,Primary,TCGA,ER+ High,Primary
+TCGA-BH-A202,IE,Primary,TCGA,HER2+,Primary
+TCGA-BH-A203,IE,Primary,TCGA,IC10,Primary
+TCGA-BH-A204,D,Primary,TCGA,ER+ High,Primary
+TCGA-BH-A208,F,Primary,TCGA,IC4ER-,Primary
+TCGA-BH-A209,IE,Primary,TCGA,IC10,Primary
+TCGA-BH-A28O,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A28Q,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A2L8,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A42T,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A42U,IE/F,Primary,TCGA,IC4ER-,Primary
+TCGA-BH-A42V,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A5IZ,F,Primary,TCGA,IC10,Primary
+TCGA-BH-A5J0,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A6R8,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A6R9,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A8FY,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A8FZ,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A8G0,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-AB28,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-C8-A12K,IE,Primary,TCGA,IC10,Primary
+TCGA-C8-A12L,D,Primary,TCGA,IC10,Primary
+TCGA-C8-A12M,D,Primary,TCGA,ER+ High,Primary
+TCGA-C8-A12N,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-C8-A12O,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-C8-A12P,D,Primary,TCGA,ER+ High,Primary
+TCGA-C8-A12Q,D,Primary,TCGA,HER2+,Primary
+TCGA-C8-A12T,D,Primary,TCGA,HER2+,Primary
+TCGA-C8-A12U,IE,Primary,TCGA,ER+ High,Primary
+TCGA-C8-A12V,IE,Primary,TCGA,IC4ER-,Primary
+TCGA-C8-A12W,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-C8-A12X,D,Primary,TCGA,ER+ High,Primary
+TCGA-C8-A12Y,D,Primary,TCGA,ER+ High,Primary
+TCGA-C8-A12Z,D,Primary,TCGA,HER2+,Primary
+TCGA-C8-A130,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-C8-A131,F,Primary,TCGA,ER+ High,Primary
+TCGA-C8-A132,IE,Primary,TCGA,HER2+,Primary
+TCGA-C8-A133,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-C8-A134,IE,Primary,TCGA,IC10,Primary
+TCGA-C8-A135,D,Primary,TCGA,ER+ High,Primary
+TCGA-C8-A137,D,Primary,TCGA,HER2+,Primary
+TCGA-C8-A138,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-C8-A1HE,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-C8-A1HG,IE,Primary,TCGA,ER+ High,Primary
+TCGA-C8-A1HI,IE,Primary,TCGA,ER+ High,Primary
+TCGA-C8-A1HJ,D,Primary,TCGA,IC10,Primary
+TCGA-C8-A1HK,D,Primary,TCGA,HER2+,Primary
+TCGA-C8-A1HL,D,Primary,TCGA,HER2+,Primary
+TCGA-C8-A1HM,IE,Primary,TCGA,ER+ High,Primary
+TCGA-C8-A1HN,D,Primary,TCGA,ER+ High,Primary
+TCGA-C8-A1HO,D,Primary,TCGA,ER+ High,Primary
+TCGA-C8-A26V,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-C8-A26W,IE,Primary,TCGA,HER2+,Primary
+TCGA-C8-A26X,IE,Primary,TCGA,IC4ER-,Primary
+TCGA-C8-A26Y,D,Primary,TCGA,IC10,Primary
+TCGA-C8-A26Z,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-C8-A273,D,Primary,TCGA,ER+ High,Primary
+TCGA-C8-A274,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-C8-A275,IE,Primary,TCGA,HER2+,Primary
+TCGA-C8-A278,IE,Primary,TCGA,HER2+,Primary
+TCGA-C8-A27A,D,Primary,TCGA,ER+ High,Primary
+TCGA-C8-A27B,IE,Primary,TCGA,IC10,Primary
+TCGA-C8-A3M7,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-C8-A3M8,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-C8-A8HP,IE,Primary,TCGA,HER2+,Primary
+TCGA-C8-A8HQ,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-C8-A8HR,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A13Y,D,Primary,TCGA,ER+ High,Primary
+TCGA-D8-A13Z,F,Primary,TCGA,IC10,Primary
+TCGA-D8-A140,D,Primary,TCGA,ER+ High,Primary
+TCGA-D8-A141,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A142,D,Primary,TCGA,IC10,Primary
+TCGA-D8-A143,D,Primary,TCGA,IC4ER-,Primary
+TCGA-D8-A145,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A146,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A147,IE,Primary,TCGA,IC10,Primary
+TCGA-D8-A1J8,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A1J9,D,Primary,TCGA,HER2+,Primary
+TCGA-D8-A1JA,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A1JB,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A1JC,D,Primary,TCGA,ER+ High,Primary
+TCGA-D8-A1JD,D,Primary,TCGA,ER+ High,Primary
+TCGA-D8-A1JE,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A1JF,D,Primary,TCGA,IC10,Primary
+TCGA-D8-A1JG,IE,Primary,TCGA,IC4ER-,Primary
+TCGA-D8-A1JH,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A1JI,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A1JJ,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A1JK,IE/F,Primary,TCGA,IC4ER-,Primary
+TCGA-D8-A1JL,IE,Primary,TCGA,IC10,Primary
+TCGA-D8-A1JM,D,Primary,TCGA,IC10,Primary
+TCGA-D8-A1JN,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A1JP,F,Primary,TCGA,ER+ High,Primary
+TCGA-D8-A1JS,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A1JT,F,Primary,TCGA,ER+ High,Primary
+TCGA-D8-A1JU,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A1X5,F,Primary,TCGA,ER+ High,Primary
+TCGA-D8-A1X6,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A1X7,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A1X8,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A1X9,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A1XA,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A1XB,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A1XC,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A1XF,D,Primary,TCGA,ER+ High,Primary
+TCGA-D8-A1XG,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A1XJ,D,Primary,TCGA,HER2+,Primary
+TCGA-D8-A1XK,IE,Primary,TCGA,IC10,Primary
+TCGA-D8-A1XL,IE,Primary,TCGA,ER+ High,Primary
+TCGA-D8-A1XM,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A1XO,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A1XQ,IE,Primary,TCGA,IC10,Primary
+TCGA-D8-A1XR,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A1XS,D,Primary,TCGA,ER+ High,Primary
+TCGA-D8-A1XT,F,Primary,TCGA,HER2+,Primary
+TCGA-D8-A1XU,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A1XV,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A1XW,IE/F,Primary,TCGA,IC4ER-,Primary
+TCGA-D8-A1XY,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A1XZ,D,Primary,TCGA,ER+ High,Primary
+TCGA-D8-A1Y0,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A1Y1,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A1Y2,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A1Y3,IE,Primary,TCGA,ER+ High,Primary
+TCGA-D8-A27E,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A27F,D,Primary,TCGA,IC10,Primary
+TCGA-D8-A27G,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A27I,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A27K,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A27L,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A27M,IE,Primary,TCGA,IC4ER-,Primary
+TCGA-D8-A27N,F,Primary,TCGA,ER+ High,Primary
+TCGA-D8-A27P,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A27R,D,Primary,TCGA,ER+ High,Primary
+TCGA-D8-A27T,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A27V,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A27W,D,Primary,TCGA,ER+ High,Primary
+TCGA-D8-A3Z5,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A3Z6,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A4Z1,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A73U,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A73W,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-D8-A73X,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A10A,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A10C,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A14N,IE,Primary,TCGA,IC10,Primary
+TCGA-E2-A14O,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A14P,IE,Primary,TCGA,HER2+,Primary
+TCGA-E2-A14Q,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A14R,IE,Primary,TCGA,IC10,Primary
+TCGA-E2-A14S,IE,Primary,TCGA,ER+ High,Primary
+TCGA-E2-A14T,D,Primary,TCGA,ER+ High,Primary
+TCGA-E2-A14U,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A14V,D,Primary,TCGA,HER2+,Primary
+TCGA-E2-A14W,D,Primary,TCGA,ER+ High,Primary
+TCGA-E2-A14X,IE,Primary,TCGA,ER+ High,Primary
+TCGA-E2-A14Y,D,Primary,TCGA,HER2+,Primary
+TCGA-E2-A14Z,IE,Primary,TCGA,ER+ High,Primary
+TCGA-E2-A150,IE,Primary,TCGA,IC10,Primary
+TCGA-E2-A152,F,Primary,TCGA,HER2+,Primary
+TCGA-E2-A153,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A154,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A155,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A156,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A158,IE,Primary,TCGA,IC10,Primary
+TCGA-E2-A159,IE,Primary,TCGA,IC10,Primary
+TCGA-E2-A15C,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A15D,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A15G,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A15H,D,Primary,TCGA,HER2+,Primary
+TCGA-E2-A15I,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A15J,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A15L,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A15M,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A15O,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A15P,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A15R,D,Primary,TCGA,ER+ High,Primary
+TCGA-E2-A15S,D,Primary,TCGA,ER+ High,Primary
+TCGA-E2-A15T,D,Primary,TCGA,ER+ High,Primary
+TCGA-E2-A1AZ,IE,Primary,TCGA,IC10,Primary
+TCGA-E2-A1B0,D,Primary,TCGA,HER2+,Primary
+TCGA-E2-A1B1,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A1B4,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A1B5,IE,Primary,TCGA,ER+ High,Primary
+TCGA-E2-A1B6,IE,Primary,TCGA,IC10,Primary
+TCGA-E2-A1BC,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A1BD,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A1IE,D,Primary,TCGA,ER+ High,Primary
+TCGA-E2-A1IF,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A1IG,F,Primary,TCGA,ER+ High,Primary
+TCGA-E2-A1IH,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A1II,IE,Primary,TCGA,IC10,Primary
+TCGA-E2-A1IJ,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A1IK,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A1IL,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A1IN,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A1IO,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A1IU,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A1L6,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A1L7,IE,Primary,TCGA,IC4ER-,Primary
+TCGA-E2-A1L8,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A1L9,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A1LA,IE,Primary,TCGA,ER+ High,Primary
+TCGA-E2-A1LB,D,Primary,TCGA,HER2+,Primary
+TCGA-E2-A1LE,IE/F,Primary,TCGA,HER2+,Primary
+TCGA-E2-A1LG,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A1LH,IE,Primary,TCGA,IC10,Primary
+TCGA-E2-A1LI,IE,Primary,TCGA,IC10,Primary
+TCGA-E2-A1LK,D,Primary,TCGA,ER+ High,Primary
+TCGA-E2-A1LL,D,Primary,TCGA,IC10,Primary
+TCGA-E2-A1LS,IE,Primary,TCGA,ER+ High,Primary
+TCGA-E2-A2P5,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A2P6,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A3DX,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A56Z,D,Primary,TCGA,ER+ High,Primary
+TCGA-E2-A570,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A572,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-E2-A573,IE,Primary,TCGA,IC4ER-,Primary
+TCGA-E2-A574,D,Primary,TCGA,IC10,Primary
+TCGA-E2-A576,D,Primary,TCGA,ER+ High,Primary
+TCGA-E2-A9RU,F,Primary,TCGA,ER+ High,Primary
+TCGA-E9-A1N3,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-E9-A1N4,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-E9-A1N5,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-E9-A1N8,D,Primary,TCGA,ER+ High,Primary
+TCGA-E9-A1N9,D,Primary,TCGA,IC10,Primary
+TCGA-E9-A1NA,F,Primary,TCGA,ER+ High,Primary
+TCGA-E9-A1NC,IE,Primary,TCGA,IC10,Primary
+TCGA-E9-A1ND,IE,Primary,TCGA,IC4ER-,Primary
+TCGA-E9-A1NE,IE,Primary,TCGA,ER+ High,Primary
+TCGA-E9-A1NF,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-E9-A1NG,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-E9-A1NH,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-E9-A1NI,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-E9-A1QZ,IE,Primary,TCGA,ER+ High,Primary
+TCGA-E9-A1R0,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-E9-A1R2,IE/F,Primary,TCGA,ER+ High,Primary
+TCGA-E9-A1R3,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-E9-A1R4,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-E9-A1R5,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-E9-A1R6,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-E9-A1R7,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-E9-A1RA,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-E9-A1RB,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-E9-A1RC,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-E9-A1RD,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-E9-A1RE,D,Primary,TCGA,ER+ High,Primary
+TCGA-E9-A1RF,IE,Primary,TCGA,ER+ High,Primary
+TCGA-E9-A1RG,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-E9-A1RH,D,Primary,TCGA,IC4ER-,Primary
+TCGA-E9-A1RI,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-E9-A226,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-E9-A227,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-E9-A228,D,Primary,TCGA,ER+ High,Primary
+TCGA-E9-A229,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-E9-A22A,IE/F,Primary,TCGA,ER+ High,Primary
+TCGA-E9-A22B,F,Primary,TCGA,ER+ High,Primary
+TCGA-E9-A22D,IE,Primary,TCGA,HER2+,Primary
+TCGA-E9-A22E,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-E9-A22G,D,Primary,TCGA,IC10,Primary
+TCGA-E9-A22H,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-E9-A243,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-E9-A244,IE,Primary,TCGA,IC10,Primary
+TCGA-E9-A245,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-E9-A247,D,Primary,TCGA,ER+ High,Primary
+TCGA-E9-A248,IE,Primary,TCGA,IC10,Primary
+TCGA-E9-A249,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-E9-A24A,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-E9-A295,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-E9-A2JS,D,Primary,TCGA,ER+ High,Primary
+TCGA-E9-A2JT,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-E9-A3HO,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-E9-A3Q9,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-E9-A3QA,IE,Primary,TCGA,IC10,Primary
+TCGA-E9-A3X8,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-E9-A54X,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-E9-A54Y,D,Primary,TCGA,ER+ High,Primary
+TCGA-E9-A5FK,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-E9-A5FL,F,Primary,TCGA,ER+ High,Primary
+TCGA-E9-A5UO,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-E9-A5UP,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-E9-A6HE,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-EW-A1IW,F,Primary,TCGA,HER2+,Primary
+TCGA-EW-A1IX,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-EW-A1IY,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-EW-A1IZ,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-EW-A1J1,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-EW-A1J2,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-EW-A1J3,D,Primary,TCGA,HER2+,Primary
+TCGA-EW-A1J5,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-EW-A1J6,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-EW-A1OV,IE,Primary,TCGA,IC4ER-,Primary
+TCGA-EW-A1OX,D,Primary,TCGA,ER+ High,Primary
+TCGA-EW-A1OY,D,Primary,TCGA,ER+ High,Primary
+TCGA-EW-A1OZ,D,Primary,TCGA,HER2+,Primary
+TCGA-EW-A1P0,IE/F,Primary,TCGA,ER+ High,Primary
+TCGA-EW-A1P1,F,Primary,TCGA,IC4ER-,Primary
+TCGA-EW-A1P3,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-EW-A1P4,D,Primary,TCGA,IC10,Primary
+TCGA-EW-A1P5,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-EW-A1P6,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-EW-A1P7,IE/F,Primary,TCGA,IC4ER-,Primary
+TCGA-EW-A1P8,F,Primary,TCGA,IC10,Primary
+TCGA-EW-A1PA,D,Primary,TCGA,ER+ High,Primary
+TCGA-EW-A1PB,IE,Primary,TCGA,IC10,Primary
+TCGA-EW-A1PC,D,Primary,TCGA,ER+ High,Primary
+TCGA-EW-A1PD,D,Primary,TCGA,ER+ High,Primary
+TCGA-EW-A1PE,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-EW-A1PG,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-EW-A1PH,IE,Primary,TCGA,IC10,Primary
+TCGA-EW-A2FR,F,Primary,TCGA,HER2+,Primary
+TCGA-EW-A2FS,IE/F,Primary,TCGA,ER+ High,Primary
+TCGA-EW-A2FV,D,Primary,TCGA,ER+ High,Primary
+TCGA-EW-A2FW,D,Primary,TCGA,ER+ High,Primary
+TCGA-EW-A3E8,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-EW-A3U0,IE,Primary,TCGA,IC4ER-,Primary
+TCGA-EW-A423,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-EW-A6S9,D,Primary,TCGA,HER2+,Primary
+TCGA-EW-A6SA,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-EW-A6SB,IE,Primary,TCGA,IC10,Primary
+TCGA-EW-A6SC,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-EW-A6SD,IE,Primary,TCGA,HER2+,Primary
+TCGA-GI-A2C8,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-GI-A2C9,F,Primary,TCGA,IC10,Primary
+TCGA-GM-A2D9,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-GM-A2DA,IE/F,Primary,TCGA,HER2+,Primary
+TCGA-GM-A2DB,IE,Primary,TCGA,IC4ER-,Primary
+TCGA-GM-A2DC,D,Primary,TCGA,ER+ High,Primary
+TCGA-GM-A2DD,IE,Primary,TCGA,IC4ER-,Primary
+TCGA-GM-A2DF,IE,Primary,TCGA,ER+ High,Primary
+TCGA-GM-A2DH,IE,Primary,TCGA,IC4ER-,Primary
+TCGA-GM-A2DI,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-GM-A2DK,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-GM-A2DL,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-GM-A2DM,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-GM-A2DN,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-GM-A2DO,IE,Primary,TCGA,ER+ High,Primary
+TCGA-GM-A3NW,D,Primary,TCGA,ER+ High,Primary
+TCGA-GM-A3NY,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-GM-A3XG,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-GM-A3XL,IE,Primary,TCGA,IC10,Primary
+TCGA-GM-A3XN,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-GM-A4E0,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-GM-A5PV,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-GM-A5PX,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-HN-A2NL,IE,Primary,TCGA,ER+ High,Primary
+TCGA-HN-A2OB,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-JL-A3YW,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-JL-A3YX,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-LD-A66U,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-LD-A74U,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-LD-A7W5,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-LD-A7W6,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-LD-A9QF,IE/F,Primary,TCGA,IC4ER-,Primary
+TCGA-LL-A440,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-LL-A441,IE,Primary,TCGA,IC10,Primary
+TCGA-LL-A50Y,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-LL-A5YL,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-LL-A5YM,D,Primary,TCGA,ER+ High,Primary
+TCGA-LL-A5YN,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-LL-A5YO,IE,Primary,TCGA,ER+ High,Primary
+TCGA-LL-A5YP,F,Primary,TCGA,IC10,Primary
+TCGA-LL-A6FP,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-LL-A6FQ,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-LL-A6FR,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-LL-A73Y,IE/F,Primary,TCGA,ER+ High,Primary
+TCGA-LL-A73Z,IE/F,Primary,TCGA,ER+ High,Primary
+TCGA-LL-A740,F,Primary,TCGA,IC4ER-,Primary
+TCGA-LL-A7SZ,IE,Primary,TCGA,ER+ High,Primary
+TCGA-LL-A7T0,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-LL-A8F5,IE,Primary,TCGA,IC10,Primary
+TCGA-LL-A9Q3,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-LQ-A4E4,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-MS-A51U,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-OK-A5Q2,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-OL-A5D6,F,Primary,TCGA,IC4ER-,Primary
+TCGA-OL-A5D7,IE,Primary,TCGA,IC10,Primary
+TCGA-OL-A5D8,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-OL-A5DA,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-OL-A5RU,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-OL-A5RV,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-OL-A5RW,IE,Primary,TCGA,ER+ High,Primary
+TCGA-OL-A5RX,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-OL-A5RY,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-OL-A5RZ,D,Primary,TCGA,HER2+,Primary
+TCGA-OL-A5S0,F,Primary,TCGA,IC10,Primary
+TCGA-OL-A66H,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-OL-A66I,IE,Primary,TCGA,IC10,Primary
+TCGA-OL-A66J,F,Primary,TCGA,ER+ High,Primary
+TCGA-OL-A66K,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-OL-A66L,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-OL-A66N,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-OL-A66O,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-OL-A66P,IE,Primary,TCGA,IC4ER-,Primary
+TCGA-OL-A6VO,IE,Primary,TCGA,IC10,Primary
+TCGA-OL-A6VQ,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-OL-A6VR,D,Primary,TCGA,ER+ High,Primary
+TCGA-OL-A97C,IE/F,Primary,TCGA,IC4ER-,Primary
+TCGA-PE-A5DC,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-PE-A5DD,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-PE-A5DE,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-PL-A8LV,IE,Primary,TCGA,ER+ High,Primary
+TCGA-PL-A8LX,F,Primary,TCGA,ER+ Typical,Primary
+TCGA-PL-A8LY,IE,Primary,TCGA,,Primary
+TCGA-PL-A8LZ,IE,Primary,TCGA,IC10,Primary
+TCGA-S3-A6ZF,IE,Primary,TCGA,ER+ High,Primary
+TCGA-S3-A6ZG,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-S3-A6ZH,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-S3-AA0Z,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-S3-AA10,IE,Primary,TCGA,IC10,Primary
+TCGA-S3-AA11,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-S3-AA12,D,Primary,TCGA,ER+ High,Primary
+TCGA-S3-AA14,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-S3-AA15,IE/F,Primary,TCGA,IC4ER-,Primary
+TCGA-S3-AA17,IE,Primary,TCGA,ER+ Typical,Primary
+TCGA-UL-AAZ6,D,Primary,TCGA,HER2+,Primary
+TCGA-UU-A93S,D,Primary,TCGA,HER2+,Primary
+TCGA-V7-A7HQ,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-W8-A86G,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-WT-AB41,IE,Primary,TCGA,ER+ High,Primary
+TCGA-WT-AB44,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-XX-A899,IE/F,Primary,TCGA,ER+ High,Primary
+TCGA-XX-A89A,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-Z7-A8R5,IE/F,Primary,TCGA,ER+ Typical,Primary
+TCGA-Z7-A8R6,D,Primary,TCGA,ER+ Typical,Primary
+TCGA-A2-A0EM,,Primary,TCGA,ER+ Typical,Primary
+TCGA-AC-A6IX,,Primary,TCGA,ER+ High,Primary
+TCGA-BH-A0AY,,Primary,TCGA,ER+ Typical,Primary
+TCGA-BH-A0WA,,Primary,TCGA,IC10,Primary
+TCGA-BH-A18V,,Primary,TCGA,IC10,Primary
+TCGA-BH-A1ES,,Primary,TCGA,ER+ High,Primary
+TCGA-BH-A1FE,,Primary,TCGA,ER+ Typical,Primary
+TCGA-C8-A1HF,,Primary,TCGA,HER2+,Primary
+TCGA-E2-A15A,,Primary,TCGA,ER+ High,Primary
+TCGA-E2-A15E,,Metastatic,TCGA,ER+ Typical,Metastatic
+TCGA-E2-A15K,,Metastatic,TCGA,ER+ Typical,Metastatic
+TCGA-AC-A5EI,,Primary,TCGA,,Primary
+TCGA-AR-A0U1,,Primary,TCGA,IC10,Primary
+TCGA-C8-A9FZ,,Primary,TCGA,ER+ High,Primary
+CURTIS_H004004_T01_01_WT01,IE/F,Subcateneous,Hartwig,ER+ High,Metastatic
+CURTIS_H004005_T01_01_WT01,D,Bone,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004006_T01_01_WT01,D,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004007_T01_01_WT01,IE,Lung,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004009_T01_01_WT01,D,Liver,Hartwig,IC10,Metastatic
+CURTIS_H004010_T01_01_WT01,IE/F,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004011_T01_01_WT01,F,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004014_T01_01_WT01,D,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004016_T01_01_WT01,IE,Primary,Hartwig,ER+ Typical,Primary
+CURTIS_H004017_T01_01_WT01,F,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004018_T01_01_WT01,IE/F,Primary,Hartwig,HER2+,Primary
+CURTIS_H004019_T01_01_WT01,IE,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004021_T01_01_WT01,D,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004023_T01_01_WT01,D,Lymph node,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004024_T01_01_WT01,IE,Skin,Hartwig,ER+ High,Metastatic
+CURTIS_H004025_T01_01_WT01,D,Lymph node,Hartwig,IC10,Metastatic
+CURTIS_H004030_T01_01_WT01,F,Lymph node,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004031_T01_01_WT01,D,Skin,Hartwig,ER+ High,Metastatic
+CURTIS_H004032_T01_01_WT01,IE,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004033_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004034_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004035_T01_01_WT01,IE,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004038_T01_01_WT01,IE/F,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004039_T01_01_WT01,F,Skin,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004040_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004041_T01_01_WT01,IE,Lymph node,Hartwig,IC10,Metastatic
+CURTIS_H004042_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004043_T01_01_WT01,IE/F,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004044_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004046_T01_01_WT01,D,Liver,Hartwig,HER2+,Metastatic
+CURTIS_H004047_T01_01_WT01,F,Primary,Hartwig,IC10,Primary
+CURTIS_H004048_T01_01_WT01,D,Liver,Hartwig,IC10,Metastatic
+CURTIS_H004051_T01_01_WT01,IE,Lymph node,Hartwig,IC10,Metastatic
+CURTIS_H004056_T02_01_WT01,D,Primary,Hartwig,ER+ Typical,Primary
+CURTIS_H004070_T02_01_WT01,IE/F,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004076_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004082_T02_01_WT01,D,Lymph node,Hartwig,ER+ High,Metastatic
+CURTIS_H004094_T01_01_WT01,IE/F,Bone,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004095_T01_01_WT01,F,Soft tissue,Hartwig,IC10,Metastatic
+CURTIS_H004097_T01_01_WT01,D,Lymph node,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004098_T01_01_WT01,F,Primary,Hartwig,IC4ER-,Primary
+CURTIS_H004099_T01_01_WT01,IE,Bone,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004100_T01_01_WT01,F,Lymph node,Hartwig,IC10,Metastatic
+CURTIS_H004102_T01_01_WT01,D,Bone,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004103_T01_01_WT01,F,Liver,Hartwig,HER2+,Metastatic
+CURTIS_H004104_T01_01_WT01,D,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004105_T01_01_WT01,D,Skin,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004107_T01_01_WT01,F,Subcateneous,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004108_T01_01_WT01,D,Lymph node,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004109_T02_01_WT01,IE/F,Subcateneous,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004110_T01_01_WT01,D,Lymph node,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004111_T01_01_WT01,D,Subcateneous,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004112_T01_01_WT01,F,Lymph node,Hartwig,IC4ER-,Metastatic
+CURTIS_H004113_T01_01_WT01,F,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004114_T01_01_WT01,IE/F,Lymph node,Hartwig,ER+ High,Metastatic
+CURTIS_H004116_T01_01_WT01,IE,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004117_T01_01_WT01,IE/F,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004118_T01_01_WT01,D,Primary,Hartwig,ER+ High,Primary
+CURTIS_H004120_T01_01_WT01,D,Lymph node,Hartwig,ER+ High,Metastatic
+CURTIS_H004122_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004123_T01_01_WT01,D,Bone,Hartwig,HER2+,Metastatic
+CURTIS_H004124_T01_01_WT01,IE,Lymph node,Hartwig,HER2+,Metastatic
+CURTIS_H004125_T01_01_WT01,IE,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004126_T01_01_WT01,IE,Lymph node,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004127_T01_01_WT01,IE,Primary,Hartwig,ER+ Typical,Primary
+CURTIS_H004128_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004129_T01_01_WT01,IE/F,Skin,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004131_T01_01_WT01,IE/F,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004132_T01_01_WT01,IE,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004134_T01_01_WT01,D,Subcateneous,Hartwig,ER+ High,Metastatic
+CURTIS_H004135_T01_01_WT01,D,Lymph node,Hartwig,IC10,Metastatic
+CURTIS_H004136_T01_01_WT01,D,Subcateneous,Hartwig,HER2+,Metastatic
+CURTIS_H004137_T01_01_WT01,IE/F,Lymph node,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004138_T01_01_WT01,IE/F,Liver,Hartwig,IC4ER-,Metastatic
+CURTIS_H004139_T01_01_WT01,F,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004140_T01_01_WT01,D,Liver,Hartwig,HER2+,Metastatic
+CURTIS_H004142_T01_01_WT01,IE/F,Lung,Hartwig,ER+ High,Metastatic
+CURTIS_H004143_T01_01_WT01,F,Lymph node,Hartwig,IC10,Metastatic
+CURTIS_H004144_T01_01_WT01,F,Bone,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004147_T01_01_WT01,IE/F,Liver,Hartwig,HER2+,Metastatic
+CURTIS_H004148_T01_01_WT01,D,Lymph node,Hartwig,ER+ High,Metastatic
+CURTIS_H004149_T01_01_WT01,IE/F,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004153_T01_01_WT01,D,Lymph node,Hartwig,HER2+,Metastatic
+CURTIS_H004155_T01_01_WT01,F,Lymph node,Hartwig,HER2+,Metastatic
+CURTIS_H004156_T01_01_WT01,IE/F,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004157_T01_01_WT01,D,Lymph node,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004158_T01_01_WT01,IE,Primary,Hartwig,HER2+,Primary
+CURTIS_H004160_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004161_T01_01_WT01,D,Lymph node,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004163_T01_01_WT01,F,Lymph node,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004164_T01_01_WT01,IE,Bone,Hartwig,ER+ High,Metastatic
+CURTIS_H004165_T01_01_WT01,IE/F,Soft tissue,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004166_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004167_T01_01_WT01,IE/F,Bone,Hartwig,HER2+,Metastatic
+CURTIS_H004168_T01_01_WT01,IE,Bone,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004169_T01_01_WT01,D,Skin,Hartwig,IC10,Metastatic
+CURTIS_H004170_T01_01_WT01,D,Bone,Hartwig,IC4ER-,Metastatic
+CURTIS_H004174_T01_01_WT01,IE,Lymph node,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004175_T01_01_WT01,D,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004176_T01_01_WT01,IE,Primary,Hartwig,IC10,Primary
+CURTIS_H004177_T01_01_WT01,D,Lung,Hartwig,ER+ High,Metastatic
+CURTIS_H004178_T01_01_WT01,F,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004179_T01_01_WT01,IE/F,Primary,Hartwig,ER+ Typical,Primary
+CURTIS_H004180_T01_01_WT01,D,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004181_T01_01_WT01,IE/F,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004182_T01_01_WT01,D,Primary,Hartwig,ER+ Typical,Primary
+CURTIS_H004183_T01_01_WT01,IE,Lymph node,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004184_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004185_T01_01_WT01,IE,Lymph node,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004186_T01_01_WT01,IE,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004188_T01_01_WT01,D,Primary,Hartwig,ER+ High,Primary
+CURTIS_H004188_T02_01_WT01,F,Lymph node,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004189_T01_01_WT01,IE/F,Bone,Hartwig,ER+ High,Metastatic
+CURTIS_H004190_T01_01_WT01,F,Lymph node,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004191_T01_01_WT01,IE/F,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004192_T01_01_WT01,IE,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004193_T01_01_WT01,D,Liver,Hartwig,IC10,Metastatic
+CURTIS_H004195_T01_01_WT01,IE,Primary,Hartwig,IC10,Primary
+CURTIS_H004196_T01_01_WT01,IE,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004197_T01_01_WT01,IE,Liver,Hartwig,HER2+,Metastatic
+CURTIS_H004198_T01_01_WT01,D,Lymph node,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004199_T01_01_WT01,IE,Bone,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004200_T01_01_WT01,F,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004202_T01_01_WT01,F,Soft tissue,Hartwig,HER2+,Metastatic
+CURTIS_H004203_T01_01_WT01,D,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004204_T01_01_WT01,D,Lymph node,Hartwig,HER2+,Metastatic
+CURTIS_H004205_T01_01_WT01,IE/F,Bone,Hartwig,ER+ High,Metastatic
+CURTIS_H004206_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004207_T01_01_WT01,F,Liver,Hartwig,HER2+,Metastatic
+CURTIS_H004209_T01_01_WT01,D,Skin,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004210_T01_01_WT01,IE,Primary,Hartwig,ER+ High,Primary
+CURTIS_H004211_T01_01_WT01,IE,Primary,Hartwig,ER+ Typical,Primary
+CURTIS_H004212_T01_01_WT01,IE,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004215_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004216_T01_01_WT01,IE,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004217_T01_01_WT01,IE/F,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004218_T01_01_WT01,D,Primary,Hartwig,ER+ High,Primary
+CURTIS_H004219_T01_01_WT01,F,Liver,Hartwig,HER2+,Metastatic
+CURTIS_H004220_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004221_T01_01_WT01,F,Primary,Hartwig,HER2+,Primary
+CURTIS_H004222_T01_01_WT01,IE/F,Lung,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004224_T01_01_WT01,D,Bone,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004225_T01_01_WT01,D,Bone,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004226_T01_01_WT01,D,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004227_T01_01_WT01,IE,Liver,Hartwig,IC10,Metastatic
+CURTIS_H004228_T01_01_WT01,IE,Liver,Hartwig,IC10,Metastatic
+CURTIS_H004229_T01_01_WT01,F,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004231_T01_01_WT01,D,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004232_T01_01_WT01,IE/F,Lymph node,Hartwig,ER+ High,Metastatic
+CURTIS_H004233_T01_01_WT01,IE/F,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004236_T01_01_WT01,IE,Lung,Hartwig,HER2+,Metastatic
+CURTIS_H004238_T01_01_WT01,IE/F,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004239_T01_01_WT01,F,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004240_T01_01_WT01,IE,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004241_T01_01_WT01,IE/F,Soft tissue,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004243_T01_01_WT01,F,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004244_T02_01_WT01,D,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004245_T01_01_WT01,D,Bone,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004248_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004249_T01_01_WT01,IE,Liver,Hartwig,IC4ER-,Metastatic
+CURTIS_H004250_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004251_T01_01_WT01,D,Primary,Hartwig,ER+ Typical,Primary
+CURTIS_H004252_T01_01_WT01,IE,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004253_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004254_T01_01_WT01,IE/F,Primary,Hartwig,ER+ Typical,Primary
+CURTIS_H004256_T01_01_WT01,IE,Skin,Hartwig,HER2+,Metastatic
+CURTIS_H004258_T01_01_WT01,IE,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004259_T01_01_WT01,F,Bone,Hartwig,HER2+,Metastatic
+CURTIS_H004260_T01_01_WT01,F,Lymph node,Hartwig,HER2+,Metastatic
+CURTIS_H004262_T01_01_WT01,D,Lymph node,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004263_T01_01_WT01,IE,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004264_T01_01_WT01,IE,Lymph node,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004265_T01_01_WT01,IE/F,Primary,Hartwig,ER+ Typical,Primary
+CURTIS_H004266_T01_01_WT01,D,Liver,Hartwig,HER2+,Metastatic
+CURTIS_H004267_T01_01_WT01,IE,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004268_T01_01_WT01,F,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004269_T01_01_WT01,IE,Lymph node,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004270_T01_01_WT01,IE,Primary,Hartwig,ER+ Typical,Primary
+CURTIS_H004271_T01_01_WT01,F,Lymph node,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004271_T02_01_WT01,D,Primary,Hartwig,ER+ Typical,Primary
+CURTIS_H004272_T01_01_WT01,IE,Soft tissue,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004273_T01_01_WT01,IE,Subcateneous,Hartwig,IC4ER-,Metastatic
+CURTIS_H004274_T01_01_WT01,IE,Lymph node,Hartwig,ER+ High,Metastatic
+CURTIS_H004275_T01_01_WT01,F,Lymph node,Hartwig,IC4ER-,Metastatic
+CURTIS_H004276_T01_01_WT01,D,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004277_T01_01_WT01,D,Liver,Hartwig,IC10,Metastatic
+CURTIS_H004279_T01_01_WT01,D,Lymph node,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004280_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004282_T01_01_WT01,F,Lymph node,Hartwig,IC4ER-,Metastatic
+CURTIS_H004283_T01_01_WT01,D,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004284_T01_01_WT01,D,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004285_T01_01_WT01,F,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004286_T01_01_WT01,IE/F,Skin,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004287_T01_01_WT01,D,Primary,Hartwig,ER+ Typical,Primary
+CURTIS_H004289_T01_01_WT01,IE/F,Primary,Hartwig,HER2+,Primary
+CURTIS_H004291_T01_01_WT01,IE,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004293_T01_01_WT01,IE,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004294_T01_01_WT01,IE/F,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004295_T01_01_WT01,IE,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004296_T01_01_WT01,D,Subcateneous,Hartwig,IC4ER-,Metastatic
+CURTIS_H004297_T01_01_WT01,D,Primary,Hartwig,ER+ High,Primary
+CURTIS_H004298_T01_01_WT01,IE,Lymph node,Hartwig,ER+ High,Metastatic
+CURTIS_H004299_T01_01_WT01,F,Lymph node,Hartwig,HER2+,Metastatic
+CURTIS_H004300_T01_01_WT01,F,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004301_T01_01_WT01,IE,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004302_T01_01_WT01,IE,Lymph node,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004303_T01_01_WT01,D,Primary,Hartwig,ER+ High,Primary
+CURTIS_H004304_T01_01_WT01,F,Primary,Hartwig,HER2+,Primary
+CURTIS_H004305_T01_01_WT01,F,Liver,Hartwig,HER2+,Metastatic
+CURTIS_H004306_T01_01_WT01,F,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004308_T01_01_WT01,IE,Bone,Hartwig,ER+ High,Metastatic
+CURTIS_H004310_T01_01_WT01,D,Liver,Hartwig,HER2+,Metastatic
+CURTIS_H004311_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004314_T01_01_WT01,D,Bone,Hartwig,ER+ High,Metastatic
+CURTIS_H004315_T01_01_WT01,D,Subcateneous,Hartwig,IC4ER-,Metastatic
+CURTIS_H004316_T01_01_WT01,F,Skin,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004317_T01_01_WT01,D,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004318_T01_01_WT01,D,Liver,Hartwig,IC10,Metastatic
+CURTIS_H004319_T01_01_WT01,F,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004322_T01_01_WT01,F,Liver,Hartwig,HER2+,Metastatic
+CURTIS_H004323_T01_01_WT01,D,Lymph node,Hartwig,HER2+,Metastatic
+CURTIS_H004324_T01_01_WT01,D,Primary,Hartwig,ER+ Typical,Primary
+CURTIS_H004325_T01_01_WT01,D,Bone,Hartwig,ER+ High,Metastatic
+CURTIS_H004326_T01_01_WT01,D,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004329_T01_01_WT01,D,Bone,Hartwig,ER+ High,Metastatic
+CURTIS_H004330_T01_01_WT01,F,Lymph node,Hartwig,HER2+,Metastatic
+CURTIS_H004331_T01_01_WT01,F,Liver,Hartwig,IC4ER-,Metastatic
+CURTIS_H004333_T01_01_WT01,IE/F,Primary,Hartwig,ER+ Typical,Primary
+CURTIS_H004334_T01_01_WT01,F,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004335_T01_01_WT01,IE,Liver,Hartwig,HER2+,Metastatic
+CURTIS_H004336_T01_01_WT01,F,Soft tissue,Hartwig,ER+ High,Metastatic
+CURTIS_H004337_T01_01_WT01,D,Skin,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004338_T01_01_WT01,IE,Liver,Hartwig,HER2+,Metastatic
+CURTIS_H004339_T01_01_WT01,IE,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004341_T01_01_WT01,D,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004342_T01_01_WT01,IE,Lymph node,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004343_T01_01_WT01,D,Liver,Hartwig,IC4ER-,Metastatic
+CURTIS_H004344_T01_01_WT01,IE,Lymph node,Hartwig,ER+ High,Metastatic
+CURTIS_H004345_T01_01_WT01,IE,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004346_T01_01_WT01,IE/F,Lymph node,Hartwig,ER+ High,Metastatic
+CURTIS_H004349_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004350_T01_01_WT01,F,Bone,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004351_T01_01_WT01,IE,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004353_T01_01_WT01,IE/F,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004354_T01_01_WT01,IE,Lymph node,Hartwig,IC10,Metastatic
+CURTIS_H004355_T01_01_WT01,F,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004356_T01_01_WT01,D,Bone,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004357_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004358_T01_01_WT01,D,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004359_T01_01_WT01,IE,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004360_T01_01_WT01,F,Lymph node,Hartwig,HER2+,Metastatic
+CURTIS_H004364_T01_01_WT01,F,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004365_T01_01_WT01,D,Bone,Hartwig,ER+ High,Metastatic
+CURTIS_H004366_T01_01_WT01,D,Liver,Hartwig,HER2+,Metastatic
+CURTIS_H004368_T01_01_WT01,D,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004369_T01_01_WT01,D,Primary,Hartwig,HER2+,Primary
+CURTIS_H004370_T01_01_WT01,D,Primary,Hartwig,ER+ Typical,Primary
+CURTIS_H004371_T01_01_WT01,IE/F,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004372_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004373_T01_01_WT01,IE,Liver,Hartwig,IC10,Metastatic
+CURTIS_H004375_T01_01_WT01,D,Lung,Hartwig,HER2+,Metastatic
+CURTIS_H004376_T01_01_WT01,IE,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004377_T01_01_WT01,D,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004380_T01_01_WT01,D,Lung,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004381_T01_01_WT01,F,Primary,Hartwig,ER+ Typical,Primary
+CURTIS_H004382_T01_01_WT01,F,Lymph node,Hartwig,ER+ High,Metastatic
+CURTIS_H004384_T01_01_WT01,D,Lymph node,Hartwig,IC10,Metastatic
+CURTIS_H004385_T01_01_WT01,IE/F,Bone,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004386_T01_01_WT01,IE,Primary,Hartwig,ER+ Typical,Primary
+CURTIS_H004387_T01_01_WT01,F,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004388_T01_01_WT01,D,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004389_T01_01_WT01,IE,Primary,Hartwig,HER2+,Primary
+CURTIS_H004390_T01_01_WT01,F,Bone,Hartwig,ER+ High,Metastatic
+CURTIS_H004391_T01_01_WT01,IE,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004392_T01_01_WT01,D,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004393_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004394_T01_01_WT01,IE,Lymph node,Hartwig,ER+ High,Metastatic
+CURTIS_H004396_T01_01_WT01,F,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004397_T01_01_WT01,IE/F,Liver,Hartwig,IC4ER-,Metastatic
+CURTIS_H004398_T01_01_WT01,IE/F,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004399_T01_01_WT01,D,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004400_T01_01_WT01,F,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004401_T01_01_WT01,IE/F,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004402_T01_01_WT01,F,Bone,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004403_T01_01_WT01,IE/F,Bone,Hartwig,ER+ High,Metastatic
+CURTIS_H004406_T01_01_WT01,D,Lung,Hartwig,HER2+,Metastatic
+CURTIS_H004407_T01_01_WT01,IE,Lymph node,Hartwig,IC10,Metastatic
+CURTIS_H004410_T01_01_WT01,D,Bone,Hartwig,ER+ High,Metastatic
+CURTIS_H004411_T01_01_WT01,IE,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004412_T01_01_WT01,IE/F,Lung,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004413_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004415_T01_01_WT01,D,Lymph node,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004416_T01_01_WT01,F,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004418_T01_01_WT01,IE/F,Skin,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004420_T01_01_WT01,IE/F,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004422_T01_01_WT01,F,Bone,Hartwig,IC4ER-,Metastatic
+CURTIS_H004424_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004425_T01_01_WT01,D,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004426_T01_01_WT01,F,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004427_T01_01_WT01,D,Bone,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004430_T01_01_WT01,F,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004433_T01_01_WT01,F,Bone,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004436_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004437_T01_01_WT01,IE,Lymph node,Hartwig,IC10,Metastatic
+CURTIS_H004438_T01_01_WT01,IE/F,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004439_T01_01_WT01,D,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004440_T01_01_WT01,IE,Bone,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004441_T01_01_WT01,D,Skin,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004442_T01_01_WT01,D,Lymph node,Hartwig,,Metastatic
+CURTIS_H004444_T01_01_WT01,IE/F,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004446_T01_01_WT01,F,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004448_T01_01_WT01,D,Lymph node,Hartwig,HER2+,Metastatic
+CURTIS_H004449_T01_01_WT01,IE,Skin,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004452_T01_01_WT01,D,Lymph node,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004455_T01_01_WT01,IE/F,Liver,Hartwig,HER2+,Metastatic
+CURTIS_H004456_T01_01_WT01,D,Lymph node,Hartwig,IC10,Metastatic
+CURTIS_H004458_T01_01_WT01,IE/F,Primary,Hartwig,ER+ Typical,Primary
+CURTIS_H004459_T01_01_WT01,F,Subcateneous,Hartwig,IC4ER-,Metastatic
+CURTIS_H004460_T01_01_WT01,F,Lymph node,Hartwig,IC10,Metastatic
+CURTIS_H004462_T01_01_WT01,D,Soft tissue,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004463_T01_01_WT01,IE,Primary,Hartwig,ER+ High,Primary
+CURTIS_H004464_T01_01_WT01,IE,Lymph node,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004465_T01_01_WT01,IE,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004466_T01_01_WT01,IE,Lymph node,Hartwig,ER+ High,Metastatic
+CURTIS_H004467_T01_01_WT01,IE,Skin,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004469_T01_01_WT01,IE,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004470_T01_01_WT01,IE,Primary,Hartwig,IC10,Primary
+CURTIS_H004471_T01_01_WT01,D,Liver,Hartwig,IC10,Metastatic
+CURTIS_H004472_T01_01_WT01,IE,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004473_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004474_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004475_T01_01_WT01,D,Lymph node,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004476_T01_01_WT01,IE,Lymph node,Hartwig,ER+ High,Metastatic
+CURTIS_H004477_T01_01_WT01,D,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004478_T01_01_WT01,IE,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004479_T01_01_WT01,D,Bone,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004480_T01_01_WT01,F,Lymph node,Hartwig,ER+ High,Metastatic
+CURTIS_H004481_T01_01_WT01,IE/F,Skin,Hartwig,ER+ High,Metastatic
+CURTIS_H004482_T01_01_WT01,D,Primary,Hartwig,ER+ High,Primary
+CURTIS_H004483_T01_01_WT01,IE,Soft tissue,Hartwig,IC10,Metastatic
+CURTIS_H004485_T01_01_WT01,D,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004489_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004490_T01_01_WT01,D,Liver,Hartwig,HER2+,Metastatic
+CURTIS_H004491_T01_01_WT01,D,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004492_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004493_T01_01_WT01,D,Soft tissue,Hartwig,ER+ High,Metastatic
+CURTIS_H004494_T01_01_WT01,D,Bone,Hartwig,HER2+,Metastatic
+CURTIS_H004495_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004496_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004497_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004498_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004499_T01_01_WT01,D,Lymph node,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004502_T01_01_WT01,IE,Liver,Hartwig,IC10,Metastatic
+CURTIS_H004505_T01_01_WT01,IE,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004506_T01_01_WT01,IE/F,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004508_T01_01_WT01,IE,Lymph node,Hartwig,HER2+,Metastatic
+CURTIS_H004512_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004523_T01_01_WT01,D,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004530_T01_01_WT01,IE/F,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004531_T01_01_WT01,D,Lymph node,Hartwig,ER+ High,Metastatic
+CURTIS_H004533_T01_01_WT01,D,Bone,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004535_T01_01_WT01,D,Liver,Hartwig,,Metastatic
+CURTIS_H004536_T01_01_WT01,D,Primary,Hartwig,ER+ High,Primary
+CURTIS_H004539_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004562_T01_01_WT01,D,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004588_T01_01_WT01,IE,Lymph node,Hartwig,IC10,Metastatic
+CURTIS_H004599_T01_01_WT01,D,Bone,Hartwig,ER+ High,Metastatic
+CURTIS_H004607_T01_01_WT01,IE,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004614_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004617_T01_01_WT01,D,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004619_T01_01_WT01,D,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004648_T01_01_WT01,D,Lymph node,Hartwig,HER2+,Metastatic
+CURTIS_H004649_T02_01_WT01,D,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004656_T01_01_WT01,IE,Primary,Hartwig,ER+ Typical,Primary
+CURTIS_H004657_T01_01_WT01,F,Liver,Hartwig,HER2+,Metastatic
+CURTIS_H004660_T01_01_WT01,IE,Liver,Hartwig,,Metastatic
+CURTIS_H004661_T01_01_WT01,D,Bone,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004663_T01_01_WT01,D,Lymph node,Hartwig,ER+ High,Metastatic
+CURTIS_H004664_T01_01_WT01,F,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004668_T01_01_WT01,D,Primary,Hartwig,ER+ Typical,Primary
+CURTIS_H004669_T01_01_WT01,D,Soft tissue,Hartwig,ER+ High,Metastatic
+CURTIS_H004673_T01_01_WT01,IE,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004674_T01_01_WT01,F,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004675_T01_01_WT01,D,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004676_T01_01_WT01,D,Lung,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004677_T01_01_WT01,IE,Skin,Hartwig,HER2+,Metastatic
+CURTIS_H004681_T01_01_WT01,D,Bone,Hartwig,ER+ High,Metastatic
+CURTIS_H004682_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004685_T01_01_WT01,IE,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004687_T01_01_WT01,IE/F,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004689_T01_01_WT01,IE/F,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004690_T01_01_WT01,IE,Liver,Hartwig,HER2+,Metastatic
+CURTIS_H004694_T01_01_WT01,F,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004695_T01_01_WT01,D,Lymph node,Hartwig,ER+ High,Metastatic
+CURTIS_H004696_T01_01_WT01,IE,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004698_T01_01_WT01,D,Lung,Hartwig,ER+ High,Metastatic
+CURTIS_H004701_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004702_T01_01_WT01,D,Liver,Hartwig,HER2+,Metastatic
+CURTIS_H004704_T01_01_WT01,D,Lymph node,Hartwig,ER+ High,Metastatic
+CURTIS_H004708_T01_01_WT01,D,Primary,Hartwig,ER+ Typical,Primary
+CURTIS_H004717_T01_01_WT01,IE,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004718_T01_01_WT01,D,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004750_T01_01_WT01,D,Liver,Hartwig,IC10,Metastatic
+CURTIS_H004753_T01_01_WT01,D,Lymph node,Hartwig,ER+ Typical,Metastatic
+CURTIS_H003224_T01_01_WT01,,Unknown,Hartwig,HER2+,Metastatic
+CURTIS_H004004_T02_01_WT01,,Lymph node,Hartwig,ER+ High,Metastatic
+CURTIS_H004008_T01_01_WT01,,Lymph node,Hartwig,ER+ High,Metastatic
+CURTIS_H004012_T01_01_WT01,,CNS,Hartwig,ER+ High,Metastatic
+CURTIS_H004028_T01_01_WT01,,Abdomen,Hartwig,ER+ High,Metastatic
+CURTIS_H004037_T01_01_WT01,,Thorax,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004040_T02_01_WT01,,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004050_T01_01_WT01,,Peritoneum,Hartwig,ER+ High,Metastatic
+CURTIS_H004079_T02_01_WT01,,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004090_T02_01_WT01,,Breast,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004093_T01_01_WT01,,Skin,Hartwig,HER2+,Metastatic
+CURTIS_H004093_T02_01_WT01,,Head,Hartwig,HER2+,Metastatic
+CURTIS_H004101_T01_01_WT01,,Unknown,Hartwig,IC10,Metastatic
+CURTIS_H004106_T01_01_WT01,,Unknown,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004109_T01_01_WT01,,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004126_T02_01_WT01,,Muscle,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004128_T02_01_WT01,,Liver,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004133_T01_01_WT01,,Peritoneum,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004141_T01_01_WT01,,Axilla,Hartwig,IC4ER-,Metastatic
+CURTIS_H004145_T01_01_WT01,,Parasternal,Hartwig,ER+ High,Metastatic
+CURTIS_H004146_T01_01_WT01,,Unknown,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004150_T01_01_WT01,,Unknown,Hartwig,IC10,Metastatic
+CURTIS_H004152_T01_01_WT01,,Ascites,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004159_T01_01_WT01,,Lymph node,Hartwig,HER2+,Metastatic
+CURTIS_H004162_T01_01_WT01,,Axilla,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004172_T01_01_WT01,,Omentum,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004173_T01_01_WT01,,Breast,Hartwig,ER+ High,Metastatic
+CURTIS_H004175_T02_01_WT01,,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004187_T01_01_WT01,,Axilla,Hartwig,IC10,Metastatic
+CURTIS_H004214_T01_01_WT01,,Abdomen,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004223_T01_01_WT01,,Peritoneum,Hartwig,ER+ High,Metastatic
+CURTIS_H004230_T01_01_WT01,,Ovary,Hartwig,ER+ High,Metastatic
+CURTIS_H004242_T01_01_WT01,,Unknown,Hartwig,IC10,Metastatic
+CURTIS_H004247_T01_01_WT01,,Head,Hartwig,ER+ High,Metastatic
+CURTIS_H004255_T01_01_WT01,,Omentum,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004261_T01_01_WT01,,Muscle,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004274_T02_01_WT01,,Lung,Hartwig,ER+ High,Metastatic
+CURTIS_H004288_T01_01_WT01,,Chest,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004290_T01_01_WT01,,Peritoneum,Hartwig,ER+ High,Metastatic
+CURTIS_H004292_T01_01_WT01,,Unknown,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004307_T01_01_WT01,,Unknown,Hartwig,IC10,Metastatic
+CURTIS_H004312_T01_01_WT01,,Primary,Hartwig,ER+ High,Primary
+CURTIS_H004321_T01_01_WT01,,Muscle,Hartwig,ER+ High,Metastatic
+CURTIS_H004326_T02_01_WT01,,Liver,Hartwig,ER+ High,Metastatic
+CURTIS_H004328_T01_01_WT01,,Brain,Hartwig,IC10,Metastatic
+CURTIS_H004332_T01_01_WT01,,Unknown,Hartwig,ER+ High,Metastatic
+CURTIS_H004340_T01_01_WT01,,Pectoralis major,Hartwig,IC10,Metastatic
+CURTIS_H004352_T01_01_WT01,,Thorax,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004361_T01_01_WT01,,Adnex,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004362_T01_01_WT01,,Shoulder,Hartwig,ER+ High,Metastatic
+CURTIS_H004383_T01_01_WT01,,Breast,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004414_T01_01_WT01,,Breast,Hartwig,ER+ High,Metastatic
+CURTIS_H004423_T01_01_WT01,,Skin,Hartwig,,Metastatic
+CURTIS_H004423_T02_01_WT01,,Thorax,Hartwig,,Metastatic
+CURTIS_H004423_T04_01_WT01,,Subcateneous,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004435_T01_01_WT01,,Peritoneum,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004445_T01_01_WT01,,Thorax,Hartwig,IC10,Metastatic
+CURTIS_H004450_T01_01_WT01,,Vertebral column,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004453_T01_01_WT01,,Breast,Hartwig,ER+ High,Metastatic
+CURTIS_H004461_T01_01_WT01,,Peritoneum,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004468_T01_01_WT01,,Abdomen,Hartwig,HER2+,Metastatic
+CURTIS_H004484_T01_01_WT01,,Pelvis,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004486_T01_01_WT01,,Axilla,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004488_T01_01_WT01,,Ovary,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004581_T01_01_WT01,,Unknown,Hartwig,IC10,Metastatic
+CURTIS_H004627_T02_01_WT01,,Unknown,Hartwig,ER+ High,Metastatic
+CURTIS_H004665_T01_01_WT01,,Unknown,Hartwig,ER+ Typical,Metastatic
+CURTIS_H004678_T01_01_WT01,,Unknown,Hartwig,ER+ High,Metastatic
+CURTIS_H004705_T01_01_WT01,,Thorax,Hartwig,ER+ Typical,Metastatic
+CURTIS_H000420_T01_01_WT01,IE,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H000421_T01_01_WT01,IE,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H000423_T01_01_WT01,F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H000424_T01_01_WT01,IE,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H000428_T01_01_WT01,IE/F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H000429_T01_01_WT01,IE,Primary,NikZainal,ER+ High,Primary
+CURTIS_H000430_T01_01_WT01,F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H000431_T01_01_WT01,F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H000434_T01_01_WT01,IE/F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H000435_T01_01_WT01,F,Primary,NikZainal,ER+ High,Primary
+CURTIS_H000436_T01_01_WT01,IE,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H000439_T01_01_WT01,IE,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H000441_T01_01_WT01,F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H000442_T01_01_WT01,IE,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H000444_T01_01_WT01,F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H000445_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H000446_T01_01_WT01,IE,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H000449_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H000450_T01_01_WT01,IE/F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H000451_T01_01_WT01,D,Primary,NikZainal,ER+ High,Primary
+CURTIS_H000453_T01_01_WT01,IE,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H000454_T01_01_WT01,IE/F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H000457_T01_01_WT01,IE,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H000460_T01_01_WT01,IE,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H000466_T01_01_WT01,IE,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H000467_T01_01_WT01,IE,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H000470_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H000474_T01_01_WT01,IE,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H000475_T01_01_WT01,F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H000477_T01_01_WT01,D,Primary,NikZainal,ER+ High,Primary
+CURTIS_H000478_T01_01_WT01,D,Primary,NikZainal,ER+ High,Primary
+CURTIS_H000481_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H000487_T01_01_WT01,D,Primary,NikZainal,HER2+,Primary
+CURTIS_H000488_T01_01_WT01,IE,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H000489_T01_01_WT01,D,Primary,NikZainal,ER+ High,Primary
+CURTIS_H000490_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H000491_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H000492_T01_01_WT01,F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H000496_T01_01_WT01,IE,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H000569_T01_01_WT01,D,Primary,NikZainal,IC10,Primary
+CURTIS_H000572_T01_01_WT01,IE,Primary,NikZainal,IC10,Primary
+CURTIS_H000582_T01_01_WT01,D,Primary,NikZainal,IC10,Primary
+CURTIS_H000583_T01_01_WT01,IE,Primary,NikZainal,IC10,Primary
+CURTIS_H001390_T01_01_WT01,D,Primary,NikZainal,IC10,Primary
+CURTIS_H001391_T01_01_WT01,IE/F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001392_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001393_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001394_T01_01_WT01,D,Primary,NikZainal,ER+ High,Primary
+CURTIS_H001395_T01_01_WT01,D,Primary,NikZainal,ER+ High,Primary
+CURTIS_H001396_T01_01_WT01,IE/F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001397_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001405_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001406_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001407_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001409_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001410_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001411_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001412_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001413_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001414_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001415_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001416_T01_01_WT01,IE,Primary,NikZainal,ER+ High,Primary
+CURTIS_H001417_T01_01_WT01,D,Primary,NikZainal,ER+ High,Primary
+CURTIS_H001418_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001419_T01_01_WT01,IE,Primary,NikZainal,ER+ High,Primary
+CURTIS_H001420_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001423_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001424_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001426_T01_01_WT01,IE/F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001427_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001428_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001430_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001431_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001432_T01_01_WT01,D,Primary,NikZainal,ER+ High,Primary
+CURTIS_H001433_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001435_T01_01_WT01,IE,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001436_T01_01_WT01,D,Primary,NikZainal,ER+ High,Primary
+CURTIS_H001438_T01_01_WT01,IE,Primary,NikZainal,ER+ High,Primary
+CURTIS_H001439_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001446_T01_01_WT01,IE,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001447_T01_01_WT01,F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001448_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001449_T01_01_WT01,IE,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001451_T01_01_WT01,IE,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001452_T01_01_WT01,D,Primary,NikZainal,ER+ High,Primary
+CURTIS_H001459_T01_01_WT01,IE,Primary,NikZainal,ER+ High,Primary
+CURTIS_H001460_T01_01_WT01,IE,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001468_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001469_T01_01_WT01,IE/F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001470_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001471_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001472_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001473_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001474_T01_01_WT01,IE/F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001475_T01_01_WT01,IE/F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001476_T01_01_WT01,IE,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001477_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001478_T01_01_WT01,D,Primary,NikZainal,ER+ High,Primary
+CURTIS_H001480_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001481_T01_01_WT01,F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001491_T01_01_WT01,F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001493_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001494_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001495_T01_01_WT01,F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001496_T01_01_WT01,F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001498_T01_01_WT01,F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001499_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001501_T01_01_WT01,IE,Primary,NikZainal,ER+ High,Primary
+CURTIS_H001502_T01_01_WT01,F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001507_T01_01_WT01,F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001512_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001514_T01_01_WT01,IE/F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001515_T01_01_WT01,F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001516_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001517_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001519_T01_01_WT01,D,Primary,NikZainal,ER+ High,Primary
+CURTIS_H001520_T01_01_WT01,IE,Primary,NikZainal,ER+ High,Primary
+CURTIS_H001521_T01_01_WT01,F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001522_T01_01_WT01,F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001523_T01_01_WT01,IE/F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001531_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001532_T01_01_WT01,D,Primary,NikZainal,ER+ High,Primary
+CURTIS_H001544_T01_01_WT01,F,Primary,NikZainal,IC4ER-,Primary
+CURTIS_H001561_T01_01_WT01,F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001565_T01_01_WT01,F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001567_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001568_T01_01_WT01,IE,Primary,NikZainal,ER+ High,Primary
+CURTIS_H001569_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001570_T01_01_WT01,IE,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001571_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001576_T01_01_WT01,F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001663_T01_01_WT01,F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001667_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001669_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001670_T01_01_WT01,IE,Primary,NikZainal,ER+ High,Primary
+CURTIS_H001671_T01_01_WT01,IE,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001674_T01_01_WT01,IE,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001675_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001678_T01_01_WT01,IE,Primary,NikZainal,ER+ High,Primary
+CURTIS_H001679_T01_01_WT01,F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001680_T01_01_WT01,IE,Primary,NikZainal,ER+ High,Primary
+CURTIS_H001685_T01_01_WT01,F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001686_T01_01_WT01,F,Primary,NikZainal,IC10,Primary
+CURTIS_H001691_T01_01_WT01,F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001692_T01_01_WT01,IE,Primary,NikZainal,ER+ High,Primary
+CURTIS_H001706_T01_01_WT01,IE,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001707_T01_01_WT01,IE/F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001708_T01_01_WT01,F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001711_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001713_T01_01_WT01,F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001714_T01_01_WT01,IE,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001715_T01_01_WT01,IE,Primary,NikZainal,ER+ High,Primary
+CURTIS_H001716_T01_01_WT01,IE,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001717_T01_01_WT01,IE,Primary,NikZainal,ER+ High,Primary
+CURTIS_H001724_T01_01_WT01,IE,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001725_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001726_T01_01_WT01,IE/F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001728_T01_01_WT01,D,Primary,NikZainal,ER+ High,Primary
+CURTIS_H001731_T01_01_WT01,F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001732_T01_01_WT01,F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001734_T01_01_WT01,IE/F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001738_T01_01_WT01,IE,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001740_T01_01_WT01,F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001743_T01_01_WT01,F,Primary,NikZainal,ER+ High,Primary
+CURTIS_H001744_T01_01_WT01,IE/F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001746_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001748_T01_01_WT01,IE/F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001751_T01_01_WT01,F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001752_T01_01_WT01,F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H001753_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H002031_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H002033_T01_01_WT01,D,Primary,NikZainal,IC10,Primary
+CURTIS_H002036_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H002037_T01_01_WT01,IE,Primary,NikZainal,IC10,Primary
+CURTIS_H002038_T01_01_WT01,IE,Primary,NikZainal,IC10,Primary
+CURTIS_H002039_T01_01_WT01,IE,Primary,NikZainal,IC10,Primary
+CURTIS_H002040_T01_01_WT01,IE,Primary,NikZainal,IC10,Primary
+CURTIS_H002041_T01_01_WT01,IE,Primary,NikZainal,IC10,Primary
+CURTIS_H002042_T01_01_WT01,D,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H002044_T01_01_WT01,IE/F,Primary,NikZainal,IC4ER-,Primary
+CURTIS_H002045_T01_01_WT01,IE,Primary,NikZainal,IC10,Primary
+CURTIS_H002046_T01_01_WT01,D,Primary,NikZainal,IC10,Primary
+CURTIS_H002047_T01_01_WT01,IE,Primary,NikZainal,IC4ER-,Primary
+CURTIS_H002048_T01_01_WT01,D,Primary,NikZainal,IC10,Primary
+CURTIS_H002064_T01_01_WT01,F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H002089_T01_01_WT01,IE/F,Primary,NikZainal,ER+ Typical,Primary
+CURTIS_H002092_T01_01_WT01,D,Primary,NikZainal,IC10,Primary
+CURTIS_H002093_T01_01_WT01,IE,Primary,NikZainal,IC10,Primary
+CURTIS_H002095_T01_01_WT01,F,Primary,NikZainal,IC10,Primary
+MB-0362,F,Primary,METABRIC,ER+ High,Primary
+MB-0346,D,Primary,METABRIC,HER2+,Primary
+MB-0386,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0574,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0503,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0641,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0201,F,Primary,METABRIC,HER2+,Primary
+MB-0218,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0316,IE,Primary,METABRIC,IC10,Primary
+MB-0189,F,Primary,METABRIC,ER+ High,Primary
+MB-0891,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0658,IE,Primary,METABRIC,IC10,Primary
+MB-0899,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0605,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0258,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0506,D,Primary,METABRIC,IC10,Primary
+MB-0420,F,Primary,METABRIC,IC10,Primary
+MB-0223,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0445,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0199,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0517,D,Primary,METABRIC,ER+ High,Primary
+MB-0155,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0428,IE,Primary,METABRIC,ER+ High,Primary
+MB-0117,IE/F,Primary,METABRIC,ER+ High,Primary
+MB-0906,IE/F,Primary,METABRIC,IC4ER-,Primary
+MB-0249,F,Primary,METABRIC,IC10,Primary
+MB-0660,F,Primary,METABRIC,IC10,Primary
+MB-0497,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0434,D,Primary,METABRIC,HER2+,Primary
+MB-0143,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0513,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0541,IE,Primary,METABRIC,ER+ High,Primary
+MB-0653,IE,Primary,METABRIC,IC10,Primary
+MB-0455,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0540,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0384,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0637,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0157,IE,Primary,METABRIC,IC10,Primary
+MB-0443,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0584,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0292,F,Primary,METABRIC,IC10,Primary
+MB-0322,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0501,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0401,F,Primary,METABRIC,ER+ High,Primary
+MB-0140,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0606,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0666,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0598,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0453,D,Primary,METABRIC,IC10,Primary
+MB-0138,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0579,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0471,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0619,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0171,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0310,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0621,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0614,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0372,IE,Primary,METABRIC,IC10,Primary
+MB-0374,F,Primary,METABRIC,ER+ High,Primary
+MB-0382,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0066,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0144,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0596,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0164,F,Primary,METABRIC,ER+ High,Primary
+MB-0215,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0146,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0229,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0505,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0102,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0569,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0516,F,Primary,METABRIC,IC4ER-,Primary
+MB-0272,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0585,F,Primary,METABRIC,ER+ High,Primary
+MB-0494,F,Primary,METABRIC,IC10,Primary
+MB-0306,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0463,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0198,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0203,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0607,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0631,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0363,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0427,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0519,IE,Primary,METABRIC,ER+ High,Primary
+MB-0371,F,Primary,METABRIC,HER2+,Primary
+MB-0380,IE,Primary,METABRIC,ER+ High,Primary
+MB-0221,IE,Primary,METABRIC,IC4ER-,Primary
+MB-0348,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0261,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0576,F,Primary,METABRIC,ER+ High,Primary
+MB-0385,IE,Primary,METABRIC,ER+ High,Primary
+MB-0659,D,Primary,METABRIC,IC4ER-,Primary
+MB-0270,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0379,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0527,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0624,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0273,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0050,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0460,IE/F,Primary,METABRIC,ER+ High,Primary
+MB-0654,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0454,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0392,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0336,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0467,D,Primary,METABRIC,HER2+,Primary
+MB-0349,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0378,D,Primary,METABRIC,HER2+,Primary
+MB-0176,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0429,D,Primary,METABRIC,ER+ High,Primary
+MB-0397,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0571,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0426,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0135,D,Primary,METABRIC,ER+ High,Primary
+MB-0112,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0352,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0644,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0601,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0568,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0328,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0325,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0358,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0413,IE/F,Primary,METABRIC,ER+ High,Primary
+MB-0636,F,Primary,METABRIC,ER+ High,Primary
+MB-0145,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0195,D,Primary,METABRIC,ER+ High,Primary
+MB-0422,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0483,IE,Primary,METABRIC,ER+ High,Primary
+MB-0317,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0486,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0139,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0257,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0345,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0375,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0419,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0480,D,Primary,METABRIC,ER+ High,Primary
+MB-0311,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0324,IE,Primary,METABRIC,ER+ High,Primary
+MB-0368,IE,Primary,METABRIC,ER+ High,Primary
+MB-0389,IE,Primary,METABRIC,HER2+,Primary
+MB-0248,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0035,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0904,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0119,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0650,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0204,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0184,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0600,D,Primary,METABRIC,ER+ High,Primary
+MB-0400,F,Primary,METABRIC,IC10,Primary
+MB-0511,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0500,F,Primary,METABRIC,IC10,Primary
+MB-0150,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0895,IE,Primary,METABRIC,HER2+,Primary
+MB-0366,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0173,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0131,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0206,IE,Primary,METABRIC,IC10,Primary
+MB-0315,F,Primary,METABRIC,ER+ High,Primary
+MB-0361,D,Primary,METABRIC,HER2+,Primary
+MB-0545,IE/F,Primary,METABRIC,ER+ High,Primary
+MB-0370,IE,Primary,METABRIC,ER+ High,Primary
+MB-0642,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0431,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0181,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0603,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0295,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0618,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0496,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0411,F,Primary,METABRIC,ER+ High,Primary
+MB-0285,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0360,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0359,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0344,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0583,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0202,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0485,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0609,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0538,F,Primary,METABRIC,ER+ High,Primary
+MB-0197,IE,Primary,METABRIC,ER+ High,Primary
+MB-0410,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0528,IE,Primary,METABRIC,ER+ High,Primary
+MB-0165,IE/F,Primary,METABRIC,HER2+,Primary
+MB-0152,IE/F,Primary,METABRIC,HER2+,Primary
+MB-0148,IE/F,Primary,METABRIC,HER2+,Primary
+MB-0594,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0521,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0532,IE,Primary,METABRIC,ER+ High,Primary
+MB-0536,IE,Primary,METABRIC,ER+ High,Primary
+MB-0319,D,Primary,METABRIC,ER+ High,Primary
+MB-0491,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0404,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0243,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0580,IE,Primary,METABRIC,ER+ High,Primary
+MB-0312,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0060,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0649,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0643,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0581,F,Primary,METABRIC,IC4ER-,Primary
+MB-0383,F,Primary,METABRIC,ER+ High,Primary
+MB-0142,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0320,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0207,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0167,IE,Primary,METABRIC,ER+ High,Primary
+MB-0591,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0613,F,Primary,METABRIC,IC4ER-,Primary
+MB-0313,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0599,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0286,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0575,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0214,F,Primary,METABRIC,IC10,Primary
+MB-0589,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0406,D,Primary,METABRIC,ER+ High,Primary
+MB-0452,F,Primary,METABRIC,ER+ High,Primary
+MB-0524,F,Primary,METABRIC,ER+ High,Primary
+MB-0880,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0573,IE/F,Primary,METABRIC,ER+ High,Primary
+MB-0664,F,Primary,METABRIC,IC10,Primary
+MB-0446,F,Primary,METABRIC,IC10,Primary
+MB-0656,IE,Primary,METABRIC,HER2+,Primary
+MB-0154,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0597,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0550,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0616,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0412,D,Primary,METABRIC,ER+ High,Primary
+MB-0122,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0425,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0314,D,Primary,METABRIC,HER2+,Primary
+MB-0356,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0440,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0398,IE,Primary,METABRIC,ER+ High,Primary
+MB-0438,IE,Primary,METABRIC,HER2+,Primary
+MB-0449,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0162,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0593,IE/F,Primary,METABRIC,HER2+,Primary
+MB-0301,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0628,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0106,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0341,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0474,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0394,F,Primary,METABRIC,ER+ High,Primary
+MB-0373,F,Primary,METABRIC,HER2+,Primary
+MB-0247,F,Primary,METABRIC,ER+ High,Primary
+MB-0225,D,Primary,METABRIC,HER2+,Primary
+MB-0424,F,Primary,METABRIC,IC4ER-,Primary
+MB-0209,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0115,IE,Primary,METABRIC,IC10,Primary
+MB-0136,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0542,IE,Primary,METABRIC,ER+ High,Primary
+MB-0354,IE/F,Primary,METABRIC,IC4ER-,Primary
+MB-0151,D,Primary,METABRIC,ER+ High,Primary
+MB-0590,IE,Primary,METABRIC,ER+ High,Primary
+MB-0608,IE,Primary,METABRIC,IC10,Primary
+MB-0657,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0559,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0893,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0514,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0395,IE,Primary,METABRIC,HER2+,Primary
+MB-0294,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0439,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0481,D,Primary,METABRIC,IC10,Primary
+MB-0529,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0224,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0302,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0126,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0220,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0192,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0121,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0239,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0364,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0232,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0884,IE,Primary,METABRIC,ER+ High,Primary
+MB-0238,IE,Primary,METABRIC,IC4ER-,Primary
+MB-0194,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0882,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0010,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0236,F,Primary,METABRIC,HER2+,Primary
+MB-0377,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0123,D,Primary,METABRIC,ER+ High,Primary
+MB-0504,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0475,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0321,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0482,F,Primary,METABRIC,IC4ER-,Primary
+MB-0101,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0662,IE,Primary,METABRIC,HER2+,Primary
+MB-0291,D,Primary,METABRIC,HER2+,Primary
+MB-0465,F,Primary,METABRIC,HER2+,Primary
+MB-0630,D,Primary,METABRIC,ER+ High,Primary
+MB-0036,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0166,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0180,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0525,F,Primary,METABRIC,IC10,Primary
+MB-0307,IE,Primary,METABRIC,HER2+,Primary
+MB-0002,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0466,F,Primary,METABRIC,ER+ High,Primary
+MB-0632,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0120,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0507,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0287,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0869,F,Primary,METABRIC,IC10,Primary
+MB-4633,F,Primary,METABRIC,ER+ Typical,Primary
+MB-4627,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4004,IE,Primary,METABRIC,ER+ High,Primary
+MB-4708,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-4618,IE,Primary,METABRIC,ER+ High,Primary
+MB-4641,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4622,IE,Primary,METABRIC,IC10,Primary
+MB-4634,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4688,IE,Primary,METABRIC,HER2+,Primary
+MB-4665,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4666,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4640,D,Primary,METABRIC,IC4ER-,Primary
+MB-4691,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4671,D,Primary,METABRIC,ER+ High,Primary
+MB-4667,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-4721,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4723,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4718,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4716,IE,Primary,METABRIC,ER+ High,Primary
+MB-4729,D,Primary,METABRIC,HER2+,Primary
+MB-4717,D,Primary,METABRIC,ER+ High,Primary
+MB-4724,IE,Primary,METABRIC,HER2+,Primary
+MB-4770,IE,Primary,METABRIC,IC10,Primary
+MB-4752,D,Primary,METABRIC,ER+ High,Primary
+MB-4762,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5169,F,Primary,METABRIC,ER+ Typical,Primary
+MB-4796,D,Primary,METABRIC,HER2+,Primary
+MB-4790,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4797,D,Primary,METABRIC,ER+ High,Primary
+MB-4800,D,Primary,METABRIC,ER+ High,Primary
+MB-5541,IE/F,Primary,METABRIC,ER+ High,Primary
+MB-5549,IE,Primary,METABRIC,ER+ High,Primary
+MB-5519,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5495,F,Primary,METABRIC,ER+ Typical,Primary
+MB-4832,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4745,D,Primary,METABRIC,HER2+,Primary
+MB-4825,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4814,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4757,IE,Primary,METABRIC,IC10,Primary
+MB-4694,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-4698,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-4715,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-4685,D,Primary,METABRIC,ER+ High,Primary
+MB-4712,D,Primary,METABRIC,ER+ High,Primary
+MB-4672,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4704,D,Primary,METABRIC,ER+ High,Primary
+MB-4655,IE,Primary,METABRIC,ER+ High,Primary
+MB-4651,D,Primary,METABRIC,ER+ High,Primary
+MB-4661,D,Primary,METABRIC,ER+ High,Primary
+MB-4649,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4642,D,Primary,METABRIC,ER+ High,Primary
+MB-4674,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4648,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5197,D,Primary,METABRIC,ER+ High,Primary
+MB-5152,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5201,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5189,F,Primary,METABRIC,ER+ High,Primary
+MB-5281,D,Primary,METABRIC,IC10,Primary
+MB-5212,IE,Primary,METABRIC,HER2+,Primary
+MB-5183,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5185,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5014,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4994,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5017,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-4982,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5004,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-4986,D,Primary,METABRIC,ER+ High,Primary
+MB-5327,D,Primary,METABRIC,HER2+,Primary
+MB-5341,D,Primary,METABRIC,ER+ High,Primary
+MB-5323,IE,Primary,METABRIC,IC4ER-,Primary
+MB-5328,IE,Primary,METABRIC,ER+ High,Primary
+MB-5318,D,Primary,METABRIC,HER2+,Primary
+MB-5287,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5324,F,Primary,METABRIC,ER+ Typical,Primary
+MB-4682,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-4710,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4701,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-4709,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4686,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-4706,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-4719,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4702,D,Primary,METABRIC,ER+ High,Primary
+MB-4908,D,Primary,METABRIC,HER2+,Primary
+MB-4871,D,Primary,METABRIC,HER2+,Primary
+MB-4906,D,Primary,METABRIC,ER+ High,Primary
+MB-4911,IE,Primary,METABRIC,IC4ER-,Primary
+MB-4866,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4858,D,Primary,METABRIC,HER2+,Primary
+MB-4862,D,Primary,METABRIC,ER+ High,Primary
+MB-4872,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-4887,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4867,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-4888,F,Primary,METABRIC,IC10,Primary
+MB-4929,D,Primary,METABRIC,HER2+,Primary
+MB-4945,D,Primary,METABRIC,ER+ High,Primary
+MB-4930,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4894,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4898,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4670,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5013,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4977,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-4967,F,Primary,METABRIC,ER+ Typical,Primary
+MB-4981,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-4003,IE,Primary,METABRIC,ER+ High,Primary
+MB-4968,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5052,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5049,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5041,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5044,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5072,D,Primary,METABRIC,IC4ER-,Primary
+MB-4171,IE,Primary,METABRIC,ER+ High,Primary
+MB-5053,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5045,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5116,D,Primary,METABRIC,ER+ High,Primary
+MB-5120,D,Primary,METABRIC,HER2+,Primary
+MB-5074,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5119,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5114,IE,Primary,METABRIC,HER2+,Primary
+MB-4230,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-4154,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5115,IE,Primary,METABRIC,IC10,Primary
+MB-4737,D,Primary,METABRIC,ER+ High,Primary
+MB-4764,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-4735,F,Primary,METABRIC,ER+ Typical,Primary
+MB-4730,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4733,IE,Primary,METABRIC,IC4ER-,Primary
+MB-4758,D,Primary,METABRIC,ER+ High,Primary
+MB-5033,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4741,D,Primary,METABRIC,ER+ High,Primary
+MB-4732,IE,Primary,METABRIC,IC10,Primary
+MB-5305,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5256,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5273,D,Primary,METABRIC,ER+ High,Primary
+MB-5236,IE,Primary,METABRIC,IC10,Primary
+MB-5238,IE/F,Primary,METABRIC,HER2+,Primary
+MB-5233,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5244,D,Primary,METABRIC,ER+ High,Primary
+MB-5253,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5260,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4998,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4993,F,Primary,METABRIC,IC4ER-,Primary
+MB-5001,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5084,F,Primary,METABRIC,ER+ Typical,Primary
+MB-4969,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4999,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5011,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-4959,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-4599,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4616,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4623,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4644,D,Primary,METABRIC,HER2+,Primary
+MB-4869,F,Primary,METABRIC,ER+ Typical,Primary
+MB-4878,D,Primary,METABRIC,HER2+,Primary
+MB-4851,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4233,D,Primary,METABRIC,ER+ High,Primary
+MB-4937,D,Primary,METABRIC,ER+ High,Primary
+MB-4934,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-4899,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-4912,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4935,IE,Primary,METABRIC,ER+ High,Primary
+MB-4933,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-4900,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4941,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5221,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5139,IE,Primary,METABRIC,ER+ High,Primary
+MB-5222,IE,Primary,METABRIC,IC4ER-,Primary
+MB-5097,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5338,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5315,IE,Primary,METABRIC,HER2+,Primary
+MB-5195,IE/F,Primary,METABRIC,HER2+,Primary
+MB-5226,D,Primary,METABRIC,ER+ High,Primary
+MB-5232,F,Primary,METABRIC,IC10,Primary
+MB-5160,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5126,IE,Primary,METABRIC,ER+ High,Primary
+MB-5124,D,Primary,METABRIC,ER+ High,Primary
+MB-4855,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5279,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4173,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5145,IE/F,Primary,METABRIC,ER+ High,Primary
+MB-4944,D,Primary,METABRIC,ER+ High,Primary
+MB-4961,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5121,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4956,D,Primary,METABRIC,ER+ High,Primary
+MB-4886,F,Primary,METABRIC,HER2+,Primary
+MB-4950,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4965,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4962,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4952,IE,Primary,METABRIC,IC4ER-,Primary
+MB-5267,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5266,IE,Primary,METABRIC,ER+ High,Primary
+MB-5396,D,Primary,METABRIC,ER+ High,Primary
+MB-4938,F,Primary,METABRIC,IC10,Primary
+MB-5351,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5347,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5312,IE,Primary,METABRIC,HER2+,Primary
+MB-5311,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5284,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-4148,IE,Primary,METABRIC,ER+ High,Primary
+MB-5078,IE,Primary,METABRIC,HER2+,Primary
+MB-5088,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5064,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5107,IE,Primary,METABRIC,ER+ High,Primary
+MB-5066,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5068,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5061,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5070,IE,Primary,METABRIC,IC10,Primary
+MB-5059,F,Primary,METABRIC,ER+ Typical,Primary
+MB-4266,D,Primary,METABRIC,ER+ High,Primary
+MB-4276,D,Primary,METABRIC,HER2+,Primary
+MB-4771,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-4739,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5331,D,Primary,METABRIC,ER+ High,Primary
+MB-4743,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-4785,F,Primary,METABRIC,ER+ Typical,Primary
+MB-4778,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-4763,IE,Primary,METABRIC,IC4ER-,Primary
+MB-4779,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-4849,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4787,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-4767,IE,Primary,METABRIC,ER+ High,Primary
+MB-4784,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5043,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4992,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5020,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5019,D,Primary,METABRIC,IC10,Primary
+MB-5015,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5048,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5035,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5398,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5377,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5291,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5403,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5224,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5369,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5404,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5397,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5378,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5388,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5395,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5365,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5389,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5393,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5361,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5392,IE/F,Primary,METABRIC,IC4ER-,Primary
+MB-5147,F,Primary,METABRIC,HER2+,Primary
+MB-4140,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5138,IE,Primary,METABRIC,IC10,Primary
+MB-5123,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5065,IE,Primary,METABRIC,IC10,Primary
+MB-4127,D,Primary,METABRIC,HER2+,Primary
+MB-5058,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5050,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5027,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5060,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5062,IE,Primary,METABRIC,HER2+,Primary
+MB-5383,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5101,D,Primary,METABRIC,ER+ High,Primary
+MB-5258,D,Primary,METABRIC,IC10,Primary
+MB-5268,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5261,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5272,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5264,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5259,IE,Primary,METABRIC,HER2+,Primary
+MB-5306,D,Primary,METABRIC,ER+ High,Primary
+MB-5270,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5411,D,Primary,METABRIC,HER2+,Primary
+MB-5490,D,Primary,METABRIC,ER+ High,Primary
+MB-5421,IE/F,Primary,METABRIC,IC10,Primary
+MB-5348,IE,Primary,METABRIC,IC4ER-,Primary
+MB-5429,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5405,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5414,IE,Primary,METABRIC,HER2+,Primary
+MB-5489,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5481,D,Primary,METABRIC,ER+ High,Primary
+MB-5409,IE,Primary,METABRIC,IC4ER-,Primary
+MB-5299,IE,Primary,METABRIC,IC10,Primary
+MB-5408,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5475,D,Primary,METABRIC,ER+ High,Primary
+MB-5505,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5100,IE,Primary,METABRIC,IC4ER-,Primary
+MB-5502,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5485,D,Primary,METABRIC,ER+ High,Primary
+MB-4293,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4289,D,Primary,METABRIC,ER+ High,Primary
+MB-5293,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5381,D,Primary,METABRIC,IC4ER-,Primary
+MB-4834,D,Primary,METABRIC,ER+ High,Primary
+MB-5498,F,Primary,METABRIC,ER+ Typical,Primary
+MB-4749,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4818,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4805,F,Primary,METABRIC,ER+ Typical,Primary
+MB-4809,IE,Primary,METABRIC,IC10,Primary
+MB-5418,D,Primary,METABRIC,HER2+,Primary
+MB-5441,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5424,IE,Primary,METABRIC,ER+ High,Primary
+MB-5296,IE/F,Primary,METABRIC,HER2+,Primary
+MB-5446,F,Primary,METABRIC,IC4ER-,Primary
+MB-5093,D,Primary,METABRIC,ER+ High,Primary
+MB-5350,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5230,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5206,D,Primary,METABRIC,ER+ High,Primary
+MB-4687,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5433,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5442,D,Primary,METABRIC,IC10,Primary
+MB-5427,D,Primary,METABRIC,ER+ High,Primary
+MB-5491,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5493,D,Primary,METABRIC,ER+ High,Primary
+MB-5451,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5454,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5360,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5229,IE/F,Primary,METABRIC,HER2+,Primary
+MB-4827,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5455,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5370,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5290,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5366,D,Primary,METABRIC,HER2+,Primary
+MB-5382,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5402,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5288,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5384,D,Primary,METABRIC,ER+ High,Primary
+MB-5358,F,Primary,METABRIC,ER+ Typical,Primary
+MB-4357,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-4991,D,Primary,METABRIC,ER+ High,Primary
+MB-5401,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5390,D,Primary,METABRIC,IC10,Primary
+MB-5412,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5193,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5182,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5157,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5205,IE,Primary,METABRIC,ER+ High,Primary
+MB-5161,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5292,D,Primary,METABRIC,HER2+,Primary
+MB-5211,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5218,D,Primary,METABRIC,ER+ High,Primary
+MB-5209,IE,Primary,METABRIC,IC4ER-,Primary
+MB-5227,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5213,IE/F,Primary,METABRIC,IC4ER-,Primary
+MB-5166,D,Primary,METABRIC,HER2+,Primary
+MB-5163,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5188,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5143,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5329,F,Primary,METABRIC,ER+ High,Primary
+MB-5322,D,Primary,METABRIC,ER+ High,Primary
+MB-5310,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-4000,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5240,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5228,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5117,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5176,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5215,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5223,IE/F,Primary,METABRIC,ER+ High,Primary
+MB-5179,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5330,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5144,D,Primary,METABRIC,ER+ High,Primary
+MB-5196,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5200,D,Primary,METABRIC,ER+ High,Primary
+MB-5583,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5601,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5632,D,Primary,METABRIC,ER+ High,Primary
+MB-5616,IE,Primary,METABRIC,IC10,Primary
+MB-5604,D,Primary,METABRIC,ER+ High,Primary
+MB-5589,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5582,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5571,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5596,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5590,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5599,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5629,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5579,IE/F,Primary,METABRIC,ER+ High,Primary
+MB-5623,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5654,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5617,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5638,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5635,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5642,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5647,D,Primary,METABRIC,ER+ High,Primary
+MB-4018,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5584,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5626,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5602,IE,Primary,METABRIC,IC10,Primary
+MB-5653,D,Primary,METABRIC,ER+ High,Primary
+MB-5576,D,Primary,METABRIC,ER+ High,Primary
+MB-5575,D,Primary,METABRIC,ER+ High,Primary
+MB-5646,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5634,IE,Primary,METABRIC,IC10,Primary
+MB-5591,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5567,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5651,IE,Primary,METABRIC,IC10,Primary
+MB-5603,IE,Primary,METABRIC,ER+ High,Primary
+MB-5622,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5597,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5613,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5580,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5645,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5548,IE,Primary,METABRIC,IC10,Primary
+MB-5526,IE,Primary,METABRIC,IC10,Primary
+MB-5531,IE/F,Primary,METABRIC,IC10,Primary
+MB-5468,D,Primary,METABRIC,IC10,Primary
+MB-5474,IE,Primary,METABRIC,HER2+,Primary
+MB-5514,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5510,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5473,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5484,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5432,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5525,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5562,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5497,D,Primary,METABRIC,ER+ High,Primary
+MB-5551,D,Primary,METABRIC,IC10,Primary
+MB-5300,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5560,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5550,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5520,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5529,IE,Primary,METABRIC,IC10,Primary
+MB-5554,IE/F,Primary,METABRIC,ER+ High,Primary
+MB-4421,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4408,IE,Primary,METABRIC,IC10,Primary
+MB-4146,IE,Primary,METABRIC,IC4ER-,Primary
+MB-5534,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5521,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5482,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5483,IE/F,Primary,METABRIC,HER2+,Primary
+MB-5532,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5556,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5518,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5486,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5511,D,Primary,METABRIC,IC10,Primary
+MB-5422,D,Primary,METABRIC,ER+ High,Primary
+MB-5535,IE/F,Primary,METABRIC,HER2+,Primary
+MB-5477,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5472,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5540,IE,Primary,METABRIC,ER+ High,Primary
+MB-5184,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5294,D,Primary,METABRIC,IC4ER-,Primary
+MB-5565,IE,Primary,METABRIC,IC10,Primary
+MB-5040,D,Primary,METABRIC,ER+ High,Primary
+MB-4801,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5499,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5459,D,Primary,METABRIC,HER2+,Primary
+MB-5243,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4120,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4966,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5457,F,Primary,METABRIC,ER+ Typical,Primary
+MB-4011,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5478,IE,Primary,METABRIC,ER+ High,Primary
+MB-4822,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-4017,D,Primary,METABRIC,ER+ High,Primary
+MB-5018,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4791,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5118,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4806,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4970,D,Primary,METABRIC,ER+ Typical,Primary
+MB-2964,F,Primary,METABRIC,HER2+,Primary
+MB-2963,F,Primary,METABRIC,ER+ High,Primary
+MB-2957,IE,Primary,METABRIC,IC10,Primary
+MB-2954,D,Primary,METABRIC,ER+ Typical,Primary
+MB-2916,F,Primary,METABRIC,ER+ Typical,Primary
+MB-2725,F,Primary,METABRIC,ER+ Typical,Primary
+MB-2711,F,Primary,METABRIC,ER+ Typical,Primary
+MB-2730,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-2669,F,Primary,METABRIC,ER+ High,Primary
+MB-2705,D,Primary,METABRIC,ER+ Typical,Primary
+MB-2728,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-2708,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-2735,D,Primary,METABRIC,ER+ High,Primary
+MB-3035,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-3064,F,Primary,METABRIC,ER+ Typical,Primary
+MB-3060,F,Primary,METABRIC,ER+ High,Primary
+MB-3049,F,Primary,METABRIC,ER+ High,Primary
+MB-3037,F,Primary,METABRIC,ER+ Typical,Primary
+MB-3063,F,Primary,METABRIC,IC10,Primary
+MB-3083,IE,Primary,METABRIC,ER+ High,Primary
+MB-3046,D,Primary,METABRIC,IC10,Primary
+MB-3067,IE,Primary,METABRIC,IC10,Primary
+MB-3351,F,Primary,METABRIC,ER+ Typical,Primary
+MB-3367,IE,Primary,METABRIC,IC4ER-,Primary
+MB-3361,D,Primary,METABRIC,HER2+,Primary
+MB-3412,F,Primary,METABRIC,ER+ Typical,Primary
+MB-3371,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-3429,F,Primary,METABRIC,ER+ Typical,Primary
+MB-3360,D,Primary,METABRIC,HER2+,Primary
+MB-3403,F,Primary,METABRIC,ER+ Typical,Primary
+MB-3350,D,Primary,METABRIC,ER+ Typical,Primary
+MB-3355,IE/F,Primary,METABRIC,HER2+,Primary
+MB-3329,F,Primary,METABRIC,IC10,Primary
+MB-3467,F,Primary,METABRIC,HER2+,Primary
+MB-3341,D,Primary,METABRIC,ER+ Typical,Primary
+MB-3298,F,Primary,METABRIC,ER+ Typical,Primary
+MB-3357,D,Primary,METABRIC,ER+ High,Primary
+MB-3388,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-3365,F,Primary,METABRIC,ER+ Typical,Primary
+MB-2749,F,Primary,METABRIC,ER+ Typical,Primary
+MB-2754,F,Primary,METABRIC,ER+ Typical,Primary
+MB-2752,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-2745,D,Primary,METABRIC,ER+ Typical,Primary
+MB-2747,F,Primary,METABRIC,ER+ Typical,Primary
+MB-2760,F,Primary,METABRIC,ER+ Typical,Primary
+MB-2742,F,Primary,METABRIC,HER2+,Primary
+MB-2750,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-2753,D,Primary,METABRIC,IC10,Primary
+MB-2966,D,Primary,METABRIC,ER+ Typical,Primary
+MB-2953,F,Primary,METABRIC,ER+ Typical,Primary
+MB-2969,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-3014,IE,Primary,METABRIC,IC10,Primary
+MB-2947,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-2951,IE,Primary,METABRIC,ER+ High,Primary
+MB-2960,F,Primary,METABRIC,ER+ High,Primary
+MB-2970,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-2971,F,Primary,METABRIC,ER+ Typical,Primary
+MB-2933,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-3479,F,Primary,METABRIC,ER+ Typical,Primary
+MB-3490,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-3487,IE,Primary,METABRIC,ER+ High,Primary
+MB-3459,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-3476,IE,Primary,METABRIC,IC10,Primary
+MB-3492,D,Primary,METABRIC,ER+ Typical,Primary
+MB-3452,F,Primary,METABRIC,ER+ High,Primary
+MB-3303,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-3328,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-3300,D,Primary,METABRIC,ER+ High,Primary
+MB-3277,IE,Primary,METABRIC,IC10,Primary
+MB-3254,F,Primary,METABRIC,ER+ Typical,Primary
+MB-3275,F,Primary,METABRIC,ER+ High,Primary
+MB-3272,IE,Primary,METABRIC,HER2+,Primary
+MB-3271,IE,Primary,METABRIC,IC10,Primary
+MB-3292,IE,Primary,METABRIC,IC4ER-,Primary
+MB-3840,D,Primary,METABRIC,ER+ High,Primary
+MB-2536,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-2564,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-2513,F,Primary,METABRIC,HER2+,Primary
+MB-2617,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-2614,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-2632,IE,Primary,METABRIC,HER2+,Primary
+MB-2556,F,Primary,METABRIC,ER+ Typical,Primary
+MB-2624,F,Primary,METABRIC,ER+ Typical,Primary
+MB-2867,F,Primary,METABRIC,ER+ Typical,Primary
+MB-2922,IE,Primary,METABRIC,IC4ER-,Primary
+MB-2917,F,Primary,METABRIC,IC10,Primary
+MB-2858,D,Primary,METABRIC,ER+ High,Primary
+MB-2854,D,Primary,METABRIC,ER+ High,Primary
+MB-2853,D,Primary,METABRIC,ER+ High,Primary
+MB-3235,D,Primary,METABRIC,HER2+,Primary
+MB-3165,D,Primary,METABRIC,ER+ High,Primary
+MB-3171,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-3167,D,Primary,METABRIC,ER+ Typical,Primary
+MB-3222,F,Primary,METABRIC,ER+ Typical,Primary
+MB-3706,IE,Primary,METABRIC,IC10,Primary
+MB-3497,IE/F,Primary,METABRIC,HER2+,Primary
+MB-3488,D,Primary,METABRIC,HER2+,Primary
+MB-3711,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-3548,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-3506,D,Primary,METABRIC,ER+ High,Primary
+MB-3525,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-3606,D,Primary,METABRIC,HER2+,Primary
+MB-3453,F,Primary,METABRIC,IC10,Primary
+MB-3545,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-3470,D,Primary,METABRIC,HER2+,Primary
+MB-2765,F,Primary,METABRIC,ER+ Typical,Primary
+MB-2763,F,Primary,METABRIC,ER+ Typical,Primary
+MB-2767,F,Primary,METABRIC,ER+ High,Primary
+MB-2790,F,Primary,METABRIC,ER+ Typical,Primary
+MB-2769,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-2842,IE,Primary,METABRIC,IC10,Primary
+MB-2772,F,Primary,METABRIC,ER+ High,Primary
+MB-2779,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-2774,F,Primary,METABRIC,ER+ Typical,Primary
+MB-2983,D,Primary,METABRIC,HER2+,Primary
+MB-3005,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-2977,F,Primary,METABRIC,ER+ Typical,Primary
+MB-2996,F,Primary,METABRIC,ER+ Typical,Primary
+MB-2999,D,Primary,METABRIC,ER+ Typical,Primary
+MB-2994,F,Primary,METABRIC,HER2+,Primary
+MB-3025,D,Primary,METABRIC,HER2+,Primary
+MB-2984,IE,Primary,METABRIC,HER2+,Primary
+MB-3002,F,Primary,METABRIC,ER+ Typical,Primary
+MB-2845,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-2912,IE,Primary,METABRIC,IC10,Primary
+MB-2844,F,Primary,METABRIC,ER+ High,Primary
+MB-2847,D,Primary,METABRIC,HER2+,Primary
+MB-2849,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-2851,F,Primary,METABRIC,ER+ Typical,Primary
+MB-2848,F,Primary,METABRIC,ER+ Typical,Primary
+MB-2863,F,Primary,METABRIC,ER+ Typical,Primary
+MB-2840,F,Primary,METABRIC,ER+ Typical,Primary
+MB-2843,IE/F,Primary,METABRIC,ER+ High,Primary
+MB-3013,F,Primary,METABRIC,ER+ Typical,Primary
+MB-3058,F,Primary,METABRIC,IC10,Primary
+MB-3016,D,Primary,METABRIC,ER+ Typical,Primary
+MB-3057,IE,Primary,METABRIC,IC10,Primary
+MB-3008,F,Primary,METABRIC,ER+ Typical,Primary
+MB-3021,D,Primary,METABRIC,ER+ Typical,Primary
+MB-3032,F,Primary,METABRIC,ER+ Typical,Primary
+MB-3007,D,Primary,METABRIC,ER+ High,Primary
+MB-3033,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-3026,F,Primary,METABRIC,ER+ High,Primary
+MB-3006,F,Primary,METABRIC,ER+ Typical,Primary
+MB-3439,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-3437,D,Primary,METABRIC,ER+ Typical,Primary
+MB-3395,IE/F,Primary,METABRIC,IC10,Primary
+MB-3386,IE,Primary,METABRIC,HER2+,Primary
+MB-3382,D,Primary,METABRIC,HER2+,Primary
+MB-3379,F,Primary,METABRIC,HER2+,Primary
+MB-3430,D,Primary,METABRIC,ER+ Typical,Primary
+MB-3389,D,Primary,METABRIC,ER+ High,Primary
+MB-3378,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-3110,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-3079,D,Primary,METABRIC,ER+ Typical,Primary
+MB-3103,D,Primary,METABRIC,HER2+,Primary
+MB-3102,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-3085,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-3122,IE,Primary,METABRIC,ER+ High,Primary
+MB-3104,D,Primary,METABRIC,ER+ Typical,Primary
+MB-3123,F,Primary,METABRIC,ER+ High,Primary
+MB-3121,D,Primary,METABRIC,ER+ Typical,Primary
+MB-2835,D,Primary,METABRIC,ER+ Typical,Primary
+MB-2838,D,Primary,METABRIC,ER+ Typical,Primary
+MB-2801,D,Primary,METABRIC,ER+ Typical,Primary
+MB-2834,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-2796,F,Primary,METABRIC,ER+ Typical,Primary
+MB-2857,IE,Primary,METABRIC,IC10,Primary
+MB-2819,F,Primary,METABRIC,ER+ Typical,Primary
+MB-2781,D,Primary,METABRIC,ER+ Typical,Primary
+MB-2793,D,Primary,METABRIC,ER+ Typical,Primary
+MB-2827,IE,Primary,METABRIC,IC10,Primary
+MB-2814,D,Primary,METABRIC,ER+ Typical,Primary
+MB-2791,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-2803,D,Primary,METABRIC,ER+ Typical,Primary
+MB-2797,D,Primary,METABRIC,ER+ High,Primary
+MB-2795,IE,Primary,METABRIC,ER+ High,Primary
+MB-2786,F,Primary,METABRIC,HER2+,Primary
+MB-3850,F,Primary,METABRIC,HER2+,Primary
+MB-3556,IE,Primary,METABRIC,ER+ High,Primary
+MB-3838,D,Primary,METABRIC,ER+ Typical,Primary
+MB-3707,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-3600,IE,Primary,METABRIC,ER+ High,Primary
+MB-3824,D,Primary,METABRIC,ER+ High,Primary
+MB-3781,F,Primary,METABRIC,ER+ Typical,Primary
+MB-2642,F,Primary,METABRIC,ER+ High,Primary
+MB-2686,IE,Primary,METABRIC,ER+ High,Primary
+MB-2616,F,Primary,METABRIC,ER+ Typical,Primary
+MB-2634,D,Primary,METABRIC,ER+ Typical,Primary
+MB-2613,IE,Primary,METABRIC,ER+ High,Primary
+MB-3842,IE,Primary,METABRIC,ER+ High,Primary
+MB-3866,F,Primary,METABRIC,HER2+,Primary
+MB-3874,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-3871,F,Primary,METABRIC,ER+ Typical,Primary
+MB-3702,IE/F,Primary,METABRIC,IC10,Primary
+MB-3105,D,Primary,METABRIC,ER+ Typical,Primary
+MB-3852,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-3854,F,Primary,METABRIC,ER+ High,Primary
+MB-3865,F,Primary,METABRIC,ER+ Typical,Primary
+MB-3228,F,Primary,METABRIC,ER+ Typical,Primary
+MB-3028,IE,Primary,METABRIC,ER+ High,Primary
+MB-3502,IE,Primary,METABRIC,IC10,Primary
+MB-3567,IE,Primary,METABRIC,IC10,Primary
+MB-3752,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-3450,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0444,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0476,IE/F,Primary,METABRIC,IC4ER-,Primary
+MB-0610,IE,Primary,METABRIC,ER+ High,Primary
+MB-0451,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0133,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0005,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0048,IE,Primary,METABRIC,HER2+,Primary
+MB-0083,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0053,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0056,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0068,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0093,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0079,D,Primary,METABRIC,IC10,Primary
+MB-0108,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0006,D,Primary,METABRIC,ER+ High,Primary
+MB-0014,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0022,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0039,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0062,IE,Primary,METABRIC,IC10,Primary
+MB-0054,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0081,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0064,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0107,D,Primary,METABRIC,ER+ High,Primary
+MB-4681,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-4626,D,Primary,METABRIC,ER+ High,Primary
+MB-4639,D,Primary,METABRIC,ER+ High,Primary
+MB-4673,IE,Primary,METABRIC,ER+ High,Primary
+MB-4711,IE,Primary,METABRIC,IC4ER-,Primary
+MB-4607,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4669,D,Primary,METABRIC,ER+ High,Primary
+MB-4015,D,Primary,METABRIC,IC4ER-,Primary
+MB-2931,F,Primary,METABRIC,ER+ Typical,Primary
+MB-2927,IE,Primary,METABRIC,ER+ High,Primary
+MB-2919,F,Primary,METABRIC,ER+ Typical,Primary
+MB-2944,F,Primary,METABRIC,ER+ Typical,Primary
+MB-2929,IE/F,Primary,METABRIC,IC10,Primary
+MB-2932,D,Primary,METABRIC,ER+ High,Primary
+MB-2724,IE,Primary,METABRIC,IC4ER-,Primary
+MB-2712,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-3062,IE/F,Primary,METABRIC,IC10,Primary
+MB-3050,D,Primary,METABRIC,ER+ High,Primary
+MB-4722,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4731,D,Primary,METABRIC,HER2+,Primary
+MB-4725,IE,Primary,METABRIC,HER2+,Primary
+MB-4707,D,Primary,METABRIC,IC10,Primary
+MB-4643,D,Primary,METABRIC,HER2+,Primary
+MB-3363,D,Primary,METABRIC,ER+ Typical,Primary
+MB-3383,F,Primary,METABRIC,IC10,Primary
+MB-3344,D,Primary,METABRIC,ER+ Typical,Primary
+MB-3381,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-3297,IE,Primary,METABRIC,IC10,Primary
+MB-3301,F,Primary,METABRIC,ER+ Typical,Primary
+MB-3088,D,Primary,METABRIC,ER+ Typical,Primary
+MB-2764,F,Primary,METABRIC,ER+ Typical,Primary
+MB-2744,F,Primary,METABRIC,ER+ Typical,Primary
+MB-7114,IE,Primary,METABRIC,IC10,Primary
+MB-7118,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7113,F,Primary,METABRIC,ER+ Typical,Primary
+MB-7130,D,Primary,METABRIC,ER+ High,Primary
+MB-7149,D,Primary,METABRIC,ER+ High,Primary
+MB-7140,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7208,IE,Primary,METABRIC,IC10,Primary
+MB-7170,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-7174,IE,Primary,METABRIC,ER+ High,Primary
+MB-7252,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-7244,F,Primary,METABRIC,ER+ Typical,Primary
+MB-7187,F,Primary,METABRIC,IC4ER-,Primary
+MB-7251,IE,Primary,METABRIC,HER2+,Primary
+MB-7173,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-3001,IE,Primary,METABRIC,IC10,Primary
+MB-2952,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7097,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7104,IE,Primary,METABRIC,ER+ High,Primary
+MB-7099,D,Primary,METABRIC,ER+ High,Primary
+MB-7069,IE,Primary,METABRIC,HER2+,Primary
+MB-7066,D,Primary,METABRIC,IC10,Primary
+MB-7100,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7067,IE/F,Primary,METABRIC,HER2+,Primary
+MB-7073,D,Primary,METABRIC,HER2+,Primary
+MB-7063,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-7102,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7068,IE,Primary,METABRIC,ER+ High,Primary
+MB-7075,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7053,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7074,F,Primary,METABRIC,ER+ Typical,Primary
+MB-7057,IE/F,Primary,METABRIC,IC4ER-,Primary
+MB-7109,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7051,D,Primary,METABRIC,ER+ High,Primary
+MB-7071,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-7106,F,Primary,METABRIC,ER+ High,Primary
+MB-7059,D,Primary,METABRIC,HER2+,Primary
+MB-7107,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7076,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7111,IE,Primary,METABRIC,ER+ High,Primary
+MB-7015,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7026,F,Primary,METABRIC,ER+ Typical,Primary
+MB-7013,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7023,F,Primary,METABRIC,IC10,Primary
+MB-7024,IE,Primary,METABRIC,ER+ High,Primary
+MB-7014,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-7017,IE,Primary,METABRIC,IC10,Primary
+MB-7019,F,Primary,METABRIC,ER+ Typical,Primary
+MB-3510,D,Primary,METABRIC,ER+ Typical,Primary
+MB-3500,F,Primary,METABRIC,IC4ER-,Primary
+MB-3396,F,Primary,METABRIC,IC10,Primary
+MB-3435,IE,Primary,METABRIC,HER2+,Primary
+MB-7186,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7142,D,Primary,METABRIC,ER+ High,Primary
+MB-7196,D,Primary,METABRIC,ER+ High,Primary
+MB-7171,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7145,D,Primary,METABRIC,IC10,Primary
+MB-7132,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-7189,D,Primary,METABRIC,ER+ High,Primary
+MB-7137,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-7181,D,Primary,METABRIC,ER+ High,Primary
+MB-7155,IE,Primary,METABRIC,IC10,Primary
+MB-7138,D,Primary,METABRIC,ER+ Typical,Primary
+MB-3295,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-3218,IE,Primary,METABRIC,IC10,Primary
+MB-7232,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7281,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-7270,IE,Primary,METABRIC,IC10,Primary
+MB-7231,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7220,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7277,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7269,IE,Primary,METABRIC,IC10,Primary
+MB-7280,F,Primary,METABRIC,ER+ High,Primary
+MB-7227,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-7278,D,Primary,METABRIC,ER+ Typical,Primary
+MB-2610,D,Primary,METABRIC,ER+ Typical,Primary
+MB-2517,IE/F,Primary,METABRIC,HER2+,Primary
+MB-2896,F,Primary,METABRIC,ER+ High,Primary
+MB-2901,D,Primary,METABRIC,ER+ Typical,Primary
+MB-2895,IE/F,Primary,METABRIC,IC4ER-,Primary
+MB-2900,F,Primary,METABRIC,ER+ Typical,Primary
+MB-2939,D,Primary,METABRIC,HER2+,Primary
+MB-7008,F,Primary,METABRIC,IC4ER-,Primary
+MB-7002,F,Primary,METABRIC,ER+ Typical,Primary
+MB-7000,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7006,F,Primary,METABRIC,ER+ Typical,Primary
+MB-7007,F,Primary,METABRIC,IC4ER-,Primary
+MB-7011,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7001,F,Primary,METABRIC,HER2+,Primary
+MB-7009,F,Primary,METABRIC,IC10,Primary
+MB-7003,F,Primary,METABRIC,ER+ Typical,Primary
+MB-7005,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-7010,D,Primary,METABRIC,ER+ Typical,Primary
+MB-3153,IE,Primary,METABRIC,IC10,Primary
+MB-3211,IE,Primary,METABRIC,IC10,Primary
+MB-3181,D,Primary,METABRIC,ER+ Typical,Primary
+MB-3252,F,Primary,METABRIC,ER+ Typical,Primary
+MB-3266,F,Primary,METABRIC,ER+ Typical,Primary
+MB-7082,IE,Primary,METABRIC,HER2+,Primary
+MB-7081,IE,Primary,METABRIC,IC4ER-,Primary
+MB-7093,F,Primary,METABRIC,ER+ Typical,Primary
+MB-7083,IE,Primary,METABRIC,ER+ High,Primary
+MB-7091,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7065,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7085,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7096,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-7018,IE/F,Primary,METABRIC,ER+ High,Primary
+MB-7088,IE,Primary,METABRIC,HER2+,Primary
+MB-7055,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7080,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-7161,IE,Primary,METABRIC,ER+ High,Primary
+MB-7115,D,Primary,METABRIC,HER2+,Primary
+MB-7123,IE,Primary,METABRIC,ER+ High,Primary
+MB-7176,F,Primary,METABRIC,ER+ Typical,Primary
+MB-7121,IE,Primary,METABRIC,IC4ER-,Primary
+MB-7172,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7164,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7127,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7128,IE/F,Primary,METABRIC,HER2+,Primary
+MB-7157,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7092,IE,Primary,METABRIC,ER+ High,Primary
+MB-7135,D,Primary,METABRIC,HER2+,Primary
+MB-3754,F,Primary,METABRIC,ER+ High,Primary
+MB-3536,IE,Primary,METABRIC,ER+ High,Primary
+MB-3748,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-3530,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-3582,F,Primary,METABRIC,IC4ER-,Primary
+MB-3528,IE,Primary,METABRIC,HER2+,Primary
+MB-3576,D,Primary,METABRIC,ER+ High,Primary
+MB-2770,D,Primary,METABRIC,ER+ Typical,Primary
+MB-2758,IE/F,Primary,METABRIC,HER2+,Primary
+MB-2771,D,Primary,METABRIC,IC10,Primary
+MB-7152,D,Primary,METABRIC,ER+ High,Primary
+MB-7143,D,Primary,METABRIC,HER2+,Primary
+MB-7197,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7153,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7144,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7185,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7199,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7158,IE/F,Primary,METABRIC,IC4ER-,Primary
+MB-7163,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-7215,F,Primary,METABRIC,ER+ Typical,Primary
+MB-7200,F,Primary,METABRIC,ER+ Typical,Primary
+MB-7193,D,Primary,METABRIC,ER+ High,Primary
+MB-7198,D,Primary,METABRIC,ER+ High,Primary
+MB-7256,IE/F,Primary,METABRIC,HER2+,Primary
+MB-7258,D,Primary,METABRIC,IC10,Primary
+MB-7194,D,Primary,METABRIC,ER+ High,Primary
+MB-7254,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7262,IE,Primary,METABRIC,ER+ High,Primary
+MB-2990,D,Primary,METABRIC,ER+ Typical,Primary
+MB-2993,F,Primary,METABRIC,ER+ High,Primary
+MB-3031,IE,Primary,METABRIC,IC4ER-,Primary
+MB-2904,IE,Primary,METABRIC,IC10,Primary
+MB-2846,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-7154,IE,Primary,METABRIC,IC10,Primary
+MB-7229,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7151,D,Primary,METABRIC,IC10,Primary
+MB-7228,F,Primary,METABRIC,ER+ Typical,Primary
+MB-7218,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7147,D,Primary,METABRIC,ER+ High,Primary
+MB-7219,F,Primary,METABRIC,ER+ Typical,Primary
+MB-7165,IE,Primary,METABRIC,IC10,Primary
+MB-7150,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-3436,D,Primary,METABRIC,ER+ High,Primary
+MB-3462,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-3417,D,Primary,METABRIC,ER+ Typical,Primary
+MB-2721,D,Primary,METABRIC,IC4ER-,Primary
+MB-3092,D,Primary,METABRIC,ER+ Typical,Primary
+MB-2821,F,Primary,METABRIC,IC4ER-,Primary
+MB-2850,IE,Primary,METABRIC,IC4ER-,Primary
+MB-2820,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-2823,IE,Primary,METABRIC,HER2+,Primary
+MB-2792,F,Primary,METABRIC,ER+ High,Primary
+MB-7273,IE,Primary,METABRIC,IC4ER-,Primary
+MB-7283,D,Primary,METABRIC,ER+ High,Primary
+MB-7284,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7279,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-7233,F,Primary,METABRIC,ER+ Typical,Primary
+MB-7287,IE,Primary,METABRIC,HER2+,Primary
+MB-7250,IE,Primary,METABRIC,IC4ER-,Primary
+MB-7238,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7285,F,Primary,METABRIC,ER+ Typical,Primary
+MB-7260,D,Primary,METABRIC,HER2+,Primary
+MB-7264,IE,Primary,METABRIC,ER+ High,Primary
+MB-7268,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7276,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-7212,F,Primary,METABRIC,ER+ Typical,Primary
+MB-7267,IE,Primary,METABRIC,IC10,Primary
+MB-7266,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7216,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7195,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7201,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-7217,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-2778,F,Primary,METABRIC,ER+ Typical,Primary
+MB-2815,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-2833,IE,Primary,METABRIC,IC4ER-,Primary
+MB-3614,D,Primary,METABRIC,ER+ High,Primary
+MB-7052,IE,Primary,METABRIC,ER+ High,Primary
+MB-7124,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7122,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-7133,D,Primary,METABRIC,ER+ High,Primary
+MB-7084,IE,Primary,METABRIC,IC10,Primary
+MB-7101,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7116,IE/F,Primary,METABRIC,ER+ High,Primary
+MB-7131,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7090,D,Primary,METABRIC,IC10,Primary
+MB-7095,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7094,IE,Primary,METABRIC,ER+ High,Primary
+MB-7087,IE,Primary,METABRIC,IC10,Primary
+MB-7077,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-7072,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7041,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-7044,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-7022,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7070,IE/F,Primary,METABRIC,ER+ High,Primary
+MB-7079,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-7035,D,Primary,METABRIC,HER2+,Primary
+MB-7025,IE/F,Primary,METABRIC,IC4ER-,Primary
+MB-7062,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-7036,IE,Primary,METABRIC,IC10,Primary
+MB-7046,D,Primary,METABRIC,ER+ High,Primary
+MB-4839,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5559,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5463,IE,Primary,METABRIC,ER+ High,Primary
+MB-4744,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4769,D,Primary,METABRIC,IC10,Primary
+MB-4484,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5558,D,Primary,METABRIC,HER2+,Primary
+MB-4750,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4793,IE,Primary,METABRIC,IC10,Primary
+MB-4843,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5563,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5513,D,Primary,METABRIC,ER+ High,Primary
+MB-5656,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5530,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5553,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4836,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4828,D,Primary,METABRIC,ER+ High,Primary
+MB-4697,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-4679,IE,Primary,METABRIC,IC10,Primary
+MB-4033,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-4692,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4675,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4653,F,Primary,METABRIC,ER+ Typical,Primary
+MB-4663,D,Primary,METABRIC,HER2+,Primary
+MB-4660,D,Primary,METABRIC,IC10,Primary
+MB-5275,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-4654,D,Primary,METABRIC,ER+ Typical,Primary
+MB-2618,D,Primary,METABRIC,ER+ Typical,Primary
+MB-2718,IE,Primary,METABRIC,IC10,Primary
+MB-2643,F,Primary,METABRIC,IC4ER-,Primary
+MB-2629,D,Primary,METABRIC,ER+ Typical,Primary
+MB-2645,D,Primary,METABRIC,ER+ Typical,Primary
+MB-2626,F,Primary,METABRIC,ER+ High,Primary
+MB-6263,F,Primary,METABRIC,ER+ Typical,Primary
+MB-6305,IE,Primary,METABRIC,HER2+,Primary
+MB-6185,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6187,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-6248,F,Primary,METABRIC,IC10,Primary
+MB-6330,IE,Primary,METABRIC,HER2+,Primary
+MB-6184,IE,Primary,METABRIC,ER+ High,Primary
+MB-6283,F,Primary,METABRIC,ER+ Typical,Primary
+MB-6359,F,Primary,METABRIC,ER+ High,Primary
+MB-6337,D,Primary,METABRIC,HER2+,Primary
+MB-6256,F,Primary,METABRIC,ER+ Typical,Primary
+MB-6201,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6207,F,Primary,METABRIC,ER+ Typical,Primary
+MB-6194,F,Primary,METABRIC,ER+ Typical,Primary
+MB-6281,D,Primary,METABRIC,ER+ High,Primary
+MB-6322,F,Primary,METABRIC,ER+ Typical,Primary
+MB-6223,IE,Primary,METABRIC,IC10,Primary
+MB-6190,F,Primary,METABRIC,ER+ Typical,Primary
+MB-6306,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6188,IE,Primary,METABRIC,IC10,Primary
+MB-6318,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-6228,IE/F,Primary,METABRIC,IC4ER-,Primary
+MB-6226,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-6225,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-6280,IE,Primary,METABRIC,IC10,Primary
+MB-6253,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6098,D,Primary,METABRIC,IC10,Primary
+MB-6017,F,Primary,METABRIC,ER+ Typical,Primary
+MB-6019,IE/F,Primary,METABRIC,ER+ High,Primary
+MB-6163,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6157,IE,Primary,METABRIC,HER2+,Primary
+MB-6179,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6105,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-6047,IE,Primary,METABRIC,ER+ High,Primary
+MB-6001,IE,Primary,METABRIC,ER+ High,Primary
+MB-6050,F,Primary,METABRIC,ER+ Typical,Primary
+MB-6169,IE/F,Primary,METABRIC,HER2+,Primary
+MB-4548,IE,Primary,METABRIC,IC4ER-,Primary
+MB-4564,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4591,D,Primary,METABRIC,ER+ High,Primary
+MB-4557,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-4601,IE/F,Primary,METABRIC,HER2+,Primary
+MB-4598,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4578,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4593,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5186,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-4974,IE,Primary,METABRIC,IC10,Primary
+MB-4978,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5086,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5150,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5345,F,Primary,METABRIC,ER+ Typical,Primary
+MB-4696,D,Primary,METABRIC,IC10,Primary
+MB-4695,F,Primary,METABRIC,ER+ Typical,Primary
+MB-4714,IE,Primary,METABRIC,IC10,Primary
+MB-4705,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-4882,F,Primary,METABRIC,ER+ Typical,Primary
+MB-4879,D,Primary,METABRIC,HER2+,Primary
+MB-4881,D,Primary,METABRIC,IC10,Primary
+MB-4846,IE,Primary,METABRIC,HER2+,Primary
+MB-4870,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4224,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4845,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4904,IE,Primary,METABRIC,IC4ER-,Primary
+MB-4865,D,Primary,METABRIC,IC10,Primary
+MB-4876,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-4860,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5081,D,Primary,METABRIC,ER+ High,Primary
+MB-4897,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-4925,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-4883,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4896,IE,Primary,METABRIC,HER2+,Primary
+MB-4987,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4416,IE,Primary,METABRIC,IC4ER-,Primary
+MB-4374,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4407,D,Primary,METABRIC,IC10,Primary
+MB-5039,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-4119,D,Primary,METABRIC,ER+ High,Primary
+MB-4091,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5079,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5073,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5105,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4254,IE,Primary,METABRIC,IC10,Primary
+MB-5174,D,Primary,METABRIC,HER2+,Primary
+MB-4742,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5239,D,Primary,METABRIC,ER+ High,Primary
+MB-5251,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4996,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4282,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4603,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4621,D,Primary,METABRIC,IC10,Primary
+MB-4853,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-4362,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4222,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4893,IE,Primary,METABRIC,IC4ER-,Primary
+MB-4859,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-4212,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4873,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4942,IE,Primary,METABRIC,IC10,Primary
+MB-4949,IE,Primary,METABRIC,ER+ High,Primary
+MB-4928,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5098,D,Primary,METABRIC,ER+ High,Primary
+MB-5313,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-4145,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5122,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5278,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4213,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-4126,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-4957,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5470,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5317,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5308,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-4976,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5277,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5110,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4046,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4012,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4141,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-4001,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-4792,F,Primary,METABRIC,IC10,Primary
+MB-4738,F,Primary,METABRIC,ER+ Typical,Primary
+MB-4264,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-4794,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-4782,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5008,D,Primary,METABRIC,IC10,Primary
+MB-4426,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-4390,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-4434,D,Primary,METABRIC,ER+ High,Primary
+MB-4368,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4442,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4418,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4381,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4395,D,Primary,METABRIC,ER+ High,Primary
+MB-4630,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6010,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-6021,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6059,IE/F,Primary,METABRIC,IC4ER-,Primary
+MB-6154,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6097,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6107,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-6023,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6152,IE,Primary,METABRIC,IC10,Primary
+MB-6018,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6082,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-6029,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5295,D,Primary,METABRIC,IC10,Primary
+MB-5386,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5092,F,Primary,METABRIC,ER+ Typical,Primary
+MB-6068,F,Primary,METABRIC,IC10,Primary
+MB-6039,IE,Primary,METABRIC,ER+ High,Primary
+MB-6022,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6125,F,Primary,METABRIC,ER+ Typical,Primary
+MB-6053,D,Primary,METABRIC,ER+ High,Primary
+MB-6135,D,Primary,METABRIC,ER+ High,Primary
+MB-6042,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-6058,IE,Primary,METABRIC,IC10,Primary
+MB-6077,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-6052,IE/F,Primary,METABRIC,IC4ER-,Primary
+MB-5368,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4189,IE,Primary,METABRIC,ER+ High,Primary
+MB-5335,D,Primary,METABRIC,IC10,Primary
+MB-4008,D,Primary,METABRIC,ER+ High,Primary
+MB-5134,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4139,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5130,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5135,D,Primary,METABRIC,IC10,Primary
+MB-4880,IE,Primary,METABRIC,IC10,Primary
+MB-5054,IE/F,Primary,METABRIC,IC4ER-,Primary
+MB-5057,D,Primary,METABRIC,IC10,Primary
+MB-4098,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4760,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5102,D,Primary,METABRIC,IC10,Primary
+MB-5420,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5458,D,Primary,METABRIC,HER2+,Primary
+MB-5492,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5407,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5410,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5435,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5406,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-4329,F,Primary,METABRIC,ER+ Typical,Primary
+MB-4005,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-6288,F,Primary,METABRIC,ER+ High,Primary
+MB-6272,IE,Primary,METABRIC,IC10,Primary
+MB-6218,IE,Primary,METABRIC,ER+ High,Primary
+MB-6246,IE,Primary,METABRIC,HER2+,Primary
+MB-6217,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6308,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-6271,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6245,D,Primary,METABRIC,IC10,Primary
+MB-6233,F,Primary,METABRIC,ER+ Typical,Primary
+MB-4343,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-4281,D,Primary,METABRIC,ER+ High,Primary
+MB-4283,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4341,D,Primary,METABRIC,HER2+,Primary
+MB-4303,IE,Primary,METABRIC,IC10,Primary
+MB-4274,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4292,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4278,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5399,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5364,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-3526,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-6138,F,Primary,METABRIC,ER+ Typical,Primary
+MB-6049,D,Primary,METABRIC,HER2+,Primary
+MB-6055,IE,Primary,METABRIC,IC4ER-,Primary
+MB-6108,F,Primary,METABRIC,ER+ Typical,Primary
+MB-6044,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6181,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6100,D,Primary,METABRIC,HER2+,Primary
+MB-6085,IE,Primary,METABRIC,HER2+,Primary
+MB-6113,F,Primary,METABRIC,HER2+,Primary
+MB-6079,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6103,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-6016,F,Primary,METABRIC,ER+ Typical,Primary
+MB-6149,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6131,IE,Primary,METABRIC,IC10,Primary
+MB-6007,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6147,F,Primary,METABRIC,ER+ Typical,Primary
+MB-6114,IE,Primary,METABRIC,ER+ High,Primary
+MB-6167,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-6146,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-6092,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-6160,IE,Primary,METABRIC,IC4ER-,Primary
+MB-6075,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6011,D,Primary,METABRIC,ER+ High,Primary
+MB-6071,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-6214,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6334,D,Primary,METABRIC,HER2+,Primary
+MB-6346,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6319,F,Primary,METABRIC,ER+ Typical,Primary
+MB-6200,F,Primary,METABRIC,ER+ High,Primary
+MB-6336,IE,Primary,METABRIC,IC4ER-,Primary
+MB-6211,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-6232,F,Primary,METABRIC,ER+ Typical,Primary
+MB-6234,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-6300,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5533,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5543,F,Primary,METABRIC,ER+ Typical,Primary
+MB-4236,IE,Primary,METABRIC,ER+ High,Primary
+MB-4234,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4270,IE,Primary,METABRIC,HER2+,Primary
+MB-4235,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4250,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4323,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4318,D,Primary,METABRIC,ER+ High,Primary
+MB-4333,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4339,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4322,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4351,IE,Primary,METABRIC,IC10,Primary
+MB-5063,D,Primary,METABRIC,HER2+,Primary
+MB-4360,IE,Primary,METABRIC,HER2+,Primary
+MB-4375,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4798,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4746,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4838,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4829,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-4802,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5426,IE,Primary,METABRIC,HER2+,Primary
+MB-5444,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5431,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5447,D,Primary,METABRIC,ER+ High,Primary
+MB-5434,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5231,D,Primary,METABRIC,HER2+,Primary
+MB-5339,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5208,D,Primary,METABRIC,IC10,Primary
+MB-5428,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5440,IE,Primary,METABRIC,IC10,Primary
+MB-5425,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5298,IE,Primary,METABRIC,IC10,Primary
+MB-5334,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5326,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-4059,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-6150,F,Primary,METABRIC,ER+ Typical,Primary
+MB-6014,F,Primary,METABRIC,ER+ Typical,Primary
+MB-6145,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6012,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6024,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-6124,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6171,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6060,IE,Primary,METABRIC,ER+ High,Primary
+MB-6008,D,Primary,METABRIC,ER+ High,Primary
+MB-6036,IE,Primary,METABRIC,HER2+,Primary
+MB-6144,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5346,IE,Primary,METABRIC,IC10,Primary
+MB-5373,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-6178,IE/F,Primary,METABRIC,IC10,Primary
+MB-6063,D,Primary,METABRIC,HER2+,Primary
+MB-6062,IE,Primary,METABRIC,IC10,Primary
+MB-6069,F,Primary,METABRIC,ER+ Typical,Primary
+MB-6141,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6118,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-6065,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6006,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-6048,IE,Primary,METABRIC,ER+ High,Primary
+MB-6116,IE,Primary,METABRIC,HER2+,Primary
+MB-4310,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4300,IE,Primary,METABRIC,ER+ High,Primary
+MB-4417,IE,Primary,METABRIC,IC4ER-,Primary
+MB-4079,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-4317,IE,Primary,METABRIC,HER2+,Primary
+MB-4350,IE,Primary,METABRIC,HER2+,Primary
+MB-4332,IE,Primary,METABRIC,IC10,Primary
+MB-4324,D,Primary,METABRIC,ER+ High,Primary
+MB-4306,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7226,D,Primary,METABRIC,ER+ High,Primary
+MB-7205,IE/F,Primary,METABRIC,IC10,Primary
+MB-7160,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7159,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7167,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7207,IE,Primary,METABRIC,ER+ High,Primary
+MB-7237,IE/F,Primary,METABRIC,ER+ High,Primary
+MB-7241,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7236,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7168,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-7162,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-7235,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4331,D,Primary,METABRIC,ER+ High,Primary
+MB-4353,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4354,IE,Primary,METABRIC,ER+ High,Primary
+MB-4328,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4348,D,Primary,METABRIC,HER2+,Primary
+MB-6030,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6133,F,Primary,METABRIC,ER+ Typical,Primary
+MB-6083,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6026,D,Primary,METABRIC,ER+ High,Primary
+MB-6168,F,Primary,METABRIC,ER+ Typical,Primary
+MB-6101,F,Primary,METABRIC,ER+ Typical,Primary
+MB-6156,IE,Primary,METABRIC,HER2+,Primary
+MB-6051,F,Primary,METABRIC,ER+ Typical,Primary
+MB-6182,IE,Primary,METABRIC,HER2+,Primary
+MB-6080,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-6143,F,Primary,METABRIC,ER+ High,Primary
+MB-6164,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0551,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0391,IE,Primary,METABRIC,IC4ER-,Primary
+MB-0367,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5171,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5199,IE/F,Primary,METABRIC,HER2+,Primary
+MB-5177,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5178,F,Primary,METABRIC,ER+ High,Primary
+MB-5280,D,Primary,METABRIC,ER+ High,Primary
+MB-5148,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-4342,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5225,IE,Primary,METABRIC,IC4ER-,Primary
+MB-4024,D,Primary,METABRIC,IC10,Primary
+MB-6314,IE,Primary,METABRIC,HER2+,Primary
+MB-6257,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6358,F,Primary,METABRIC,HER2+,Primary
+MB-6242,IE,Primary,METABRIC,IC10,Primary
+MB-6237,F,Primary,METABRIC,IC10,Primary
+MB-6183,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6254,D,Primary,METABRIC,ER+ High,Primary
+MB-6231,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6204,F,Primary,METABRIC,ER+ Typical,Primary
+MB-6229,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5154,IE/F,Primary,METABRIC,IC4ER-,Primary
+MB-5175,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5173,F,Primary,METABRIC,IC10,Primary
+MB-5162,F,Primary,METABRIC,IC4ER-,Primary
+MB-5164,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-7253,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-7298,IE,Primary,METABRIC,ER+ High,Primary
+MB-7299,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-7293,F,Primary,METABRIC,ER+ Typical,Primary
+MB-3978,D,Primary,METABRIC,HER2+,Primary
+MB-7288,D,Primary,METABRIC,ER+ Typical,Primary
+MB-2923,D,Primary,METABRIC,HER2+,Primary
+MB-0402,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0381,D,Primary,METABRIC,HER2+,Primary
+MB-5271,IE,Primary,METABRIC,ER+ High,Primary
+MB-5235,D,Primary,METABRIC,IC10,Primary
+MB-4931,IE,Primary,METABRIC,IC4ER-,Primary
+MB-7045,IE,Primary,METABRIC,IC4ER-,Primary
+MB-7049,D,Primary,METABRIC,IC4ER-,Primary
+MB-7031,IE,Primary,METABRIC,IC10,Primary
+MB-7061,F,Primary,METABRIC,ER+ Typical,Primary
+MB-7050,D,Primary,METABRIC,HER2+,Primary
+MB-7078,D,Primary,METABRIC,IC4ER-,Primary
+MB-7054,IE,Primary,METABRIC,IC10,Primary
+MB-7048,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-7058,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7056,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7038,D,Primary,METABRIC,IC10,Primary
+MB-7086,IE,Primary,METABRIC,ER+ High,Primary
+MB-0177,F,Primary,METABRIC,ER+ High,Primary
+MB-0399,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0388,IE/F,Primary,METABRIC,HER2+,Primary
+MB-0615,IE/F,Primary,METABRIC,HER2+,Primary
+MB-0265,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0116,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0472,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0191,IE,Primary,METABRIC,IC10,Primary
+MB-0231,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0558,F,Primary,METABRIC,IC4ER-,Primary
+MB-0393,IE,Primary,METABRIC,ER+ High,Primary
+MB-0553,D,Primary,METABRIC,HER2+,Primary
+MB-0587,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0611,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0640,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0114,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0222,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0284,F,Primary,METABRIC,IC10,Primary
+MB-0459,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0128,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0639,F,Primary,METABRIC,IC10,Primary
+MB-0318,D,Primary,METABRIC,IC4ER-,Primary
+MB-0417,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6238,F,Primary,METABRIC,ER+ Typical,Primary
+MB-6286,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-6328,D,Primary,METABRIC,ER+ High,Primary
+MB-6284,F,Primary,METABRIC,ER+ High,Primary
+MB-6363,F,Primary,METABRIC,HER2+,Primary
+MB-6224,IE,Primary,METABRIC,HER2+,Primary
+MB-6297,F,Primary,METABRIC,ER+ Typical,Primary
+MB-6239,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-6208,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-6273,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6344,F,Primary,METABRIC,ER+ High,Primary
+MB-6312,IE,Primary,METABRIC,ER+ High,Primary
+MB-6212,F,Primary,METABRIC,ER+ Typical,Primary
+MB-6302,D,Primary,METABRIC,ER+ High,Primary
+MB-6327,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6287,D,Primary,METABRIC,ER+ High,Primary
+MB-6251,D,Primary,METABRIC,IC10,Primary
+MB-0489,IE/F,Primary,METABRIC,IC4ER-,Primary
+MB-0342,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-7289,F,Primary,METABRIC,ER+ Typical,Primary
+MB-7291,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-7243,F,Primary,METABRIC,ER+ Typical,Primary
+MB-3466,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7286,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7292,D,Primary,METABRIC,ER+ High,Primary
+MB-7275,F,Primary,METABRIC,HER2+,Primary
+MB-7295,F,Primary,METABRIC,ER+ Typical,Primary
+MB-7297,IE,Primary,METABRIC,ER+ High,Primary
+MB-7294,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7296,D,Primary,METABRIC,HER2+,Primary
+MB-3402,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5113,D,Primary,METABRIC,ER+ High,Primary
+MB-5450,F,Primary,METABRIC,IC10,Primary
+MB-7032,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7037,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7040,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-7020,F,Primary,METABRIC,HER2+,Primary
+MB-7042,F,Primary,METABRIC,ER+ Typical,Primary
+MB-7043,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-7028,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7029,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-7027,IE/F,Primary,METABRIC,ER+ High,Primary
+MB-7060,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7034,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5191,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5214,IE,Primary,METABRIC,ER+ High,Primary
+MB-5204,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5155,F,Primary,METABRIC,IC4ER-,Primary
+MB-5190,IE,Primary,METABRIC,HER2+,Primary
+MB-5592,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0437,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0028,D,Primary,METABRIC,ER+ High,Primary
+MB-0309,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0100,D,Primary,METABRIC,IC4ER-,Primary
+MB-5572,IE,Primary,METABRIC,IC4ER-,Primary
+MB-5655,D,Primary,METABRIC,IC10,Primary
+MB-5577,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5620,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5652,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0537,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0544,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0468,D,Primary,METABRIC,ER+ High,Primary
+MB-0205,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0233,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0200,IE,Primary,METABRIC,IC10,Primary
+MB-0244,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5588,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-5628,IE,Primary,METABRIC,HER2+,Primary
+MB-5633,IE,Primary,METABRIC,IC4ER-,Primary
+MB-0253,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0226,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0278,D,Primary,METABRIC,IC10,Primary
+MB-0266,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0577,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0531,F,Primary,METABRIC,IC4ER-,Primary
+MB-0245,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5641,D,Primary,METABRIC,ER+ High,Primary
+MB-5640,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0534,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0230,D,Primary,METABRIC,HER2+,Primary
+MB-0109,IE,Primary,METABRIC,ER+ High,Primary
+MB-0304,D,Primary,METABRIC,ER+ High,Primary
+MB-0369,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0627,IE/F,Primary,METABRIC,IC4ER-,Primary
+MB-0492,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0147,D,Primary,METABRIC,ER+ High,Primary
+MB-0442,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0111,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0634,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0280,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0490,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0178,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0242,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5624,IE,Primary,METABRIC,IC10,Primary
+MB-5593,IE,Primary,METABRIC,HER2+,Primary
+MB-4010,D,Primary,METABRIC,ER+ High,Primary
+MB-5605,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5636,D,Primary,METABRIC,ER+ High,Primary
+MB-4529,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-5566,IE/F,Primary,METABRIC,IC10,Primary
+MB-0268,D,Primary,METABRIC,ER+ High,Primary
+MB-0275,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0045,IE,Primary,METABRIC,IC4ER-,Primary
+MB-0414,IE,Primary,METABRIC,IC10,Primary
+MB-0259,D,Primary,METABRIC,ER+ High,Primary
+MB-0396,IE,Primary,METABRIC,IC10,Primary
+MB-0874,IE,Primary,METABRIC,IC10,Primary
+MB-0179,IE/F,Primary,METABRIC,IC4ER-,Primary
+MB-0526,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0586,F,Primary,METABRIC,ER+ High,Primary
+MB-0508,IE/F,Primary,METABRIC,ER+ High,Primary
+MB-0288,IE/F,Primary,METABRIC,HER2+,Primary
+MB-0269,F,Primary,METABRIC,IC4ER-,Primary
+MB-0582,D,Primary,METABRIC,IC10,Primary
+MB-0901,IE,Primary,METABRIC,ER+ High,Primary
+MB-0000,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0535,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0469,IE,Primary,METABRIC,ER+ High,Primary
+MB-0478,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0170,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0464,IE,Primary,METABRIC,IC10,Primary
+MB-0421,F,Primary,METABRIC,HER2+,Primary
+MB-0623,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0241,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0163,D,Primary,METABRIC,IC10,Primary
+MB-0149,D,Primary,METABRIC,IC10,Primary
+MB-0350,D,Primary,METABRIC,ER+ High,Primary
+MB-0512,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0046,D,Primary,METABRIC,HER2+,Primary
+MB-0134,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0495,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0470,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0872,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0661,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0339,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0264,F,Primary,METABRIC,ER+ High,Primary
+MB-0175,F,Primary,METABRIC,ER+ High,Primary
+MB-0303,IE,Primary,METABRIC,IC10,Primary
+MB-0172,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0125,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0340,F,Primary,METABRIC,IC10,Primary
+MB-0234,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0487,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0305,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0502,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0663,F,Primary,METABRIC,HER2+,Primary
+MB-0130,IE/F,Primary,METABRIC,HER2+,Primary
+MB-0289,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0129,F,Primary,METABRIC,HER2+,Primary
+MB-0343,F,Primary,METABRIC,ER+ High,Primary
+MB-0458,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0570,IE,Primary,METABRIC,ER+ High,Primary
+MB-0488,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0655,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0235,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0484,D,Primary,METABRIC,ER+ High,Primary
+MB-0436,F,Primary,METABRIC,IC10,Primary
+MB-0877,D,Primary,METABRIC,ER+ High,Primary
+MB-0097,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0897,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0095,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0227,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0353,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0522,D,Primary,METABRIC,HER2+,Primary
+MB-0646,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0293,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0552,IE/F,Primary,METABRIC,ER+ High,Primary
+MB-0260,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0256,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0626,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0211,F,Primary,METABRIC,ER+ High,Primary
+MB-0124,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0510,F,Primary,METABRIC,ER+ High,Primary
+MB-0365,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0290,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0113,D,Primary,METABRIC,HER2+,Primary
+MB-0620,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0282,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0228,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0578,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0479,D,Primary,METABRIC,HER2+,Primary
+MB-0263,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0509,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0279,IE/F,Primary,METABRIC,ER+ Typical,Primary
+MB-0168,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0588,IE/F,Primary,METABRIC,IC4ER-,Primary
+MB-0462,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0262,IE,Primary,METABRIC,ER+ High,Primary
+MB-0554,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0418,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0193,D,Primary,METABRIC,ER+ Typical,Primary
+MB-0652,IE,Primary,METABRIC,HER2+,Primary
+MB-0638,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0188,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-0617,F,Primary,METABRIC,ER+ Typical,Primary
+MB-7225,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7141,F,Primary,METABRIC,ER+ Typical,Primary
+MB-7234,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7089,IE,Primary,METABRIC,IC10,Primary
+MB-7030,F,Primary,METABRIC,ER+ Typical,Primary
+MB-7004,F,Primary,METABRIC,ER+ Typical,Primary
+MB-7119,IE,Primary,METABRIC,IC10,Primary
+MB-7263,D,Primary,METABRIC,ER+ High,Primary
+MB-7012,F,Primary,METABRIC,IC10,Primary
+MB-0174,F,Primary,METABRIC,IC10,Primary
+MB-7182,F,Primary,METABRIC,ER+ High,Primary
+MB-7039,F,Primary,METABRIC,ER+ Typical,Primary
+MB-3797,D,Primary,METABRIC,ER+ Typical,Primary
+MB-7112,F,Primary,METABRIC,ER+ Typical,Primary
+MB-0308,F,Primary,METABRIC,ER+ Typical,Primary
+MB-7230,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5452,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6195,F,Primary,METABRIC,ER+ Typical,Primary
+MB-6317,D,Primary,METABRIC,ER+ High,Primary
+MB-5464,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5552,IE,Primary,METABRIC,ER+ High,Primary
+MB-5547,D,Primary,METABRIC,IC10,Primary
+MB-6189,D,Primary,METABRIC,ER+ Typical,Primary
+MB-6122,F,Primary,METABRIC,ER+ Typical,Primary
+MB-6192,D,Primary,METABRIC,ER+ Typical,Primary
+MB-4820,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5527,IE,Primary,METABRIC,IC4ER-,Primary
+MB-5167,D,Primary,METABRIC,ER+ Typical,Primary
+MB-5465,D,Primary,METABRIC,IC10,Primary
+MB-5453,IE/F,Primary,METABRIC,IC4ER-,Primary
+MB-5471,F,Primary,METABRIC,ER+ Typical,Primary
+MB-5127,IE,Primary,METABRIC,ER+ Typical,Primary
+MB-4313,D,Primary,METABRIC,ER+ Typical,Primary

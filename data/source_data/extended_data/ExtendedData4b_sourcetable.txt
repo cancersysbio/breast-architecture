@@ -1,0 +1,13 @@
+any_complex	group	Freq	prop	stage	stage_code	amp_code	index	gindex
+complex	HER2+/ER-	2	0.0714285714285714	primary	a	e	HER2+/ER-_a	a_e
+cyclic	HER2+/ER-	18	0.642857142857143	primary	a	d	HER2+/ER-_a	a_d
+none	HER2+/ER-	8	0.285714285714286	primary	a	f	HER2+/ER-_a	a_f
+complex	HER2+/ER+	7	0.170731707317073	primary	a	e	HER2+/ER+_a	a_e
+cyclic	HER2+/ER+	29	0.707317073170732	primary	a	d	HER2+/ER+_a	a_d
+none	HER2+/ER+	5	0.121951219512195	primary	a	f	HER2+/ER+_a	a_f
+complex	HER2+/ER-	3	0.157894736842105	metastatic	b	e	HER2+/ER-_b	b_e
+cyclic	HER2+/ER-	13	0.684210526315789	metastatic	b	d	HER2+/ER-_b	b_d
+none	HER2+/ER-	3	0.157894736842105	metastatic	b	f	HER2+/ER-_b	b_f
+complex	HER2+/ER+	9	0.28125	metastatic	b	e	HER2+/ER+_b	b_e
+cyclic	HER2+/ER+	20	0.625	metastatic	b	d	HER2+/ER+_b	b_d
+none	HER2+/ER+	3	0.09375	metastatic	b	f	HER2+/ER+_b	b_f
