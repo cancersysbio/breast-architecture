@@ -8,9 +8,9 @@ This GitHub repository contains the following folders:
 └─ data/: directory containing input data and source data to reproduce figures
 |  └─ input_data/: input data
 |  └─ source_data/: source data to reproduce figures
-|  |  └─ extended_data/: source data for extended data figs
-|  |  └─ figures/: source data for main figs
-|  |  └─ supplementary_figure/: source data for supplementary figs
+|     └─ extended_data/: source data for extended data figs
+|     └─ figures/: source data for main figs
+|     └─ supplementary_figure/: source data for supplementary figs
 └─ extended_data/: directory code to reproduce extended data figs
 └─ figures/: directory code to reproduce main figs
 └─ supplementary_tables/: directory containing code to reproduce supplementary tables
