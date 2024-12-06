@@ -18,7 +18,7 @@ This GitHub repository contains the following folders:
 ```
 
 ## :white_check_mark: Citation
-
+Kathleen E. Houlahan*, Lise Mangiante*, Cristina Sotomayor-Vivas*, Alvina Adimoelja*, Seongyeol Park, Aziz Khan, Sophia J. Pribus, Zhicheng Ma, Jennifer Caswell-Jin & Christina Curtis. **Complex rearrangements fuel ER+ and HER2+ breast tumours**, *Nature* (2025); doi: [https://doi.org/10.1038/s41586-024-08377-x](https://doi.org/10.1038/s41586-024-08377-x)
 
 ## :envelope: Contact 
 For any questions, please contact Kathleen Houlahan <khoulaha@stanford.edu> or Lise Mangiante <lisem@stanford.edu> or Cristina Sotomayor-Vivas <csotomv@stanford.edu> or Alvina Adimoelja <alvinaa@stanford.edu>
